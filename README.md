@@ -1250,6 +1250,8 @@
 
 ## Others 
 
+- [gmlewis/irmf](https://github.com/gmlewis/irmf) - Infinite Resolution Materials Format (IRMF) Shaders
+- [PrintersForAnts/Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) - A Modular Voron V0.1 Style Toolhead
 - [rolohaun/Rook](https://github.com/rolohaun/Rook) - 
 - [sashalex007/speedDrive](https://github.com/sashalex007/speedDrive) - SpeedDrive Repo (moved from thingiverse)
 - [zulboy45/Ender3-to-CoreXY](https://github.com/zulboy45/Ender3-to-CoreXY) - Unfinished stl/project for ender 3 conversition to Corexy
@@ -1399,6 +1401,9 @@
 
 ## Python 
 
+- [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
+- [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [epit3d/spycer](https://github.com/epit3d/spycer) - Gcode viewer for slicer for 5 axes 3d printer
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
