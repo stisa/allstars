@@ -1673,6 +1673,12 @@
 
 ## others 
 
+- [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
+- [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
+- [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [gmlewis/irmf](https://github.com/gmlewis/irmf) - Infinite Resolution Materials Format (IRMF) Shaders
+- [PrintersForAnts/Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) - A Modular Voron V0.1 Style Toolhead
 - [LingDong-/t43](https://github.com/LingDong-/t43) - A tiny 3D slicer written from scratch
 - [aleutgeb/STEPToXSection](https://github.com/aleutgeb/STEPToXSection) - The program STEPToXSection is a command line utility to export the contour of a planar cross section of solids contained in STEP files. It supports surface offsetting of the input geometry and in-plan
 - [haesleinhuepf/BioImageAnalysisNotebooks](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks) - Python Jupyter notebooks for BioImageAnalysis, GPU-accelerated image processing, data science and more
@@ -1826,7 +1832,7 @@
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
 - [status-im/keycard-connect](https://github.com/status-im/keycard-connect) - Keycard + WalletConnect
 - [photonstorm/phaser-nano](https://github.com/photonstorm/phaser-nano) - Phaser Nano is a highly optimized game framework created for super low file size environments such as banner ads.
-- [Lakuna/Umbra](https://github.com/Lakuna/Umbra) - A lightweight visual application framework for WebGL.
+- [Lakuna/ugl](https://github.com/Lakuna/ugl) - A lightweight visual application framework for WebGL.
 - [fireship-io/nft-art-generator](https://github.com/fireship-io/nft-art-generator) - A simple randomized NFT art generator
 - [lexDAO/Ricardian](https://github.com/lexDAO/Ricardian) - 
 - [abisxir/alasgar](https://github.com/abisxir/alasgar) - 3D game engine for nim
