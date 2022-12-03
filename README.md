@@ -1027,6 +1027,7 @@
 
 ## Nim 
 
+- [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [planetis-m/naylib](https://github.com/planetis-m/naylib) - Yet another raylib Nim wrapper
 - [auxym/beamdirect](https://github.com/auxym/beamdirect) - 
 - [yglukhov/yasync](https://github.com/yglukhov/yasync) - 
@@ -1710,7 +1711,7 @@
 - [projectsophon/hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - This is where Phaser 4 is being developed
-- [Lakuna/Umbra](https://github.com/Lakuna/Umbra) - A lightweight visual application framework for WebGL.
+- [Lakuna/ugl](https://github.com/Lakuna/ugl) - A lightweight visual application framework for WebGL.
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [Developer-DAO/web3-ui](https://github.com/Developer-DAO/web3-ui) - A React UI library for Web3
 - [0xsequence/erc20-meta-token](https://github.com/0xsequence/erc20-meta-token) - General ERC20 to ERC1155 Token Wrapper Contract
