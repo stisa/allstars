@@ -524,6 +524,7 @@
 
 ## G-code 
 
+- [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [Photonsters/CBD-based-printers-list](https://github.com/Photonsters/CBD-based-printers-list) - Project page dedicated to other printers based on CBD tech Boards
 - [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET 6
 - [pixelpusher/liveprinter](https://github.com/pixelpusher/liveprinter) - Livecoding for 3D printers
