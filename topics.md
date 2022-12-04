@@ -150,6 +150,7 @@
 - [security](#security)
 - [server](#server)
 - [shell](#shell)
+- [solidity](#solidity)
 - [sql](#sql)
 - [statistics](#statistics)
 - [swift](#swift)
@@ -1673,6 +1674,7 @@
 
 ## others 
 
+- [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
 - [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
@@ -1802,9 +1804,7 @@
 - [status-im/nim-eth-contracts](https://github.com/status-im/nim-eth-contracts) - Ethereum smart contracts in Nim
 - [enricobottazzi/ZKverse](https://github.com/enricobottazzi/ZKverse) - Introduction to Zero Knowledge Proof
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
-- [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [gnosis/1155-to-20](https://github.com/gnosis/1155-to-20) - ERC 1155 to ERC 20 converter
-- [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [OpenZeppelin/openzeppelin-labs](https://github.com/OpenZeppelin/openzeppelin-labs) - A space for the community to interact and exchange ideas on the OpenZeppelin platform. Do not use in production!
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
@@ -2854,6 +2854,23 @@
 ## shell 
 
 - [icyphox/nicy](https://github.com/icyphox/nicy) - :snowflake: a nice and icy zsh and bash prompt in Nim
+
+## solidity 
+
+- [zeriontech/defi-sdk](https://github.com/zeriontech/defi-sdk) - DeFi SDK Makes Money Lego Work
+- [pcaversaccio/metatx](https://github.com/pcaversaccio/metatx) - A smart contract to enable ERC-20 token meta-transactions on Ethereum.
+- [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
+- [viaprotocol/web3-wallets](https://github.com/viaprotocol/web3-wallets) - Connect multiple web3 wallets to your dapp easily
+- [OxHainan/cloak-compiler](https://github.com/OxHainan/cloak-compiler) - cloak-compiler is an implementation of Cloak Language.
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
+- [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
+- [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
+- [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
+- [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
+- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
+- [iskdrews/awesome-solidity-gas-optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 
 ## sql 
 
