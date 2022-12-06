@@ -2781,6 +2781,7 @@
 
 ## robotics 
 
+- [compas-dev/compas_slicer](https://github.com/compas-dev/compas_slicer) - Slicing package for FDM 3D Printing with COMPAS.
 - [Scottapotamas/zaphod-bot](https://github.com/Scottapotamas/zaphod-bot) - A DIY high performance delta-bot for fun, and lightpainting...
 - [Apsu/Mir](https://github.com/Apsu/Mir) - Differential 3-Axis Parallel 3D Printer
 - [PymZoR/S-curve-Planner](https://github.com/PymZoR/S-curve-Planner) - C Library for planning n-th order S-curve motion profiles
