@@ -208,6 +208,7 @@
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Игровой движок
 
 ## ai 
 
@@ -356,6 +357,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
 - [lab10-coop/pwasm-erc777](https://github.com/lab10-coop/pwasm-erc777) - ERC777 Ethereum Token Standard implemented in Rust using pwasm
+- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 - [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
@@ -783,7 +785,6 @@
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [Areso/1255-burgomaster](https://github.com/Areso/1255-burgomaster) - :european_castle: Little town (travian) game w/ RPG mechanics. Playable. WIP
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
-- [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - Home of a voxel game engine and its tools (like a voxel editor)
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [susam/invaders](https://github.com/susam/invaders) - A 1980s-arcade-style game written using HTML5, Canvas, and Web Audio
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
@@ -809,7 +810,7 @@
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
-- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine
+- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Игровой движок
 
 ## game-development 
 
@@ -854,7 +855,7 @@
 - [rafaelvasco/nimrod-glfw](https://github.com/rafaelvasco/nimrod-glfw) - GLFW Bindings for the Nim Programming Language
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 - [luxeengine/alpha](https://github.com/luxeengine/alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
-- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine
+- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Игровой движок
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -898,7 +899,7 @@
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 - [luxeengine/alpha](https://github.com/luxeengine/alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
-- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine
+- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Игровой движок
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## games 
@@ -1062,6 +1063,7 @@
 
 ## http 
 
+- [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
@@ -1479,6 +1481,7 @@
 
 ## nim 
 
+- [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [planetis-m/naylib](https://github.com/planetis-m/naylib) - Yet another raylib Nim wrapper
 - [ringabout/neon](https://github.com/ringabout/neon) - A working-in-porgress compiler guide for the Nim language.
 - [pietroppeter/nimib](https://github.com/pietroppeter/nimib) - nimib 🐳 - nim 👑 driven ⛵ publishing ✍
@@ -1629,7 +1632,7 @@
 - [AngelLM/Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [ufosc/pylay](https://github.com/ufosc/pylay) - A small IRC server written in Python 3.
-- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine
+- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Игровой движок
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## opengl 
@@ -1674,8 +1677,10 @@
 
 ## others 
 
+- [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
+- [hooyah/sparkyFHD](https://github.com/hooyah/sparkyFHD) - some handy python scripts
+- [yaqwsx/DrLCD](https://github.com/yaqwsx/DrLCD) - Calibration of MSLA Resin Printers LCD For Even Backlight
 - [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
-- [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
 - [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
@@ -1962,7 +1967,7 @@
 - [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer with 3D printing in mind. Written in Typescript.
 - [fieldOfView/Cura-ArcWelderPlugin](https://github.com/fieldOfView/Cura-ArcWelderPlugin) - Cura plugin which wraps ArcWelderLib to convert multiple G0/G1 moves to G2/G3 arcs.
 - [s0up/SmootherWare](https://github.com/s0up/SmootherWare) - Test code for pressure advance on SmoothieWare
-- [Treysen-Zobell/PressureAdvanceGenerator](https://github.com/Treysen-Zobell/PressureAdvanceGenerator) - 
+- [Treysen-Zobell/pressure_advance_generator](https://github.com/Treysen-Zobell/pressure_advance_generator) - 
 - [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
 - [Zatsit/ZATSIT-KIT](https://github.com/Zatsit/ZATSIT-KIT) - All stuff regarding the Zatsit delta robot kit
 - [knutwurst/Marlin-2-0-x-Anycubic-Kossel-Linear-Plus](https://github.com/knutwurst/Marlin-2-0-x-Anycubic-Kossel-Linear-Plus) - Marlin 2.0.5.3 Version for Anycubic Kossel Linear Plus with LCD 12864 RepRap Full Graphic Smart Controller
@@ -2068,7 +2073,7 @@
 - [serge-rgb/TinyJPEG](https://github.com/serge-rgb/TinyJPEG) - Single header lib for JPEG encoding. Public domain. C99. stb style.
 - [bullno1/ugc](https://github.com/bullno1/ugc) - A single-header incremental garbage collector library
 - [treeform/flippy](https://github.com/treeform/flippy) - Flippy is a simple 2d image and drawing library.
-- [treeform/chroma](https://github.com/treeform/chroma) - Everything you want to do with colors, in nim.
+- [treeform/chroma](https://github.com/treeform/chroma) - Everything you want to do with colors, in Nim.
 - [HPAC/ReLAPACK](https://github.com/HPAC/ReLAPACK) - Recursive LAPACK Collection
 - [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler
 - [pragmagic/godot-nim-stub](https://github.com/pragmagic/godot-nim-stub) - Stub for Godot project with Nim support
@@ -2108,7 +2113,7 @@
 - [Danila89/kaggle_mercedes](https://github.com/Danila89/kaggle_mercedes) - The 11th place solution of Mercedes-Benz Greener Manufacturing competition on Kaggle
 - [JorgeDeLosSantos/nusa](https://github.com/JorgeDeLosSantos/nusa) - A Python library for structural analysis using the finite element method
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
-- [treeform/ws](https://github.com/treeform/ws) - Simple WebSocket library for nim.
+- [treeform/ws](https://github.com/treeform/ws) - Simple WebSocket library for Nim.
 - [witheve/eve-native](https://github.com/witheve/eve-native) - 
 - [kanaka/wam](https://github.com/kanaka/wam) - WebAssembly Macro language and processor
 - [MacroUniverse/MatPlot](https://github.com/MacroUniverse/MatPlot) - a Matlab-like plot library for Visual C++ in Windows
@@ -2850,6 +2855,7 @@
 
 ## server 
 
+- [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 
@@ -2981,6 +2987,7 @@
 
 ## web 
 
+- [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
