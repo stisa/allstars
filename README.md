@@ -101,6 +101,7 @@
 
 ## C 
 
+- [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
 - [LingDong-/t43](https://github.com/LingDong-/t43) - A tiny 3D slicer written from scratch
 - [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [EchoHeim/Allwinner-H616](https://github.com/EchoHeim/Allwinner-H616) - 🔥 Linux SDK for Allwinner H616, based on armbian-build
@@ -260,6 +261,7 @@
 
 ## C++ 
 
+- [yaqwsx/DrLCD](https://github.com/yaqwsx/DrLCD) - Calibration of MSLA Resin Printers LCD For Even Backlight
 - [aleutgeb/STEPToXSection](https://github.com/aleutgeb/STEPToXSection) - The program STEPToXSection is a command line utility to export the contour of a planar cross section of solids contained in STEP files. It supports surface offsetting of the input geometry and in-plan
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [janelia-arduino/TMC2209](https://github.com/janelia-arduino/TMC2209) - The TMC2209 is an ultra-silent motor driver IC for two phase stepper motors with both UART serial and step and direction interfaces.
@@ -349,7 +351,6 @@
 - [SagarGaniga/computer-graphics](https://github.com/SagarGaniga/computer-graphics) - Beginners Guide to Computer Graphics in C/C++, OpenGL, JavaFX
 - [trase-cpp/trase](https://github.com/trase-cpp/trase) - 📊 A lightweight plotting library
 - [MacroUniverse/MatPlot](https://github.com/MacroUniverse/MatPlot) - a Matlab-like plot library for Visual C++ in Windows
-- [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [neonious/lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [msokalski/delabella](https://github.com/msokalski/delabella) - 2D Delaunay triangulation (dela) - super stable (bella!)
@@ -433,7 +434,7 @@
 - [wjakob/nanogui](https://github.com/wjakob/nanogui) - Minimalistic GUI library for OpenGL
 - [mkeeter/antimony](https://github.com/mkeeter/antimony) - CAD from a parallel universe
 - [ChilliWorks/ChilliSource](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
-- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine
+- [urho3d/Urho3D](https://github.com/urho3d/Urho3D) - Игровой движок
 - [HeliumProject/Engine](https://github.com/HeliumProject/Engine) - C++ Game Engine (Under Construction!)
 - [Eoinocal/Halite](https://github.com/Eoinocal/Halite) - Halite (named after the mineral) is a C++ BitTorrent client based on the excellent libtorrent library developed by Arvid Norberg.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -1085,7 +1086,7 @@
 - [nimterop/nimterop](https://github.com/nimterop/nimterop) - Nimterop is a Nim package that aims to make C/C++ interop seamless
 - [sinkingsugar/fragments](https://github.com/sinkingsugar/fragments) - Collection of pure Nim utilities
 - [treeform/flippy](https://github.com/treeform/flippy) - Flippy is a simple 2d image and drawing library.
-- [treeform/chroma](https://github.com/treeform/chroma) - Everything you want to do with colors, in nim.
+- [treeform/chroma](https://github.com/treeform/chroma) - Everything you want to do with colors, in Nim.
 - [icyphox/nicy](https://github.com/icyphox/nicy) - :snowflake: a nice and icy zsh and bash prompt in Nim
 - [pragmagic/godot-nim-stub](https://github.com/pragmagic/godot-nim-stub) - Stub for Godot project with Nim support
 - [status-im/nim-stew](https://github.com/status-im/nim-stew) - stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.
@@ -1102,7 +1103,7 @@
 - [zah/nim-hcr-astronauts](https://github.com/zah/nim-hcr-astronauts) - A simple Nim hot code reloading demo prepared by Viktor Kirilov for ACCU 2019
 - [Vindaar/brokenRepl](https://github.com/Vindaar/brokenRepl) - 
 - [decanus/minima](https://github.com/decanus/minima) - MinimaDB: A persistent & embeddable KV store written in Nim.
-- [treeform/ws](https://github.com/treeform/ws) - Simple WebSocket library for nim.
+- [treeform/ws](https://github.com/treeform/ws) - Simple WebSocket library for Nim.
 - [enthus1ast/flatdb](https://github.com/enthus1ast/flatdb) - small/tiny, flatfile, jsonl based, inprogress database for nim
 - [itsumura-h/nim-basolato](https://github.com/itsumura-h/nim-basolato) - An asynchronous fullstack web framework for Nim.
 - [OpenSystemsLab/otp.nim](https://github.com/OpenSystemsLab/otp.nim) - One Time Passwords in Nim
@@ -1320,6 +1321,7 @@
 - [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - :sunrise: A collection of awesome resources for building progressive web apps
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
+- [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) - Repo for Immuni's documentation.
 - [open-dynamic-robot-initiative/open_robot_actuator_hardware](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware) - 
 - [nim-lang/RFCs](https://github.com/nim-lang/RFCs) - A repository for your Nim proposals.
@@ -1403,6 +1405,7 @@
 
 ## Python 
 
+- [hooyah/sparkyFHD](https://github.com/hooyah/sparkyFHD) - some handy python scripts
 - [compas-dev/compas_slicer](https://github.com/compas-dev/compas_slicer) - Slicing package for FDM 3D Printing with COMPAS.
 - [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
 - [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
@@ -1481,7 +1484,7 @@
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [wolfmanjm/kivy-smoothie-host](https://github.com/wolfmanjm/kivy-smoothie-host) - AKA Smoopi. A Smoothie host, running on rpi with touch screen, or on a Desktop
 - [fieldOfView/Cura-ArcWelderPlugin](https://github.com/fieldOfView/Cura-ArcWelderPlugin) - Cura plugin which wraps ArcWelderLib to convert multiple G0/G1 moves to G2/G3 arcs.
-- [Treysen-Zobell/PressureAdvanceGenerator](https://github.com/Treysen-Zobell/PressureAdvanceGenerator) - 
+- [Treysen-Zobell/pressure_advance_generator](https://github.com/Treysen-Zobell/pressure_advance_generator) - 
 - [JohanLink/Ball-Balancing-PID-System](https://github.com/JohanLink/Ball-Balancing-PID-System) - 
 - [brandonheller/delta_calibration](https://github.com/brandonheller/delta_calibration) - Scripts to better understand calibration error for auto-probed deltabot 3d printers like Johann's Kossel.
 - [dorna-robotics/dorna2-python](https://github.com/dorna-robotics/dorna2-python) - Python API for Dorna2 robot
