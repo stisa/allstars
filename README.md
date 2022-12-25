@@ -380,7 +380,7 @@
 - [siemens/embb](https://github.com/siemens/embb) - Embedded Multicore Building Blocks (EMB²): Library for parallel programming of embedded systems. Star us on GitHub? +1
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [phisko/kengine](https://github.com/phisko/kengine) - Entity-Component-System (ECS) with a focus on ease-of-use, runtime extensibility and compile-time type safety and clarity.
+- [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [Lugdunum3D/Lugdunum](https://github.com/Lugdunum3D/Lugdunum) - [UNMAINTAINED] A modern cross-platform 3D engine built with Vulkan, glTF 2.0 and modern C++14.
 - [chaoticbob/tinyrenderers](https://github.com/chaoticbob/tinyrenderers) - 
 - [cnr-isti-vclab/corto](https://github.com/cnr-isti-vclab/corto) - Mesh compression library, designed for rendering and speed.
@@ -663,6 +663,7 @@
 
 ## Java 
 
+- [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [akmaier/CONRAD](https://github.com/akmaier/CONRAD) - CONRAD Repository
 - [nick-parker/Bread](https://github.com/nick-parker/Bread) - An experimental slicer for FFF 3D Printers
@@ -689,6 +690,7 @@
 
 ## JavaScript 
 
+- [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
 - [tmpvar/gcode-raymarch-sim](https://github.com/tmpvar/gcode-raymarch-sim) - experimenting with a raymarching approach for gcode simulation
 - [Twinklebear/webgl-volume-raycaster](https://github.com/Twinklebear/webgl-volume-raycaster) - A WebGL Volume Raycaster
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
@@ -826,7 +828,7 @@
 - [mbebenita/LLJS](https://github.com/mbebenita/LLJS) - LLJS: Low-Level JavaScript
 - [unconed/mathbox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
-- [dntzhang/cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，兼容了小程序、小游戏和 Web
+- [dntzhang/cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [slate/slate](https://github.com/slate/slate) - Slate IRC client
@@ -1109,7 +1111,7 @@
 - [HugoGranstrom/symbolicnim](https://github.com/HugoGranstrom/symbolicnim) - A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-works/cps](https://github.com/nim-works/cps) - Continuation-Passing Style for Nim 🔗
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software (wip)
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
 - [zah/nim-hcr-astronauts](https://github.com/zah/nim-hcr-astronauts) - A simple Nim hot code reloading demo prepared by Viktor Kirilov for ACCU 2019
 - [Vindaar/brokenRepl](https://github.com/Vindaar/brokenRepl) - 
@@ -1429,7 +1431,7 @@
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
 - [CNCKitchen/ConicalSlicer](https://github.com/CNCKitchen/ConicalSlicer) - Python Scripts for Conical GCode Slicing
-- [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a compute
+- [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 🎞数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a comput
 - [Blakkis/GLSL_Python](https://github.com/Blakkis/GLSL_Python) - Small examples of OpenGL + Pygame
 - [JingShing-Python/ModernGL-Shader-with-pygame](https://github.com/JingShing-Python/ModernGL-Shader-with-pygame) - you can use this class to give pygame a shader to render screen. it is easy to use.
 - [AndyEveritt/DuetWebAPI](https://github.com/AndyEveritt/DuetWebAPI) - Python wrapper for the Reprapfirmware 3 Duet REST API on Duet 3 & 2
@@ -1703,6 +1705,7 @@
 
 ## TypeScript 
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
