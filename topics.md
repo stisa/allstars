@@ -499,7 +499,7 @@
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [phisko/kengine](https://github.com/phisko/kengine) - Entity-Component-System (ECS) with a focus on ease-of-use, runtime extensibility and compile-time type safety and clarity.
+- [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [xelatihy/yocto-gl](https://github.com/xelatihy/yocto-gl) - Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
 - [Leandros/WindowsHModular](https://github.com/Leandros/WindowsHModular) - A modular Windows.h Header. Licensed under Public Domain & MIT.
 - [Hanks10100/wasm-examples](https://github.com/Hanks10100/wasm-examples) - WebAssembly Examples
@@ -803,7 +803,7 @@
 - [solenum/exengine](https://github.com/solenum/exengine) - A C99 3D game engine
 - [zpl-c/librg](https://github.com/zpl-c/librg) - 🚀  Making multi-player gamedev simpler since 2017
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [phisko/kengine](https://github.com/phisko/kengine) - Entity-Component-System (ECS) with a focus on ease-of-use, runtime extensibility and compile-time type safety and clarity.
+- [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [fragworks/frag](https://github.com/fragworks/frag) - A cross-platform 2D|3D game framework for the Nim programming language
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
@@ -837,7 +837,7 @@
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [phisko/kengine](https://github.com/phisko/kengine) - Entity-Component-System (ECS) with a focus on ease-of-use, runtime extensibility and compile-time type safety and clarity.
+- [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [zacharycarter/zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
@@ -882,7 +882,7 @@
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
 - [tffdev/Leafgem](https://github.com/tffdev/Leafgem) - 🌿💎 The humble beginnings of a 2D game engine in Crystal! [in-progress]
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [phisko/kengine](https://github.com/phisko/kengine) - Entity-Component-System (ECS) with a focus on ease-of-use, runtime extensibility and compile-time type safety and clarity.
+- [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [zacharycarter/zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [Zal0/ZGB](https://github.com/Zal0/ZGB) - Game Boy / Color engine with lots of features
@@ -1320,7 +1320,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software (wip)
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -1435,7 +1435,7 @@
 ## matlab 
 
 - [fernandolucasaa/computerGeneratedHolography](https://github.com/fernandolucasaa/computerGeneratedHolography) - Computer-generated holography (CGH) is the method of digitally generating holographic interference patterns
-- [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a compute
+- [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 🎞数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a comput
 - [CERN/TIGRE](https://github.com/CERN/TIGRE) - TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox
 - [callumvidler/VolumetricPrinting](https://github.com/callumvidler/VolumetricPrinting) - Matlab code for volumetric printing project that I completed for my honors thesis.
 - [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) - MATLAB sample codes for mobile robot navigation
@@ -1524,7 +1524,7 @@
 - [HugoGranstrom/symbolicnim](https://github.com/HugoGranstrom/symbolicnim) - A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-works/cps](https://github.com/nim-works/cps) - Continuation-Passing Style for Nim 🔗
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software (wip)
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
 - [jiro4989/setup-nim-action](https://github.com/jiro4989/setup-nim-action) - Set up your GitHub Actions workflow with a specific version of Nim
 - [reviewdog/action-nimlint](https://github.com/reviewdog/action-nimlint) - Run nim check with reviewdog
@@ -1644,7 +1644,7 @@
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [edubart/sokol_gp](https://github.com/edubart/sokol_gp) - Minimal modern efficient cross platform 2D graphics painter in C
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software (wip)
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
 - [SagarGaniga/computer-graphics](https://github.com/SagarGaniga/computer-graphics) - Beginners Guide to Computer Graphics in C/C++, OpenGL, JavaFX
 - [trase-cpp/trase](https://github.com/trase-cpp/trase) - 📊 A lightweight plotting library
 - [kosua20/sr_graph](https://github.com/kosua20/sr_graph) - A simple, one-file, header-only, C++ utility for graphs, curves and histograms.
@@ -1678,6 +1678,8 @@
 
 ## others 
 
+- [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
+- [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
 - [nikitinvv/lprec](https://github.com/nikitinvv/lprec) - Log-polar based method for tomography reconstruciton
 - [JueHo/CT-Recon](https://github.com/JueHo/CT-Recon) - Tools for X-ray CT reconstruction
 - [PolymerGuy/AXITOM](https://github.com/PolymerGuy/AXITOM) - Axisymmetric recontruction of tomography data acquired by a conical beam
@@ -2584,6 +2586,7 @@
 
 ## package-manager 
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 
 ## parsing 
@@ -2719,7 +2722,7 @@
 ## python3 
 
 - [epit3d/spycer](https://github.com/epit3d/spycer) - Gcode viewer for slicer for 5 axes 3d printer
-- [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a compute
+- [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 🎞数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a comput
 - [ahendriksen/tomosipo](https://github.com/ahendriksen/tomosipo) - A library for painless 3D tomographic reconstruction
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient script for trading with python.
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -3010,7 +3013,7 @@
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [dntzhang/cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，兼容了小程序、小游戏和 Web
+- [dntzhang/cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 
 ## web-assembly 
