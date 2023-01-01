@@ -1320,7 +1320,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, still experimenting
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -1524,7 +1524,7 @@
 - [HugoGranstrom/symbolicnim](https://github.com/HugoGranstrom/symbolicnim) - A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-works/cps](https://github.com/nim-works/cps) - Continuation-Passing Style for Nim 🔗
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, still experimenting
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
 - [jiro4989/setup-nim-action](https://github.com/jiro4989/setup-nim-action) - Set up your GitHub Actions workflow with a specific version of Nim
 - [reviewdog/action-nimlint](https://github.com/reviewdog/action-nimlint) - Run nim check with reviewdog
@@ -1644,7 +1644,7 @@
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [edubart/sokol_gp](https://github.com/edubart/sokol_gp) - Minimal modern efficient cross platform 2D graphics painter in C
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, still experimenting
 - [SagarGaniga/computer-graphics](https://github.com/SagarGaniga/computer-graphics) - Beginners Guide to Computer Graphics in C/C++, OpenGL, JavaFX
 - [trase-cpp/trase](https://github.com/trase-cpp/trase) - 📊 A lightweight plotting library
 - [kosua20/sr_graph](https://github.com/kosua20/sr_graph) - A simple, one-file, header-only, C++ utility for graphs, curves and histograms.
@@ -1678,6 +1678,7 @@
 
 ## others 
 
+- [ufo-kit/syris](https://github.com/ufo-kit/syris) - X-ray imaging simulation
 - [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
 - [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
 - [nikitinvv/lprec](https://github.com/nikitinvv/lprec) - Log-polar based method for tomography reconstruciton
@@ -2560,7 +2561,7 @@
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
 - [jcoglan/berliner](https://github.com/jcoglan/berliner) - Sinatra refactored, only eight lines now. More popular than a pair of socks.
 - [Xeoncross/forumfive](https://github.com/Xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
-- [oslampa/seagull](https://github.com/oslampa/seagull) - Simple GUI library for Elixir language based on wxErlang
+- [OndraFTW/seagull](https://github.com/OndraFTW/seagull) - Simple GUI library for Elixir language based on wxErlang
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [cmusphinx/sphinxbase](https://github.com/cmusphinx/sphinxbase) - 
 - [fbrinker/android-flatUiColors](https://github.com/fbrinker/android-flatUiColors) - Android Colors for Flat UI Design
@@ -2607,7 +2608,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [multiOTP/multiotp](https://github.com/multiOTP/multiotp) - multiOTP open source strong two factor authentication PHP library, OATH certified, with TOTP, HOTP, Mobile-OTP, YubiKey, SMS, QRcode provisioning, etc.
-- [robiso/wondercms](https://github.com/robiso/wondercms) - WonderCMS - fast and small flat file CMS (5 files). Built with PHP, JSON structure.
+- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
@@ -2969,6 +2970,7 @@
 - [01alchemist/TurboScript](https://github.com/01alchemist/TurboScript) - Super charged typed JavaScript dialect for parallel programming which compiles to WebAssembly
 - [rsms/wasm-util](https://github.com/rsms/wasm-util) - WebAssembly utilities
 - [mt40/vscode-todo-parser](https://github.com/mt40/vscode-todo-parser) - TodoParser extension for vscode. Parse TODOs in your project.
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## unity 
