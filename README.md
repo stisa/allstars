@@ -512,7 +512,7 @@
 
 ## Elixir 
 
-- [oslampa/seagull](https://github.com/oslampa/seagull) - Simple GUI library for Elixir language based on wxErlang
+- [OndraFTW/seagull](https://github.com/OndraFTW/seagull) - Simple GUI library for Elixir language based on wxErlang
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 ## Elm 
@@ -1111,7 +1111,7 @@
 - [HugoGranstrom/symbolicnim](https://github.com/HugoGranstrom/symbolicnim) - A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-works/cps](https://github.com/nim-works/cps) - Continuation-Passing Style for Nim 🔗
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, this project is not dead
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, still experimenting
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
 - [zah/nim-hcr-astronauts](https://github.com/zah/nim-hcr-astronauts) - A simple Nim hot code reloading demo prepared by Viktor Kirilov for ACCU 2019
 - [Vindaar/brokenRepl](https://github.com/Vindaar/brokenRepl) - 
@@ -1383,7 +1383,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [meyerweb/px2svg](https://github.com/meyerweb/px2svg) - Converts raster images to SVG, using color-run optimization.
 - [multiOTP/multiotp](https://github.com/multiOTP/multiotp) - multiOTP open source strong two factor authentication PHP library, OATH certified, with TOTP, HOTP, Mobile-OTP, YubiKey, SMS, QRcode provisioning, etc.
-- [robiso/wondercms](https://github.com/robiso/wondercms) - WonderCMS - fast and small flat file CMS (5 files). Built with PHP, JSON structure.
+- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
@@ -1417,6 +1417,7 @@
 
 ## Python 
 
+- [ufo-kit/syris](https://github.com/ufo-kit/syris) - X-ray imaging simulation
 - [nikitinvv/lprec](https://github.com/nikitinvv/lprec) - Log-polar based method for tomography reconstruciton
 - [PolymerGuy/AXITOM](https://github.com/PolymerGuy/AXITOM) - Axisymmetric recontruction of tomography data acquired by a conical beam
 - [dev-aditya/X-ray-Cone-Beam-Computed-Tomography](https://github.com/dev-aditya/X-ray-Cone-Beam-Computed-Tomography) - X-ray Cone Beam Computed Tomography: Simulation
@@ -1631,7 +1632,6 @@
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [witheve/eve-native](https://github.com/witheve/eve-native) - 
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
-- [danleh/wasabi](https://github.com/danleh/wasabi) - A dynamic analysis framework for WebAssembly programs.
 - [rustwasm/wee_alloc](https://github.com/rustwasm/wee_alloc) - The Wasm-Enabled, Elfin Allocator
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
@@ -1807,6 +1807,7 @@
 
 ## WebAssembly 
 
+- [danleh/wasabi](https://github.com/danleh/wasabi) - A dynamic analysis framework for WebAssembly programs.
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [Hanks10100/wasm-examples](https://github.com/Hanks10100/wasm-examples) - WebAssembly Examples
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
