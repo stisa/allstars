@@ -243,7 +243,7 @@
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [zunjae/AnYme](https://github.com/zunjae/AnYme) - Unofficial Android Anime App for MyAnimeList
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [fragworks/frag](https://github.com/fragworks/frag) - A cross-platform 2D|3D game framework for the Nim programming language
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
@@ -361,7 +361,7 @@
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 
 ## bot 
 
@@ -437,7 +437,7 @@
 
 ## clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [tmcw/wah](https://github.com/tmcw/wah) - a slightly higher-level language superset of webassembly
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
@@ -732,7 +732,7 @@
 - [maticnetwork/matic.js](https://github.com/maticnetwork/matic.js) - Javascript developer library to interact with Matic Network
 - [yieldfarming/yieldfarming](https://github.com/yieldfarming/yieldfarming) - 🧑‍🌾 It ain't much, but it's an honest work
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [ewasm/hera](https://github.com/ewasm/hera) - Hera: Ewasm virtual machine conforming to the EVMC API
 
 ## finance 
@@ -913,7 +913,7 @@
 
 ## git 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [nim-works/gitnim](https://github.com/nim-works/gitnim) - choosenim for choosey nimions
 - [disruptek/bump](https://github.com/disruptek/bump) - a tiny tool to bump nimble versions 🍻
 
@@ -1001,9 +1001,8 @@
 - [PMunch/nim-playground](https://github.com/PMunch/nim-playground) - An interactive playground for the Nim programming language
 - [PMunch/nim-playground-frontend](https://github.com/PMunch/nim-playground-frontend) - The front-end for https://play.nim-lang.org
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [SciNim/numericalnim](https://github.com/SciNim/numericalnim) - A collection of numerical methods written in Nim
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [PMunch/nimlsp](https://github.com/PMunch/nimlsp) - Language Server Protocol implementation for Nim
 - [GiovineItalia/Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
@@ -1077,7 +1076,7 @@
 
 ## ios 
 
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [brackeen/glfm](https://github.com/brackeen/glfm) - OpenGL ES and input for iOS, tvOS, Android, and WebGL
 - [ChilliWorks/ChilliSource](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
@@ -1401,7 +1400,7 @@
 ## markdown 
 
 - [pietroppeter/nimib](https://github.com/pietroppeter/nimib) - nimib 🐳 - nim 👑 driven ⛵ publishing ✍
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [Mandarancio/charter](https://github.com/Mandarancio/charter) - DSL and C Library to generate SVG Plot
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [michaelrsweet/mmd](https://github.com/michaelrsweet/mmd) - Miniature markdown library
@@ -1446,13 +1445,13 @@
 
 ## minecraft 
 
-- [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - Home of a voxel game engine and its tools (like a voxel editor)
+- [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - voxel art tools - editor, thumbnailer and format converter
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 
 ## mobile 
 
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 
 ## music 
 
@@ -1547,7 +1546,7 @@
 - [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
 - [fox0430/moe](https://github.com/fox0430/moe) - A command line based editor inspired by Vim. Written in Nim.
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [markprocess/ultibo-nim](https://github.com/markprocess/ultibo-nim) - Ultibo and Nim
 - [ThomasTJdev/nim_homeassistant](https://github.com/ThomasTJdev/nim_homeassistant) - Nim Home Assistant (NimHA) is a hub for combining multiple home automation devices and automating jobs.
 - [SciNim/nim-plotly](https://github.com/SciNim/nim-plotly) - plotly wrapper for nim-lang
@@ -1678,6 +1677,10 @@
 
 ## others 
 
+- [skuep/V0-DBM](https://github.com/skuep/V0-DBM) - High-Resolution Differential Z-Belt Mod for V0 (with optional Kirigami support)
+- [CAP1Sup/Intellistep](https://github.com/CAP1Sup/Intellistep) - A rework of the terribly coded firmware from the BTT S42B v2 boards
+- [Heinz-Loepmeier/nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss) - 
+- [jackw01/smallXY](https://github.com/jackw01/smallXY) - Experimental CoreXY 3D printer
 - [ufo-kit/syris](https://github.com/ufo-kit/syris) - X-ray imaging simulation
 - [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
 - [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
@@ -2649,6 +2652,7 @@
 
 ## python 
 
+- [brandondube/prysm](https://github.com/brandondube/prysm) - physical optics: integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing...
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [fernandolucasaa/computerGeneratedHolography](https://github.com/fernandolucasaa/computerGeneratedHolography) - Computer-generated holography (CGH) is the method of digitally generating holographic interference patterns
 - [CERN/TIGRE](https://github.com/CERN/TIGRE) - TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox
@@ -2762,7 +2766,7 @@
 - [johang/sd-card-images](https://github.com/johang/sd-card-images) - Scripts to build bootable SD card images with Debian for various single-board computers
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
 - [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
-- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices
+- [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [ThomasTJdev/nim_homeassistant](https://github.com/ThomasTJdev/nim_homeassistant) - Nim Home Assistant (NimHA) is a hub for combining multiple home automation devices and automating jobs.
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
