@@ -507,6 +507,7 @@
 - [bl4ckb0ne/delaunay-triangulation](https://github.com/bl4ckb0ne/delaunay-triangulation) - C++ version the delaunay triangulation
 - [mortennobel/RenderE](https://github.com/mortennobel/RenderE) - Simple render engine for OpenGL
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
+- [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
 
 ## cryptocurrency 
 
@@ -536,7 +537,7 @@
 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - MDL2 + Sun Valley Theme for Firefox
+- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [BafS/mu](https://github.com/BafS/mu) - The μ css framework — a 1 ko css file.
@@ -746,7 +747,7 @@
 ## firefox 
 
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - MDL2 + Sun Valley Theme for Firefox
+- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [floblik/YouScrobbler](https://github.com/floblik/YouScrobbler) - Scrobbling from YouTube to Last.FM - Userscript for Firefox and Chrome
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
@@ -1049,7 +1050,7 @@
 
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
-- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - Create & simulate 2D geometric optical scenes interactively.
+- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - Create & simulate 2D geometric optical scenes interactively (formerly hosted on ricktu288.github.io; now on phydemo.app)
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [Cloud9c/taro](https://github.com/Cloud9c/taro) - A lightweight 3D game engine for the web.
@@ -1677,6 +1678,9 @@
 
 ## others 
 
+- [makerbase-mks/MKS-THR36-THR42-UTC](https://github.com/makerbase-mks/MKS-THR36-THR42-UTC) - 
+- [ma0ho/Deep-Learning-Cone-Beam-CT](https://github.com/ma0ho/Deep-Learning-Cone-Beam-CT) - 
+- [kulvait/KCT_cbct](https://github.com/kulvait/KCT_cbct) - Fast, accurate and reliable software for algebraic CT reconstruction
 - [skuep/V0-DBM](https://github.com/skuep/V0-DBM) - High-Resolution Differential Z-Belt Mod for V0 (with optional Kirigami support)
 - [CAP1Sup/Intellistep](https://github.com/CAP1Sup/Intellistep) - A rework of the terribly coded firmware from the BTT S42B v2 boards
 - [Heinz-Loepmeier/nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss) - 
@@ -2590,7 +2594,7 @@
 
 ## package-manager 
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 
 ## parsing 
