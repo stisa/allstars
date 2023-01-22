@@ -601,6 +601,7 @@
 
 - [DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction](https://github.com/DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction) - Gyrfalcon is a stand-alone Matlab application that is capable of simulating a variety of CT scan types (pencil beam, fan beam, cone beam), importing raw scan data, and reconstructing the data produced
 - [rolohaun/Rook](https://github.com/rolohaun/Rook) - 
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [ries-lab/LaserEngine](https://github.com/ries-lab/LaserEngine) - Blueprints for a low-cost laser combiner compatible with wide-field and localization microscopy.
 - [lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel) - Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.
 - [Photonsters/anycubic-photon-docs](https://github.com/Photonsters/anycubic-photon-docs) - This repo  aims to collect curate and compile information on anycubic photon hardware software and use
@@ -1292,7 +1293,7 @@
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
 - [mudgen/diamond](https://github.com/mudgen/diamond) - Information about three diamond reference implementations.
 - [CryptoverseCC/cryptoauth.io](https://github.com/CryptoverseCC/cryptoauth.io) - Cryptoauth.io (a.k.a. Cryptoverse Login) website
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [Quenta-3D/pulseless_peristaltic_colloid_extruder](https://github.com/Quenta-3D/pulseless_peristaltic_colloid_extruder) - pulseless peristaltic colloid extruder for 3D printer
 - [AxMod3DPrint/Drakon-Extruder](https://github.com/AxMod3DPrint/Drakon-Extruder) - 3D Printable 3:1 Geared Extruder
 - [PrintersForAnts/Micron](https://github.com/PrintersForAnts/Micron) - 
@@ -1421,6 +1422,9 @@
 
 ## Python 
 
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
+- [fidelcanor/OpticsNN](https://github.com/fidelcanor/OpticsNN) - Neural Networks for Optical Inverse Design
+- [chbergmann/OpticsWorkbench](https://github.com/chbergmann/OpticsWorkbench) - 
 - [ma0ho/Deep-Learning-Cone-Beam-CT](https://github.com/ma0ho/Deep-Learning-Cone-Beam-CT) - 
 - [skuep/V0-DBM](https://github.com/skuep/V0-DBM) - High-Resolution Differential Z-Belt Mod for V0 (with optional Kirigami support)
 - [brandondube/prysm](https://github.com/brandondube/prysm) - physical optics: integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing...
@@ -1447,7 +1451,6 @@
 - [wavefrontshaping/slmPy](https://github.com/wavefrontshaping/slmPy) - A simple Python module based on wxPython to interact with spatial light modulators handled as secondary monitors.
 - [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [adafruit/Adafruit_Blinka](https://github.com/adafruit/Adafruit_Blinka) - Add CircuitPython hardware API and libraries to MicroPython & CPython devices
 - [xopto/pyxopto](https://github.com/xopto/pyxopto) - PyXOpto is a collection of python tools for performing Monte Carlo simulations of light propagation in turbid media.
 - [DCC-Lab/PyTissueOptics](https://github.com/DCC-Lab/PyTissueOptics) - A very simple, fairly slow but very easy to understand and very easy to use Monte Carlo code for Tissue optics simulations.
@@ -1633,7 +1636,7 @@
 - [kofigumbs/typebeat](https://github.com/kofigumbs/typebeat) - Keyboard-controlled music sequencer, sampler, and synth
 - [hannobraun/Fornjot](https://github.com/hannobraun/Fornjot) - Early-stage, next-generation, code-first CAD application. Because the world needs another CAD program.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [gregyjames/Panther](https://github.com/gregyjames/Panther) - A high performance python technical analysis library written in Rust and the Numpy C API.
+- [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
 - [braun-embedded/stepper](https://github.com/braun-embedded/stepper) - Universal Stepper Motor Interface
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
@@ -1713,7 +1716,7 @@
 
 ## TypeScript 
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
