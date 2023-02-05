@@ -283,7 +283,7 @@
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
-- [cookiengineer/lycheejs](https://github.com/cookiengineer/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
+- [ARC-MARKET/lycheejs](https://github.com/ARC-MARKET/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
 - [Calamari/BehaviorTree.js](https://github.com/Calamari/BehaviorTree.js) - An JavaScript implementation of Behavior Trees.
 
 ## automation 
@@ -489,6 +489,7 @@
 
 ## cpp 
 
+- [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - lunasvg is a standalone SVG rendering library in C++
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [sinkingsugar/fragments](https://github.com/sinkingsugar/fragments) - Collection of pure Nim utilities
@@ -602,6 +603,7 @@
 
 ## deep-learning 
 
+- [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
@@ -664,7 +666,7 @@
 
 ## documentation 
 
-- [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all tauri project documentation.
+- [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) - Repo for Immuni's documentation.
 - [nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs) - An easy and convenient package to create technical LaTeX documents.
 
@@ -994,7 +996,7 @@
 - [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) - An implementation of chunked, compressed, N-dimensional arrays for Python.
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all tauri project documentation.
+- [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
@@ -1051,7 +1053,7 @@
 
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
-- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - Create & simulate 2D geometric optical scenes interactively (formerly hosted on ricktu288.github.io; now on phydemo.app)
+- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [Cloud9c/taro](https://github.com/Cloud9c/taro) - A lightweight 3D game engine for the web.
@@ -1162,7 +1164,7 @@
 - [01alchemist/TurboScript](https://github.com/01alchemist/TurboScript) - Super charged typed JavaScript dialect for parallel programming which compiles to WebAssembly
 - [miguelmota/sobel](https://github.com/miguelmota/sobel) - Sobel Filter algorithm in JavaScript.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [cookiengineer/lycheejs](https://github.com/cookiengineer/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
+- [ARC-MARKET/lycheejs](https://github.com/ARC-MARKET/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
 - [kazzkiq/CodeFlask](https://github.com/kazzkiq/CodeFlask) - A micro code-editor for awesome web pages.
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
@@ -1352,6 +1354,7 @@
 
 ## machine-learning 
 
+- [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
 - [magis-slac/gradoptics](https://github.com/magis-slac/gradoptics) - 
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
@@ -1385,7 +1388,7 @@
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ http://ocaml.xyz
 - [miguelmota/sobel](https://github.com/miguelmota/sobel) - Sobel Filter algorithm in JavaScript.
-- [cookiengineer/lycheejs](https://github.com/cookiengineer/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
+- [ARC-MARKET/lycheejs](https://github.com/ARC-MARKET/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [100/Cranium](https://github.com/100/Cranium) - 🤖   A portable, header-only, artificial neural network library written in C99
@@ -1681,6 +1684,9 @@
 
 ## others 
 
+- [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
+- [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
+- [GoogleBot42/Tracer](https://github.com/GoogleBot42/Tracer) - A portable GPU/CPU Path Tracer library powered by SYCL. (OpenCL/CUDA/OpenMP)
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [fidelcanor/OpticsNN](https://github.com/fidelcanor/OpticsNN) - Neural Networks for Optical Inverse Design
 - [chbergmann/OpticsWorkbench](https://github.com/chbergmann/OpticsWorkbench) - 
@@ -1861,7 +1867,7 @@
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
 - [makrohn/Universal-LPC-spritesheet](https://github.com/makrohn/Universal-LPC-spritesheet) - An attempt to merge most character assets generated by the Liberated Pixel Cup into a single .xcf, where they can be mixed and matched.
 - [lo-th/uil](https://github.com/lo-th/uil) - simple javascript ui
-- [a16z/zkp-merkle-airdrop-contracts](https://github.com/a16z/zkp-merkle-airdrop-contracts) - 
+- [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
 - [projectsophon/hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 - [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
@@ -2151,7 +2157,7 @@
 - [propjockey/css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [cotoami/cotoami](https://github.com/cotoami/cotoami) - Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [OpenSystemsLab/otp.nim](https://github.com/OpenSystemsLab/otp.nim) - One Time Passwords in Nim
 - [livelivecoding/flutter-weather-app](https://github.com/livelivecoding/flutter-weather-app) - 
 - [enginBozkurt/SelfDrivingCarsControlDesign](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign) - Self Driving Cars Longitudinal and Lateral Control Design
@@ -2662,6 +2668,9 @@
 
 ## python 
 
+- [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
+- [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
+- [kbredies/gratopy](https://github.com/kbredies/gratopy) - Gratopy - Graz accelerated tomographic projections for Python
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
 - [brandondube/prysm](https://github.com/brandondube/prysm) - physical optics: integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing...
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
