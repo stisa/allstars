@@ -153,6 +153,7 @@
 - [solidity](#solidity)
 - [sql](#sql)
 - [statistics](#statistics)
+- [svelte](#svelte)
 - [swift](#swift)
 - [symfony](#symfony)
 - [telegram](#telegram)
@@ -275,6 +276,7 @@
 
 ## artificial-intelligence 
 
+- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
@@ -1684,6 +1686,7 @@
 
 ## others 
 
+- [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [GoogleBot42/Tracer](https://github.com/GoogleBot42/Tracer) - A portable GPU/CPU Path Tracer library powered by SYCL. (OpenCL/CUDA/OpenMP)
@@ -2269,7 +2272,7 @@
 - [sony/nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
 - [mini3d/mini3d](https://github.com/mini3d/mini3d) - Minimalistic, cross platform, open source 3d game engine framework
 - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
-- [javascriptual/mosaic.js](https://github.com/javascriptual/mosaic.js) - Mosaic JavaScript Gamedev Library
+- [mutantdustbunny/mosaic.js](https://github.com/mutantdustbunny/mosaic.js) - Mosaic JavaScript Gamedev Library
 - [cnr-isti-vclab/corto](https://github.com/cnr-isti-vclab/corto) - Mesh compression library, designed for rendering and speed.
 - [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [jangko/nimAGG](https://github.com/jangko/nimAGG) - nimAGG is a Nim port of Anti Grain Geometry(AGG)
@@ -2668,6 +2671,7 @@
 
 ## python 
 
+- [PyAbel/PyAbel](https://github.com/PyAbel/PyAbel) - A python package for Abel and inverse Abel transforms
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [kbredies/gratopy](https://github.com/kbredies/gratopy) - Gratopy - Graz accelerated tomographic projections for Python
@@ -2757,6 +2761,7 @@
 
 ## pytorch 
 
+- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
 - [magis-slac/gradoptics](https://github.com/magis-slac/gradoptics) - 
 - [matteo-ronchetti/torch-radon](https://github.com/matteo-ronchetti/torch-radon) - Computational Tomography in PyTorch
@@ -2857,6 +2862,7 @@
 
 ## rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 - [hannobraun/Fornjot](https://github.com/hannobraun/Fornjot) - Early-stage, next-generation, code-first CAD application. Because the world needs another CAD program.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -2931,6 +2937,10 @@
 ## statistics 
 
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ http://ocaml.xyz
+
+## svelte 
+
+- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 
 ## swift 
 
