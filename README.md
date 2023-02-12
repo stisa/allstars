@@ -241,6 +241,7 @@
 
 - [EmmetOT/IsoMesh](https://github.com/EmmetOT/IsoMesh) - IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via su
 - [3DCP-TUe/SaladSlicer](https://github.com/3DCP-TUe/SaladSlicer) - Slicer for 3DCP
+- [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET 6
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [WalletConnect/WalletConnectSharp](https://github.com/WalletConnect/WalletConnectSharp) - A c# implementation of the WalletConnect client
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
@@ -262,6 +263,8 @@
 
 ## C++ 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
+- [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [GoogleBot42/Tracer](https://github.com/GoogleBot42/Tracer) - A portable GPU/CPU Path Tracer library powered by SYCL. (OpenCL/CUDA/OpenMP)
@@ -539,7 +542,6 @@
 
 - [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [Photonsters/CBD-based-printers-list](https://github.com/Photonsters/CBD-based-printers-list) - Project page dedicated to other printers based on CBD tech Boards
-- [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET 6
 - [pixelpusher/liveprinter](https://github.com/pixelpusher/liveprinter) - Livecoding for 3D printers
 - [seemecnc/Orion_Delta](https://github.com/seemecnc/Orion_Delta) - SeeMeCNC Orion Delta 3D Printer
 - [Carbonoid/D1](https://github.com/Carbonoid/D1) - Repository for Carbonoid D1 Delta Printer
@@ -817,7 +819,7 @@
 - [plepers/nanogl](https://github.com/plepers/nanogl) - webgl micro framework
 - [xeolabs/scenejs](https://github.com/xeolabs/scenejs) - An extensible WebGL-based 3D engine. This is an archived project.
 - [substance/texture](https://github.com/substance/texture) - A visual editor for research.
-- [javascriptual/mosaic.js](https://github.com/javascriptual/mosaic.js) - Mosaic JavaScript Gamedev Library
+- [mutantdustbunny/mosaic.js](https://github.com/mutantdustbunny/mosaic.js) - Mosaic JavaScript Gamedev Library
 - [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [mikolalysenko/game-shell](https://github.com/mikolalysenko/game-shell) - Ready to go JavaScript shell for games or other interactive demos
 - [stackgl/gl-shader](https://github.com/stackgl/gl-shader) - 🎁 WebGL shader wrapper
@@ -1428,6 +1430,8 @@
 
 ## Python 
 
+- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
+- [PyAbel/PyAbel](https://github.com/PyAbel/PyAbel) - A python package for Abel and inverse Abel transforms
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [kbredies/gratopy](https://github.com/kbredies/gratopy) - Gratopy - Graz accelerated tomographic projections for Python
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
