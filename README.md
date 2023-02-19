@@ -133,7 +133,7 @@
 - [bdring/6-Pack_CNC_Controller](https://github.com/bdring/6-Pack_CNC_Controller) - 
 - [koppi/rm501](https://github.com/koppi/rm501) - Mitsubishi RM-501 Movemaster II Robot Simulator.
 - [HaddingtonDynamics/Dexter](https://github.com/HaddingtonDynamics/Dexter) - 
-- [edubart/minicoro](https://github.com/edubart/minicoro) - Single header asymmetric stackful cross-platform coroutine library in pure C.
+- [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
 - [gloomyandy/RepRapFirmware](https://github.com/gloomyandy/RepRapFirmware) - OO C++ RepRap Firmware
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [makerbase-mks/MKS-SBASE](https://github.com/makerbase-mks/MKS-SBASE) - MKS SBASE is a powerful 32-bit 3D printer control board with LPC1768. Support Marlin2.0, Smoothieware. Support MKS LCD12864 and MKS TFT Touch Screens（SBASE V1.4 support MKS LCD12864A/MINI12864/LCD2004
@@ -263,6 +263,8 @@
 
 ## C++ 
 
+- [pmneila/PyMCubes](https://github.com/pmneila/PyMCubes) - Marching cubes (and related tools) for Python
+- [jrprice/Oclgrind](https://github.com/jrprice/Oclgrind) - An OpenCL device simulator and debugger
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
@@ -396,7 +398,7 @@
 - [xelatihy/yocto-gl](https://github.com/xelatihy/yocto-gl) - Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
 - [BasFaggingerAuer/tiny-game-engine](https://github.com/BasFaggingerAuer/tiny-game-engine) - A small OpenGL game engine.
 - [Zal0/ZGB](https://github.com/Zal0/ZGB) - Game Boy / Color engine with lots of features
-- [sivaramambikasaran/HODLR](https://github.com/sivaramambikasaran/HODLR) - A fast, accurate direct solver and determinant computation for dense linear systems
+- [SAFRAN-LAB/HODLR](https://github.com/SAFRAN-LAB/HODLR) - A fast, accurate direct solver and determinant computation for dense linear systems
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 - [gfwilliams/tiny-js](https://github.com/gfwilliams/tiny-js) - Automatically exported from code.google.com/p/tiny-js
 - [StanfordPL/x64asm](https://github.com/StanfordPL/x64asm) - x86-64 assembler library
@@ -687,7 +689,6 @@
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for Marginally Clever robots.
-- [ARC-MARKET/lycheejs](https://github.com/ARC-MARKET/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
 - [antlr/codebuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning (uh, like, is this possible? YES, apparently).
 - [yglukhov/nim-sdl-template](https://github.com/yglukhov/nim-sdl-template) - Cross-platform SDL/Nim skeleton
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
@@ -923,7 +924,7 @@
 - [HookyQR/VSCodeMinify](https://github.com/HookyQR/VSCodeMinify) - Add minify function to VSCode 0.10+
 - [mdn/webgl-examples](https://github.com/mdn/webgl-examples) - Code examples that accompany the MDN WebGL documentation
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [cjgammon/Oxygen](https://github.com/cjgammon/Oxygen) - SUPER Lightweight 2D WebGL Display List
 - [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [pixelpicosean/lesser-panda](https://github.com/pixelpicosean/lesser-panda) - [Deprecated] Module based HTML5 game engine
@@ -1430,6 +1431,7 @@
 
 ## Python 
 
+- [maweigert/gputools](https://github.com/maweigert/gputools) - GPU accelerated image/volume processing in Python
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [PyAbel/PyAbel](https://github.com/PyAbel/PyAbel) - A python package for Abel and inverse Abel transforms
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
@@ -1522,7 +1524,7 @@
 - [OctoPrint/OctoPrint-FirmwareUpdater](https://github.com/OctoPrint/OctoPrint-FirmwareUpdater) - OctoPrint plugin for flashing pre-compiled firmware images to a 3D printer.
 - [SebastianEggert/OpenWorkstation](https://github.com/SebastianEggert/OpenWorkstation) - An open source and modular workstation concept for life science automation
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
-- [wolfmanjm/kivy-smoothie-host](https://github.com/wolfmanjm/kivy-smoothie-host) - AKA Smoopi. A Smoothie host, running on rpi with touch screen, or on a Desktop
+- [wolfmanjm/kivy-smoothie-host](https://github.com/wolfmanjm/kivy-smoothie-host) - AKA Smoopi. A Smoothie host, running on rpi with touch screen, or on a Desktop. Supporting CNC operations and 3D printing.
 - [fieldOfView/Cura-ArcWelderPlugin](https://github.com/fieldOfView/Cura-ArcWelderPlugin) - Cura plugin which wraps ArcWelderLib to convert multiple G0/G1 moves to G2/G3 arcs.
 - [Treysen-Zobell/pressure_advance_generator](https://github.com/Treysen-Zobell/pressure_advance_generator) - 
 - [JohanLink/Ball-Balancing-PID-System](https://github.com/JohanLink/Ball-Balancing-PID-System) - 
