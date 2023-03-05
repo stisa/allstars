@@ -100,6 +100,7 @@
 - [linux](#linux)
 - [localization](#localization)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -188,7 +189,6 @@
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [polygonjs/polygonjs](https://github.com/polygonjs/polygonjs) - node-based WebGL design tool
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
-- [pschroen/alien.js](https://github.com/pschroen/alien.js) - 👽 Future web pattern
 - [Cloud9c/taro](https://github.com/Cloud9c/taro) - A lightweight 3D game engine for the web.
 - [nextgtrgod/threejs-floating-island](https://github.com/nextgtrgod/threejs-floating-island) - three.js low-poly floating island
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
@@ -285,7 +285,6 @@
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
-- [ARC-MARKET/lycheejs](https://github.com/ARC-MARKET/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
 - [Calamari/BehaviorTree.js](https://github.com/Calamari/BehaviorTree.js) - An JavaScript implementation of Behavior Trees.
 
 ## automation 
@@ -381,7 +380,7 @@
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [edubart/sokol_gp](https://github.com/edubart/sokol_gp) - Minimal modern efficient cross platform 2D graphics painter in C
 - [PymZoR/S-curve-Planner](https://github.com/PymZoR/S-curve-Planner) - C Library for planning n-th order S-curve motion profiles
-- [edubart/minicoro](https://github.com/edubart/minicoro) - Single header asymmetric stackful cross-platform coroutine library in pure C.
+- [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
 - [cimplec/sim-c](https://github.com/cimplec/sim-c) - A dynamically typed high-level front end for C
 - [wangyi-fudan/wyhash](https://github.com/wangyi-fudan/wyhash) - The FASTEST QUALITY hash function, random number generators (PRNG) and hash map.
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
@@ -425,7 +424,7 @@
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [floblik/YouScrobbler](https://github.com/floblik/YouScrobbler) - Scrobbling from YouTube to Last.FM - Userscript for Firefox and Chrome
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## chrome-extension 
 
@@ -472,6 +471,7 @@
 
 ## computer-vision 
 
+- [unclearness/vacancy](https://github.com/unclearness/vacancy) - Vacancy: A Voxel Carving implementation in C++
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
 - [aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) - Machine Learning University: Accelerated Computer Vision Class
@@ -685,7 +685,7 @@
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
@@ -703,7 +703,7 @@
 
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## ethereum 
 
@@ -755,7 +755,7 @@
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [floblik/YouScrobbler](https://github.com/floblik/YouScrobbler) - Scrobbling from YouTube to Last.FM - Userscript for Firefox and Chrome
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## flutter 
 
@@ -858,7 +858,7 @@
 - [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
 - [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev) - :video_game: A list of Game Development resources to make magic happen.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [rafaelvasco/nimrod-glfw](https://github.com/rafaelvasco/nimrod-glfw) - GLFW Bindings for the Nim Programming Language
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 - [luxeengine/alpha](https://github.com/luxeengine/alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
@@ -868,6 +868,7 @@
 
 ## game-engine 
 
+- [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
@@ -903,7 +904,7 @@
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
 - [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev) - :video_game: A list of Game Development resources to make magic happen.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 - [luxeengine/alpha](https://github.com/luxeengine/alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
 - [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
@@ -1022,7 +1023,7 @@
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
@@ -1064,7 +1065,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [flyx/emerald](https://github.com/flyx/emerald) - HTML5 templating engine for Nimrod
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
 
 ## http 
@@ -1120,7 +1121,6 @@
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 - [polygonjs/polygonjs](https://github.com/polygonjs/polygonjs) - node-based WebGL design tool
 - [two-ticks/p5.teach.js](https://github.com/two-ticks/p5.teach.js) - A beginner friendly math animation library for p5.js
-- [pschroen/alien.js](https://github.com/pschroen/alien.js) - 👽 Future web pattern
 - [susam/invaders](https://github.com/susam/invaders) - A 1980s-arcade-style game written using HTML5, Canvas, and Web Audio
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
@@ -1166,7 +1166,6 @@
 - [01alchemist/TurboScript](https://github.com/01alchemist/TurboScript) - Super charged typed JavaScript dialect for parallel programming which compiles to WebAssembly
 - [miguelmota/sobel](https://github.com/miguelmota/sobel) - Sobel Filter algorithm in JavaScript.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [ARC-MARKET/lycheejs](https://github.com/ARC-MARKET/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
 - [kazzkiq/CodeFlask](https://github.com/kazzkiq/CodeFlask) - A micro code-editor for awesome web pages.
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
@@ -1192,7 +1191,7 @@
 - [Canop/hu.js](https://github.com/Canop/hu.js) - A very light JavaScript library for SVG
 - [strathausen/savage](https://github.com/strathausen/savage) - tiny svg library - NOT abandoned nor outdated :-)
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -1294,6 +1293,7 @@
 
 ## library 
 
+- [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [mashingan/excelin](https://github.com/mashingan/excelin) - Create and read Excel file purely in Nim
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
@@ -1314,6 +1314,7 @@
 
 ## linux 
 
+- [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [johang/sd-card-images](https://github.com/johang/sd-card-images) - Scripts to build bootable SD card images with Debian for various single-board computers
 - [EchoHeim/Allwinner-H616](https://github.com/EchoHeim/Allwinner-H616) - 🔥 Linux SDK for Allwinner H616, based on armbian-build
@@ -1347,12 +1348,17 @@
 
 ## lua 
 
-- [edubart/minicoro](https://github.com/edubart/minicoro) - Single header asymmetric stackful cross-platform coroutine library in pure C.
+- [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
 - [hellerve/e](https://github.com/hellerve/e) - A dead simple editor
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [bakpakin/tiny-ecs](https://github.com/bakpakin/tiny-ecs) - ECS for Lua
 - [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+
+## mac 
+
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [littleweeb/Desktop](https://github.com/littleweeb/Desktop) - Codebase for all the desktop versions (mac, linux & windows).
 
 ## machine-learning 
 
@@ -1390,7 +1396,6 @@
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ http://ocaml.xyz
 - [miguelmota/sobel](https://github.com/miguelmota/sobel) - Sobel Filter algorithm in JavaScript.
-- [ARC-MARKET/lycheejs](https://github.com/ARC-MARKET/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [100/Cranium](https://github.com/100/Cranium) - 🤖   A portable, header-only, artificial neural network library written in C99
@@ -1489,6 +1494,7 @@
 
 ## nim 
 
+- [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [planetis-m/naylib](https://github.com/planetis-m/naylib) - Yet another raylib Nim wrapper
 - [ringabout/neon](https://github.com/ringabout/neon) - A working-in-porgress compiler guide for the Nim language.
@@ -1646,6 +1652,7 @@
 
 ## opengl 
 
+- [inducer/pyopencl](https://github.com/inducer/pyopencl) - OpenCL integration for Python, plus shiny features
 - [JingShing-Python/ModernGL-Shader-with-pygame](https://github.com/JingShing-Python/ModernGL-Shader-with-pygame) - you can use this class to give pygame a shader to render screen. it is easy to use.
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -1686,6 +1693,17 @@
 
 ## others 
 
+- [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
+- [cranberrymuffin/voxel-carving](https://github.com/cranberrymuffin/voxel-carving) - Voxel carving of Middlebury stereo 'Temple' dataset in Python with Open3D
+- [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
+- [OpenSYCL/OpenSYCL](https://github.com/OpenSYCL/OpenSYCL) - Multi-backend implementation of SYCL for CPUs and GPUs
+- [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (TF, Jax, Numpy)
+- [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
+- [Audiotronix/Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
+- [francescat93/Exact_sinogram](https://github.com/francescat93/Exact_sinogram) - 
+- [pmneila/PyMCubes](https://github.com/pmneila/PyMCubes) - Marching cubes (and related tools) for Python
+- [jrprice/Oclgrind](https://github.com/jrprice/Oclgrind) - An OpenCL device simulator and debugger
+- [maweigert/gputools](https://github.com/maweigert/gputools) - GPU accelerated image/volume processing in Python
 - [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
@@ -1843,6 +1861,7 @@
 - [polywrap/toolchain](https://github.com/polywrap/toolchain) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
 - [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET 6
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
+- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 Future web pattern
 - [status-im/nimplay](https://github.com/status-im/nimplay) - Nim Ethereum Contract DSL. Targeting eWASM.
 - [Udiknedormin/NimContracts](https://github.com/Udiknedormin/NimContracts) - Nim Language design by contract (DbC) library.
 - [status-im/nim-eth-contracts](https://github.com/status-im/nim-eth-contracts) - Ethereum smart contracts in Nim
@@ -1853,8 +1872,8 @@
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
 - [CliMA/CalibrateEDMF.jl](https://github.com/CliMA/CalibrateEDMF.jl) - A package to calibrate atmospheric turbulence and convection parameterizations using gradient-free ensemble Kalman methods
-- [frangio/cacheable-beacon-proxy](https://github.com/frangio/cacheable-beacon-proxy) - An upgradeable proxy with minimal overhead.
-- [duckdegen/apebot](https://github.com/duckdegen/apebot) - 
+- [frangio/cacheable-beacon-proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with the least possible gas overhead.
+- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Did you get rekt and need a new Job in Crypto? Check out my new project in the link below
 - [Charged-Particles/charged-particles-universe](https://github.com/Charged-Particles/charged-particles-universe) - Solidity Contracts for the Charged Particles Universe
 - [R3D4NG3L/PersonalExpenseReport](https://github.com/R3D4NG3L/PersonalExpenseReport) - Personal Expense Report on Google Sheet with Telegram Bot integration
 - [neuebot/FIBR3DEmul](https://github.com/neuebot/FIBR3DEmul) - Custom 3 and 5 axis FDM process simulator.
@@ -1999,7 +2018,7 @@
 - [SebastianEggert/OpenWorkstation](https://github.com/SebastianEggert/OpenWorkstation) - An open source and modular workstation concept for life science automation
 - [hercek/linDeltaCalib](https://github.com/hercek/linDeltaCalib) - Calibration scripts for linear delta 3d printers
 - [OfficeChromatography/Slurry-doser](https://github.com/OfficeChromatography/Slurry-doser) - Layer printing for planar chromatography
-- [wolfmanjm/kivy-smoothie-host](https://github.com/wolfmanjm/kivy-smoothie-host) - AKA Smoopi. A Smoothie host, running on rpi with touch screen, or on a Desktop
+- [wolfmanjm/kivy-smoothie-host](https://github.com/wolfmanjm/kivy-smoothie-host) - AKA Smoopi. A Smoothie host, running on rpi with touch screen, or on a Desktop. Supporting CNC operations and 3D printing.
 - [skarab42/smoothie-commands](https://github.com/skarab42/smoothie-commands) - A Smoothie firmware (http|serial) commands API
 - [FormerLurker/ArcWelderLib](https://github.com/FormerLurker/ArcWelderLib) - A collection of projects used to convert G0/G1 commands to G2/G3 commands.
 - [rcarlyle/StepperSim](https://github.com/rcarlyle/StepperSim) - Simulates stepper motor driver systems
@@ -2285,7 +2304,7 @@
 - [bitnenfer/tiny-canvas](https://github.com/bitnenfer/tiny-canvas) - Tiny-Canvas is a lightweight minimal implementation of a batched and stack matrix based canvas similar to HTML5 Canvas2D with WebGL backend.
 - [BasFaggingerAuer/tiny-game-engine](https://github.com/BasFaggingerAuer/tiny-game-engine) - A small OpenGL game engine.
 - [martincohen/Punity](https://github.com/martincohen/Punity) - A tiny game engine in C.
-- [sivaramambikasaran/HODLR](https://github.com/sivaramambikasaran/HODLR) - A fast, accurate direct solver and determinant computation for dense linear systems
+- [SAFRAN-LAB/HODLR](https://github.com/SAFRAN-LAB/HODLR) - A fast, accurate direct solver and determinant computation for dense linear systems
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 - [thomaswilburn/arrest](https://github.com/thomaswilburn/arrest) - A reStructuredText parser for Node
 - [mil-tokyo/sukiyaki2](https://github.com/mil-tokyo/sukiyaki2) - Deep Learning Library for JavaScript
@@ -2671,6 +2690,7 @@
 
 ## python 
 
+- [inducer/pyopencl](https://github.com/inducer/pyopencl) - OpenCL integration for Python, plus shiny features
 - [PyAbel/PyAbel](https://github.com/PyAbel/PyAbel) - A python package for Abel and inverse Abel transforms
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
@@ -2761,6 +2781,7 @@
 
 ## pytorch 
 
+- [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim) - DLPrimitives/OpenCL out of tree backend for pytorch
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
 - [magis-slac/gradoptics](https://github.com/magis-slac/gradoptics) - 
@@ -2862,6 +2883,7 @@
 
 ## rust 
 
+- [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 - [hannobraun/Fornjot](https://github.com/hannobraun/Fornjot) - Early-stage, next-generation, code-first CAD application. Because the world needs another CAD program.
@@ -3005,7 +3027,7 @@
 - [01alchemist/TurboScript](https://github.com/01alchemist/TurboScript) - Super charged typed JavaScript dialect for parallel programming which compiles to WebAssembly
 - [rsms/wasm-util](https://github.com/rsms/wasm-util) - WebAssembly utilities
 - [mt40/vscode-todo-parser](https://github.com/mt40/vscode-todo-parser) - TodoParser extension for vscode. Parse TODOs in your project.
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## unity 
@@ -3079,6 +3101,7 @@
 
 ## windows 
 
+- [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
