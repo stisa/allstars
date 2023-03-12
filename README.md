@@ -101,6 +101,7 @@
 
 ## C 
 
+- [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
 - [CAP1Sup/Intellistep](https://github.com/CAP1Sup/Intellistep) - A rework of the terribly coded firmware from the BTT S42B v2 boards
 - [jackw01/smallXY](https://github.com/jackw01/smallXY) - Experimental CoreXY 3D printer
@@ -264,6 +265,7 @@
 
 ## C++ 
 
+- [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
 - [unclearness/vacancy](https://github.com/unclearness/vacancy) - Vacancy: A Voxel Carving implementation in C++
 - [OpenSYCL/OpenSYCL](https://github.com/OpenSYCL/OpenSYCL) - Multi-backend implementation of SYCL for CPUs and GPUs
 - [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim) - DLPrimitives/OpenCL out of tree backend for pytorch
@@ -297,6 +299,7 @@
 - [sylefeb/VoxSurf](https://github.com/sylefeb/VoxSurf) - A simple, easily hackable C++ surface voxelizer (STL=&gt;voxels)
 - [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python
 - [fonttools/pyclipper](https://github.com/fonttools/pyclipper) - Cython wrapper for the C++ translation of the Angus Johnson's Clipper library (ver. 6.4.2)
+- [NanoComp/meep](https://github.com/NanoComp/meep) - free finite-difference time-domain (FDTD) software for electromagnetic simulations
 - [SCIInstitute/ShapeWorks](https://github.com/SCIInstitute/ShapeWorks) - ShapeWorks
 - [SCIInstitute/Seg3D](https://github.com/SCIInstitute/Seg3D) - Seg3D is a free volume segmentation and processing tool developed by the NIH Center for Integrative Biomedical Computing at the University of Utah Scientific Computing and Imaging (SCI) Institute.
 - [Project-10/OpenRT](https://github.com/Project-10/OpenRT) - Open Source Ray Tracing Library
@@ -967,12 +970,12 @@
 
 ## Jupyter Notebook 
 
+- [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [francescat93/Exact_sinogram](https://github.com/francescat93/Exact_sinogram) - 
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [fernandolucasaa/computerGeneratedHolography](https://github.com/fernandolucasaa/computerGeneratedHolography) - Computer-generated holography (CGH) is the method of digitally generating holographic interference patterns
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [ahendriksen/tomosipo](https://github.com/ahendriksen/tomosipo) - A library for painless 3D tomographic reconstruction
-- [NanoComp/meep](https://github.com/NanoComp/meep) - free finite-difference time-domain (FDTD) software for electromagnetic simulations
 - [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator) - Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 - [unicast-project/unicast](https://github.com/unicast-project/unicast) - UniCast brings machine learning (ML) forecasting and ML models to Uniswap v3 and the larger DeFi ecosystem. The project aims to contribute with the tools, building blocks and examples to create, train
 - [usnistgov/openfoamEmbedded3DP](https://github.com/usnistgov/openfoamEmbedded3DP) - Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing
@@ -1353,6 +1356,7 @@
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - :sunrise: A collection of awesome resources for building progressive web apps
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
@@ -1439,6 +1443,9 @@
 
 ## Python 
 
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
+- [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [cranberrymuffin/voxel-carving](https://github.com/cranberrymuffin/voxel-carving) - Voxel carving of Middlebury stereo 'Temple' dataset in Python with Open3D
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (TF, Jax, Numpy)
@@ -1755,7 +1762,7 @@
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
 - [SavannahCatToken/PancakeswapPredictionBot-Fullversion](https://github.com/SavannahCatToken/PancakeswapPredictionBot-Fullversion) - PancakeSwap Prediction Bot [Fullversion]. Make gains passively while running this bot for PancakeSwap or CandleGenie.
-- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Did you get rekt and need a new Job in Crypto? Check out my new project in the link below
+- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Did you get rekt and need a new Job in Crypto? Check out my new project www.jobstash.xyz
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
@@ -1793,7 +1800,6 @@
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
-- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
