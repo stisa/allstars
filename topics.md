@@ -450,6 +450,7 @@
 
 ## compiler 
 
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
 - [OxHainan/cloak-compiler](https://github.com/OxHainan/cloak-compiler) - cloak-compiler is an implementation of Cloak Language.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
@@ -608,6 +609,7 @@
 
 ## deep-learning 
 
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
@@ -722,6 +724,7 @@
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.5 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
@@ -984,6 +987,8 @@
 
 ## hacktoberfest 
 
+- [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
+- [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [matteo-ronchetti/torch-radon](https://github.com/matteo-ronchetti/torch-radon) - Computational Tomography in PyTorch
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -1663,6 +1668,7 @@
 
 ## opengl 
 
+- [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [inducer/pyopencl](https://github.com/inducer/pyopencl) - OpenCL integration for Python, plus shiny features
 - [JingShing-Python/ModernGL-Shader-with-pygame](https://github.com/JingShing-Python/ModernGL-Shader-with-pygame) - you can use this class to give pygame a shader to render screen. it is easy to use.
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
@@ -1704,6 +1710,7 @@
 
 ## others 
 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
@@ -1712,7 +1719,7 @@
 - [cranberrymuffin/voxel-carving](https://github.com/cranberrymuffin/voxel-carving) - Voxel carving of Middlebury stereo 'Temple' dataset in Python with Open3D
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [OpenSYCL/OpenSYCL](https://github.com/OpenSYCL/OpenSYCL) - Multi-backend implementation of SYCL for CPUs and GPUs
-- [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (TF, Jax, Numpy)
+- [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
 - [Audiotronix/Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
 - [francescat93/Exact_sinogram](https://github.com/francescat93/Exact_sinogram) - 
@@ -1897,7 +1904,6 @@
 - [bcnmy/metatx-standard](https://github.com/bcnmy/metatx-standard) - Repository contains generalized meta transaction standard that can be added to any smart contract to allow Meta Transactions from any externally-owned (key-based) account.
 - [aloelabs/aloe-blend](https://github.com/aloelabs/aloe-blend) - Maximizing liquidity utilization while maintaining 50/50 inventory ratio
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v2 - Ethereum Gas Station Network
 - [marcelc63/popular-contract-templates](https://github.com/marcelc63/popular-contract-templates) - Templates for Popular Smart Contracts
 - [Derked/FantasyCampaign](https://github.com/Derked/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
@@ -2705,6 +2711,8 @@
 
 ## python 
 
+- [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [inducer/pyopencl](https://github.com/inducer/pyopencl) - OpenCL integration for Python, plus shiny features
 - [PyAbel/PyAbel](https://github.com/PyAbel/PyAbel) - A python package for Abel and inverse Abel transforms
@@ -2962,6 +2970,7 @@
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.5 - Ethereum Gas Station Network
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
