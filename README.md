@@ -101,6 +101,7 @@
 
 ## C 
 
+- [alifcommunity/webui](https://github.com/alifcommunity/webui) - Use any web browser as GUI, with your preferred language in the backend, and HTML/JS/TS/CSS in the frontend.
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
 - [CAP1Sup/Intellistep](https://github.com/CAP1Sup/Intellistep) - A rework of the terribly coded firmware from the BTT S42B v2 boards
@@ -542,7 +543,6 @@
 
 - [McStasMcXtrace/McCode](https://github.com/McStasMcXtrace/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [DelNov/T-Flows](https://github.com/DelNov/T-Flows) - Program for Simulation of Turbulent Flows
-- [zerothi/fdict](https://github.com/zerothi/fdict) - Fortran type-free variable and type-free dictionary
 - [szaghi/OFF](https://github.com/szaghi/OFF) - OFF, Open source Finite volume Fluid dynamics code
 - [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) - Official git repository of Elmer FEM software
 - [nasa/NASTRAN-95](https://github.com/nasa/NASTRAN-95) - 
@@ -769,7 +769,6 @@
 - [lab10-coop/pwasm-erc777](https://github.com/lab10-coop/pwasm-erc777) - ERC777 Ethereum Token Standard implemented in Rust using pwasm
 - [Cloud-CNC/cura-wasm](https://github.com/Cloud-CNC/cura-wasm) - Cura Engine powered by Web Assembly (WASM)
 - [torch2424/vaporBoy](https://github.com/torch2424/vaporBoy) - Gameboy / Gameboy Color Emulator PWA built with Preact. ⚛️ Powered by wasmBoy. 🎮Themed with VaporWave. 🌴🐬
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [floating/frame](https://github.com/floating/frame) - System-wide Web3 for macOS, Windows and Linux
 - [romellogoodman/flow-field.js](https://github.com/romellogoodman/flow-field.js) - A library for generating flow fields.
 - [gtjoseph/DueUI](https://github.com/gtjoseph/DueUI) - A Customizable User Interface for Duet Powered 3D Printers
@@ -780,7 +779,7 @@
 - [GridSpace/grid-apps](https://github.com/GridSpace/grid-apps) - Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)
 - [vfat-tools/vfat-tools](https://github.com/vfat-tools/vfat-tools) - 
 - [makoto/off-l1](https://github.com/makoto/off-l1) - 
-- [watterott/SilentStepStick](https://github.com/watterott/SilentStepStick) - Stepper Motor Driver based on a Trinamic TMC2100 / TMC2130 / TMC2208 / TMC2209 / TMC5160 / TMC5161.
+- [watterott/SilentStepStick](https://github.com/watterott/SilentStepStick) - Stepper Motor Driver based on a Trinamic TMC2100 / TMC2130 / TMC2208 / TMC2209 / TMC5160.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [skarab42/smoothie-commands](https://github.com/skarab42/smoothie-commands) - A Smoothie firmware (http|serial) commands API
 - [nraynaud/webgcode](https://github.com/nraynaud/webgcode) - Online G-Code simulator, controller code for STM32F4-Discovery and google chrome extension to send the code to it.
@@ -1063,6 +1062,7 @@
 
 ## Nim 
 
+- [neroist/webui](https://github.com/neroist/webui) - Nim wrapper and bindings for WebUI!
 - [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [SciNim/xrayAttenuation](https://github.com/SciNim/xrayAttenuation) - A library to compute transmission / absorption of X-rays through matter
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
@@ -1617,6 +1617,7 @@
 - [inducer/cgen](https://github.com/inducer/cgen) - C/C++ source generation from an AST
 - [Maratyszcza/PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python
 - [jhoward/Python-Neural-Network](https://github.com/jhoward/Python-Neural-Network) - A pure python implementation of a neural network.
+- [zerothi/fdict](https://github.com/zerothi/fdict) - Fortran type-free variable and type-free dictionary
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [tisimst/pyswarm](https://github.com/tisimst/pyswarm) - Particle swarm optimization (PSO) that supports constraints
 - [jmespadero/pyDelaunay2D](https://github.com/jmespadero/pyDelaunay2D) - A simple Delaunay 2D triangulation in python (with numpy)
@@ -1767,12 +1768,12 @@
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
 - [SavannahCatToken/PancakeswapPredictionBot-Fullversion](https://github.com/SavannahCatToken/PancakeswapPredictionBot-Fullversion) - PancakeSwap Prediction Bot [Fullversion]. Make gains passively while running this bot for PancakeSwap or CandleGenie.
-- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Did you get rekt and need a new Job in Crypto? Check out my new project www.jobstash.xyz
+- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Got rekt and need a Job in Crypto? Check out my new project www.jobstash.xyz
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.5 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.6 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [Derked/FantasyCampaign](https://github.com/Derked/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -1789,6 +1790,7 @@
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [0xsequence/demo-dapp](https://github.com/0xsequence/demo-dapp) - Demo Dapp using 0xsequence directly
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [Anish-Agnihotri/merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Frontend, contracts, and merkle tree generator for use in quickly scaffolding ERC20 token airdrops.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
