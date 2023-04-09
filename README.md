@@ -268,6 +268,7 @@
 
 ## C++ 
 
+- [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
@@ -964,7 +965,7 @@
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
 - [ACEsuit/ACE.jl](https://github.com/ACEsuit/ACE.jl) - Parameterisation of Equivariant Properties of Particle Systems
 - [SciML/DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) - Data driven modeling and automated discovery of dynamical systems for the SciML Scientific Machine Learning organization
-- [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics
+- [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics and nonlinear timeseries analysis
 - [oxfordcontrol/COSMO.jl](https://github.com/oxfordcontrol/COSMO.jl) - COSMO: Accelerated ADMM-based solver for convex conic optimisation problems (LP, QP, SOCP, SDP, ExpCP, PowCP). Automatic chordal decomposition of sparse semidefinite programs.
 - [JuliaMPC/NLOptControl.jl](https://github.com/JuliaMPC/NLOptControl.jl) - nonlinear control optimization tool
 - [JuliaControl/ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) - A Control Systems Toolbox for Julia
@@ -1294,6 +1295,7 @@
 
 ## Others 
 
+- [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 - [Audiotronix/Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [makerbase-mks/MKS-THR36-THR42-UTC](https://github.com/makerbase-mks/MKS-THR36-THR42-UTC) - 
@@ -1412,7 +1414,6 @@
 
 ## PHP 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [meyerweb/px2svg](https://github.com/meyerweb/px2svg) - Converts raster images to SVG, using color-run optimization.
@@ -1451,7 +1452,9 @@
 
 ## Python 
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography
+- [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [Chr157i4n/TMC2209_Raspberry_Pi](https://github.com/Chr157i4n/TMC2209_Raspberry_Pi) - this is a Python library to drive a stepper motor with a Trinamic TMC2209 stepper driver and a Raspberry Pi
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - RpiMotorLib : Raspberry Pi Motor Library :  A python 3 library for various motors and servos to connect to a raspberry pi
@@ -1535,6 +1538,7 @@
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - Tutorials for on-ramping to StarkNet
 - [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient script for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -1780,7 +1784,6 @@
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
-- [SavannahCatToken/PancakeswapPredictionBot-Fullversion](https://github.com/SavannahCatToken/PancakeswapPredictionBot-Fullversion) - PancakeSwap Prediction Bot [Fullversion]. Make gains passively while running this bot for PancakeSwap or CandleGenie.
 - [duckdegen/apebot](https://github.com/duckdegen/apebot) - Got rekt and need a Job in Crypto? Check out my new project www.jobstash.xyz
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
