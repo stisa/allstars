@@ -272,7 +272,7 @@
 - [FiCacador/Tlaser](https://github.com/FiCacador/Tlaser) - Laser engraver designed around a coreXY cantilever motion system.
 - [PymZoR/S-curve-Planner](https://github.com/PymZoR/S-curve-Planner) - C Library for planning n-th order S-curve motion profiles
 - [MarginallyClever/Makelangelo-software](https://github.com/MarginallyClever/Makelangelo-software) - Software for plotters - especially the wall-hanging polargraph also called Makelangelo.
-- [probonopd/WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP8266 (in the future also ESP32) module
+- [probonopd/WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP8266 or ESP32 module
 - [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -298,6 +298,8 @@
 
 ## awesome 
 
+- [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
+- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
@@ -318,6 +320,7 @@
 
 ## awesome-list 
 
+- [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
@@ -1737,6 +1740,7 @@
 
 ## others 
 
+- [blake3dcake/openspectrym](https://github.com/blake3dcake/openspectrym) - add multicolor to a 3d printer by coating transparent filament with ink (using markers or pumps)
 - [sxyu/sdf](https://github.com/sxyu/sdf) - Parallelized triangle mesh --&gt; continuous signed distance field on CPU
 - [fbeltrao-br/mksts35](https://github.com/fbeltrao-br/mksts35) - 
 - [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography
@@ -1934,7 +1938,7 @@
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
 - [CliMA/CalibrateEDMF.jl](https://github.com/CliMA/CalibrateEDMF.jl) - A package to calibrate atmospheric turbulence and convection parameterizations using gradient-free ensemble Kalman methods
 - [frangio/cacheable-beacon-proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with the least possible gas overhead.
-- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Got rekt and need a Job in Crypto? Check out my new project www.jobstash.xyz
+- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
 - [Charged-Particles/charged-particles-universe](https://github.com/Charged-Particles/charged-particles-universe) - Solidity Contracts for the Charged Particles Universe
 - [R3D4NG3L/PersonalExpenseReport](https://github.com/R3D4NG3L/PersonalExpenseReport) - Personal Expense Report on Google Sheet with Telegram Bot integration
 - [neuebot/FIBR3DEmul](https://github.com/neuebot/FIBR3DEmul) - Custom 3 and 5 axis FDM process simulator.
