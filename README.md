@@ -354,7 +354,7 @@
 - [mfx-inria/curvislicer](https://github.com/mfx-inria/curvislicer) - CurviSlicer: Slightly curved slicing for 3-axis printers
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX) - Neural Networks from Scratch in various programming languages
-- [probonopd/WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP8266 (in the future also ESP32) module
+- [probonopd/WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP8266 or ESP32 module
 - [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
 - [michaelkubina/SpotMicroESP32](https://github.com/michaelkubina/SpotMicroESP32) - My take on a SpotMicro with an optimized design for supportfree 3D-printing. It utilizes an ESP32-DevKitC for the low-level control of the electronics. The heavy computation will be made by external d
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -564,6 +564,7 @@
 - [Ultimaker/GHermeneus](https://github.com/Ultimaker/GHermeneus) - Fast g-code parser
 - [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer with 3D printing in mind. Written in Typescript.
 - [synthetos/TinyG](https://github.com/synthetos/TinyG) - Affordable Industrial Grade Motion Control
+- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for Marginally Clever robots.
 - [MKFirmware/MK4duo](https://github.com/MKFirmware/MK4duo) - MK4duo Firmware Printers 3D for Arduino and Arduino due
 
 ## GAP 
@@ -587,6 +588,7 @@
 
 ## Go 
 
+- [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [ezrec/uv3dp](https://github.com/ezrec/uv3dp) - Tools for UV Resin based 3D Printers (in Go)
@@ -701,7 +703,6 @@
 - [Adamantcheese/Kuroba](https://github.com/Adamantcheese/Kuroba) - Kuroba - imageboard browser for Android
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for Marginally Clever robots.
 - [antlr/codebuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning (uh, like, is this possible? YES, apparently).
 - [yglukhov/nim-sdl-template](https://github.com/yglukhov/nim-sdl-template) - Cross-platform SDL/Nim skeleton
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
@@ -1296,6 +1297,7 @@
 
 ## Others 
 
+- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [fbeltrao-br/mksts35](https://github.com/fbeltrao-br/mksts35) - 
 - [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 - [Audiotronix/Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
@@ -1454,6 +1456,7 @@
 
 ## Python 
 
+- [blake3dcake/openspectrym](https://github.com/blake3dcake/openspectrym) - add multicolor to a 3d printer by coating transparent filament with ink (using markers or pumps)
 - [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -1786,7 +1789,7 @@
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
-- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Got rekt and need a Job in Crypto? Check out my new project www.jobstash.xyz
+- [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
