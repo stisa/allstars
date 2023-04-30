@@ -626,6 +626,7 @@
 - [ries-lab/LaserEngine](https://github.com/ries-lab/LaserEngine) - Blueprints for a low-cost laser combiner compatible with wide-field and localization microscopy.
 - [lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel) - Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.
 - [Photonsters/anycubic-photon-docs](https://github.com/Photonsters/anycubic-photon-docs) - This repo  aims to collect curate and compile information on anycubic photon hardware software and use
+- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [eyeln/website](https://github.com/eyeln/website) - 
@@ -727,7 +728,6 @@
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [tunabrain/tantalum](https://github.com/tunabrain/tantalum) - WebGL 2D Light Transport
-- [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
 - [bberak/react-native-game-engine-handbook](https://github.com/bberak/react-native-game-engine-handbook) - A React Native app showcasing some examples using react-native-game-engine 🐒✨
 - [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript
@@ -977,6 +977,7 @@
 
 ## Jupyter Notebook 
 
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [francescat93/Exact_sinogram](https://github.com/francescat93/Exact_sinogram) - 
@@ -1096,7 +1097,7 @@
 - [SciNim/Unchained](https://github.com/SciNim/Unchained) - A fully type safe, compile time only units library.
 - [abisxir/alasgar](https://github.com/abisxir/alasgar) - 3D game engine for nim
 - [al6x/nim](https://github.com/al6x/nim) - 
-- [arnetheduck/nim-result](https://github.com/arnetheduck/nim-result) - Friendly, exception-free value-or-error returns, similar to Option[T]
+- [arnetheduck/nim-results](https://github.com/arnetheduck/nim-results) - Friendly value-or-error type
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [juancarlospaco/webgui](https://github.com/juancarlospaco/webgui) - Web Technologies based Crossplatform GUI Framework with Dark theme
 - [ansiwave/wavecore](https://github.com/ansiwave/wavecore) - ANSIWAVE BBS server
@@ -1297,6 +1298,7 @@
 
 ## Others 
 
+- [CroXY3D/Sailfin-Extruder](https://github.com/CroXY3D/Sailfin-Extruder) - A lightweight compact extruder with 5:1 gearing using BMG dual drive
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [fbeltrao-br/mksts35](https://github.com/fbeltrao-br/mksts35) - 
 - [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
@@ -1456,6 +1458,7 @@
 
 ## Python 
 
+- [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [blake3dcake/openspectrym](https://github.com/blake3dcake/openspectrym) - add multicolor to a 3d printer by coating transparent filament with ink (using markers or pumps)
 - [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
@@ -1469,7 +1472,7 @@
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
+- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [cranberrymuffin/voxel-carving](https://github.com/cranberrymuffin/voxel-carving) - Voxel carving of Middlebury stereo 'Temple' dataset in Python with Open3D
@@ -1559,7 +1562,7 @@
 - [AndyEveritt/ASMBL](https://github.com/AndyEveritt/ASMBL) - Additive & Subtractive Manufacturing By Layer for the E3D ToolChanging platform
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
-- [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data
+- [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library
@@ -1691,7 +1694,7 @@
 
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [nviennot/stm32-gpio-monitor](https://github.com/nviennot/stm32-gpio-monitor) - Monitor the GPIO of a STM32 live
-- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [nviennot/turbo-resin](https://github.com/nviennot/turbo-resin) - Open-source firmware for resin printers
 - [cbiffle/catibo](https://github.com/cbiffle/catibo) - Rust implementation of the CTB/CBDDLP/PHZ 3d printing file formats.
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
@@ -1794,7 +1797,7 @@
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.6 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.7 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [Derked/FantasyCampaign](https://github.com/Derked/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
