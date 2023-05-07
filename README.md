@@ -268,6 +268,9 @@
 
 ## C++ 
 
+- [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
+- [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
+- [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL
 - [sxyu/sdf](https://github.com/sxyu/sdf) - Parallelized triangle mesh --&gt; continuous signed distance field on CPU
 - [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -564,7 +567,7 @@
 - [Ultimaker/GHermeneus](https://github.com/Ultimaker/GHermeneus) - Fast g-code parser
 - [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer with 3D printing in mind. Written in Typescript.
 - [synthetos/TinyG](https://github.com/synthetos/TinyG) - Affordable Industrial Grade Motion Control
-- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for Marginally Clever robots.
+- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for robots
 - [MKFirmware/MK4duo](https://github.com/MKFirmware/MK4duo) - MK4duo Firmware Printers 3D for Arduino and Arduino due
 
 ## GAP 
@@ -1298,6 +1301,7 @@
 
 ## Others 
 
+- [Armchair-Engineering/P-REXZ](https://github.com/Armchair-Engineering/P-REXZ) - 
 - [CroXY3D/Sailfin-Extruder](https://github.com/CroXY3D/Sailfin-Extruder) - A lightweight compact extruder with 5:1 gearing using BMG dual drive
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [fbeltrao-br/mksts35](https://github.com/fbeltrao-br/mksts35) - 
@@ -1465,7 +1469,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [Chr157i4n/TMC2209_Raspberry_Pi](https://github.com/Chr157i4n/TMC2209_Raspberry_Pi) - this is a Python library to drive a stepper motor with a Trinamic TMC2209 stepper driver and a Raspberry Pi
-- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - RpiMotorLib : Raspberry Pi Motor Library :  A python 3 library for various motors and servos to connect to a raspberry pi
+- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
@@ -1746,6 +1750,7 @@
 
 ## Solidity 
 
+- [flashbots/simple-blind-arbitrage](https://github.com/flashbots/simple-blind-arbitrage) - 
 - [zeriontech/defi-sdk](https://github.com/zeriontech/defi-sdk) - DeFi SDK Makes Money Lego Work
 - [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
@@ -1757,7 +1762,7 @@
 - [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [gelatodigital/g-uni-v1-core](https://github.com/gelatodigital/g-uni-v1-core) - G-UNI Pools are managed ERC20 Wrappers around Uniswap V3 Liquidity Positions
-- [iskdrews/awesome-solidity-gas-optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
+- [0xisk/awesome-solidity-gas-optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
 - [QuickSwap/quickswap-core](https://github.com/QuickSwap/quickswap-core) - 
 
 ## Standard ML 
@@ -1794,7 +1799,7 @@
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
 - [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
-- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
+- [wighawag/jolly-roger-v1](https://github.com/wighawag/jolly-roger-v1) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.7 - Ethereum Gas Station Network
