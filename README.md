@@ -65,6 +65,7 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Standard ML](#standard-ml)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -103,7 +104,7 @@
 
 - [trinamic/TMC-API](https://github.com/trinamic/TMC-API) - TRINAMIC's IC API
 - [raspberrypi/pico-extras](https://github.com/raspberrypi/pico-extras) - 
-- [alifcommunity/webui](https://github.com/alifcommunity/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
+- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
 - [CAP1Sup/Intellistep](https://github.com/CAP1Sup/Intellistep) - A rework of the terribly coded firmware from the BTT S42B v2 boards
@@ -213,7 +214,6 @@
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 - [emoon/minifb](https://github.com/emoon/minifb) - MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in
 - [larmel/lacc](https://github.com/larmel/lacc) - A simple, self-hosting C compiler
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
 - [igor84/summus](https://github.com/igor84/summus) - Simple compiler frontend using LLVM as backend
 - [adventure-db/adventure](https://github.com/adventure-db/adventure) - A tiny graph database engine written in C
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
@@ -268,11 +268,13 @@
 
 ## C++ 
 
+- [NVIDIAGameWorks/RTXDI](https://github.com/NVIDIAGameWorks/RTXDI) - 
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
 - [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL
 - [sxyu/sdf](https://github.com/sxyu/sdf) - Parallelized triangle mesh --&gt; continuous signed distance field on CPU
 - [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
@@ -303,7 +305,6 @@
 - [m-pilia/volume-raycasting](https://github.com/m-pilia/volume-raycasting) - Simple visualiser based on GPU-accelerated single-pass volumetric raycasting
 - [juj/fbcp-ili9341](https://github.com/juj/fbcp-ili9341) - A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3, 4 and Zero
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
-- [markniu/Bed_Distance_sensor](https://github.com/markniu/Bed_Distance_sensor) - Auto bed level with High resolution distance sensor
 - [vlare3d/OSF](https://github.com/vlare3d/OSF) - Vlare Core's open source format.
 - [ern0/howto-wasm-minimal](https://github.com/ern0/howto-wasm-minimal) - How to create minimal wasm module
 - [sylefeb/VoxSurf](https://github.com/sylefeb/VoxSurf) - A simple, easily hackable C++ surface voxelizer (STL=&gt;voxels)
@@ -435,6 +436,7 @@
 - [jamboree/co2](https://github.com/jamboree/co2) - A C++ await/yield emulation library for stackless coroutine
 - [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 - [mmp/pbrt-v3](https://github.com/mmp/pbrt-v3) - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
@@ -1074,7 +1076,7 @@
 ## Nim 
 
 - [Angluca/tigr-nim](https://github.com/Angluca/tigr-nim) - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
-- [neroist/webui](https://github.com/neroist/webui) - Nim wrapper and bindings for WebUI!
+- [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
 - [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [SciNim/xrayAttenuation](https://github.com/SciNim/xrayAttenuation) - A library to compute transmission / absorption of X-rays through matter
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
@@ -1462,11 +1464,12 @@
 
 ## Python 
 
+- [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
+- [karlotness/adrt](https://github.com/karlotness/adrt) - Fast approximate discrete Radon transform for NumPy arrays
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [blake3dcake/openspectrym](https://github.com/blake3dcake/openspectrym) - add multicolor to a 3d printer by coating transparent filament with ink (using markers or pumps)
 - [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [Chr157i4n/TMC2209_Raspberry_Pi](https://github.com/Chr157i4n/TMC2209_Raspberry_Pi) - this is a Python library to drive a stepper motor with a Trinamic TMC2209 stepper driver and a Raspberry Pi
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
@@ -1504,8 +1507,7 @@
 - [compas-dev/compas_slicer](https://github.com/compas-dev/compas_slicer) - Slicing package for FDM 3D Printing with COMPAS.
 - [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
 - [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [epit3d/spycer](https://github.com/epit3d/spycer) - Gcode viewer for slicer for 5 axes 3d printer
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
@@ -1525,6 +1527,7 @@
 - [itsron143/calibCV](https://github.com/itsron143/calibCV) - Automatic XY Calibration for Aether 3D BioPrinter using Computer Vision
 - [magis-slac/gradoptics](https://github.com/magis-slac/gradoptics) - 
 - [BoyuanChen/neural-state-variables](https://github.com/BoyuanChen/neural-state-variables) - 
+- [markniu/Bed_Distance_sensor](https://github.com/markniu/Bed_Distance_sensor) - Auto bed level with High resolution distance sensor
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper
 - [computed-axial-lithography/VAMToolbox](https://github.com/computed-axial-lithography/VAMToolbox) - 
 - [DCC-Lab/RayTracing](https://github.com/DCC-Lab/RayTracing) - Simple ray tracing library in Python for optical design that considers simple optical elements (with ABCD ray matrices) but also finite diameters of elements to calculate aperture and field stops, fie
@@ -1769,6 +1772,10 @@
 
 - [melsman/apltail](https://github.com/melsman/apltail) - APL Compiler targeting a typed array intermediate language
 
+## Svelte 
+
+- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
+
 ## Swift 
 
 - [WalletConnect/WalletConnectSwiftV2](https://github.com/WalletConnect/WalletConnectSwiftV2) - WalletConnect Swift SDK v2
@@ -1799,7 +1806,6 @@
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
 - [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
-- [wighawag/jolly-roger-v1](https://github.com/wighawag/jolly-roger-v1) - A template to build a decentralised application using ethereum, buidler, svelte and thegraph
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.7 - Ethereum Gas Station Network
