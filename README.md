@@ -268,6 +268,7 @@
 
 ## C++ 
 
+- [RichRap/Sli3DR](https://github.com/RichRap/Sli3DR) - Sli3DR -RepRap 3D Printer design by RichRap
 - [NVIDIAGameWorks/RTXDI](https://github.com/NVIDIAGameWorks/RTXDI) - 
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
@@ -782,6 +783,7 @@
 - [Cloud-CNC/cura-wasm](https://github.com/Cloud-CNC/cura-wasm) - Cura Engine powered by Web Assembly (WASM)
 - [torch2424/vaporBoy](https://github.com/torch2424/vaporBoy) - Gameboy / Gameboy Color Emulator PWA built with Preact. ⚛️ Powered by wasmBoy. 🎮Themed with VaporWave. 🌴🐬
 - [floating/frame](https://github.com/floating/frame) - System-wide Web3 for macOS, Windows and Linux
+- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [romellogoodman/flow-field.js](https://github.com/romellogoodman/flow-field.js) - A library for generating flow fields.
 - [gtjoseph/DueUI](https://github.com/gtjoseph/DueUI) - A Customizable User Interface for Duet Powered 3D Printers
 - [analysis230/analysis230.github.io](https://github.com/analysis230/analysis230.github.io) - 
@@ -1303,6 +1305,7 @@
 
 ## Others 
 
+- [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [Armchair-Engineering/P-REXZ](https://github.com/Armchair-Engineering/P-REXZ) - 
 - [CroXY3D/Sailfin-Extruder](https://github.com/CroXY3D/Sailfin-Extruder) - A lightweight compact extruder with 5:1 gearing using BMG dual drive
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
@@ -1334,7 +1337,6 @@
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
 - [mudgen/diamond](https://github.com/mudgen/diamond) - Information about three diamond reference implementations.
 - [CryptoverseCC/cryptoauth.io](https://github.com/CryptoverseCC/cryptoauth.io) - Cryptoauth.io (a.k.a. Cryptoverse Login) website
-- [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [Quenta-3D/pulseless_peristaltic_colloid_extruder](https://github.com/Quenta-3D/pulseless_peristaltic_colloid_extruder) - pulseless peristaltic colloid extruder for 3D printer
 - [AxMod3DPrint/Drakon-Extruder](https://github.com/AxMod3DPrint/Drakon-Extruder) - 3D Printable 3:1 Geared Extruder
 - [PrintersForAnts/Micron](https://github.com/PrintersForAnts/Micron) - 
@@ -1464,6 +1466,9 @@
 
 ## Python 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
 - [karlotness/adrt](https://github.com/karlotness/adrt) - Fast approximate discrete Radon transform for NumPy arrays
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -1706,7 +1711,7 @@
 - [cbiffle/catibo](https://github.com/cbiffle/catibo) - Rust implementation of the CTB/CBDDLP/PHZ 3d printing file formats.
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [kofigumbs/typebeat](https://github.com/kofigumbs/typebeat) - Keyboard-controlled music sequencer, sampler, and synth
-- [hannobraun/Fornjot](https://github.com/hannobraun/Fornjot) - Early-stage, next-generation, code-first CAD application. Because the world needs another CAD program.
+- [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
@@ -1808,7 +1813,7 @@
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.7 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.8 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [Derked/FantasyCampaign](https://github.com/Derked/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
