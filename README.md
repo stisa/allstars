@@ -1466,7 +1466,6 @@
 
 ## Python 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
@@ -1513,6 +1512,7 @@
 - [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
 - [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [epit3d/spycer](https://github.com/epit3d/spycer) - Gcode viewer for slicer for 5 axes 3d printer
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
@@ -1558,7 +1558,7 @@
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - Tutorials for on-ramping to StarkNet
 - [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient script for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -1797,6 +1797,7 @@
 
 ## TypeScript 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
