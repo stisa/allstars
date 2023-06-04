@@ -102,6 +102,7 @@
 
 ## C 
 
+- [karimnaaji/voxelizer](https://github.com/karimnaaji/voxelizer) - Header only mesh voxelizer in c99
 - [trinamic/TMC-API](https://github.com/trinamic/TMC-API) - TRINAMIC's IC API
 - [raspberrypi/pico-extras](https://github.com/raspberrypi/pico-extras) - 
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
@@ -142,6 +143,7 @@
 - [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
 - [gloomyandy/RepRapFirmware](https://github.com/gloomyandy/RepRapFirmware) - OO C++ RepRap Firmware
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
+- [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
 - [makerbase-mks/MKS-SBASE](https://github.com/makerbase-mks/MKS-SBASE) - MKS SBASE is a powerful 32-bit 3D printer control board with LPC1768. Support Marlin2.0, Smoothieware. Support MKS LCD12864 and MKS TFT Touch Screens（SBASE V1.4 support MKS LCD12864A/MINI12864/LCD2004
 - [mackron/miniphysics](https://github.com/mackron/miniphysics) - Single file collision detection and dynamics library.
 - [elcritch/nesper](https://github.com/elcritch/nesper) - Program the ESP32 with Nim! Wrappers around ESP-IDF API's.
@@ -355,7 +357,6 @@
 - [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura.
 - [shapeforge/Chill](https://github.com/shapeforge/Chill) - Chill, node editor
 - [Yixin-Hu/TetWild](https://github.com/Yixin-Hu/TetWild) - Robust Tetrahedral Meshing in the Wild.
-- [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
 - [mfx-inria/curvislicer](https://github.com/mfx-inria/curvislicer) - CurviSlicer: Slightly curved slicing for 3-axis printers
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX) - Neural Networks from Scratch in various programming languages
@@ -449,7 +450,7 @@
 - [mortennobel/RenderE](https://github.com/mortennobel/RenderE) - Simple render engine for OpenGL
 - [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 - [horde3d/Horde3D](https://github.com/horde3d/Horde3D) - Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [starwing/amoeba](https://github.com/starwing/amoeba) - a Cassowary constraint solving algorithm implements in pure C.
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [behdad/glyphy](https://github.com/behdad/glyphy) - GLyphy is a signed-distance-field (SDF) text renderer using OpenGL ES2 shading language.
@@ -542,7 +543,7 @@
 ## Elixir 
 
 - [OndraFTW/seagull](https://github.com/OndraFTW/seagull) - Simple GUI library for Elixir language based on wxErlang
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 ## Elm 
 
@@ -1806,7 +1807,7 @@
 - [viaprotocol/web3-wallets](https://github.com/viaprotocol/web3-wallets) - Connect multiple web3 wallets to your dapp easily
 - [DefiLlama/defillama-app](https://github.com/DefiLlama/defillama-app) - 
 - [two-ticks/p5.teach.js](https://github.com/two-ticks/p5.teach.js) - A beginner friendly math animation library for p5.js
-- [polywrap/toolchain](https://github.com/polywrap/toolchain) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
+- [polywrap/cli](https://github.com/polywrap/cli) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
