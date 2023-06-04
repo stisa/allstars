@@ -280,7 +280,7 @@
 - [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 
 ## artificial-intelligence 
 
@@ -1062,7 +1062,7 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [eXpl0it3r/SmallGameEngine](https://github.com/eXpl0it3r/SmallGameEngine) - A small game engine or better said a state machine.
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -1754,6 +1754,7 @@
 
 ## others 
 
+- [karimnaaji/voxelizer](https://github.com/karimnaaji/voxelizer) - Header only mesh voxelizer in c99
 - [RichRap/Sli3DR](https://github.com/RichRap/Sli3DR) - Sli3DR -RepRap 3D Printer design by RichRap
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
@@ -1951,7 +1952,7 @@
 - [bcnmy/mexa](https://github.com/bcnmy/mexa) - Repository contains smart contracts for biconomy's Mexa platform to implement meta transactions and allow dapp users to perform blockchain operations without holding any ether or other crypto currency
 - [opengsn/gsn-with-ethers](https://github.com/opengsn/gsn-with-ethers) - Minimal test to show how to use GSN with ethers
 - [cihologramas/pyoptools](https://github.com/cihologramas/pyoptools) - Python tools for optical design
-- [polywrap/toolchain](https://github.com/polywrap/toolchain) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
+- [polywrap/cli](https://github.com/polywrap/cli) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
 - [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET 6
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 Future web pattern
@@ -2691,7 +2692,7 @@
 - [jcoglan/berliner](https://github.com/jcoglan/berliner) - Sinatra refactored, only eight lines now. More popular than a pair of socks.
 - [Xeoncross/forumfive](https://github.com/Xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
 - [OndraFTW/seagull](https://github.com/OndraFTW/seagull) - Simple GUI library for Elixir language based on wxErlang
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [cmusphinx/sphinxbase](https://github.com/cmusphinx/sphinxbase) - 
 - [fbrinker/android-flatUiColors](https://github.com/fbrinker/android-flatUiColors) - Android Colors for Flat UI Design
 - [VikParuchuri/scribe](https://github.com/VikParuchuri/scribe) - Simple speech recognition using your microphone.
