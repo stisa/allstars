@@ -65,7 +65,6 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Standard ML](#standard-ml)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -270,6 +269,7 @@
 
 ## C++ 
 
+- [OpenGATE/Gate](https://github.com/OpenGATE/Gate) - Official public repository of Gate
 - [RichRap/Sli3DR](https://github.com/RichRap/Sli3DR) - Sli3DR -RepRap 3D Printer design by RichRap
 - [NVIDIAGameWorks/RTXDI](https://github.com/NVIDIAGameWorks/RTXDI) - 
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
@@ -484,6 +484,7 @@
 ## CSS 
 
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
+- [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
 - [StefanSalewski/NimProgrammingBook](https://github.com/StefanSalewski/NimProgrammingBook) - Computer Programming with the Nim Programming Language -- A gentle Introduction
 - [propjockey/css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
@@ -702,7 +703,6 @@
 - [nick-parker/Bread](https://github.com/nick-parker/Bread) - An experimental slicer for FFF 3D Printers
 - [kcheeeung/gcode_layer_writer](https://github.com/kcheeeung/gcode_layer_writer) - Image analysis software to create customized gcode coordinate maps for 3D Bioprinting.
 - [sedmorteza/ND](https://github.com/sedmorteza/ND) - ImageJ plugin for image analysis of porous materials
-- [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
 - [MaskedRetriever/SuperSkein](https://github.com/MaskedRetriever/SuperSkein) - Open Source 3D Mesh Slicer in Processing: Generates gcode from stl files.
 - [aspirebudgetingmobile/aspirebudgeting_android](https://github.com/aspirebudgetingmobile/aspirebudgeting_android) - An independent community driven app for the Aspire Budget Google Sheet
 - [notriddle/budget-envelopes](https://github.com/notriddle/budget-envelopes) - An Android app for managing money.
@@ -764,6 +764,7 @@
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
 - [lo-th/uil](https://github.com/lo-th/uil) - simple javascript ui
 - [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS) - Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
 - [photonstorm/phaser-nano](https://github.com/photonstorm/phaser-nano) - Phaser Nano is a highly optimized game framework created for super low file size environments such as banner ads.
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
@@ -1306,6 +1307,7 @@
 
 ## Others 
 
+- [sneakytreesnake/CrownCooler](https://github.com/sneakytreesnake/CrownCooler) - "Crown" shaped cooling duct and associated hot end mount for Voron Trident and V2.4 printers
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [Armchair-Engineering/P-REXZ](https://github.com/Armchair-Engineering/P-REXZ) - 
 - [CroXY3D/Sailfin-Extruder](https://github.com/CroXY3D/Sailfin-Extruder) - A lightweight compact extruder with 5:1 gearing using BMG dual drive
@@ -1556,7 +1558,7 @@
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [cihologramas/pyoptools](https://github.com/cihologramas/pyoptools) - Python tools for optical design
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
-- [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - Tutorials for on-ramping to StarkNet
+- [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
 - [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -1620,7 +1622,7 @@
 - [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [FEniCS/ffcx](https://github.com/FEniCS/ffcx) - Next generation FEniCS Form Compiler for finite element forms
 - [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) - An implementation of chunked, compressed, N-dimensional arrays for Python.
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
+- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://woven.toyota
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [jellespijker/pymech](https://github.com/jellespijker/pymech) - Continuation for this project is stopped. Focus is now on the MechEng modules ( https://github.com/mecheng )  A Python module for mechanical engineers. Project which is mostly based on the books of Ro
 - [JorgeDeLosSantos/nusa](https://github.com/JorgeDeLosSantos/nusa) - A Python library for structural analysis using the finite element method
@@ -1717,7 +1719,7 @@
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
 - [braun-embedded/stepper](https://github.com/braun-embedded/stepper) - Universal Stepper Motor Interface
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [witheve/eve-native](https://github.com/witheve/eve-native) - 
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -1778,10 +1780,6 @@
 
 - [melsman/apltail](https://github.com/melsman/apltail) - APL Compiler targeting a typed array intermediate language
 
-## Svelte 
-
-- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
-
 ## Swift 
 
 - [WalletConnect/WalletConnectSwiftV2](https://github.com/WalletConnect/WalletConnectSwiftV2) - WalletConnect Swift SDK v2
@@ -1798,7 +1796,7 @@
 
 ## TypeScript 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
@@ -1813,6 +1811,7 @@
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
 - [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
+- [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.8 - Ethereum Gas Station Network
@@ -1821,7 +1820,6 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
-- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [projectsophon/hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - This is where Phaser 4 is being developed
