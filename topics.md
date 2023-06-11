@@ -222,7 +222,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
@@ -432,7 +432,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 
 ## chrome 
 
@@ -1117,7 +1117,7 @@
 ## http 
 
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -1434,7 +1434,7 @@
 - [jrieke/shape-detection](https://github.com/jrieke/shape-detection) - 🟣  Object detection of abstract shapes with neural networks
 - [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) - PyTorch - Python + Nim
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
+- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://woven.toyota
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
@@ -1754,6 +1754,8 @@
 
 ## others 
 
+- [OpenGATE/Gate](https://github.com/OpenGATE/Gate) - Official public repository of Gate
+- [sneakytreesnake/CrownCooler](https://github.com/sneakytreesnake/CrownCooler) - "Crown" shaped cooling duct and associated hot end mount for Voron Trident and V2.4 printers
 - [karimnaaji/voxelizer](https://github.com/karimnaaji/voxelizer) - Header only mesh voxelizer in c99
 - [RichRap/Sli3DR](https://github.com/RichRap/Sli3DR) - Sli3DR -RepRap 3D Printer design by RichRap
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
@@ -1972,7 +1974,7 @@
 - [R3D4NG3L/PersonalExpenseReport](https://github.com/R3D4NG3L/PersonalExpenseReport) - Personal Expense Report on Google Sheet with Telegram Bot integration
 - [neuebot/FIBR3DEmul](https://github.com/neuebot/FIBR3DEmul) - Custom 3 and 5 axis FDM process simulator.
 - [zenzoa/tomographical](https://github.com/zenzoa/tomographical) - A little web-based nonogram puzzle.
-- [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - Tutorials for on-ramping to StarkNet
+- [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
 - [bcnmy/metatx-standard](https://github.com/bcnmy/metatx-standard) - Repository contains generalized meta transaction standard that can be added to any smart contract to allow Meta Transactions from any externally-owned (key-based) account.
 - [aloelabs/aloe-blend](https://github.com/aloelabs/aloe-blend) - Maximizing liquidity utilization while maintaining 50/50 inventory ratio
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
@@ -2995,7 +2997,7 @@
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [lab10-coop/pwasm-erc777](https://github.com/lab10-coop/pwasm-erc777) - ERC777 Ethereum Token Standard implemented in Rust using pwasm
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -3024,7 +3026,7 @@
 
 ## security 
 
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 
 ## self-hosted 
@@ -3041,7 +3043,7 @@
 
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 
 ## shell 
 
@@ -3192,7 +3194,7 @@
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
