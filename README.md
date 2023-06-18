@@ -948,7 +948,7 @@
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [cjgammon/Oxygen](https://github.com/cjgammon/Oxygen) - SUPER Lightweight 2D WebGL Display List
-- [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
+- [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [pixelpicosean/lesser-panda](https://github.com/pixelpicosean/lesser-panda) - [Deprecated] Module based HTML5 game engine
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [maierfelix/PokeMMO](https://github.com/maierfelix/PokeMMO) - :video_game: Pokemon MMO engine with realtime editor
@@ -1469,6 +1469,7 @@
 
 ## Python 
 
+- [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
@@ -1824,7 +1825,7 @@
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - This is where Phaser 4 is being developed
 - [Lakuna/ugl](https://github.com/Lakuna/ugl) - A lightweight WebGL2 library.
-- [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
+- [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [Developer-DAO/web3-ui](https://github.com/Developer-DAO/web3-ui) - A React UI library for Web3
 - [0xsequence/erc20-meta-token](https://github.com/0xsequence/erc20-meta-token) - General ERC20 to ERC1155 Token Wrapper Contract
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
