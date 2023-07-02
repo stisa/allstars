@@ -102,6 +102,7 @@
 
 ## C 
 
+- [openMLA/photon-ultra-controller](https://github.com/openMLA/photon-ultra-controller) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
 - [karimnaaji/voxelizer](https://github.com/karimnaaji/voxelizer) - Header only mesh voxelizer in c99
 - [trinamic/TMC-API](https://github.com/trinamic/TMC-API) - TRINAMIC's IC API
 - [raspberrypi/pico-extras](https://github.com/raspberrypi/pico-extras) - 
@@ -270,6 +271,7 @@
 
 ## C++ 
 
+- [glotzerlab/fresnel](https://github.com/glotzerlab/fresnel) - Publication quality path tracing in real time.
 - [OpenGATE/Gate](https://github.com/OpenGATE/Gate) - Official public repository of Gate
 - [RichRap/Sli3DR](https://github.com/RichRap/Sli3DR) - Sli3DR -RepRap 3D Printer design by RichRap
 - [NVIDIAGameWorks/RTXDI](https://github.com/NVIDIAGameWorks/RTXDI) - 
@@ -1110,7 +1112,7 @@
 - [PMunch/ratel](https://github.com/PMunch/ratel) - 
 - [SciNim/Unchained](https://github.com/SciNim/Unchained) - A fully type safe, compile time only units library.
 - [abisxir/alasgar](https://github.com/abisxir/alasgar) - 3D game engine for nim
-- [al6x/nim](https://github.com/al6x/nim) - 
+- [al6x/nim](https://github.com/al6x/nim) - Nim Web Framework
 - [arnetheduck/nim-results](https://github.com/arnetheduck/nim-results) - Friendly value-or-error type
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [juancarlospaco/webgui](https://github.com/juancarlospaco/webgui) - Web Technologies based Crossplatform GUI Framework with Dark theme
@@ -1680,7 +1682,7 @@
 - [Calysto/metakernel](https://github.com/Calysto/metakernel) - Jupyter/IPython Kernel Tools
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [hplgit/pysketcher](https://github.com/hplgit/pysketcher) - Python-based drawing tool for making sketches of mechanics problems.
-- [scipy-lectures/scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem
+- [scipy-lectures/scientific-python-lectures](https://github.com/scipy-lectures/scientific-python-lectures) - Tutorial material on the scientific Python ecosystem
 - [brendan-rius/jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
 - [tjfulle/fem-with-python](https://github.com/tjfulle/fem-with-python) - Materials for introductory Finite Element course
 - [firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake) - Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM)
@@ -1805,7 +1807,7 @@
 
 ## TypeScript 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
