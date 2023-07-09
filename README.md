@@ -110,7 +110,6 @@
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
 - [CAP1Sup/Intellistep](https://github.com/CAP1Sup/Intellistep) - A rework of the terribly coded firmware from the BTT S42B v2 boards
-- [jackw01/smallXY](https://github.com/jackw01/smallXY) - Experimental CoreXY 3D printer
 - [NVIDIA/gvdb-voxels](https://github.com/NVIDIA/gvdb-voxels) - Sparse volume compute and rendering on NVIDIA GPUs
 - [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
 - [LingDong-/t43](https://github.com/LingDong-/t43) - A tiny 3D slicer written from scratch
@@ -271,6 +270,7 @@
 
 ## C++ 
 
+- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [glotzerlab/fresnel](https://github.com/glotzerlab/fresnel) - Publication quality path tracing in real time.
 - [OpenGATE/Gate](https://github.com/OpenGATE/Gate) - Official public repository of Gate
 - [RichRap/Sli3DR](https://github.com/RichRap/Sli3DR) - Sli3DR -RepRap 3D Printer design by RichRap
@@ -353,7 +353,6 @@
 - [firepick1/FireStep](https://github.com/firepick1/FireStep) - 
 - [BCN3D/BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 - [SkyentificGit/SmallRobotArm](https://github.com/SkyentificGit/SmallRobotArm) - This is the open source project of the 6DoF robot arm based on stepper motors
-- [PCrnjak/Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm) - All files  for 6 axis robot arm with cycloidal gearboxes .
 - [FYSETC/FYSETC-E4](https://github.com/FYSETC/FYSETC-E4) - FYSETC Board - The E4 board is a minimal 3D printer control board based on the ESP32 microcontroller from ESPRESSIF, with built-in Wi-Fi and Bluetooth.
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [MarginallyClever/Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - CNC firmware for many different control boards and kinematic systems.  Originally the brain of the Makelangelo art robot.
@@ -700,6 +699,7 @@
 
 ## Java 
 
+- [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
 - [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [akmaier/CONRAD](https://github.com/akmaier/CONRAD) - CONRAD Repository
@@ -1112,7 +1112,7 @@
 - [PMunch/ratel](https://github.com/PMunch/ratel) - 
 - [SciNim/Unchained](https://github.com/SciNim/Unchained) - A fully type safe, compile time only units library.
 - [abisxir/alasgar](https://github.com/abisxir/alasgar) - 3D game engine for nim
-- [al6x/nim](https://github.com/al6x/nim) - Nim Web Framework
+- [al6x/nim](https://github.com/al6x/nim) - Mono - Nim Web Framework
 - [arnetheduck/nim-results](https://github.com/arnetheduck/nim-results) - Friendly value-or-error type
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [juancarlospaco/webgui](https://github.com/juancarlospaco/webgui) - Web Technologies based Crossplatform GUI Framework with Dark theme
@@ -1325,6 +1325,7 @@
 - [Audiotronix/Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [makerbase-mks/MKS-THR36-THR42-UTC](https://github.com/makerbase-mks/MKS-THR36-THR42-UTC) - 
+- [jackw01/smallXY](https://github.com/jackw01/smallXY) - Experimental CoreXY 3D printer
 - [gmlewis/irmf](https://github.com/gmlewis/irmf) - Infinite Resolution Materials Format (IRMF) Shaders
 - [PrintersForAnts/Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) - A Modular Voron V0.1 Style Toolhead
 - [rolohaun/Rook](https://github.com/rolohaun/Rook) - 
@@ -1477,6 +1478,9 @@
 
 ## Python 
 
+- [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
+- [rodrigovimieiro/OpenCodes](https://github.com/rodrigovimieiro/OpenCodes) - Open source codes
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
 - [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
@@ -1551,7 +1555,7 @@
 - [computed-axial-lithography/VAMToolbox](https://github.com/computed-axial-lithography/VAMToolbox) - 
 - [DCC-Lab/RayTracing](https://github.com/DCC-Lab/RayTracing) - Simple ray tracing library in Python for optical design that considers simple optical elements (with ABCD ray matrices) but also finite diameters of elements to calculate aperture and field stops, fie
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
-- [jordanruthe/KlipperScreen](https://github.com/jordanruthe/KlipperScreen) - GUI for Klipper
+- [KlipperScreen/KlipperScreen](https://github.com/KlipperScreen/KlipperScreen) - GUI for Klipper
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
 - [DanalEstes/TAMV](https://github.com/DanalEstes/TAMV) - TAMV = Tool Align Machine Vision for Duet based tool changing 3D printers.
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
@@ -1807,7 +1811,7 @@
 
 ## TypeScript 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
