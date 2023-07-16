@@ -1798,6 +1798,9 @@
 
 ## others 
 
+- [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 7.7 framework.
+- [AnderBiguri/PhDThesis](https://github.com/AnderBiguri/PhDThesis) - A.Biguri PhD thesis: Iterative Reconstruction and Motion compensation in Computed Tomography on GPUs
+- [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
 - [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
@@ -1810,7 +1813,7 @@
 - [sneakytreesnake/CrownCooler](https://github.com/sneakytreesnake/CrownCooler) - "Crown" shaped cooling duct and associated hot end mount for Voron Trident and V2.4 printers
 - [karimnaaji/voxelizer](https://github.com/karimnaaji/voxelizer) - Header only mesh voxelizer in c99
 - [RichRap/Sli3DR](https://github.com/RichRap/Sli3DR) - Sli3DR -RepRap 3D Printer design by RichRap
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [NVIDIAGameWorks/RTXDI](https://github.com/NVIDIAGameWorks/RTXDI) - 
@@ -2202,6 +2205,7 @@
 - [MarginallyClever/sixi-2](https://github.com/MarginallyClever/sixi-2) - Sixi 2 Robot Arm
 - [HaddingtonDynamics/Dexter](https://github.com/HaddingtonDynamics/Dexter) - 
 - [SkyentificGit/SmallRobotArm](https://github.com/SkyentificGit/SmallRobotArm) - This is the open source project of the 6DoF robot arm based on stepper motors
+- [PCrnjak/Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm) - All files  for 6 axis robot arm with cycloidal gearboxes .
 - [gloomyandy/RepRapFirmware](https://github.com/gloomyandy/RepRapFirmware) - OO C++ RepRap Firmware
 - [synthetos/TinyG](https://github.com/synthetos/TinyG) - Affordable Industrial Grade Motion Control
 - [Stephan3/dwc2-for-klipper-socket](https://github.com/Stephan3/dwc2-for-klipper-socket) - dwc2-for-klipper using klippers unixsocket
