@@ -270,6 +270,7 @@
 
 ## C++ 
 
+- [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [glotzerlab/fresnel](https://github.com/glotzerlab/fresnel) - Publication quality path tracing in real time.
 - [OpenGATE/Gate](https://github.com/OpenGATE/Gate) - Official public repository of Gate
@@ -353,6 +354,7 @@
 - [firepick1/FireStep](https://github.com/firepick1/FireStep) - 
 - [BCN3D/BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 - [SkyentificGit/SmallRobotArm](https://github.com/SkyentificGit/SmallRobotArm) - This is the open source project of the 6DoF robot arm based on stepper motors
+- [PCrnjak/Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm) - All files  for 6 axis robot arm with cycloidal gearboxes .
 - [FYSETC/FYSETC-E4](https://github.com/FYSETC/FYSETC-E4) - FYSETC Board - The E4 board is a minimal 3D printer control board based on the ESP32 microcontroller from ESPRESSIF, with built-in Wi-Fi and Bluetooth.
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [MarginallyClever/Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - CNC firmware for many different control boards and kinematic systems.  Originally the brain of the Makelangelo art robot.
@@ -1478,13 +1480,14 @@
 
 ## Python 
 
+- [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 7.7 framework.
 - [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
 - [rodrigovimieiro/OpenCodes](https://github.com/rodrigovimieiro/OpenCodes) - Open source codes
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
 - [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
 - [karlotness/adrt](https://github.com/karlotness/adrt) - Fast approximate discrete Radon transform for NumPy arrays
@@ -1803,6 +1806,7 @@
 
 ## TeX 
 
+- [AnderBiguri/PhDThesis](https://github.com/AnderBiguri/PhDThesis) - A.Biguri PhD thesis: Iterative Reconstruction and Motion compensation in Computed Tomography on GPUs
 - [dante-ev/latex-action](https://github.com/dante-ev/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [DrewNF/Write-Thesis-in-Latex](https://github.com/DrewNF/Write-Thesis-in-Latex) - Latex Template to develop a Report for the Final Project (Thesis)
 - [nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs) - An easy and convenient package to create technical LaTeX documents.
