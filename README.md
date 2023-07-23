@@ -44,6 +44,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
+- [NASL](#nasl)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -117,6 +118,7 @@
 - [EchoHeim/Allwinner-H616](https://github.com/EchoHeim/Allwinner-H616) - 🔥 Linux SDK for Allwinner H616, based on armbian-build
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
 - [PanagiotisMenounos/3DHex](https://github.com/PanagiotisMenounos/3DHex) - 3DHex is a windows host controller 3D printer firmware
+- [markniu/Bed_Distance_sensor](https://github.com/markniu/Bed_Distance_sensor) - Auto bed level with High resolution distance sensor
 - [Yardanico/mimalloc_nim](https://github.com/Yardanico/mimalloc_nim) - A drop-in solution to use mimalloc in Nim with ARC/ORC
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
@@ -270,6 +272,7 @@
 
 ## C++ 
 
+- [francisengelmann/fast_voxel_traversal](https://github.com/francisengelmann/fast_voxel_traversal) - Fast and simple voxel traversal algorithm through a 3D space partition.
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [glotzerlab/fresnel](https://github.com/glotzerlab/fresnel) - Publication quality path tracing in real time.
@@ -769,7 +772,6 @@
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
 - [lo-th/uil](https://github.com/lo-th/uil) - simple javascript ui
-- [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS) - Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
 - [photonstorm/phaser-nano](https://github.com/photonstorm/phaser-nano) - Phaser Nano is a highly optimized game framework created for super low file size environments such as banner ads.
@@ -1085,6 +1087,10 @@
 
 - [pierremtb/PINNs-TF2.0](https://github.com/pierremtb/PINNs-TF2.0) - TensorFlow 2.0 implementation of Maziar Raissi's Physics Informed Neural Networks (PINNs).
 - [AUMAG/magcode](https://github.com/AUMAG/magcode) - Models for calculating magnetic fields and interactions
+
+## NASL 
+
+- [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
 
 ## Nim 
 
@@ -1480,6 +1486,10 @@
 
 ## Python 
 
+- [mmirman/MentisOculi](https://github.com/mmirman/MentisOculi) - A raytracer written in PyTorch (raynet?)
+- [vguzov/pytorch_pathtracer](https://github.com/vguzov/pytorch_pathtracer) - 3D polygon scene renderer based on path tracing method. Fully implemented on PyTorch
+- [viesturz/TapChanger-lite](https://github.com/viesturz/TapChanger-lite) - Lightweight toolchanger for Voron 2 with Tap like nozzle probe
+- [unjordy/klipper-repl](https://github.com/unjordy/klipper-repl) - The missing Klipper command line. A CLI G-Code REPL for 3D printers running on Klipper firmware.
 - [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 7.7 framework.
 - [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
 - [rodrigovimieiro/OpenCodes](https://github.com/rodrigovimieiro/OpenCodes) - Open source codes
@@ -1553,7 +1563,6 @@
 - [itsron143/calibCV](https://github.com/itsron143/calibCV) - Automatic XY Calibration for Aether 3D BioPrinter using Computer Vision
 - [magis-slac/gradoptics](https://github.com/magis-slac/gradoptics) - 
 - [BoyuanChen/neural-state-variables](https://github.com/BoyuanChen/neural-state-variables) - 
-- [markniu/Bed_Distance_sensor](https://github.com/markniu/Bed_Distance_sensor) - Auto bed level with High resolution distance sensor
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper
 - [computed-axial-lithography/VAMToolbox](https://github.com/computed-axial-lithography/VAMToolbox) - 
 - [DCC-Lab/RayTracing](https://github.com/DCC-Lab/RayTracing) - Simple ray tracing library in Python for optical design that considers simple optical elements (with ABCD ray matrices) but also finite diameters of elements to calculate aperture and field stops, fie
@@ -1838,6 +1847,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
+- [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS) - Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
 - [projectsophon/hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - This is where Phaser 4 is being developed
