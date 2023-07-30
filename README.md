@@ -117,12 +117,12 @@
 - [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [EchoHeim/Allwinner-H616](https://github.com/EchoHeim/Allwinner-H616) - 🔥 Linux SDK for Allwinner H616, based on armbian-build
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
-- [PanagiotisMenounos/3DHex](https://github.com/PanagiotisMenounos/3DHex) - 3DHex is a windows host controller 3D printer firmware
 - [markniu/Bed_Distance_sensor](https://github.com/markniu/Bed_Distance_sensor) - Auto bed level with High resolution distance sensor
 - [Yardanico/mimalloc_nim](https://github.com/Yardanico/mimalloc_nim) - A drop-in solution to use mimalloc in Nim with ARC/ORC
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
 - [trinamic/TMC-EvalSystem](https://github.com/trinamic/TMC-EvalSystem) - TRINAMIC's Evaluation System Firmware.
+- [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - voxel art tools - editor, thumbnailer and format converter
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [irishpatrick/pico-servo](https://github.com/irishpatrick/pico-servo) - A simple C library for controlling servos using a Raspberry Pi Pico
@@ -315,6 +315,7 @@
 - [m-pilia/volume-raycasting](https://github.com/m-pilia/volume-raycasting) - Simple visualiser based on GPU-accelerated single-pass volumetric raycasting
 - [juj/fbcp-ili9341](https://github.com/juj/fbcp-ili9341) - A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3, 4 and Zero
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
+- [PanagiotisMenounos/3DHex](https://github.com/PanagiotisMenounos/3DHex) - 3DHex is a windows host controller 3D printer firmware
 - [vlare3d/OSF](https://github.com/vlare3d/OSF) - Vlare Core's open source format.
 - [ern0/howto-wasm-minimal](https://github.com/ern0/howto-wasm-minimal) - How to create minimal wasm module
 - [sylefeb/VoxSurf](https://github.com/sylefeb/VoxSurf) - A simple, easily hackable C++ surface voxelizer (STL=&gt;voxels)
@@ -327,7 +328,6 @@
 - [LuxCoreRender/LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [daeyun/mesh-to-depth](https://github.com/daeyun/mesh-to-depth) - Depth map generator for Python written in C++
-- [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - voxel art tools - editor, thumbnailer and format converter
 - [ttddee/Cascade](https://github.com/ttddee/Cascade) - Node-based image editor with GPU-acceleration.
 - [neuebot/FIBR3DEmul](https://github.com/neuebot/FIBR3DEmul) - Custom 3 and 5 axis FDM process simulator.
 - [sparkfun/Qwiic_Transparent_Graphical_OLED](https://github.com/sparkfun/Qwiic_Transparent_Graphical_OLED) - Hardware repo for the Transparent Graphical OLED
@@ -529,6 +529,7 @@
 
 ## Cuda 
 
+- [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [luyuechao/ConeBeamGpu](https://github.com/luyuechao/ConeBeamGpu) - 
 - [MSUNDGR1/CUDA-accelerated-Voxelization](https://github.com/MSUNDGR1/CUDA-accelerated-Voxelization) - Voxelization method that takes a triangle mesh (in this case from an stl file), and converts it into a 3d map of voxels.
 
@@ -636,6 +637,7 @@
 
 ## HTML 
 
+- [r-selfhosted-wiki/wiki](https://github.com/r-selfhosted-wiki/wiki) - Full-wiki Backup and Source for the reddit.com/r/selfhosted official wiki.
 - [DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction](https://github.com/DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction) - Gyrfalcon is a stand-alone Matlab application that is capable of simulating a variety of CT scan types (pencil beam, fan beam, cone beam), importing raw scan data, and reconstructing the data produced
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [ries-lab/LaserEngine](https://github.com/ries-lab/LaserEngine) - Blueprints for a low-cost laser combiner compatible with wide-field and localization microscopy.
@@ -704,6 +706,7 @@
 
 ## Java 
 
+- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
 - [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
@@ -1004,6 +1007,7 @@
 - [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator) - Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 - [unicast-project/unicast](https://github.com/unicast-project/unicast) - UniCast brings machine learning (ML) forecasting and ML models to Uniswap v3 and the larger DeFi ecosystem. The project aims to contribute with the tools, building blocks and examples to create, train
 - [usnistgov/openfoamEmbedded3DP](https://github.com/usnistgov/openfoamEmbedded3DP) - Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing
+- [pachterlab/poseidon](https://github.com/pachterlab/poseidon) - poseidon system - open source syringe pumps and microscope for laboratories
 - [ItsAwSM/Python-for-Data-Analytics](https://github.com/ItsAwSM/Python-for-Data-Analytics) - This course will teach you only the relevant topics in Python for starting your career in Data Analytics. There are also a bunch of tips and tricks throughout for resume writing, solving case studies,
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -1028,7 +1032,7 @@
 - [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [Institute-of-Coding-Northumbria/machine-learning-for-beginners](https://github.com/Institute-of-Coding-Northumbria/machine-learning-for-beginners) - 🤖Notebooks of machine learning for beginners developed by the Institute of Coding - Northumbria University
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [sgugger/Deep-Learning](https://github.com/sgugger/Deep-Learning) - A few notebooks about deep learning in pytorch
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
@@ -1486,6 +1490,7 @@
 
 ## Python 
 
+- [qurit/PyTomography](https://github.com/qurit/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
 - [mmirman/MentisOculi](https://github.com/mmirman/MentisOculi) - A raytracer written in PyTorch (raynet?)
 - [vguzov/pytorch_pathtracer](https://github.com/vguzov/pytorch_pathtracer) - 3D polygon scene renderer based on path tracing method. Fully implemented on PyTorch
 - [viesturz/TapChanger-lite](https://github.com/viesturz/TapChanger-lite) - Lightweight toolchanger for Voron 2 with Tap like nozzle probe
@@ -1515,7 +1520,7 @@
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [cranberrymuffin/voxel-carving](https://github.com/cranberrymuffin/voxel-carving) - Voxel carving of Middlebury stereo 'Temple' dataset in Python with Open3D
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
@@ -1589,7 +1594,7 @@
 - [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-- [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient script for trading with python.
+- [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
 - [mess42/pyrate](https://github.com/mess42/pyrate) - Optical raytracing based on Python
@@ -1621,7 +1626,6 @@
 - [JohanLink/Ball-Balancing-PID-System](https://github.com/JohanLink/Ball-Balancing-PID-System) - 
 - [brandonheller/delta_calibration](https://github.com/brandonheller/delta_calibration) - Scripts to better understand calibration error for auto-probed deltabot 3d printers like Johann's Kossel.
 - [dorna-robotics/dorna2-python](https://github.com/dorna-robotics/dorna2-python) - Python API for Dorna2 robot
-- [pachterlab/poseidon](https://github.com/pachterlab/poseidon) - poseidon system - open source syringe pumps and microscope for laboratories
 - [Stephan3/dwc2-for-klipper-socket](https://github.com/Stephan3/dwc2-for-klipper-socket) - dwc2-for-klipper using klippers unixsocket
 - [kliment/Printrun](https://github.com/kliment/Printrun) - Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software
 - [Cheshireha/GCode_interpreter](https://github.com/Cheshireha/GCode_interpreter) - it is a interpreter of 3D printer
@@ -1824,6 +1828,7 @@
 
 ## TypeScript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
@@ -1877,7 +1882,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
-- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [0xGG/vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
@@ -1918,6 +1923,7 @@
 
 ## Vue 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [Duet3D/DSF-Plugins](https://github.com/Duet3D/DSF-Plugins) - Third-party plugins and demos for DSF and DWC
 - [Duet3D/DuetWebControl](https://github.com/Duet3D/DuetWebControl) - A completely new web interface for the Duet electronics
 - [jupytercon/jupytercon2020-website](https://github.com/jupytercon/jupytercon2020-website) - JupyterCon Website
