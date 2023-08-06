@@ -189,6 +189,7 @@
 
 ## 3d 
 
+- [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
 - [Eisenwave/obj2voxel](https://github.com/Eisenwave/obj2voxel) - Convert OBJ and STL files to voxels, with support for textures. Written in pure C++17 with CMake. No raytracing or slicing or OpenGL shenanigans. Fast and robust using just 3D intersections. Simple as
@@ -631,6 +632,8 @@
 
 ## deep-learning 
 
+- [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
+- [lkhphuc/pytorch-3d-point-cloud-generation](https://github.com/lkhphuc/pytorch-3d-point-cloud-generation) - Pytorch code to construct a 3D point cloud model from single RGB image.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
@@ -923,6 +926,7 @@
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
+- [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
@@ -966,6 +970,7 @@
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
+- [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [PixeyeHQ/pixecs](https://github.com/PixeyeHQ/pixecs) - A pragmatic entity-component-system module for my gamedev needs
@@ -1802,6 +1807,10 @@
 
 ## others 
 
+- [marian42/mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes
+- [gdewael/h5torch](https://github.com/gdewael/h5torch) - HDF data utilities for PyTorch
+- [mvsjober/pytorch-hdf5](https://github.com/mvsjober/pytorch-hdf5) - 
+- [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [r-selfhosted-wiki/wiki](https://github.com/r-selfhosted-wiki/wiki) - Full-wiki Backup and Source for the reddit.com/r/selfhosted official wiki.
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [francisengelmann/fast_voxel_traversal](https://github.com/francisengelmann/fast_voxel_traversal) - Fast and simple voxel traversal algorithm through a 3D space partition.
@@ -1856,7 +1865,6 @@
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
-- [cranberrymuffin/voxel-carving](https://github.com/cranberrymuffin/voxel-carving) - Voxel carving of Middlebury stereo 'Temple' dataset in Python with Open3D
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [OpenSYCL/OpenSYCL](https://github.com/OpenSYCL/OpenSYCL) - Multi-backend implementation of SYCL for CPUs and GPUs
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
@@ -2844,6 +2852,7 @@
 
 ## python 
 
+- [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
 - [qurit/PyTomography](https://github.com/qurit/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
 - [glotzerlab/fresnel](https://github.com/glotzerlab/fresnel) - Publication quality path tracing in real time.
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
