@@ -227,7 +227,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
@@ -438,7 +438,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 
 ## chrome 
 
@@ -498,7 +498,7 @@
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
 - [unclearness/vacancy](https://github.com/unclearness/vacancy) - Vacancy: A Voxel Carving implementation in C++
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) - Machine Learning University: Accelerated Computer Vision Class
 - [manfreddiaz/awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
@@ -595,7 +595,7 @@
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
@@ -632,6 +632,7 @@
 
 ## deep-learning 
 
+- [nileshkulkarni/volumetricPrimitivesPytorch](https://github.com/nileshkulkarni/volumetricPrimitivesPytorch) - Pytorch Implementation of https://github.com/shubhtuls/volumetricPrimitives
 - [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
 - [lkhphuc/pytorch-3d-point-cloud-generation](https://github.com/lkhphuc/pytorch-3d-point-cloud-generation) - Pytorch code to construct a 3D point cloud model from single RGB image.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -645,7 +646,7 @@
 - [devnag/pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks) - A very simple generative adversarial network (GAN) in PyTorch
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [mlpack/ensmallen](https://github.com/mlpack/ensmallen) - A header-only C++ library for numerical optimization --
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) - Machine Learning University: Accelerated Computer Vision Class
 - [Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode) - A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.
 - [manfreddiaz/awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources
@@ -760,7 +761,7 @@
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.8 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.9 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
@@ -1479,7 +1480,7 @@
 - [devnag/pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks) - A very simple generative adversarial network (GAN) in PyTorch
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [mlpack/ensmallen](https://github.com/mlpack/ensmallen) - A header-only C++ library for numerical optimization --
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) - Machine Learning University: Accelerated Computer Vision Class
 - [endrehp/FEM-ML](https://github.com/endrehp/FEM-ML) - 
 - [mimocha/ga-lancer](https://github.com/mimocha/ga-lancer) - Vehicle simulation in MATLAB + Application of Genetic Algorithm to optimize neural network
@@ -1807,6 +1808,11 @@
 
 ## others 
 
+- [instrumentkit/InstrumentKit](https://github.com/instrumentkit/InstrumentKit) - Python package for interacting with laboratory equipment over various buses.
+- [cpederkoff/stl-to-voxel](https://github.com/cpederkoff/stl-to-voxel) - Turn STL files into voxels, images, and videos
+- [unixpickle/sdf-torch](https://github.com/unixpickle/sdf-torch) - Simple SDF mesh generation in Python
+- [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
+- [mossmao/Minimizing-printing-time-and-volumetric-error-by-GPU-accelerated-adaptive-slicing](https://github.com/mossmao/Minimizing-printing-time-and-volumetric-error-by-GPU-accelerated-adaptive-slicing) - Minimizing printing time and volumetric error by GPU-accelerated adaptive slicing
 - [danielkucera/creality-remote-control](https://github.com/danielkucera/creality-remote-control) - 
 - [treeform/shady](https://github.com/treeform/shady) - Nim to GPU shader language compiler and supporting utilities.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -1864,7 +1870,7 @@
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
@@ -2607,7 +2613,7 @@
 - [TomCrypto/caret](https://github.com/TomCrypto/caret) - Nim on ESP8266 experiments
 - [nimious/gles](https://github.com/nimious/gles) - Nim bindings for OpenGL ES, the embedded 3D graphics library.
 - [theduke/nim-playground](https://github.com/theduke/nim-playground) - A interactive website and server that allow you to easily play with and explore the Nim programming language.
-- [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
+- [khchen/winim](https://github.com/khchen/winim) - Windows API, COM, and CLR Module for Nim
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 - [evanw/lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library
 - [TheSos/allegrojs](https://github.com/TheSos/allegrojs) - a HTML5 game making library
@@ -2766,7 +2772,7 @@
 - [dbsGen/binding](https://github.com/dbsGen/binding) - Binding GDScript to native languages(Java,Obj-C).
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
 - [jcoglan/berliner](https://github.com/jcoglan/berliner) - Sinatra refactored, only eight lines now. More popular than a pair of socks.
-- [Xeoncross/forumfive](https://github.com/Xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
+- [xeoncross/forumfive](https://github.com/xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
 - [OndraFTW/seagull](https://github.com/OndraFTW/seagull) - Simple GUI library for Elixir language based on wxErlang
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [cmusphinx/sphinxbase](https://github.com/cmusphinx/sphinxbase) - 
@@ -2900,7 +2906,7 @@
 - [williamhunter/topy](https://github.com/williamhunter/topy) - Topology Optimization using Python
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [AtsushiSakai/PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl) - Python codes for advanced control
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [aws-samples/aws-machine-learning-university-accelerated-cv](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv) - Machine Learning University: Accelerated Computer Vision Class
 - [springer-math/dynamical-systems-with-applications-using-python](https://github.com/springer-math/dynamical-systems-with-applications-using-python) - Source code for 'Dynamical Systems with Applications Using Python' by Stephen Lynch
 - [eddardd/Control-Theory](https://github.com/eddardd/Control-Theory) - Tutorials on Control Theory
@@ -2972,7 +2978,7 @@
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [devnag/pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks) - A very simple generative adversarial network (GAN) in PyTorch
 - [diegoalejogm/gans](https://github.com/diegoalejogm/gans) - Generative Adversarial Networks implemented in PyTorch and Tensorflow
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) - PyTorch - Python + Nim
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [uvipen/Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch) - YOLO for object detection tasks
@@ -2998,7 +3004,7 @@
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [johang/sd-card-images](https://github.com/johang/sd-card-images) - Scripts to build bootable SD card images with Debian for various single-board computers
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
-- [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 - [ThomasTJdev/nim_homeassistant](https://github.com/ThomasTJdev/nim_homeassistant) - Nim Home Assistant (NimHA) is a hub for combining multiple home automation devices and automating jobs.
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
@@ -3145,7 +3151,7 @@
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.8 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.9 - Ethereum Gas Station Network
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
@@ -3180,7 +3186,7 @@
 
 ## telegram 
 
-- [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 
 ## tensorflow 
 
@@ -3189,7 +3195,7 @@
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
 - [kevinczhou/optical-coherence-refraction-tomography](https://github.com/kevinczhou/optical-coherence-refraction-tomography) - Code for optical coherence refraction tomography (OCRT)
 - [diegoalejogm/gans](https://github.com/diegoalejogm/gans) - Generative Adversarial Networks implemented in PyTorch and Tensorflow
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [endrehp/FEM-ML](https://github.com/endrehp/FEM-ML) - 
 - [microsoft/AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) - Scenarios, tutorials and demos for Autonomous Driving
 - [Institute-of-Coding-Northumbria/machine-learning-for-beginners](https://github.com/Institute-of-Coding-Northumbria/machine-learning-for-beginners) - 🤖Notebooks of machine learning for beginners developed by the Institute of Coding - Northumbria University
