@@ -271,6 +271,7 @@
 
 ## C++ 
 
+- [mossmao/Minimizing-printing-time-and-volumetric-error-by-GPU-accelerated-adaptive-slicing](https://github.com/mossmao/Minimizing-printing-time-and-volumetric-error-by-GPU-accelerated-adaptive-slicing) - Minimizing printing time and volumetric error by GPU-accelerated adaptive slicing
 - [francisengelmann/fast_voxel_traversal](https://github.com/francisengelmann/fast_voxel_traversal) - Fast and simple voxel traversal algorithm through a 3D space partition.
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
@@ -733,6 +734,7 @@
 
 ## JavaScript 
 
+- [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
 - [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
 - [tmpvar/gcode-raymarch-sim](https://github.com/tmpvar/gcode-raymarch-sim) - experimenting with a raymarching approach for gcode simulation
 - [Twinklebear/webgl-volume-raycaster](https://github.com/Twinklebear/webgl-volume-raycaster) - A WebGL Volume Raycaster
@@ -1258,7 +1260,7 @@
 - [pragmagic/nimue4](https://github.com/pragmagic/nimue4) - Nim language integration for Unreal Engine 4
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 - [nimious/gles](https://github.com/nimious/gles) - Nim bindings for OpenGL ES, the embedded 3D graphics library.
-- [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
+- [khchen/winim](https://github.com/khchen/winim) - Windows API, COM, and CLR Module for Nim
 - [Vladar4/nimgame2](https://github.com/Vladar4/nimgame2) - A simple 2D game engine for Nim language.
 - [flyx/emerald](https://github.com/flyx/emerald) - HTML5 templating engine for Nimrod
 - [define-private-public/HTML5-Canvas-Nim](https://github.com/define-private-public/HTML5-Canvas-Nim) - Module for Nim to add HTML5 Canvas & Drawing (for the JavaScript backend).  Official Repo here:
@@ -1467,7 +1469,7 @@
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-- [Xeoncross/forumfive](https://github.com/Xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
+- [xeoncross/forumfive](https://github.com/xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
 - [johnroper100/dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog - A minimalist markdown blogging platform.
 
 ## PLSQL 
@@ -1493,6 +1495,10 @@
 
 ## Python 
 
+- [instrumentkit/InstrumentKit](https://github.com/instrumentkit/InstrumentKit) - Python package for interacting with laboratory equipment over various buses.
+- [cpederkoff/stl-to-voxel](https://github.com/cpederkoff/stl-to-voxel) - Turn STL files into voxels, images, and videos
+- [unixpickle/sdf-torch](https://github.com/unixpickle/sdf-torch) - Simple SDF mesh generation in Python
+- [nileshkulkarni/volumetricPrimitivesPytorch](https://github.com/nileshkulkarni/volumetricPrimitivesPytorch) - Pytorch Implementation of https://github.com/shubhtuls/volumetricPrimitives
 - [marian42/mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes
 - [gdewael/h5torch](https://github.com/gdewael/h5torch) - HDF data utilities for PyTorch
 - [mvsjober/pytorch-hdf5](https://github.com/mvsjober/pytorch-hdf5) - 
@@ -1529,7 +1535,7 @@
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -1652,7 +1658,7 @@
 - [gasagna/mpc](https://github.com/gasagna/mpc) - A pure Python module for simulating discrete-time linear time-invariant dynamic systems controlled with a model predictive controller.
 - [AtsushiSakai/PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl) - Python codes for advanced control
 - [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [maziarraissi/PINNs](https://github.com/maziarraissi/PINNs) - Physics Informed Deep Learning: Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations
 - [Gunnstein/fatpack](https://github.com/Gunnstein/fatpack) - fatpack provides functions and classes for fatigue analysis of data series.
 - [springer-math/dynamical-systems-with-applications-using-python](https://github.com/springer-math/dynamical-systems-with-applications-using-python) - Source code for 'Dynamical Systems with Applications Using Python' by Stephen Lynch
@@ -1789,7 +1795,7 @@
 - [stas2z/orangepi-build-cb1](https://github.com/stas2z/orangepi-build-cb1) - 
 - [ihrapsa/OctoWrt](https://github.com/ihrapsa/OctoWrt) - A guide to install Octoprint on the Creality WiFi Box or similar OpenWrt devices
 - [ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt) - A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w
-- [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [reviewdog/action-nimlint](https://github.com/reviewdog/action-nimlint) - Run nim check with reviewdog
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
@@ -1837,7 +1843,7 @@
 ## TypeScript 
 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
@@ -1854,7 +1860,7 @@
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.8 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.9 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [Derked/FantasyCampaign](https://github.com/Derked/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
