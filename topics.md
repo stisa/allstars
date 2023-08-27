@@ -478,6 +478,7 @@
 - [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [tmcw/wah](https://github.com/tmcw/wah) - a slightly higher-level language superset of webassembly
@@ -1808,6 +1809,9 @@
 
 ## others 
 
+- [wang-ps/mesh2sdf](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF)
+- [BerkeleyAutomation/meshpy](https://github.com/BerkeleyAutomation/meshpy) - A 3-D triangular mesh package for Python.
+- [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [instrumentkit/InstrumentKit](https://github.com/instrumentkit/InstrumentKit) - Python package for interacting with laboratory equipment over various buses.
 - [cpederkoff/stl-to-voxel](https://github.com/cpederkoff/stl-to-voxel) - Turn STL files into voxels, images, and videos
 - [unixpickle/sdf-torch](https://github.com/unixpickle/sdf-torch) - Simple SDF mesh generation in Python
@@ -1989,7 +1993,7 @@
 - [ghent360/KlipperToolboard](https://github.com/ghent360/KlipperToolboard) - A 3D printer tool head controller board
 - [zruncho3d/double-dragon](https://github.com/zruncho3d/double-dragon) - Double Dragon: world's smallest IDEX 3D printer.  Mod your Voron 0 or build one fresh!
 - [ern0/howto-wasm-minimal](https://github.com/ern0/howto-wasm-minimal) - How to create minimal wasm module with plain C/C++
-- [trinamic/TMC-EvalSystem](https://github.com/trinamic/TMC-EvalSystem) - TRINAMIC's Evaluation System Firmware.
+- [trinamic/TMC-EvalSystem-Archive](https://github.com/trinamic/TMC-EvalSystem-Archive) - TRINAMIC's Evaluation System Firmware.
 - [prusa3d/Prusa-Firmware-SL1](https://github.com/prusa3d/Prusa-Firmware-SL1) - Original Prusa SL1 3D printer firmware
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [sylefeb/VoxSurf](https://github.com/sylefeb/VoxSurf) - A simple, easily hackable C++ surface voxelizer (STL=&gt;voxels)
@@ -3232,6 +3236,7 @@
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [jiro4989/setup-nim-action](https://github.com/jiro4989/setup-nim-action) - Set up your GitHub Actions workflow with a specific version of Nim
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
+- [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [dcodeIO/webassembly](https://github.com/dcodeIO/webassembly) - A minimal toolkit and runtime to produce and run WebAssembly modules.
 - [MaxGraey/Assembleash](https://github.com/MaxGraey/Assembleash) - WebAssembly and Typescript-like languages playground
