@@ -120,7 +120,7 @@
 - [Yardanico/mimalloc_nim](https://github.com/Yardanico/mimalloc_nim) - A drop-in solution to use mimalloc in Nim with ARC/ORC
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
-- [trinamic/TMC-EvalSystem](https://github.com/trinamic/TMC-EvalSystem) - TRINAMIC's Evaluation System Firmware.
+- [trinamic/TMC-EvalSystem-Archive](https://github.com/trinamic/TMC-EvalSystem-Archive) - TRINAMIC's Evaluation System Firmware.
 - [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - voxel art tools - editor, thumbnailer and format converter
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -271,6 +271,7 @@
 
 ## C++ 
 
+- [wang-ps/mesh2sdf](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF)
 - [mossmao/Minimizing-printing-time-and-volumetric-error-by-GPU-accelerated-adaptive-slicing](https://github.com/mossmao/Minimizing-printing-time-and-volumetric-error-by-GPU-accelerated-adaptive-slicing) - Minimizing printing time and volumetric error by GPU-accelerated adaptive slicing
 - [francisengelmann/fast_voxel_traversal](https://github.com/francisengelmann/fast_voxel_traversal) - Fast and simple voxel traversal algorithm through a 3D space partition.
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
@@ -396,7 +397,6 @@
 - [neonious/lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [JCash/voronoi](https://github.com/JCash/voronoi) - A C implementation for creating 2D voronoi diagrams
 - [msokalski/delabella](https://github.com/msokalski/delabella) - 2D Delaunay triangulation (dela) - super stable (bella!)
-- [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [esseks/monicelli](https://github.com/esseks/monicelli) - An esoteric programming language, come se fosse antani.
@@ -540,7 +540,6 @@
 
 ## Dart 
 
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Blakexx/CryptoTracker](https://github.com/Blakexx/CryptoTracker) - An app made using the Flutter framework that allows users to track information for over 1500 cryptocurrencies
 - [livelivecoding/flutter-weather-app](https://github.com/livelivecoding/flutter-weather-app) - 
@@ -832,12 +831,12 @@
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [kanaka/wam](https://github.com/kanaka/wam) - WebAssembly Macro language and processor
-- [marktext/muya](https://github.com/marktext/muya) - Future markdown editor for web browser applications development
 - [gaynetdinov/ex_money](https://github.com/gaynetdinov/ex_money) - An [abandoned] self-hosted personal finance app
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [jagracar/grafica.js](https://github.com/jagracar/grafica.js) - A simple and configurable plotting library for p5.js
@@ -1000,6 +999,7 @@
 
 ## Jupyter Notebook 
 
+- [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
@@ -1089,7 +1089,6 @@
 ## Makefile 
 
 - [intelligent-agent/Recore](https://github.com/intelligent-agent/Recore) - Repository for Recore single board 3D printer control card
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Mathematica 
 
@@ -1409,6 +1408,7 @@
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - :sunrise: A collection of awesome resources for building progressive web apps
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
@@ -1495,6 +1495,7 @@
 
 ## Python 
 
+- [BerkeleyAutomation/meshpy](https://github.com/BerkeleyAutomation/meshpy) - A 3-D triangular mesh package for Python.
 - [instrumentkit/InstrumentKit](https://github.com/instrumentkit/InstrumentKit) - Python package for interacting with laboratory equipment over various buses.
 - [cpederkoff/stl-to-voxel](https://github.com/cpederkoff/stl-to-voxel) - Turn STL files into voxels, images, and videos
 - [unixpickle/sdf-torch](https://github.com/unixpickle/sdf-torch) - Simple SDF mesh generation in Python
@@ -1843,6 +1844,7 @@
 ## TypeScript 
 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
@@ -1893,6 +1895,7 @@
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
+- [marktext/muya](https://github.com/marktext/muya) - Future markdown editor for web browser applications development
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
