@@ -1002,7 +1002,6 @@
 
 ## Jupyter Notebook 
 
-- [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
@@ -1148,7 +1147,7 @@
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [Niminem/Neel](https://github.com/Niminem/Neel) - A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.
 - [saem/vscode-nim](https://github.com/saem/vscode-nim) - 
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like DSL for Godot, implemented in Nim
+- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
 - [Vindaar/NeuralNetworkLiveDemo](https://github.com/Vindaar/NeuralNetworkLiveDemo) - Contains a simple live demo of MNIST training and classification using Nim + Arraymancer + Plotly
 - [saem/vscode-nim-fork](https://github.com/saem/vscode-nim-fork) - An extension for VS Code which provides support for the Nim language.
 - [nim-lang/nim-zmq](https://github.com/nim-lang/nim-zmq) - Nim ZMQ wrapper
@@ -1191,7 +1190,6 @@
 - [treeform/nimtemplate](https://github.com/treeform/nimtemplate) - You can use this Nim template to jump start your Nim library or project.
 - [ThomasTJdev/nimtomd](https://github.com/ThomasTJdev/nimtomd) - Convert a Nim file to Markdown
 - [soasme/nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World.
-- [dizzyliam/inumon](https://github.com/dizzyliam/inumon) - A high-level image I/O and manipulation library for Nim
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 - [vitreo12/omni](https://github.com/vitreo12/omni) - DSL for low-level audio programming.
 - [inim-repl/INim](https://github.com/inim-repl/INim) - Interactive Nim Shell / REPL / Playground
@@ -1502,6 +1500,7 @@
 - [medicalphysics/OpenDXMCunmaintained-Python-](https://github.com/medicalphysics/OpenDXMCunmaintained-Python-) - Monte Carlo dose simulator for diagnostic x-ray (ALPHA)
 - [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management, Medical, and Telecomm inspect
 - [BerkeleyAutomation/meshpy](https://github.com/BerkeleyAutomation/meshpy) - A 3-D triangular mesh package for Python.
+- [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [instrumentkit/InstrumentKit](https://github.com/instrumentkit/InstrumentKit) - Python package for interacting with laboratory equipment over various buses.
 - [cpederkoff/stl-to-voxel](https://github.com/cpederkoff/stl-to-voxel) - Turn STL files into voxels, images, and videos
 - [unixpickle/sdf-torch](https://github.com/unixpickle/sdf-torch) - Simple SDF mesh generation in Python
@@ -1770,7 +1769,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
-- [braun-embedded/stepper](https://github.com/braun-embedded/stepper) - Universal Stepper Motor Interface
+- [hannobraun/stepper](https://github.com/hannobraun/stepper) - Universal Stepper Motor Interface
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [witheve/eve-native](https://github.com/witheve/eve-native) - 
@@ -1859,7 +1858,7 @@
 - [viaprotocol/web3-wallets](https://github.com/viaprotocol/web3-wallets) - Connect multiple web3 wallets to your dapp easily
 - [DefiLlama/defillama-app](https://github.com/DefiLlama/defillama-app) - 
 - [two-ticks/p5.teach.js](https://github.com/two-ticks/p5.teach.js) - A beginner friendly math animation library for p5.js
-- [polywrap/cli](https://github.com/polywrap/cli) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
+- [polywrap/cli](https://github.com/polywrap/cli) - Used to create, build, and integrate wraps.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
