@@ -890,7 +890,7 @@
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [GDQuest/godot-make-pro-2d-games](https://github.com/GDQuest/godot-make-pro-2d-games) - A-RPG demo made with Godot, MIT-licensed, from our Godot course
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like DSL for Godot, implemented in Nim
+- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -1051,7 +1051,7 @@
 
 - [GDQuest/godot-make-pro-2d-games](https://github.com/GDQuest/godot-make-pro-2d-games) - A-RPG demo made with Godot, MIT-licensed, from our Godot course
 - [benc-uk/super-dungeon-delve](https://github.com/benc-uk/super-dungeon-delve) - 2D retro style dungeon game
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like DSL for Godot, implemented in Nim
+- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
 - [pragmagic/godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine
 - [Calinou/godot-style-guide](https://github.com/Calinou/godot-style-guide) - Style guide for Godot projects
 - [Kermer/Godot](https://github.com/Kermer/Godot) - Stuff to use with Godot Engine
@@ -1187,7 +1187,6 @@
 
 - [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management, Medical, and Telecomm inspect
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
-- [dizzyliam/inumon](https://github.com/dizzyliam/inumon) - A high-level image I/O and manipulation library for Nim
 
 ## ios 
 
@@ -1462,6 +1461,7 @@
 
 ## lua 
 
+- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
 - [hellerve/e](https://github.com/hellerve/e) - A dead simple editor
@@ -1638,7 +1638,7 @@
 - [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [Niminem/Neel](https://github.com/Niminem/Neel) - A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like DSL for Godot, implemented in Nim
+- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
 - [elcritch/nesper](https://github.com/elcritch/nesper) - Program the ESP32 with Nim! Wrappers around ESP-IDF API's.
 - [nim-lang/nim-zmq](https://github.com/nim-lang/nim-zmq) - Nim ZMQ wrapper
 - [kaushalmodi/nim_config](https://github.com/kaushalmodi/nim_config) - Global project-agnostic config.nims
@@ -1668,7 +1668,6 @@
 - [itsumura-h/nim-basolato](https://github.com/itsumura-h/nim-basolato) - An asynchronous fullstack web framework for Nim.
 - [ThomasTJdev/nimtomd](https://github.com/ThomasTJdev/nimtomd) - Convert a Nim file to Markdown
 - [soasme/nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World.
-- [dizzyliam/inumon](https://github.com/dizzyliam/inumon) - A high-level image I/O and manipulation library for Nim
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 - [vitreo12/omni](https://github.com/vitreo12/omni) - DSL for low-level audio programming.
 - [inim-repl/INim](https://github.com/inim-repl/INim) - Interactive Nim Shell / REPL / Playground
@@ -2052,7 +2051,7 @@
 - [bcnmy/mexa](https://github.com/bcnmy/mexa) - Repository contains smart contracts for biconomy's Mexa platform to implement meta transactions and allow dapp users to perform blockchain operations without holding any ether or other crypto currency
 - [opengsn/gsn-with-ethers](https://github.com/opengsn/gsn-with-ethers) - Minimal test to show how to use GSN with ethers
 - [cihologramas/pyoptools](https://github.com/cihologramas/pyoptools) - Python tools for optical design
-- [polywrap/cli](https://github.com/polywrap/cli) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
+- [polywrap/cli](https://github.com/polywrap/cli) - Used to create, build, and integrate wraps.
 - [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET 6
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 Future web pattern
@@ -2126,7 +2125,6 @@
 - [CNCKitchen/GradientInfill](https://github.com/CNCKitchen/GradientInfill) - 
 - [Spiritdude/mandoline-py](https://github.com/Spiritdude/mandoline-py) - A 3D printing STL/OBJ/OFF/3MF/3MJ  to GCode slicer based on the Clipper library.
 - [revarbat/mandoline-py](https://github.com/revarbat/mandoline-py) - A 3D printing STL-to-GCode slicer based on the Clipper library.
-- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [SciNim/scinim](https://github.com/SciNim/scinim) - The core types and functions of the SciNim ecosystem
 - [Lite3DP/Lite3DP-S1](https://github.com/Lite3DP/Lite3DP-S1) - Lite3DP S1
 - [inconvergent/snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
@@ -2235,7 +2233,7 @@
 - [firepick-delta/firepick-delta](https://github.com/firepick-delta/firepick-delta) - Design and Manufacturing Specifications for FirePick Delta
 - [pachterlab/poseidon](https://github.com/pachterlab/poseidon) - poseidon system - open source syringe pumps and microscope for laboratories
 - [DropletKitchen/pumpsn17](https://github.com/DropletKitchen/pumpsn17) - Low-cost, High-performance Syringe Pumps for Microfluidics Applications
-- [braun-embedded/stepper](https://github.com/braun-embedded/stepper) - Universal Stepper Motor Interface
+- [hannobraun/stepper](https://github.com/hannobraun/stepper) - Universal Stepper Motor Interface
 - [majurca/MKS-TFT28-NEW-PICTURES](https://github.com/majurca/MKS-TFT28-NEW-PICTURES) - New LCD pictures for 3d printer display from MAKERBASE-MKS
 - [intelligent-agent/Recore](https://github.com/intelligent-agent/Recore) - Repository for Recore single board 3D printer control card
 - [tmackay/5-axis-delta](https://github.com/tmackay/5-axis-delta) - 5-axis 3d printer using composite delta geometry
