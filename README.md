@@ -121,6 +121,7 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
 - [trinamic/TMC-EvalSystem-Archive](https://github.com/trinamic/TMC-EvalSystem-Archive) - TRINAMIC's Evaluation System Firmware.
+- [McStasMcXtrace/McCode](https://github.com/McStasMcXtrace/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - voxel art tools - editor, thumbnailer and format converter
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -287,7 +288,7 @@
 - [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL
 - [sxyu/sdf](https://github.com/sxyu/sdf) - Parallelized triangle mesh --&gt; continuous signed distance field on CPU
 - [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
@@ -542,7 +543,6 @@
 
 ## Dart 
 
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Blakexx/CryptoTracker](https://github.com/Blakexx/CryptoTracker) - An app made using the Flutter framework that allows users to track information for over 1500 cryptocurrencies
 - [livelivecoding/flutter-weather-app](https://github.com/livelivecoding/flutter-weather-app) - 
@@ -566,7 +566,6 @@
 
 ## Fortran 
 
-- [McStasMcXtrace/McCode](https://github.com/McStasMcXtrace/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [DelNov/T-Flows](https://github.com/DelNov/T-Flows) - Program for Simulation of Turbulent Flows
 - [szaghi/OFF](https://github.com/szaghi/OFF) - OFF, Open source Finite volume Fluid dynamics code
 - [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) - Official git repository of Elmer FEM software
@@ -935,7 +934,7 @@
 - [GameJs/gamejs](https://github.com/GameJs/gamejs) - GameJs is a thin library on top of the HTML canvas element. In addition to the drawing functions it has a set of generally helpful modules for game development.
 - [andreaferretti/paths-js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes :bar_chart:
 - [RougeWare/Micro-JS-Enum](https://github.com/RougeWare/Micro-JS-Enum) - Simple enum library for creating and using enums
-- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [Olical/EventEmitter](https://github.com/Olical/EventEmitter) - Evented JavaScript for the browser
 - [asvd/microlight](https://github.com/asvd/microlight) - highlights code in any programming language
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -1541,7 +1540,7 @@
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -1849,8 +1848,9 @@
 ## TypeScript 
 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
-- [teaxyz/cli](https://github.com/teaxyz/cli) - tea: run anything
+- [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
