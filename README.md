@@ -120,8 +120,6 @@
 - [Yardanico/mimalloc_nim](https://github.com/Yardanico/mimalloc_nim) - A drop-in solution to use mimalloc in Nim with ARC/ORC
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
-- [trinamic/TMC-EvalSystem-Archive](https://github.com/trinamic/TMC-EvalSystem-Archive) - TRINAMIC's Evaluation System Firmware.
-- [McStasMcXtrace/McCode](https://github.com/McStasMcXtrace/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - voxel art tools - editor, thumbnailer and format converter
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -256,7 +254,6 @@
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [MatterHackers/MatterControl](https://github.com/MatterHackers/MatterControl) - 3D printing software for Windows, Mac and Linux
 - [xenovacivus/PathCAM](https://github.com/xenovacivus/PathCAM) - PathCAM - Toolpath generation software for CNC robots!
-- [Interpoland/KawasakiPrinter](https://github.com/Interpoland/KawasakiPrinter) - Kawasaki 6-axis 3d printer
 - [T-Kuhn/ESP32-MicroRobotArm](https://github.com/T-Kuhn/ESP32-MicroRobotArm) - Micro Robot Arm with ESP32 and 28BY-48 12V steppers
 - [MatterHackers/MatterSlice](https://github.com/MatterHackers/MatterSlice) - MatterSlice is a C# console application that generates GCode (hardware control) for 3D printing. It was originally ported from CuraEngine (another great open source 3D printing engine). It is the prim
 - [Richard-CRT/3D-Print-Grid-Utility](https://github.com/Richard-CRT/3D-Print-Grid-Utility) - Utility to create/modify/render the .grid file(s) created by smoothieware firmware (mostly geared towards the Tevo Little Monster)
@@ -272,6 +269,7 @@
 
 ## C++ 
 
+- [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [open-vv/vv](https://github.com/open-vv/vv) - A Fast And Simple 4D Image Viewer
 - [wang-ps/mesh2sdf](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF)
@@ -566,6 +564,7 @@
 
 ## Fortran 
 
+- [McStasMcXtrace/McCode](https://github.com/McStasMcXtrace/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [DelNov/T-Flows](https://github.com/DelNov/T-Flows) - Program for Simulation of Turbulent Flows
 - [szaghi/OFF](https://github.com/szaghi/OFF) - OFF, Open source Finite volume Fluid dynamics code
 - [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) - Official git repository of Elmer FEM software
@@ -594,10 +593,10 @@
 
 ## GDScript 
 
-- [geegaz/Multiple-Windows-tutorial](https://github.com/geegaz/Multiple-Windows-tutorial) - 
-- [GDQuest/godot-make-pro-2d-games](https://github.com/GDQuest/godot-make-pro-2d-games) - A-RPG demo made with Godot, MIT-licensed, from our Godot course
+- [geegaz/Multiple-Windows-tutorial](https://github.com/geegaz/Multiple-Windows-tutorial) - Godot 4 tutorial for making a character that moves outside of the game window
+- [gdquest-demos/godot-make-pro-2d-games](https://github.com/gdquest-demos/godot-make-pro-2d-games) - A-RPG demo made with Godot, MIT-licensed, from our Godot course
 - [benc-uk/super-dungeon-delve](https://github.com/benc-uk/super-dungeon-delve) - 2D retro style dungeon game
-- [GDQuest/godot-procedural-generation](https://github.com/GDQuest/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
+- [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [Kermer/Godot](https://github.com/Kermer/Godot) - Stuff to use with Godot Engine
 
 ## GLSL 
@@ -763,7 +762,7 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [bcnmy/mexa](https://github.com/bcnmy/mexa) - Repository contains smart contracts for biconomy's Mexa platform to implement meta transactions and allow dapp users to perform blockchain operations without holding any ether or other crypto currency
 - [opengsn/gsn-with-ethers](https://github.com/opengsn/gsn-with-ethers) - Minimal test to show how to use GSN with ethers
-- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 Future web pattern
+- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [OpenZeppelin/openzeppelin-labs](https://github.com/OpenZeppelin/openzeppelin-labs) - A space for the community to interact and exchange ideas on the OpenZeppelin platform. Do not use in production!
@@ -1001,6 +1000,8 @@
 
 ## Jupyter Notebook 
 
+- [effepivi/gvxr-tutorials](https://github.com/effepivi/gvxr-tutorials) - Series of tutorials to show how to use gVXR
+- [effepivi/gvxr-demos](https://github.com/effepivi/gvxr-demos) - This repository includes some of the free examples/demos I made using my gVirtualXRay library.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
@@ -1332,6 +1333,7 @@
 
 ## Others 
 
+- [3DO-EU/nozzle-camera](https://github.com/3DO-EU/nozzle-camera) - 
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [sneakytreesnake/CrownCooler](https://github.com/sneakytreesnake/CrownCooler) - "Crown" shaped cooling duct and associated hot end mount for Voron Trident and V2.4 printers
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
@@ -1839,6 +1841,7 @@
 
 ## TeX 
 
+- [akmaier/mt_lecture_slides](https://github.com/akmaier/mt_lecture_slides) - These are the lecture slides used at FAU Erlangen-Nuremberg, Germany for the lecture "Medical Engineering". This class gives a complete and comprehensive introduction to the fields of medical imaging 
 - [AnderBiguri/PhDThesis](https://github.com/AnderBiguri/PhDThesis) - A.Biguri PhD thesis: Iterative Reconstruction and Motion compensation in Computed Tomography on GPUs
 - [dante-ev/latex-action](https://github.com/dante-ev/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [DrewNF/Write-Thesis-in-Latex](https://github.com/DrewNF/Write-Thesis-in-Latex) - Latex Template to develop a Report for the Final Project (Thesis)
