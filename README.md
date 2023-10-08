@@ -153,7 +153,6 @@
 - [espressif/esp32-camera](https://github.com/espressif/esp32-camera) - 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [serge-rgb/TinyJPEG](https://github.com/serge-rgb/TinyJPEG) - Single header lib for JPEG encoding. Public domain. C99. stb style.
 - [bullno1/ugc](https://github.com/bullno1/ugc) - A single-header incremental garbage collector library
 - [HPAC/ReLAPACK](https://github.com/HPAC/ReLAPACK) - Recursive LAPACK Collection
@@ -376,6 +375,7 @@
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [udacity/CarND-MPC-Quizzes](https://github.com/udacity/CarND-MPC-Quizzes) - CarND MPC Quizzes
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [mlpack/ensmallen](https://github.com/mlpack/ensmallen) - A header-only C++ library for numerical optimization --
@@ -766,7 +766,7 @@
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [OpenZeppelin/openzeppelin-labs](https://github.com/OpenZeppelin/openzeppelin-labs) - A space for the community to interact and exchange ideas on the OpenZeppelin platform. Do not use in production!
-- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine
+- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
 - [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
 - [R3D4NG3L/PersonalExpenseReport](https://github.com/R3D4NG3L/PersonalExpenseReport) - Personal Expense Report on Google Sheet with Telegram Bot integration
 - [zenzoa/tomographical](https://github.com/zenzoa/tomographical) - A little web-based nonogram puzzle.
@@ -1499,6 +1499,7 @@
 
 ## Python 
 
+- [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [medicalphysics/OpenDXMCunmaintained-Python-](https://github.com/medicalphysics/OpenDXMCunmaintained-Python-) - Monte Carlo dose simulator for diagnostic x-ray (ALPHA)
 - [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management, Medical, and Telecomm inspect
 - [BerkeleyAutomation/meshpy](https://github.com/BerkeleyAutomation/meshpy) - A 3-D triangular mesh package for Python.
@@ -1542,8 +1543,8 @@
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - Developer toolkit for making AI models better
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -1854,7 +1855,7 @@
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
-- [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
