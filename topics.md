@@ -336,6 +336,7 @@
 
 ## awesome-list 
 
+- [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
@@ -1024,7 +1025,7 @@
 
 ## gis 
 
-- [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management, Medical, and Telecomm inspect
+- [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.
 
 ## git 
 
@@ -1200,7 +1201,7 @@
 
 ## image-processing 
 
-- [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management, Medical, and Telecomm inspect
+- [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 
 ## ios 
@@ -1833,6 +1834,7 @@
 
 ## others 
 
+- [toastpp/toastpp](https://github.com/toastpp/toastpp) - Toast++: Forward and inverse modelling in optical tomography
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [3DO-EU/nozzle-camera](https://github.com/3DO-EU/nozzle-camera) - 
 - [akmaier/mt_lecture_slides](https://github.com/akmaier/mt_lecture_slides) - These are the lecture slides used at FAU Erlangen-Nuremberg, Germany for the lecture "Medical Engineering". This class gives a complete and comprehensive introduction to the fields of medical imaging 
@@ -3028,6 +3030,7 @@
 
 ## raspberry-pi 
 
+- [merijndewit/Filameter](https://github.com/merijndewit/Filameter) - A cool (and pretty accurate) way of measuring filament with a camera!
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [Chr157i4n/TMC2209_Raspberry_Pi](https://github.com/Chr157i4n/TMC2209_Raspberry_Pi) - this is a Python library to drive a stepper motor with a Trinamic TMC2209 stepper driver and a Raspberry Pi
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
