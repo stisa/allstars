@@ -103,6 +103,7 @@
 
 ## C 
 
+- [toastpp/toastpp](https://github.com/toastpp/toastpp) - Toast++: Forward and inverse modelling in optical tomography
 - [openMLA/photon-ultra-controller](https://github.com/openMLA/photon-ultra-controller) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
 - [karimnaaji/voxelizer](https://github.com/karimnaaji/voxelizer) - Header only mesh voxelizer in c99
 - [trinamic/TMC-API](https://github.com/trinamic/TMC-API) - TRINAMIC's IC API
@@ -778,7 +779,6 @@
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
 - [lo-th/uil](https://github.com/lo-th/uil) - simple javascript ui
-- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
 - [photonstorm/phaser-nano](https://github.com/photonstorm/phaser-nano) - Phaser Nano is a highly optimized game framework created for super low file size environments such as banner ads.
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
@@ -1358,7 +1358,6 @@
 - [elegooofficial/Mars3](https://github.com/elegooofficial/Mars3) - Opensource files for ELEGOO Mars 3 ultra 4k mono LCD 3D printer
 - [ringabout/neon](https://github.com/ringabout/neon) - A working-in-porgress compiler guide for the Nim language.
 - [kadirilkimen/Polar-Bear-Cnc-Machine](https://github.com/kadirilkimen/Polar-Bear-Cnc-Machine) - A multipurpose, 2 linear, 1 rotary axis cnc machine concept
-- [laserpilot/Survey_of_Alternative_Displays](https://github.com/laserpilot/Survey_of_Alternative_Displays) - Alternative Display writeup repo
 - [Annex-Engineering/Folded_Ascender-Extruder](https://github.com/Annex-Engineering/Folded_Ascender-Extruder) - a small stepper powered, worm geared, direct drive extruder/toolhead system
 - [ghent360/KlipperToolboard](https://github.com/ghent360/KlipperToolboard) - A 3D printer tool head controller board
 - [zruncho3d/double-dragon](https://github.com/zruncho3d/double-dragon) - Double Dragon: world's smallest IDEX 3D printer.  Mod your Voron 0 or build one fresh!
@@ -1499,9 +1498,10 @@
 
 ## Python 
 
+- [merijndewit/Filameter](https://github.com/merijndewit/Filameter) - A cool (and pretty accurate) way of measuring filament with a camera!
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [medicalphysics/OpenDXMCunmaintained-Python-](https://github.com/medicalphysics/OpenDXMCunmaintained-Python-) - Monte Carlo dose simulator for diagnostic x-ray (ALPHA)
-- [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management, Medical, and Telecomm inspect
+- [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.
 - [BerkeleyAutomation/meshpy](https://github.com/BerkeleyAutomation/meshpy) - A 3-D triangular mesh package for Python.
 - [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [instrumentkit/InstrumentKit](https://github.com/instrumentkit/InstrumentKit) - Python package for interacting with laboratory equipment over various buses.
@@ -1594,6 +1594,7 @@
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper
 - [computed-axial-lithography/VAMToolbox](https://github.com/computed-axial-lithography/VAMToolbox) - 
 - [DCC-Lab/RayTracing](https://github.com/DCC-Lab/RayTracing) - Simple ray tracing library in Python for optical design that considers simple optical elements (with ABCD ray matrices) but also finite diameters of elements to calculate aperture and field stops, fie
+- [laserpilot/Survey_of_Alternative_Displays](https://github.com/laserpilot/Survey_of_Alternative_Displays) - Alternative Display writeup repo
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [KlipperScreen/KlipperScreen](https://github.com/KlipperScreen/KlipperScreen) - GUI for Klipper
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
@@ -1822,6 +1823,7 @@
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [gnosis/1155-to-20](https://github.com/gnosis/1155-to-20) - ERC 1155 to ERC 20 converter
 - [frangio/cacheable-beacon-proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with the least possible gas overhead.
+- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [Charged-Particles/charged-particles-universe](https://github.com/Charged-Particles/charged-particles-universe) - Solidity Contracts for the Charged Particles Universe
 - [aloelabs/aloe-blend](https://github.com/aloelabs/aloe-blend) - Maximizing liquidity utilization while maintaining 50/50 inventory ratio
 - [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps.
@@ -1868,7 +1870,6 @@
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
 - [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
-- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.9 - Ethereum Gas Station Network
@@ -1878,6 +1879,7 @@
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
 - [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS) - Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [projectsophon/hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - This is where Phaser 4 is being developed
