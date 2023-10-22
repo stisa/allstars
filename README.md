@@ -299,7 +299,7 @@
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
-- [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
+- [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [GoogleBot42/Tracer](https://github.com/GoogleBot42/Tracer) - A portable GPU/CPU Path Tracer library powered by SYCL. (OpenCL/CUDA/OpenMP)
 - [kulvait/KCT_cbct](https://github.com/kulvait/KCT_cbct) - Fast, accurate and reliable software for algebraic CT reconstruction
 - [JueHo/CT-Recon](https://github.com/JueHo/CT-Recon) - Tools for X-ray CT reconstruction
@@ -938,7 +938,7 @@
 - [asvd/microlight](https://github.com/asvd/microlight) - highlights code in any programming language
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [aishikaty/tiny-mustache](https://github.com/aishikaty/tiny-mustache) - :speak_no_evil: The smallest implementation of Mustache template engine. (0.4 KB)
-- [kaansoral/adventureland](https://github.com/kaansoral/adventureland) - CODE Documentation for Adventure Land MMORPG
+- [kaansoral/adventureland](https://github.com/kaansoral/adventureland) - Adventure Land The Open Source CODE MMORPG
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [subprotocol/genetic-js](https://github.com/subprotocol/genetic-js) - Advanced genetic and evolutionary algorithm library written in Javascript
@@ -1498,6 +1498,8 @@
 
 ## Python 
 
+- [rafidrm/gancer](https://github.com/rafidrm/gancer) - Generative Adversarial Networks for Computationally Efficient Radiotherapy
+- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
 - [merijndewit/Filameter](https://github.com/merijndewit/Filameter) - A cool (and pretty accurate) way of measuring filament with a camera!
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [medicalphysics/OpenDXMCunmaintained-Python-](https://github.com/medicalphysics/OpenDXMCunmaintained-Python-) - Monte Carlo dose simulator for diagnostic x-ray (ALPHA)
