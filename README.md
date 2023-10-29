@@ -337,7 +337,7 @@
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
 - [EliKarasik/PrintingPartitioning](https://github.com/EliKarasik/PrintingPartitioning) - Source code for "Object Partitioning for Support-Free 3D-Printing"
 - [jkugalde/3DP-peristaltic-pump-stepper](https://github.com/jkugalde/3DP-peristaltic-pump-stepper) - A simple peristaltic pump, with bearings and 3d printed parts for a NEMA17
-- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [Lite3DP/Lite3DP-S1](https://github.com/Lite3DP/Lite3DP-S1) - Lite3DP S1
 - [mlivesu/slice2mesh](https://github.com/mlivesu/slice2mesh) - From sliced data to volumetric meshes for the simulation of AM processes
 - [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware
@@ -542,6 +542,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Blakexx/CryptoTracker](https://github.com/Blakexx/CryptoTracker) - An app made using the Flutter framework that allows users to track information for over 1500 cryptocurrencies
 - [livelivecoding/flutter-weather-app](https://github.com/livelivecoding/flutter-weather-app) - 
@@ -589,7 +590,6 @@
 ## GAP 
 
 - [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see:
-- [Annex-Engineering/Masherbrum-K1](https://github.com/Annex-Engineering/Masherbrum-K1) - Fully Enclosed, Medium Format, Moving Gantry, FDM 3D Printer with Direct Drive Extrusion System
 - [emaker/Fisher](https://github.com/emaker/Fisher) - RepRap Fisher 3D printer design files
 
 ## GDScript 
@@ -664,7 +664,6 @@
 - [repetier/Repetier-Firmware](https://github.com/repetier/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer.
 - [DipanshKhandelwal/Learning-German](https://github.com/DipanshKhandelwal/Learning-German) - My journey to learn German
 - [Guevara-chan/Raylib-Forever](https://github.com/Guevara-chan/Raylib-Forever) - :.raylib headers for Nim anytime.:
-- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [Araq/fosdem2020](https://github.com/Araq/fosdem2020) - Slides and source code for my FOSDEM 2020 talk "Nim - Move semantics".
 - [jeffkreeftmeijer/enough.css](https://github.com/jeffkreeftmeijer/enough.css) - enough.css is a tiny CSS style sheet with most of the styling you'll need for that blog of yours.
@@ -836,7 +835,7 @@
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
@@ -1371,6 +1370,7 @@
 - [Quenta-3D/pulseless_peristaltic_colloid_extruder](https://github.com/Quenta-3D/pulseless_peristaltic_colloid_extruder) - pulseless peristaltic colloid extruder for 3D printer
 - [AxMod3DPrint/Drakon-Extruder](https://github.com/AxMod3DPrint/Drakon-Extruder) - 3D Printable 3:1 Geared Extruder
 - [PrintersForAnts/Micron](https://github.com/PrintersForAnts/Micron) - 
+- [Annex-Engineering/Masherbrum-K1](https://github.com/Annex-Engineering/Masherbrum-K1) - Fully Enclosed, Medium Format, Moving Gantry, FDM 3D Printer with Direct Drive Extrusion System
 - [Annex-Engineering/Sherpa_Mini-Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - A smaller version of the sherpa extruder, direct and bowden supported
 - [computed-axial-lithography/CAL-hardware](https://github.com/computed-axial-lithography/CAL-hardware) - Hardware designs for a simple computed axial lithography apparatus (education, research and not-for-profit use)
 - [wesc23/CroXY](https://github.com/wesc23/CroXY) - 
@@ -1545,8 +1545,8 @@
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - Developer toolkit for making AI models better
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
+- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -1618,6 +1618,7 @@
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
 - [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
@@ -1799,6 +1800,7 @@
 ## SCSS 
 
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 
 ## Shell 
@@ -1829,7 +1831,6 @@
 - [Charged-Particles/charged-particles-universe](https://github.com/Charged-Particles/charged-particles-universe) - Solidity Contracts for the Charged Particles Universe
 - [aloelabs/aloe-blend](https://github.com/aloelabs/aloe-blend) - Maximizing liquidity utilization while maintaining 50/50 inventory ratio
 - [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [gelatodigital/g-uni-v1-core](https://github.com/gelatodigital/g-uni-v1-core) - G-UNI Pools are managed ERC20 Wrappers around Uniswap V3 Liquidity Positions
 - [0xisk/awesome-solidity-gas-optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
 - [QuickSwap/quickswap-core](https://github.com/QuickSwap/quickswap-core) - 
