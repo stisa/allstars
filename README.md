@@ -265,7 +265,6 @@
 - [dsblank/simple_kernel](https://github.com/dsblank/simple_kernel) - A small, simple kernel example for IPython
 - [xamarin/urho-samples](https://github.com/xamarin/urho-samples) - Samples for the Urho bindings
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 
 ## C++ 
 
@@ -636,6 +635,7 @@
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [SimonWaldherr/micromarkdownGo](https://github.com/SimonWaldherr/micromarkdownGo) - https://github.com/SimonWaldherr/micromarkdown.js translated to golang
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 
 ## HTML 
