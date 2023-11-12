@@ -120,6 +120,7 @@
 - [mobile](#mobile)
 - [music](#music)
 - [mysql](#mysql)
+- [nativescript](#nativescript)
 - [neural-network](#neural-network)
 - [nim](#nim)
 - [node](#node)
@@ -231,7 +232,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
@@ -453,7 +454,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 
 ## chrome 
 
@@ -1107,7 +1108,6 @@
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [adafruit/Adafruit_Blinka](https://github.com/adafruit/Adafruit_Blinka) - Add CircuitPython hardware API and libraries to MicroPython & CPython devices
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [matteo-ronchetti/torch-radon](https://github.com/matteo-ronchetti/torch-radon) - Computational Tomography in PyTorch
@@ -1624,6 +1624,10 @@
 
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
 
+## nativescript 
+
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+
 ## neural-network 
 
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
@@ -1846,6 +1850,7 @@
 
 ## others 
 
+- [Ultimaker/Ultimaker2Marlin](https://github.com/Ultimaker/Ultimaker2Marlin) - 
 - [rafidrm/gancer](https://github.com/rafidrm/gancer) - Generative Adversarial Networks for Computationally Efficient Radiotherapy
 - [toastpp/toastpp](https://github.com/toastpp/toastpp) - Toast++: Forward and inverse modelling in optical tomography
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
