@@ -2666,7 +2666,7 @@
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 - [evanw/lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library
 - [TheSos/allegrojs](https://github.com/TheSos/allegrojs) - a HTML5 game making library
-- [maxogden/voxel-engine](https://github.com/maxogden/voxel-engine) - 3D HTML5 voxel game engine
+- [max-mapper/voxel-engine](https://github.com/max-mapper/voxel-engine) - 3D HTML5 voxel game engine
 - [maryrosecook/coquette](https://github.com/maryrosecook/coquette) - A micro framework for JavaScript games
 - [GameJs/gamejs](https://github.com/GameJs/gamejs) - GameJs is a thin library on top of the HTML canvas element. In addition to the drawing functions it has a set of generally helpful modules for game development.
 - [mmp/pbrt-v3](https://github.com/mmp/pbrt-v3) - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
