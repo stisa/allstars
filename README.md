@@ -927,7 +927,7 @@
 - [TomCrypto/caret](https://github.com/TomCrypto/caret) - Nim on ESP8266 experiments
 - [theduke/nim-playground](https://github.com/theduke/nim-playground) - A interactive website and server that allow you to easily play with and explore the Nim programming language.
 - [evanw/lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library
-- [maxogden/voxel-engine](https://github.com/maxogden/voxel-engine) - 3D HTML5 voxel game engine
+- [max-mapper/voxel-engine](https://github.com/max-mapper/voxel-engine) - 3D HTML5 voxel game engine
 - [maryrosecook/coquette](https://github.com/maryrosecook/coquette) - A micro framework for JavaScript games
 - [GameJs/gamejs](https://github.com/GameJs/gamejs) - GameJs is a thin library on top of the HTML canvas element. In addition to the drawing functions it has a set of generally helpful modules for game development.
 - [andreaferretti/paths-js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes :bar_chart:
