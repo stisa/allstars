@@ -1142,7 +1142,7 @@
 - [ruivieira/matplotnim](https://github.com/ruivieira/matplotnim) - A Nim wrapper for matplotlib
 - [marcomq/nimview](https://github.com/marcomq/nimview) - A Nim/Webview based helper to create Desktop/Server applications with Nim/C/C++ and HTML/CSS
 - [status-im/nim-web3](https://github.com/status-im/nim-web3) - 
-- [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
+- [micycle8778/host](https://github.com/micycle8778/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [Niminem/Neel](https://github.com/Niminem/Neel) - A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.
 - [saem/vscode-nim](https://github.com/saem/vscode-nim) - 
@@ -1334,6 +1334,7 @@
 
 - [3DO-EU/nozzle-camera](https://github.com/3DO-EU/nozzle-camera) - 
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+- [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
 - [sneakytreesnake/CrownCooler](https://github.com/sneakytreesnake/CrownCooler) - "Crown" shaped cooling duct and associated hot end mount for Voron Trident and V2.4 printers
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [Armchair-Engineering/P-REXZ](https://github.com/Armchair-Engineering/P-REXZ) - 
@@ -1528,7 +1529,6 @@
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
-- [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
@@ -1860,7 +1860,7 @@
 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
