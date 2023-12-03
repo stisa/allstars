@@ -22,7 +22,6 @@
 - [blockchain](#blockchain)
 - [bot](#bot)
 - [c](#c)
-- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -233,7 +232,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
@@ -452,10 +451,6 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [brendan-rius/jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-
-## chatgpt 
-
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
 
 ## chrome 
 
@@ -1666,7 +1661,7 @@
 - [ruivieira/matplotnim](https://github.com/ruivieira/matplotnim) - A Nim wrapper for matplotlib
 - [marcomq/nimview](https://github.com/marcomq/nimview) - A Nim/Webview based helper to create Desktop/Server applications with Nim/C/C++ and HTML/CSS
 - [status-im/status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
-- [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
+- [micycle8778/host](https://github.com/micycle8778/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [Niminem/Neel](https://github.com/Niminem/Neel) - A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.
 - [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
@@ -3186,7 +3181,7 @@
 ## server 
 
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
-- [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
+- [micycle8778/host](https://github.com/micycle8778/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 
 ## shell 
@@ -3346,7 +3341,7 @@
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
-- [RainbowAsteroids/host](https://github.com/RainbowAsteroids/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
+- [micycle8778/host](https://github.com/micycle8778/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
