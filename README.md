@@ -541,7 +541,7 @@
 
 ## Dart 
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Blakexx/CryptoTracker](https://github.com/Blakexx/CryptoTracker) - An app made using the Flutter framework that allows users to track information for over 1500 cryptocurrencies
 - [livelivecoding/flutter-weather-app](https://github.com/livelivecoding/flutter-weather-app) - 
@@ -1177,7 +1177,7 @@
 - [HugoGranstrom/symbolicnim](https://github.com/HugoGranstrom/symbolicnim) - A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-works/cps](https://github.com/nim-works/cps) - Continuation-Passing Style for Nim 🔗
-- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software, still experimenting
+- [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
 - [zah/nim-hcr-astronauts](https://github.com/zah/nim-hcr-astronauts) - A simple Nim hot code reloading demo prepared by Viktor Kirilov for ACCU 2019
 - [Vindaar/brokenRepl](https://github.com/Vindaar/brokenRepl) - 
@@ -1557,7 +1557,7 @@
 - [PyAbel/PyAbel](https://github.com/PyAbel/PyAbel) - A python package for Abel and inverse Abel transforms
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [kbredies/gratopy](https://github.com/kbredies/gratopy) - Gratopy - Graz accelerated tomographic projections for Python
-- [kaanaksit/odak](https://github.com/kaanaksit/odak) - :microscope: Scientific computing library for optics :telescope:, computer graphics :computer: and visual perception :eyes:
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception
 - [fidelcanor/OpticsNN](https://github.com/fidelcanor/OpticsNN) - Neural Networks for Optical Inverse Design
 - [chbergmann/OpticsWorkbench](https://github.com/chbergmann/OpticsWorkbench) - 
 - [ma0ho/Deep-Learning-Cone-Beam-CT](https://github.com/ma0ho/Deep-Learning-Cone-Beam-CT) - 
@@ -1860,7 +1860,7 @@
 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
