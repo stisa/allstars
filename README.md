@@ -103,6 +103,7 @@
 
 ## C 
 
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [Ultimaker/Ultimaker2Marlin](https://github.com/Ultimaker/Ultimaker2Marlin) - 
 - [toastpp/toastpp](https://github.com/toastpp/toastpp) - Toast++: Forward and inverse modelling in optical tomography
 - [openMLA/photon-ultra-controller](https://github.com/openMLA/photon-ultra-controller) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
@@ -578,7 +579,6 @@
 - [pixelpusher/liveprinter](https://github.com/pixelpusher/liveprinter) - Livecoding for 3D printers
 - [seemecnc/Orion_Delta](https://github.com/seemecnc/Orion_Delta) - SeeMeCNC Orion Delta 3D Printer
 - [Carbonoid/D1](https://github.com/Carbonoid/D1) - Repository for Carbonoid D1 Delta Printer
-- [CroXY3D/CroXY](https://github.com/CroXY3D/CroXY) - Crossed Gantry 3D Printer
 - [shodushi/gcode2png](https://github.com/shodushi/gcode2png) - generate 3d rendering from gcode files
 - [Ultimaker/GHermeneus](https://github.com/Ultimaker/GHermeneus) - Fast g-code parser
 - [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer with 3D printing in mind. Written in Typescript.
@@ -780,7 +780,6 @@
 - [lo-th/uil](https://github.com/lo-th/uil) - simple javascript ui
 - [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
 - [photonstorm/phaser-nano](https://github.com/photonstorm/phaser-nano) - Phaser Nano is a highly optimized game framework created for super low file size environments such as banner ads.
-- [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
 - [alto-io/game3.js](https://github.com/alto-io/game3.js) - The Web 3.0 Game Framework
 - [fireship-io/nft-art-generator](https://github.com/fireship-io/nft-art-generator) - A simple randomized NFT art generator
@@ -835,7 +834,7 @@
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
@@ -1638,6 +1637,7 @@
 - [AndyEveritt/ASMBL](https://github.com/AndyEveritt/ASMBL) - Additive & Subtractive Manufacturing By Layer for the E3D ToolChanging platform
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
+- [CroXY3D/CroXY](https://github.com/CroXY3D/CroXY) - Crossed Gantry 3D Printer
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -1889,6 +1889,7 @@
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - This is where Phaser 4 is being developed
 - [Lakuna/ugl](https://github.com/Lakuna/ugl) - A lightweight WebGL2 library.
+- [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [Developer-DAO/web3-ui](https://github.com/Developer-DAO/web3-ui) - A React UI library for Web3
 - [0xsequence/erc20-meta-token](https://github.com/0xsequence/erc20-meta-token) - General ERC20 to ERC1155 Token Wrapper Contract
