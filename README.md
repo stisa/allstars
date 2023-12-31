@@ -103,6 +103,8 @@
 
 ## C 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+- [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [Ultimaker/Ultimaker2Marlin](https://github.com/Ultimaker/Ultimaker2Marlin) - 
 - [toastpp/toastpp](https://github.com/toastpp/toastpp) - Toast++: Forward and inverse modelling in optical tomography
@@ -270,6 +272,7 @@
 
 ## C++ 
 
+- [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [open-vv/vv](https://github.com/open-vv/vv) - A Fast And Simple 4D Image Viewer
@@ -640,6 +643,7 @@
 
 ## HTML 
 
+- [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
 - [danielkucera/creality-remote-control](https://github.com/danielkucera/creality-remote-control) - 
 - [r-selfhosted-wiki/wiki](https://github.com/r-selfhosted-wiki/wiki) - Full-wiki Backup and Source for the reddit.com/r/selfhosted official wiki.
 - [DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction](https://github.com/DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction) - Gyrfalcon is a stand-alone Matlab application that is capable of simulating a variety of CT scan types (pencil beam, fan beam, cone beam), importing raw scan data, and reconstructing the data produced
@@ -734,6 +738,7 @@
 
 ## JavaScript 
 
+- [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
 - [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
 - [tmpvar/gcode-raymarch-sim](https://github.com/tmpvar/gcode-raymarch-sim) - experimenting with a raymarching approach for gcode simulation
@@ -998,6 +1003,7 @@
 
 ## Jupyter Notebook 
 
+- [abrilcf/mednerf](https://github.com/abrilcf/mednerf) - 
 - [effepivi/gvxr-tutorials](https://github.com/effepivi/gvxr-tutorials) - Series of tutorials to show how to use gVXR
 - [effepivi/gvxr-demos](https://github.com/effepivi/gvxr-demos) - This repository includes some of the free examples/demos I made using my gVirtualXRay library.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
@@ -1332,6 +1338,7 @@
 
 ## Others 
 
+- [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [3DO-EU/nozzle-camera](https://github.com/3DO-EU/nozzle-camera) - 
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
@@ -1499,6 +1506,12 @@
 
 ## Python 
 
+- [kylekma/X2CT](https://github.com/kylekma/X2CT) - 
+- [leehoy/CTReconstruction](https://github.com/leehoy/CTReconstruction) - Algorithms for ct reconstruction
+- [krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch) - A PyTorch re-implementation of Neural Radiance Fields
+- [sunset1995/DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) - Direct voxel grid optimization for fast radiance field reconstruction.
+- [kevinczhou/mesoscopic-photogrammetry](https://github.com/kevinczhou/mesoscopic-photogrammetry) - 3D reconstructions of mm-scale objects from sequences of phone camera images
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [Caoang327/HexPlane](https://github.com/Caoang327/HexPlane) - Official code for CVPR 2023 Paper, HexPlane: A Fast Representation for Dynamic Scenes
 - [rafidrm/gancer](https://github.com/rafidrm/gancer) - Generative Adversarial Networks for Computationally Efficient Radiotherapy
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
