@@ -272,8 +272,8 @@
 
 ## C++ 
 
+- [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
-- [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [open-vv/vv](https://github.com/open-vv/vv) - A Fast And Simple 4D Image Viewer
 - [wang-ps/mesh2sdf](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF)
@@ -535,6 +535,7 @@
 
 ## Cuda 
 
+- [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [luyuechao/ConeBeamGpu](https://github.com/luyuechao/ConeBeamGpu) - 
 - [MSUNDGR1/CUDA-accelerated-Voxelization](https://github.com/MSUNDGR1/CUDA-accelerated-Voxelization) - Voxelization method that takes a triangle mesh (in this case from an stl file), and converts it into a 3d map of voxels.
@@ -810,7 +811,7 @@
 - [Aboudjem/TradingBot](https://github.com/Aboudjem/TradingBot) - Trading Bot on Uniswap 🦄
 - [hudbrog/gCodeViewer](https://github.com/hudbrog/gCodeViewer) - a visual web based gcode analyzer
 - [GridSpace/grid-apps](https://github.com/GridSpace/grid-apps) - Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)
-- [vfat-tools/vfat-tools](https://github.com/vfat-tools/vfat-tools) - 
+- [vfat-io/vfat-tools](https://github.com/vfat-io/vfat-tools) - 
 - [makoto/off-l1](https://github.com/makoto/off-l1) - 
 - [watterott/SilentStepStick](https://github.com/watterott/SilentStepStick) - Stepper Motor Driver based on a Trinamic TMC2100 / TMC2130 / TMC2208 / TMC2209 / TMC5160.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -1016,7 +1017,6 @@
 - [ahendriksen/tomosipo](https://github.com/ahendriksen/tomosipo) - A library for painless 3D tomographic reconstruction
 - [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator) - Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 - [unicast-project/unicast](https://github.com/unicast-project/unicast) - UniCast brings machine learning (ML) forecasting and ML models to Uniswap v3 and the larger DeFi ecosystem. The project aims to contribute with the tools, building blocks and examples to create, train
-- [usnistgov/openfoamEmbedded3DP](https://github.com/usnistgov/openfoamEmbedded3DP) - Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing
 - [pachterlab/poseidon](https://github.com/pachterlab/poseidon) - poseidon system - open source syringe pumps and microscope for laboratories
 - [ItsAwSM/Python-for-Data-Analytics](https://github.com/ItsAwSM/Python-for-Data-Analytics) - This course will teach you only the relevant topics in Python for starting your career in Data Analytics. There are also a bunch of tips and tricks throughout for resume writing, solving case studies,
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
@@ -1069,6 +1069,7 @@
 
 ## MATLAB 
 
+- [e0404/matRad](https://github.com/e0404/matRad) - An open source multi-modality radiation treatment planning sytem
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
 - [hengyongyu/OpenRecon](https://github.com/hengyongyu/OpenRecon) - This open-source software package is a response to the NIH/NIBIB Low-dose CT U01 community.  The purpose is to share a standardized platform equipped with key analytic reconstruction methods for helic
 - [hw73cn/cbct-calibration](https://github.com/hw73cn/cbct-calibration) - Accurate geometric calibration of cone-beam CT
@@ -1338,6 +1339,8 @@
 
 ## Others 
 
+- [LoraLinH/Awesome-CT-Reconstruction](https://github.com/LoraLinH/Awesome-CT-Reconstruction) - Awesome CT Reconstruction
+- [kevinakasam/Papilio-Belt-Extruder](https://github.com/kevinakasam/Papilio-Belt-Extruder) - The Papilio is an extruder that uses GT2 Timing Belts instead of metal gears to push the filament.
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [3DO-EU/nozzle-camera](https://github.com/3DO-EU/nozzle-camera) - 
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
@@ -1506,6 +1509,13 @@
 
 ## Python 
 
+- [icon-lab/SynDiff](https://github.com/icon-lab/SynDiff) - Official PyTorch implementation of SynDiff described in the paper (https://arxiv.org/abs/2207.08208).
+- [bearing/dosenet](https://github.com/bearing/dosenet) - Code for the Berkeley RadWatch dosimeter network
+- [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
+- [havenhq/mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
+- [chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2) - Single/multi view image(s) to voxel reconstruction using a recurrent neural network
+- [tomopy/tomopy](https://github.com/tomopy/tomopy) - Tomographic Reconstruction in Python
 - [kylekma/X2CT](https://github.com/kylekma/X2CT) - 
 - [leehoy/CTReconstruction](https://github.com/leehoy/CTReconstruction) - Algorithms for ct reconstruction
 - [krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch) - A PyTorch re-implementation of Neural Radiance Fields
@@ -1652,6 +1662,7 @@
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
 - [CroXY3D/CroXY](https://github.com/CroXY3D/CroXY) - Crossed Gantry 3D Printer
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
+- [usnistgov/openfoamEmbedded3DP](https://github.com/usnistgov/openfoamEmbedded3DP) - Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library
