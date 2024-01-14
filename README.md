@@ -103,6 +103,7 @@
 
 ## C 
 
+- [ballaswag/guppyscreen](https://github.com/ballaswag/guppyscreen) - A native Touch UI for 3D Printers running Klipper/Moonraker.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
@@ -153,7 +154,7 @@
 - [mackron/miniphysics](https://github.com/mackron/miniphysics) - Single file collision detection and dynamics library.
 - [elcritch/nesper](https://github.com/elcritch/nesper) - Program the ESP32 with Nim! Wrappers around ESP-IDF API's.
 - [wangyi-fudan/wyhash](https://github.com/wangyi-fudan/wyhash) - The FASTEST QUALITY hash function, random number generators (PRNG) and hash map.
-- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [elcritch/esp32_nim_net_example](https://github.com/elcritch/esp32_nim_net_example) - esp32_nim_net_example
 - [espressif/esp32-camera](https://github.com/espressif/esp32-camera) - 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
@@ -272,6 +273,8 @@
 
 ## C++ 
 
+- [christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen) - A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.
+- [moonglow/FlashForge_Marlin](https://github.com/moonglow/FlashForge_Marlin) - :shark: Marlin firmware for FlashForge Dreamer/Dreamer NX/Inventor, Bosch Dremel 3D20 3D, PowerSpec Ultra 3D and Monoprice Inventor 1
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
@@ -587,7 +590,6 @@
 - [Ultimaker/GHermeneus](https://github.com/Ultimaker/GHermeneus) - Fast g-code parser
 - [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer with 3D printing in mind. Written in Typescript.
 - [synthetos/TinyG](https://github.com/synthetos/TinyG) - Affordable Industrial Grade Motion Control
-- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for robots
 - [MKFirmware/MK4duo](https://github.com/MKFirmware/MK4duo) - MK4duo Firmware Printers 3D for Arduino and Arduino due
 
 ## GAP 
@@ -648,7 +650,6 @@
 - [danielkucera/creality-remote-control](https://github.com/danielkucera/creality-remote-control) - 
 - [r-selfhosted-wiki/wiki](https://github.com/r-selfhosted-wiki/wiki) - Full-wiki Backup and Source for the reddit.com/r/selfhosted official wiki.
 - [DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction](https://github.com/DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction) - Gyrfalcon is a stand-alone Matlab application that is capable of simulating a variety of CT scan types (pencil beam, fan beam, cone beam), importing raw scan data, and reconstructing the data produced
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [ries-lab/LaserEngine](https://github.com/ries-lab/LaserEngine) - Blueprints for a low-cost laser combiner compatible with wide-field and localization microscopy.
 - [lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel) - Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.
 - [Photonsters/anycubic-photon-docs](https://github.com/Photonsters/anycubic-photon-docs) - This repo  aims to collect curate and compile information on anycubic photon hardware software and use
@@ -674,6 +675,7 @@
 - [jeffkreeftmeijer/enough.css](https://github.com/jeffkreeftmeijer/enough.css) - enough.css is a tiny CSS style sheet with most of the styling you'll need for that blog of yours.
 - [zevv/nimz3](https://github.com/zevv/nimz3) - Nim binding for the Z3 theorem prover
 - [skishore/inkstone](https://github.com/skishore/inkstone) - Learn Chinese on the go - no Internet connection required!
+- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for robots
 - [wbolden/complex](https://github.com/wbolden/complex) - WebGL Complex Function Plotter, also includes support for dual and split-complex numbers
 - [bibanon/bibanon](https://github.com/bibanon/bibanon) - The Bibliotheca Anonoma: A wikified library of the internet's treasures. Researching Something Awful, 2channel, 4chan, and other imageboard/textboard communities.
 - [andreaferretti/neo](https://github.com/andreaferretti/neo) - A matrix library
@@ -792,7 +794,7 @@
 - [gasolin/ethhole](https://github.com/gasolin/ethhole) - How the token flows
 - [lepunk/react-native-videos](https://github.com/lepunk/react-native-videos) - 
 - [Cloud9c/taro](https://github.com/Cloud9c/taro) - A lightweight 3D game engine for the web.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!
 - [omarsinan/FlappyBirdClone](https://github.com/omarsinan/FlappyBirdClone) - A Flappy Bird clone using p5.js and Matter.js
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
@@ -1339,6 +1341,7 @@
 
 ## Others 
 
+- [tkuri/Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) - List of awesome papers on Intrinsic Decomposition & Inverse Rendering
 - [LoraLinH/Awesome-CT-Reconstruction](https://github.com/LoraLinH/Awesome-CT-Reconstruction) - Awesome CT Reconstruction
 - [kevinakasam/Papilio-Belt-Extruder](https://github.com/kevinakasam/Papilio-Belt-Extruder) - The Papilio is an extruder that uses GT2 Timing Belts instead of metal gears to push the filament.
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
@@ -1509,6 +1512,12 @@
 
 ## Python 
 
+- [OpenOPC/OpenILT](https://github.com/OpenOPC/OpenILT) - An Open-source Platform for Inverse Lithography Technology Research
+- [Haian-Jin/TensoIR](https://github.com/Haian-Jin/TensoIR) - [CVPR 2023] TensoIR: Tensorial Inverse Rendering
+- [markomih/ResFields](https://github.com/markomih/ResFields) - ResFields: Residual Neural Fields for Spatiotemporal Signals
+- [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields, ICCV'23 (Oral, Best Paper Finalist)
+- [lab4d-org/lab4d](https://github.com/lab4d-org/lab4d) - A framework for 4D reconstruction from monocular videos.
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [icon-lab/SynDiff](https://github.com/icon-lab/SynDiff) - Official PyTorch implementation of SynDiff described in the paper (https://arxiv.org/abs/2207.08208).
 - [bearing/dosenet](https://github.com/bearing/dosenet) - Code for the Berkeley RadWatch dosimeter network
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
@@ -1609,6 +1618,7 @@
 - [wavefrontshaping/slmPy](https://github.com/wavefrontshaping/slmPy) - A simple Python module based on wxPython to interact with spatial light modulators handled as secondary monitors.
 - [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [adafruit/Adafruit_Blinka](https://github.com/adafruit/Adafruit_Blinka) - Add CircuitPython hardware API and libraries to MicroPython & CPython devices
 - [xopto/pyxopto](https://github.com/xopto/pyxopto) - PyXOpto is a collection of python tools for performing Monte Carlo simulations of light propagation in turbid media.
 - [DCC-Lab/PyTissueOptics](https://github.com/DCC-Lab/PyTissueOptics) - A very simple, fairly slow but very easy to understand and very easy to use Monte Carlo code for Tissue optics simulations.
@@ -1911,7 +1921,6 @@
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [projectsophon/hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
-- [phaserjs/phaser](https://github.com/phaserjs/phaser) - This is where Phaser 4 is being developed
 - [Lakuna/ugl](https://github.com/Lakuna/ugl) - A lightweight WebGL2 library.
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
