@@ -63,6 +63,7 @@
 - [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
@@ -116,6 +117,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [matlab](#matlab)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [music](#music)
@@ -196,6 +198,7 @@
 
 ## 3d 
 
+- [iamyoukou/sdf3d](https://github.com/iamyoukou/sdf3d) - 3D Signed Distance Field
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
@@ -414,6 +417,7 @@
 
 ## c 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [McStasMcXtrace/McCode](https://github.com/McStasMcXtrace/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
@@ -527,6 +531,7 @@
 
 ## computer-vision 
 
+- [ErenBalatkan/DepthVisualizer](https://github.com/ErenBalatkan/DepthVisualizer) - OpenGL Based Python Library for 3D visualization of Point Clouds & Depth Maps
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
@@ -670,6 +675,7 @@
 
 ## deep-learning 
 
+- [ErenBalatkan/DepthVisualizer](https://github.com/ErenBalatkan/DepthVisualizer) - OpenGL Based Python Library for 3D visualization of Point Clouds & Depth Maps
 - [icon-lab/SynDiff](https://github.com/icon-lab/SynDiff) - Official PyTorch implementation of SynDiff described in the paper (https://arxiv.org/abs/2207.08208).
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
 - [nileshkulkarni/volumetricPrimitivesPytorch](https://github.com/nileshkulkarni/volumetricPrimitivesPytorch) - Pytorch Implementation of https://github.com/shubhtuls/volumetricPrimitives
@@ -849,6 +855,10 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
+
+## flutter-apps 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## font 
 
@@ -1626,6 +1636,12 @@
 - [mimocha/ga-lancer](https://github.com/mimocha/ga-lancer) - Vehicle simulation in MATLAB + Application of Genetic Algorithm to optimize neural network
 - [WEC-Sim/WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator (WEC-Sim), an open-source code for simulating wave energy converters.
 
+## microsoft 
+
+- [microsoft/AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) - Scenarios, tutorials and demos for Autonomous Driving
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## minecraft 
 
 - [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - voxel art tools - editor, thumbnailer and format converter
@@ -1876,11 +1892,17 @@
 
 ## others 
 
+- [gaocong13/Projective-Spatial-Transformers](https://github.com/gaocong13/Projective-Spatial-Transformers) - Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration
+- [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
+- [tetsu97/WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) - This is WristWatch, a standalone extruder designed by @bythorsthunder WWG2 is built as an alternative to WristWatch BMG etruder - but it uses Galileo 2 insides for pushing filament. Development starte
+- [tetsuya-takahashi/MC-style-vol-eval](https://github.com/tetsuya-takahashi/MC-style-vol-eval) - 
+- [StarsX/DXRVoxelizer](https://github.com/StarsX/DXRVoxelizer) - XUSGRayTracing-EZ sample on DirectX12: real-time voxelization making use of ray-tracing pipeline for easy solid voxelization.
+- [p-hofmann/PyVoxelizer](https://github.com/p-hofmann/PyVoxelizer) - A python converter of 3D model into voxels
 - [christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen) - A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.
 - [moonglow/FlashForge_Marlin](https://github.com/moonglow/FlashForge_Marlin) - :shark: Marlin firmware for FlashForge Dreamer/Dreamer NX/Inventor, Bosch Dremel 3D20 3D, PowerSpec Ultra 3D and Monoprice Inventor 1
 - [OpenOPC/OpenILT](https://github.com/OpenOPC/OpenILT) - An Open-source Platform for Inverse Lithography Technology Research
 - [Haian-Jin/TensoIR](https://github.com/Haian-Jin/TensoIR) - [CVPR 2023] TensoIR: Tensorial Inverse Rendering
-- [markomih/ResFields](https://github.com/markomih/ResFields) - ResFields: Residual Neural Fields for Spatiotemporal Signals
+- [markomih/ResFields](https://github.com/markomih/ResFields) - [ICLR 2024 Spotlight] ResFields: Residual Neural Fields for Spatiotemporal Signals
 - [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields, ICCV'23 (Oral, Best Paper Finalist)
 - [lab4d-org/lab4d](https://github.com/lab4d-org/lab4d) - A framework for 4D reconstruction from monocular videos.
 - [ballaswag/guppyscreen](https://github.com/ballaswag/guppyscreen) - A native Touch UI for 3D Printers running Klipper/Moonraker.
@@ -1899,7 +1921,6 @@
 - [abrilcf/mednerf](https://github.com/abrilcf/mednerf) - 
 - [sunset1995/DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) - Direct voxel grid optimization for fast radiance field reconstruction.
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [Caoang327/HexPlane](https://github.com/Caoang327/HexPlane) - Official code for CVPR 2023 Paper, HexPlane: A Fast Representation for Dynamic Scenes
@@ -2899,7 +2920,7 @@
 
 ## package-manager 
 
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 
 ## parsing 
