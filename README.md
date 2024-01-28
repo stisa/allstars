@@ -103,6 +103,7 @@
 
 ## C 
 
+- [StarsX/DXRVoxelizer](https://github.com/StarsX/DXRVoxelizer) - XUSGRayTracing-EZ sample on DirectX12: real-time voxelization making use of ray-tracing pipeline for easy solid voxelization.
 - [ballaswag/guppyscreen](https://github.com/ballaswag/guppyscreen) - A native Touch UI for 3D Printers running Klipper/Moonraker.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
@@ -253,7 +254,7 @@
 
 - [EmmetOT/IsoMesh](https://github.com/EmmetOT/IsoMesh) - IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via su
 - [3DCP-TUe/SaladSlicer](https://github.com/3DCP-TUe/SaladSlicer) - An open-source slicer toolkit for 3D concrete printing
-- [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET 6
+- [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [WalletConnect/WalletConnectSharp](https://github.com/WalletConnect/WalletConnectSharp) - A C# implementation of the WalletConnect client
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
@@ -273,10 +274,13 @@
 
 ## C++ 
 
+- [tetsuya-takahashi/MC-style-vol-eval](https://github.com/tetsuya-takahashi/MC-style-vol-eval) - 
+- [iamyoukou/sdf3d](https://github.com/iamyoukou/sdf3d) - 3D Signed Distance Field
 - [christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen) - A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.
 - [moonglow/FlashForge_Marlin](https://github.com/moonglow/FlashForge_Marlin) - :shark: Marlin firmware for FlashForge Dreamer/Dreamer NX/Inventor, Bosch Dremel 3D20 3D, PowerSpec Ultra 3D and Monoprice Inventor 1
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+- [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [open-vv/vv](https://github.com/open-vv/vv) - A Fast And Simple 4D Image Viewer
 - [wang-ps/mesh2sdf](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF)
@@ -538,7 +542,7 @@
 
 ## Cuda 
 
-- [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
+- [rehmanali1994/easy_computed_tomography.github.io](https://github.com/rehmanali1994/easy_computed_tomography.github.io) - Educational and easy-to-understand parallel-beam computed tomography simulator (implemented both in MATLAB and CUDA)
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [luyuechao/ConeBeamGpu](https://github.com/luyuechao/ConeBeamGpu) - 
 - [MSUNDGR1/CUDA-accelerated-Voxelization](https://github.com/MSUNDGR1/CUDA-accelerated-Voxelization) - Voxelization method that takes a triangle mesh (in this case from an stl file), and converts it into a 3d map of voxels.
@@ -549,6 +553,7 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Blakexx/CryptoTracker](https://github.com/Blakexx/CryptoTracker) - An app made using the Flutter framework that allows users to track information for over 1500 cryptocurrencies
@@ -575,6 +580,7 @@
 
 - [McStasMcXtrace/McCode](https://github.com/McStasMcXtrace/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [DelNov/T-Flows](https://github.com/DelNov/T-Flows) - Program for Simulation of Turbulent Flows
+- [SHTOOLS/SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) - SHTOOLS - Spherical Harmonic Tools
 - [szaghi/OFF](https://github.com/szaghi/OFF) - OFF, Open source Finite volume Fluid dynamics code
 - [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) - Official git repository of Elmer FEM software
 - [nasa/NASTRAN-95](https://github.com/nasa/NASTRAN-95) - 
@@ -675,7 +681,6 @@
 - [jeffkreeftmeijer/enough.css](https://github.com/jeffkreeftmeijer/enough.css) - enough.css is a tiny CSS style sheet with most of the styling you'll need for that blog of yours.
 - [zevv/nimz3](https://github.com/zevv/nimz3) - Nim binding for the Z3 theorem prover
 - [skishore/inkstone](https://github.com/skishore/inkstone) - Learn Chinese on the go - no Internet connection required!
-- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for robots
 - [wbolden/complex](https://github.com/wbolden/complex) - WebGL Complex Function Plotter, also includes support for dual and split-complex numbers
 - [bibanon/bibanon](https://github.com/bibanon/bibanon) - The Bibliotheca Anonoma: A wikified library of the internet's treasures. Researching Something Awful, 2channel, 4chan, and other imageboard/textboard communities.
 - [andreaferretti/neo](https://github.com/andreaferretti/neo) - A matrix library
@@ -731,6 +736,7 @@
 - [dietzm/GCodeInfo](https://github.com/dietzm/GCodeInfo) - This is a small command line tool to analyse gcodes (control codes for 3D printers, CNC,...). It calculates various print details like -print time -used filament -yx move distance -print object dimens
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [MarginallyClever/Robot-Overlord-App](https://github.com/MarginallyClever/Robot-Overlord-App) - Simulation and control software for robots
 - [antlr/codebuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning (uh, like, is this possible? YES, apparently).
 - [yglukhov/nim-sdl-template](https://github.com/yglukhov/nim-sdl-template) - Cross-platform SDL/Nim skeleton
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
@@ -741,6 +747,7 @@
 
 ## JavaScript 
 
+- [zepp-health/zml](https://github.com/zepp-health/zml) - A Mini Library of ZeppOS MiniApp
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
 - [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
@@ -781,7 +788,6 @@
 - [bcnmy/metatx-standard](https://github.com/bcnmy/metatx-standard) - Repository contains generalized meta transaction standard that can be added to any smart contract to allow Meta Transactions from any externally-owned (key-based) account.
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
@@ -1055,6 +1061,7 @@
 
 ## Kotlin 
 
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [status-im/keycard-connect](https://github.com/status-im/keycard-connect) - Keycard + WalletConnect
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
@@ -1341,6 +1348,7 @@
 
 ## Others 
 
+- [tetsu97/WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) - This is WristWatch, a standalone extruder designed by @bythorsthunder WWG2 is built as an alternative to WristWatch BMG etruder - but it uses Galileo 2 insides for pushing filament. Development starte
 - [tkuri/Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) - List of awesome papers on Intrinsic Decomposition & Inverse Rendering
 - [LoraLinH/Awesome-CT-Reconstruction](https://github.com/LoraLinH/Awesome-CT-Reconstruction) - Awesome CT Reconstruction
 - [kevinakasam/Papilio-Belt-Extruder](https://github.com/kevinakasam/Papilio-Belt-Extruder) - The Papilio is an extruder that uses GT2 Timing Belts instead of metal gears to push the filament.
@@ -1512,9 +1520,16 @@
 
 ## Python 
 
+- [algotom/algotom](https://github.com/algotom/algotom) - Data processing algorithms for tomography: https://algotom.readthedocs.io
+- [wutong16/Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [casimp/lightct](https://github.com/casimp/lightct) - Python package used for visual light computed tomography.
+- [gaocong13/Projective-Spatial-Transformers](https://github.com/gaocong13/Projective-Spatial-Transformers) - Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration
+- [ErenBalatkan/DepthVisualizer](https://github.com/ErenBalatkan/DepthVisualizer) - OpenGL Based Python Library for 3D visualization of Point Clouds & Depth Maps
+- [p-hofmann/PyVoxelizer](https://github.com/p-hofmann/PyVoxelizer) - A python converter of 3D model into voxels
 - [OpenOPC/OpenILT](https://github.com/OpenOPC/OpenILT) - An Open-source Platform for Inverse Lithography Technology Research
 - [Haian-Jin/TensoIR](https://github.com/Haian-Jin/TensoIR) - [CVPR 2023] TensoIR: Tensorial Inverse Rendering
-- [markomih/ResFields](https://github.com/markomih/ResFields) - ResFields: Residual Neural Fields for Spatiotemporal Signals
+- [markomih/ResFields](https://github.com/markomih/ResFields) - [ICLR 2024 Spotlight] ResFields: Residual Neural Fields for Spatiotemporal Signals
 - [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields, ICCV'23 (Oral, Best Paper Finalist)
 - [lab4d-org/lab4d](https://github.com/lab4d-org/lab4d) - A framework for 4D reconstruction from monocular videos.
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -1736,7 +1751,6 @@
 - [ftynse/cs373](https://github.com/ftynse/cs373) - Homework for Course cs373: Programming a Robotic Car
 - [wkirgsn/deep-pmsm](https://github.com/wkirgsn/deep-pmsm) - Estimate intrinsic Permanent Magnet Synchronous Motor temperatures with deep recurrent and convolutional neural networks.
 - [magpylib/magpylib](https://github.com/magpylib/magpylib) - Python package for computation of magnetic fields of magnets, currents and moments.
-- [SHTOOLS/SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) - SHTOOLS - Spherical Harmonic Tools
 - [uvipen/Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch) - YOLO for object detection tasks
 - [adityadua24/robopy](https://github.com/adityadua24/robopy) - Robopy is a python port for Robotics Toolbox in Matlab created by Peter Corke
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD
@@ -1811,6 +1825,7 @@
 - [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
+- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
 - [hannobraun/stepper](https://github.com/hannobraun/stepper) - Universal Stepper Motor Interface
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
@@ -1841,6 +1856,7 @@
 
 ## Shell 
 
+- [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
 - [johang/sd-card-images](https://github.com/johang/sd-card-images) - Scripts to build bootable SD card images with Debian for various single-board computers
 - [stas2z/orangepi-build-cb1](https://github.com/stas2z/orangepi-build-cb1) - 
 - [ihrapsa/OctoWrt](https://github.com/ihrapsa/OctoWrt) - A guide to install Octoprint on the Creality WiFi Box or similar OpenWrt devices
@@ -1896,7 +1912,7 @@
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
