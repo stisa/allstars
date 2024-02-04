@@ -252,6 +252,7 @@
 
 ## C# # 
 
+- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 - [EmmetOT/IsoMesh](https://github.com/EmmetOT/IsoMesh) - IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via su
 - [3DCP-TUe/SaladSlicer](https://github.com/3DCP-TUe/SaladSlicer) - An open-source slicer toolkit for 3D concrete printing
 - [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET
@@ -721,6 +722,7 @@
 
 ## Java 
 
+- [adaerr/pendent-drop](https://github.com/adaerr/pendent-drop) - Liquid surface tension measurement through the pendent drop method: a plugin for ImageJ
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
 - [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
@@ -868,7 +870,7 @@
 - [plepers/nanogl](https://github.com/plepers/nanogl) - webgl micro framework
 - [xeolabs/scenejs](https://github.com/xeolabs/scenejs) - An extensible WebGL-based 3D engine. This is an archived project.
 - [substance/texture](https://github.com/substance/texture) - A visual editor for research.
-- [mutantdustbunny/mosaic.js](https://github.com/mutantdustbunny/mosaic.js) - Mosaic JavaScript Gamedev Library
+- [imtumbleweed/mosaic.js](https://github.com/imtumbleweed/mosaic.js) - Mosaic JavaScript Gamedev Library
 - [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [mikolalysenko/game-shell](https://github.com/mikolalysenko/game-shell) - Ready to go JavaScript shell for games or other interactive demos
 - [stackgl/gl-shader](https://github.com/stackgl/gl-shader) - 🎁 WebGL shader wrapper
@@ -1078,6 +1080,8 @@
 
 ## MATLAB 
 
+- [yankagan/VARD-for-CT](https://github.com/yankagan/VARD-for-CT) - Large-scale iterative image reconstruction for transmission tomography with automatic regularization
+- [villekf/OMEGA](https://github.com/villekf/OMEGA) - Open-source MATLAB/GNU Octave Emission and Transmission Tomography Software
 - [e0404/matRad](https://github.com/e0404/matRad) - An open source multi-modality radiation treatment planning sytem
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
 - [hengyongyu/OpenRecon](https://github.com/hengyongyu/OpenRecon) - This open-source software package is a response to the NIH/NIBIB Low-dose CT U01 community.  The purpose is to share a standardized platform equipped with key analytic reconstruction methods for helic
@@ -1520,6 +1524,8 @@
 
 ## Python 
 
+- [DiamondLightSource/discorpy](https://github.com/DiamondLightSource/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
+- [algotom/discorpy](https://github.com/algotom/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
 - [algotom/algotom](https://github.com/algotom/algotom) - Data processing algorithms for tomography: https://algotom.readthedocs.io
 - [wutong16/Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -1909,6 +1915,7 @@
 
 ## TypeScript 
 
+- [Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker) - Trying to create a new obsidian plugin to enable user to create bi-directional links easily based on the content of their vault.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
