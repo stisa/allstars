@@ -1636,6 +1636,7 @@
 
 ## matlab 
 
+- [villekf/OMEGA](https://github.com/villekf/OMEGA) - Open-source MATLAB/GNU Octave Emission and Transmission Tomography Software
 - [fernandolucasaa/computerGeneratedHolography](https://github.com/fernandolucasaa/computerGeneratedHolography) - Computer-generated holography (CGH) is the method of digitally generating holographic interference patterns
 - [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 🎞数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a comput
 - [CERN/TIGRE](https://github.com/CERN/TIGRE) - TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox
@@ -1903,6 +1904,12 @@
 
 ## others 
 
+- [DiamondLightSource/discorpy](https://github.com/DiamondLightSource/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
+- [algotom/discorpy](https://github.com/algotom/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
+- [adaerr/pendent-drop](https://github.com/adaerr/pendent-drop) - Liquid surface tension measurement through the pendent drop method: a plugin for ImageJ
+- [yankagan/VARD-for-CT](https://github.com/yankagan/VARD-for-CT) - Large-scale iterative image reconstruction for transmission tomography with automatic regularization
+- [Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker) - Trying to create a new obsidian plugin to enable user to create bi-directional links easily based on the content of their vault.
+- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 - [wutong16/Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
 - [zepp-health/zml](https://github.com/zepp-health/zml) - A Mini Library of ZeppOS MiniApp
 - [casimp/lightct](https://github.com/casimp/lightct) - Python package used for visual light computed tomography.
@@ -2599,7 +2606,7 @@
 - [sony/nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
 - [mini3d/mini3d](https://github.com/mini3d/mini3d) - Minimalistic, cross platform, open source 3d game engine framework
 - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
-- [mutantdustbunny/mosaic.js](https://github.com/mutantdustbunny/mosaic.js) - Mosaic JavaScript Gamedev Library
+- [imtumbleweed/mosaic.js](https://github.com/imtumbleweed/mosaic.js) - Mosaic JavaScript Gamedev Library
 - [cnr-isti-vclab/corto](https://github.com/cnr-isti-vclab/corto) - Mesh compression library, designed for rendering and speed.
 - [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [jangko/nimAGG](https://github.com/jangko/nimAGG) - nimAGG is a Nim port of Anti Grain Geometry(AGG)
