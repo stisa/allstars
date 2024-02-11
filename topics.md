@@ -224,7 +224,7 @@
 - [solenum/exengine](https://github.com/solenum/exengine) - A C99 3D game engine
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
-- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
+- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [zacharycarter/zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [tsherif/picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library
@@ -240,7 +240,7 @@
 ## ai 
 
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
@@ -287,7 +287,7 @@
 
 ## api 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [metacraft-labs/languist](https://github.com/metacraft-labs/languist) - a framework for automated translation of high level langs
@@ -323,6 +323,7 @@
 
 ## automation 
 
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [ButlerLogic/action-autotag](https://github.com/ButlerLogic/action-autotag) - Automatically generate a new tag when the manifest file (package.json, Dockerfile, custom file, etc) version changes.
 
@@ -443,7 +444,7 @@
 - [zpl-c/librg](https://github.com/zpl-c/librg) - 🚀  Making multi-player gamedev simpler since 2017
 - [codeplea/genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
+- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [siemens/embb](https://github.com/siemens/embb) - Embedded Multicore Building Blocks (EMB²): Library for parallel programming of embedded systems. Star us on GitHub? +1
 - [hellerve/e](https://github.com/hellerve/e) - A dead simple editor
 - [libfirm/libfirm](https://github.com/libfirm/libfirm) - graph based intermediate representation and backend for optimising compilers
@@ -469,8 +470,9 @@
 
 ## chatgpt 
 
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 
 ## chrome 
 
@@ -669,7 +671,7 @@
 
 ## database 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [decanus/minima](https://github.com/decanus/minima) - MinimaDB: A persistent & embeddable KV store written in Nim.
@@ -748,7 +750,7 @@
 
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [vjFaLk/firefly-bot](https://github.com/vjFaLk/firefly-bot) - Bot to quickly create transactions in Firefly III
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -888,7 +890,7 @@
 ## frontend 
 
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## game 
@@ -1208,7 +1210,7 @@
 
 ## html 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -1247,6 +1249,7 @@
 
 ## image-processing 
 
+- [letmaik/rawpy](https://github.com/letmaik/rawpy) - 📷 RAW image processing for Python, a wrapper for libraw
 - [algotom/algotom](https://github.com/algotom/algotom) - Data processing algorithms for tomography: https://algotom.readthedocs.io
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.
@@ -1287,7 +1290,7 @@
 ## javascript 
 
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
@@ -1682,6 +1685,7 @@
 
 ## neural-network 
 
+- [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
@@ -1878,7 +1882,7 @@
 - [nimgl/nimgl](https://github.com/nimgl/nimgl) - NimGL is a Nim library that offers bindings for popular libraries used in computer graphics
 - [solenum/exengine](https://github.com/solenum/exengine) - A C99 3D game engine
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
-- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
+- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [nvpro-samples/gl_cadscene_rendertechniques](https://github.com/nvpro-samples/gl_cadscene_rendertechniques) - OpenGL sample on various rendering approaches for typical CAD scenes
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
@@ -1904,6 +1908,8 @@
 
 ## others 
 
+- [microsoft/O-CNN](https://github.com/microsoft/O-CNN) - O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis
+- [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [DiamondLightSource/discorpy](https://github.com/DiamondLightSource/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
 - [algotom/discorpy](https://github.com/algotom/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
 - [adaerr/pendent-drop](https://github.com/adaerr/pendent-drop) - Liquid surface tension measurement through the pendent drop method: a plugin for ImageJ
@@ -1911,7 +1917,7 @@
 - [Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker) - Trying to create a new obsidian plugin to enable user to create bi-directional links easily based on the content of their vault.
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 - [wutong16/Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
-- [zepp-health/zml](https://github.com/zepp-health/zml) - A Mini Library of ZeppOS MiniApp
+- [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [casimp/lightct](https://github.com/casimp/lightct) - Python package used for visual light computed tomography.
 - [rehmanali1994/easy_computed_tomography.github.io](https://github.com/rehmanali1994/easy_computed_tomography.github.io) - Educational and easy-to-understand parallel-beam computed tomography simulator (implemented both in MATLAB and CUDA)
 - [gaocong13/Projective-Spatial-Transformers](https://github.com/gaocong13/Projective-Spatial-Transformers) - Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration
@@ -2000,7 +2006,7 @@
 - [NVIDIAGameWorks/RTXDI](https://github.com/NVIDIAGameWorks/RTXDI) - 
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
 - [karlotness/adrt](https://github.com/karlotness/adrt) - Fast approximate discrete Radon transform for NumPy arrays
-- [Armchair-Engineering/P-REXZ](https://github.com/Armchair-Engineering/P-REXZ) - 
+- [Armchair-Heavy-Industries/P-REXZ](https://github.com/Armchair-Heavy-Industries/P-REXZ) - 
 - [flashbots/simple-blind-arbitrage](https://github.com/flashbots/simple-blind-arbitrage) - 
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
@@ -2014,7 +2020,7 @@
 - [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
 - [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [trinamic/TMC-API](https://github.com/trinamic/TMC-API) - TRINAMIC's IC API
 - [raspberrypi/pico-extras](https://github.com/raspberrypi/pico-extras) - 
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
@@ -2981,12 +2987,12 @@
 
 ## postgresql 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 
 ## privacy 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [status-im/status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -3011,6 +3017,8 @@
 
 ## python 
 
+- [letmaik/rawpy](https://github.com/letmaik/rawpy) - 📷 RAW image processing for Python, a wrapper for libraw
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [tomopy/tomopy](https://github.com/tomopy/tomopy) - Tomographic Reconstruction in Python
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
@@ -3119,6 +3127,7 @@
 
 ## pytorch 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
@@ -3170,7 +3179,7 @@
 
 ## react 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
 - [bberak/react-native-game-engine-handbook](https://github.com/bberak/react-native-game-engine-handbook) - A React Native app showcasing some examples using react-native-game-engine 🐒✨
@@ -3201,7 +3210,7 @@
 
 ## rest-api 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 
 ## reverse-engineering 
 
@@ -3278,7 +3287,7 @@
 
 ## security 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 
@@ -3361,6 +3370,7 @@
 
 ## tensorflow 
 
+- [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
 - [kevinczhou/mesoscopic-photogrammetry](https://github.com/kevinczhou/mesoscopic-photogrammetry) - 3D reconstructions of mm-scale objects from sequences of phone camera images
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
@@ -3389,7 +3399,7 @@
 ## typescript 
 
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
