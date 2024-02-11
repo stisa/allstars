@@ -20,6 +20,7 @@
 - [Cool](#cool)
 - [Crystal](#crystal)
 - [Cuda](#cuda)
+- [Cython](#cython)
 - [D](#d)
 - [Dart](#dart)
 - [Eagle](#eagle)
@@ -188,7 +189,7 @@
 - [rlk/obj](https://github.com/rlk/obj) - Wavefront OBJ library in C with an OpenGL Core Profile renderer
 - [codeplea/genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
 - [emekoi/cactus](https://github.com/emekoi/cactus) - a wren game engine
-- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
+- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [genotrance/nimgen](https://github.com/genotrance/nimgen) - Nimgen is a helper for c2nim to simplify and automate the wrapping of C libraries
 - [h2o/picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
 - [randrew/layout](https://github.com/randrew/layout) - Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
@@ -275,13 +276,13 @@
 
 ## C++ 
 
+- [microsoft/O-CNN](https://github.com/microsoft/O-CNN) - O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis
 - [tetsuya-takahashi/MC-style-vol-eval](https://github.com/tetsuya-takahashi/MC-style-vol-eval) - 
 - [iamyoukou/sdf3d](https://github.com/iamyoukou/sdf3d) - 3D Signed Distance Field
 - [christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen) - A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.
 - [moonglow/FlashForge_Marlin](https://github.com/moonglow/FlashForge_Marlin) - :shark: Marlin firmware for FlashForge Dreamer/Dreamer NX/Inventor, Bosch Dremel 3D20 3D, PowerSpec Ultra 3D and Monoprice Inventor 1
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
-- [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [open-vv/vv](https://github.com/open-vv/vv) - A Fast And Simple 4D Image Viewer
 - [wang-ps/mesh2sdf](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF)
@@ -298,7 +299,7 @@
 - [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL
 - [sxyu/sdf](https://github.com/sxyu/sdf) - Parallelized triangle mesh --&gt; continuous signed distance field on CPU
 - [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
@@ -544,9 +545,14 @@
 ## Cuda 
 
 - [rehmanali1994/easy_computed_tomography.github.io](https://github.com/rehmanali1994/easy_computed_tomography.github.io) - Educational and easy-to-understand parallel-beam computed tomography simulator (implemented both in MATLAB and CUDA)
+- [LLNL/LEAP](https://github.com/LLNL/LEAP) - LivermorE AI Projector (LEAP) for computed tomography applications
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [luyuechao/ConeBeamGpu](https://github.com/luyuechao/ConeBeamGpu) - 
 - [MSUNDGR1/CUDA-accelerated-Voxelization](https://github.com/MSUNDGR1/CUDA-accelerated-Voxelization) - Voxelization method that takes a triangle mesh (in this case from an stl file), and converts it into a 3d map of voxels.
+
+## Cython 
+
+- [letmaik/rawpy](https://github.com/letmaik/rawpy) - 📷 RAW image processing for Python, a wrapper for libraw
 
 ## D 
 
@@ -749,7 +755,7 @@
 
 ## JavaScript 
 
-- [zepp-health/zml](https://github.com/zepp-health/zml) - A Mini Library of ZeppOS MiniApp
+- [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
 - [Palt0n/web-camera_PT](https://github.com/Palt0n/web-camera_PT) - Using a RPI 3b+ to create a PT camera accessible through Windows browser and controllable through MQTT
@@ -1014,6 +1020,7 @@
 
 ## Jupyter Notebook 
 
+- [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
 - [abrilcf/mednerf](https://github.com/abrilcf/mednerf) - 
 - [effepivi/gvxr-tutorials](https://github.com/effepivi/gvxr-tutorials) - Series of tutorials to show how to use gVXR
 - [effepivi/gvxr-demos](https://github.com/effepivi/gvxr-demos) - This repository includes some of the free examples/demos I made using my gVirtualXRay library.
@@ -1362,7 +1369,7 @@
 - [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
 - [sneakytreesnake/CrownCooler](https://github.com/sneakytreesnake/CrownCooler) - "Crown" shaped cooling duct and associated hot end mount for Voron Trident and V2.4 printers
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
-- [Armchair-Engineering/P-REXZ](https://github.com/Armchair-Engineering/P-REXZ) - 
+- [Armchair-Heavy-Industries/P-REXZ](https://github.com/Armchair-Heavy-Industries/P-REXZ) - 
 - [CroXY3D/Sailfin-Extruder](https://github.com/CroXY3D/Sailfin-Extruder) - A lightweight compact extruder with 5:1 gearing using BMG dual drive
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [fbeltrao-br/mksts35](https://github.com/fbeltrao-br/mksts35) - 
@@ -1524,6 +1531,9 @@
 
 ## Python 
 
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [DiamondLightSource/discorpy](https://github.com/DiamondLightSource/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
 - [algotom/discorpy](https://github.com/algotom/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
 - [algotom/algotom](https://github.com/algotom/algotom) - Data processing algorithms for tomography: https://algotom.readthedocs.io
@@ -1918,7 +1928,7 @@
 - [Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker) - Trying to create a new obsidian plugin to enable user to create bi-directional links easily based on the content of their vault.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
