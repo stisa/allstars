@@ -62,6 +62,7 @@
 - [QML](#qml)
 - [Reason](#reason)
 - [Red](#red)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -129,7 +130,7 @@
 - [Yardanico/mimalloc_nim](https://github.com/Yardanico/mimalloc_nim) - A drop-in solution to use mimalloc in Nim with ARC/ORC
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
-- [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - voxel art tools - editor, thumbnailer and format converter
+- [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [irishpatrick/pico-servo](https://github.com/irishpatrick/pico-servo) - A simple C library for controlling servos using a Raspberry Pi Pico
@@ -277,6 +278,8 @@
 
 ## C++ 
 
+- [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
+- [Geode-solutions/OpenGeode](https://github.com/Geode-solutions/OpenGeode) - Open source framework for representing and manipulating geometric models
 - [microsoft/O-CNN](https://github.com/microsoft/O-CNN) - O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis
 - [tetsuya-takahashi/MC-style-vol-eval](https://github.com/tetsuya-takahashi/MC-style-vol-eval) - 
 - [iamyoukou/sdf3d](https://github.com/iamyoukou/sdf3d) - 3D Signed Distance Field
@@ -595,6 +598,7 @@
 
 ## G-code 
 
+- [Sindry-Manufacturing/rotoforge](https://github.com/Sindry-Manufacturing/rotoforge) - a repository for the rotoforge desktop, micro friction stir deposition based metal, plastic and ceramic 3D printer project
 - [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [Photonsters/CBD-based-printers-list](https://github.com/Photonsters/CBD-based-printers-list) - Project page dedicated to other printers based on CBD tech Boards
 - [pixelpusher/liveprinter](https://github.com/pixelpusher/liveprinter) - Livecoding for 3D printers
@@ -1020,7 +1024,9 @@
 
 ## Jupyter Notebook 
 
-- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - 
+- [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
+- [Project-MONAI/model-zoo](https://github.com/Project-MONAI/model-zoo) - MONAI Model Zoo that hosts models in the MONAI Bundle format.
+- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
 - [abrilcf/mednerf](https://github.com/abrilcf/mednerf) - 
 - [effepivi/gvxr-tutorials](https://github.com/effepivi/gvxr-tutorials) - Series of tutorials to show how to use gVXR
@@ -1129,6 +1135,7 @@
 
 ## Nim 
 
+- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [bitstormFA/ArrayFire-Nim](https://github.com/bitstormFA/ArrayFire-Nim) - A Nim Wrapper for ArrayFire
 - [treeform/shady](https://github.com/treeform/shady) - Nim to GPU shader language compiler and supporting utilities.
@@ -1360,6 +1367,7 @@
 
 ## Others 
 
+- [DerFuchs/Armbian-with-Klipper-on-Fly-Gemini-3](https://github.com/DerFuchs/Armbian-with-Klipper-on-Fly-Gemini-3) - Yet another way to get mostly clean Klipper host system on a Gemini 3 / Fly Pi
 - [tetsu97/WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) - This is WristWatch, a standalone extruder designed by @bythorsthunder WWG2 is built as an alternative to WristWatch BMG etruder - but it uses Galileo 2 insides for pushing filament. Development starte
 - [tkuri/Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) - List of awesome papers on Intrinsic Decomposition & Inverse Rendering
 - [LoraLinH/Awesome-CT-Reconstruction](https://github.com/LoraLinH/Awesome-CT-Reconstruction) - Awesome CT Reconstruction
@@ -1532,6 +1540,7 @@
 
 ## Python 
 
+- [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
@@ -1821,6 +1830,10 @@
 
 - [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
 
+## Roff 
+
+- [Jjarrard/Gemini-V3-Flash-Voron-V0](https://github.com/Jjarrard/Gemini-V3-Flash-Voron-V0) - Flash Voron V0 FLY Gemini V3 with Fluidd and Klipper, Update, and Extras
+
 ## Ruby 
 
 - [makrohn/Universal-LPC-spritesheet](https://github.com/makrohn/Universal-LPC-spritesheet) - An attempt to merge most character assets generated by the Liberated Pixel Cup into a single .xcf, where they can be mixed and matched.
@@ -1873,6 +1886,7 @@
 
 ## Shell 
 
+- [reemo3dp/mellowfly-geminipi-armbian](https://github.com/reemo3dp/mellowfly-geminipi-armbian) - Patches enabling stock builds of armbian for Mellow Fly Gemini V3 / Pi
 - [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
 - [johang/sd-card-images](https://github.com/johang/sd-card-images) - Scripts to build bootable SD card images with Debian for various single-board computers
 - [stas2z/orangepi-build-cb1](https://github.com/stas2z/orangepi-build-cb1) - 
