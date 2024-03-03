@@ -123,6 +123,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [nativescript](#nativescript)
+- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nim](#nim)
 - [node](#node)
@@ -819,7 +820,7 @@
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.9 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.10 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
@@ -921,7 +922,7 @@
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [solenum/exengine](https://github.com/solenum/exengine) - A C99 3D game engine
 - [zpl-c/librg](https://github.com/zpl-c/librg) - 🚀  Making multi-player gamedev simpler since 2017
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [fragworks/frag](https://github.com/fragworks/frag) - A cross-platform 2D|3D game framework for the Nim programming language
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
@@ -955,7 +956,7 @@
 - [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [zacharycarter/zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
@@ -1002,7 +1003,7 @@
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
 - [tffdev/Leafgem](https://github.com/tffdev/Leafgem) - 🌿💎 The humble beginnings of a 2D game engine in Crystal! [in-progress]
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [zacharycarter/zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
@@ -1046,7 +1047,7 @@
 - [solenum/exengine](https://github.com/solenum/exengine) - A C99 3D game engine
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
 - [zpl-c/librg](https://github.com/zpl-c/librg) - 🚀  Making multi-player gamedev simpler since 2017
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [pragmagic/godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
@@ -1688,6 +1689,12 @@
 
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
+## natural-language-processing 
+
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+- [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+
 ## neural-network 
 
 - [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
@@ -1918,6 +1925,9 @@
 
 ## others 
 
+- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
+- [amd/RyzenAI-SW](https://github.com/amd/RyzenAI-SW) - 
+- [LuciAkirami/liva](https://github.com/LuciAkirami/liva) - LIVA - Local Intelligent Voice Assistant
 - [reemo3dp/mellowfly-geminipi-armbian](https://github.com/reemo3dp/mellowfly-geminipi-armbian) - Patches enabling stock builds of armbian for Mellow Fly Gemini V3 / Pi
 - [Jjarrard/Gemini-V3-Flash-Voron-V0](https://github.com/Jjarrard/Gemini-V3-Flash-Voron-V0) - Flash Voron V0 FLY Gemini V3 with Fluidd and Klipper, Update, and Extras
 - [DerFuchs/Armbian-with-Klipper-on-Fly-Gemini-3](https://github.com/DerFuchs/Armbian-with-Klipper-on-Fly-Gemini-3) - Yet another way to get mostly clean Klipper host system on a Gemini 3 / Fly Pi
@@ -2996,7 +3006,7 @@
 
 ## pico-8 
 
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 
 ## pixel-art 
 
@@ -3113,7 +3123,7 @@
 - [adityadua24/robopy](https://github.com/adityadua24/robopy) - Robopy is a python port for Robotics Toolbox in Matlab created by Peter Corke
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [inducer/cgen](https://github.com/inducer/cgen) - C/C++ source generation from an AST
 - [Maratyszcza/PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python
@@ -3143,7 +3153,7 @@
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [apahl/nim_magic](https://github.com/apahl/nim_magic) - Nim cell magic for JupyterLab or Juypter Python Notebooks.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 
 ## pytorch 
 
@@ -3283,7 +3293,7 @@
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [rustwasm/wee_alloc](https://github.com/rustwasm/wee_alloc) - The Wasm-Enabled, Elfin Allocator
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
@@ -3345,7 +3355,7 @@
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
-- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.9 - Ethereum Gas Station Network
+- [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.10 - Ethereum Gas Station Network
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
