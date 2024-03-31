@@ -623,6 +623,7 @@
 
 ## GLSL 
 
+- [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
 - [joric/pyshadertoy](https://github.com/joric/pyshadertoy) - Shadertoy in Python
 - [suhteevah/mpvhq-win64](https://github.com/suhteevah/mpvhq-win64) - mpvhq built on arch for win64
 
@@ -788,7 +789,7 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [bcnmy/mexa](https://github.com/bcnmy/mexa) - Repository contains smart contracts for biconomy's Mexa platform to implement meta transactions and allow dapp users to perform blockchain operations without holding any ether or other crypto currency
 - [opengsn/gsn-with-ethers](https://github.com/opengsn/gsn-with-ethers) - Minimal test to show how to use GSN with ethers
-- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern
+- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and graphics pipeline
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [OpenZeppelin/openzeppelin-labs](https://github.com/OpenZeppelin/openzeppelin-labs) - A space for the community to interact and exchange ideas on the OpenZeppelin platform. Do not use in production!
@@ -920,7 +921,7 @@
 - [fenomas/ent-comp](https://github.com/fenomas/ent-comp) - A light, fast Entity Component System in JS
 - [AnyChart/GraphicsJS](https://github.com/AnyChart/GraphicsJS) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 - [ccajas/JS-TinyRenderer](https://github.com/ccajas/JS-TinyRenderer) - A small software renderer written in JavaScript - http://ccajas.github.io/JS-TinyRenderer
-- [mkacz91/Triangulations](https://github.com/mkacz91/Triangulations) - An implementation and presentation of selected mesh generation algorithms
+- [mkatch/Triangulations](https://github.com/mkatch/Triangulations) - An implementation and presentation of selected mesh generation algorithms
 - [dcodeIO/WebAssembly-prototype](https://github.com/dcodeIO/WebAssembly-prototype) - [OUTDATED] JavaScript tools for working with WebAssembly (WASM) binaries.
 - [malko/D.js](https://github.com/malko/D.js) - tiny promises/A+ implementation
 - [mozilla/source-map](https://github.com/mozilla/source-map) - Consume and generate source maps.
@@ -1023,6 +1024,7 @@
 
 ## Jupyter Notebook 
 
+- [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
 - [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
 - [Project-MONAI/model-zoo](https://github.com/Project-MONAI/model-zoo) - MONAI Model Zoo that hosts models in the MONAI Bundle format.
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
@@ -1542,6 +1544,7 @@
 
 ## Python 
 
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [AustinTapp/CM3dLDM](https://github.com/AustinTapp/CM3dLDM) - Implementation of MR to CT synthesis via 3D Latent Diffusion
 - [HJ-harry/DiffusionMBIR](https://github.com/HJ-harry/DiffusionMBIR) - Official PyTorch implementation of the CVPR 2023 paper "Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models (https://arxiv.org/abs/2211.10655)"
 - [marko-janic/Latent-Diffusion-Model](https://github.com/marko-janic/Latent-Diffusion-Model) - Diffusion model used for reconstructing CT-scan images, trained in a lower dimensional latent space using a pretrained autoencoder.
@@ -1576,7 +1579,7 @@
 - [bearing/dosenet](https://github.com/bearing/dosenet) - Code for the Berkeley RadWatch dosimeter network
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
-- [havenhq/mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
+- [redotvideo/mamba-chat](https://github.com/redotvideo/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 - [chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2) - Single/multi view image(s) to voxel reconstruction using a recurrent neural network
 - [tomopy/tomopy](https://github.com/tomopy/tomopy) - Tomographic Reconstruction in Python
 - [kylekma/X2CT](https://github.com/kylekma/X2CT) - 
