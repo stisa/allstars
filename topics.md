@@ -1927,6 +1927,9 @@
 
 ## others 
 
+- [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
+- [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [AustinTapp/CM3dLDM](https://github.com/AustinTapp/CM3dLDM) - Implementation of MR to CT synthesis via 3D Latent Diffusion
 - [HJ-harry/DiffusionMBIR](https://github.com/HJ-harry/DiffusionMBIR) - Official PyTorch implementation of the CVPR 2023 paper "Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models (https://arxiv.org/abs/2211.10655)"
 - [marko-janic/Latent-Diffusion-Model](https://github.com/marko-janic/Latent-Diffusion-Model) - Diffusion model used for reconstructing CT-scan images, trained in a lower dimensional latent space using a pretrained autoencoder.
@@ -1977,7 +1980,7 @@
 - [bearing/dosenet](https://github.com/bearing/dosenet) - Code for the Berkeley RadWatch dosimeter network
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
-- [havenhq/mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
+- [redotvideo/mamba-chat](https://github.com/redotvideo/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 - [chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2) - Single/multi view image(s) to voxel reconstruction using a recurrent neural network
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [kevinakasam/Papilio-Belt-Extruder](https://github.com/kevinakasam/Papilio-Belt-Extruder) - The Papilio is an extruder that uses GT2 Timing Belts instead of metal gears to push the filament.
@@ -2228,7 +2231,7 @@
 - [polywrap/wrap-cli](https://github.com/polywrap/wrap-cli) - Used to create, build, and integrate wraps.
 - [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
-- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern
+- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and graphics pipeline
 - [status-im/nimplay](https://github.com/status-im/nimplay) - Nim Ethereum Contract DSL. Targeting eWASM.
 - [Udiknedormin/NimContracts](https://github.com/Udiknedormin/NimContracts) - Nim Language design by contract (DbC) library.
 - [status-im/nim-eth-contracts](https://github.com/status-im/nim-eth-contracts) - Ethereum smart contracts in Nim
@@ -2735,7 +2738,7 @@
 - [evacchi/nimoy](https://github.com/evacchi/nimoy) - A minimal experimental actor library for Nim (wip)
 - [ccajas/JS-TinyRenderer](https://github.com/ccajas/JS-TinyRenderer) - A small software renderer written in JavaScript - http://ccajas.github.io/JS-TinyRenderer
 - [ned14/nedtries](https://github.com/ned14/nedtries) - A portable in-place bitwise binary Fredkin trie algorithm which allows for near constant time insertions, deletions, finds, closest fit finds and iteration. Is approx. 50-100% faster than red-black tr
-- [mkacz91/Triangulations](https://github.com/mkacz91/Triangulations) - An implementation and presentation of selected mesh generation algorithms
+- [mkatch/Triangulations](https://github.com/mkatch/Triangulations) - An implementation and presentation of selected mesh generation algorithms
 - [izakharkin/SplashGeom](https://github.com/izakharkin/SplashGeom) - Open-source C++ library for geometry and linear algebra
 - [yglukhov/sound](https://github.com/yglukhov/sound) - Cross-platform sound mixer library
 - [jcosborn/qex](https://github.com/jcosborn/qex) - Quantum EXpressions lattice field theory framework
