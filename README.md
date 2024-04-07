@@ -790,7 +790,6 @@
 - [bcnmy/mexa](https://github.com/bcnmy/mexa) - Repository contains smart contracts for biconomy's Mexa platform to implement meta transactions and allow dapp users to perform blockchain operations without holding any ether or other crypto currency
 - [opengsn/gsn-with-ethers](https://github.com/opengsn/gsn-with-ethers) - Minimal test to show how to use GSN with ethers
 - [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and graphics pipeline
-- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [OpenZeppelin/openzeppelin-labs](https://github.com/OpenZeppelin/openzeppelin-labs) - A space for the community to interact and exchange ideas on the OpenZeppelin platform. Do not use in production!
 - [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
@@ -1368,6 +1367,7 @@
 
 ## Others 
 
+- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
 - [tylerinpdx/Flsun-Q5-Delta-3D-model-](https://github.com/tylerinpdx/Flsun-Q5-Delta-3D-model-) - Flsun Q5 Delta CAD model
 - [python-openxml/python-opc](https://github.com/python-openxml/python-opc) - Python library for manipulating Open Packaging Convention (OPC) files like .docx, .pptx, and .xslx
 - [youngwanLEE/sdxl-koala](https://github.com/youngwanLEE/sdxl-koala) - Compressing SDXL via knowledge-distillation
@@ -1924,6 +1924,7 @@
 - [zeriontech/defi-sdk](https://github.com/zeriontech/defi-sdk) - DeFi SDK Makes Money Lego Work
 - [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [gnosis/1155-to-20](https://github.com/gnosis/1155-to-20) - ERC 1155 to ERC 20 converter
 - [frangio/cacheable-beacon-proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with the least possible gas overhead.
