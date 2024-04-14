@@ -112,7 +112,7 @@
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 - [Ultimaker/Ultimaker2Marlin](https://github.com/Ultimaker/Ultimaker2Marlin) - 
 - [toastpp/toastpp](https://github.com/toastpp/toastpp) - Toast++: Forward and inverse modelling in optical tomography
-- [openMLA/photon-ultra-controller](https://github.com/openMLA/photon-ultra-controller) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
+- [openMLA/photon-ultra-controller-rp2040](https://github.com/openMLA/photon-ultra-controller-rp2040) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
 - [karimnaaji/voxelizer](https://github.com/karimnaaji/voxelizer) - Header only mesh voxelizer in c99
 - [analogdevicesinc/TMC-API](https://github.com/analogdevicesinc/TMC-API) - TRINAMIC's IC API
 - [raspberrypi/pico-extras](https://github.com/raspberrypi/pico-extras) - 
@@ -277,6 +277,7 @@
 
 ## C++ 
 
+- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [amd/RyzenAI-SW](https://github.com/amd/RyzenAI-SW) - 
 - [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
 - [Geode-solutions/OpenGeode](https://github.com/Geode-solutions/OpenGeode) - Open source framework for representing and manipulating geometric models
@@ -768,7 +769,6 @@
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [prusa3d/Prusa-Link-Web](https://github.com/prusa3d/Prusa-Link-Web) - Prusa Web interface resources
 - [OpenScan-org/OpenScan2](https://github.com/OpenScan-org/OpenScan2) - an improved firmware for the OpenScan devices, featuring many more cameras and a greatly improved overall usability
-- [Megabyteceer/thing-editor](https://github.com/Megabyteceer/thing-editor) - pixi.js based visual game editor
 - [aaron5670/PokeMMO-Online-Realtime-Multiplayer-Game](https://github.com/aaron5670/PokeMMO-Online-Realtime-Multiplayer-Game) - 🕹️ A simple realtime Pokémon MMO game build with Phaser 3, Colyseus.io & Webpack 4
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [skarab42/SLAcer.js](https://github.com/skarab42/SLAcer.js) - SLA slicer in your browser.
@@ -1023,6 +1023,7 @@
 
 ## Jupyter Notebook 
 
+- [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - Python version of FullControl for toolpath design (and more) - the readme below is best source of information
 - [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
 - [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
 - [Project-MONAI/model-zoo](https://github.com/Project-MONAI/model-zoo) - MONAI Model Zoo that hosts models in the MONAI Bundle format.
@@ -1367,6 +1368,8 @@
 
 ## Others 
 
+- [deltaxrobot/Delta-X-3D-Printed-Parts](https://github.com/deltaxrobot/Delta-X-3D-Printed-Parts) - Delta X 3D Printing Parts will be open-source in March 2020
+- [Ahmed-EGomaa/MNN-Slicer](https://github.com/Ahmed-EGomaa/MNN-Slicer) - MNN SLicer, is a 3D Slicer for Food-3D Bioprinting, using DIY off-Shelf 3D printer. The Slicer made to be easy and G-Code free, directly using Arduino backend and Python with CV for masking and printi
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
 - [tylerinpdx/Flsun-Q5-Delta-3D-model-](https://github.com/tylerinpdx/Flsun-Q5-Delta-3D-model-) - Flsun Q5 Delta CAD model
 - [python-openxml/python-opc](https://github.com/python-openxml/python-opc) - Python library for manipulating Open Packaging Convention (OPC) files like .docx, .pptx, and .xslx
@@ -1544,6 +1547,9 @@
 
 ## Python 
 
+- [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm) - PySLM: A Python Library for 3D Printing and Additive Manufacturing
+- [compas-dev/compas](https://github.com/compas-dev/compas) - Core packages of the COMPAS framework.
+- [TC4451/Vision_Based_3D_Printing](https://github.com/TC4451/Vision_Based_3D_Printing) - 
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [AustinTapp/CM3dLDM](https://github.com/AustinTapp/CM3dLDM) - Implementation of MR to CT synthesis via 3D Latent Diffusion
 - [HJ-harry/DiffusionMBIR](https://github.com/HJ-harry/DiffusionMBIR) - Official PyTorch implementation of the CVPR 2023 paper "Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models (https://arxiv.org/abs/2211.10655)"
@@ -1602,7 +1608,7 @@
 - [unixpickle/sdf-torch](https://github.com/unixpickle/sdf-torch) - Simple SDF mesh generation in Python
 - [nileshkulkarni/volumetricPrimitivesPytorch](https://github.com/nileshkulkarni/volumetricPrimitivesPytorch) - Pytorch Implementation of https://github.com/shubhtuls/volumetricPrimitives
 - [marian42/mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes
-- [gdewael/h5torch](https://github.com/gdewael/h5torch) - HDF data utilities for PyTorch
+- [gdewael/h5torch](https://github.com/gdewael/h5torch) - HDF5 data utilities for PyTorch
 - [mvsjober/pytorch-hdf5](https://github.com/mvsjober/pytorch-hdf5) - 
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
@@ -1967,6 +1973,7 @@
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [piesku/goodluck](https://github.com/piesku/goodluck) - 🤞 A hackable template for creating small and fast browser games.
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
+- [Megabyteceer/thing-editor](https://github.com/Megabyteceer/thing-editor) - pixi.js based visual game editor
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
 - [polygonjs/polygonjs](https://github.com/polygonjs/polygonjs) - node-based WebGL design tool
 - [viaprotocol/web3-wallets](https://github.com/viaprotocol/web3-wallets) - Connect multiple web3 wallets to your dapp easily
@@ -1980,7 +1987,7 @@
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.10 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
-- [Derked/FantasyCampaign](https://github.com/Derked/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
+- [bnazek/FantasyCampaign](https://github.com/bnazek/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
