@@ -40,6 +40,7 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -123,6 +124,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
+- [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nim](#nim)
 - [node](#node)
@@ -169,6 +171,7 @@
 - [solidity](#solidity)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -634,6 +637,10 @@
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
+
+## data 
+
+- [compas-dev/compas](https://github.com/compas-dev/compas) - Core packages of the COMPAS framework.
 
 ## data-analysis 
 
@@ -1695,6 +1702,10 @@
 - [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
+## nestjs 
+
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
 ## neural-network 
 
 - [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
@@ -1928,6 +1939,11 @@
 
 ## others 
 
+- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
+- [deltaxrobot/Delta-X-3D-Printed-Parts](https://github.com/deltaxrobot/Delta-X-3D-Printed-Parts) - Delta X 3D Printing Parts will be open-source in March 2020
+- [Ahmed-EGomaa/MNN-Slicer](https://github.com/Ahmed-EGomaa/MNN-Slicer) - MNN SLicer, is a 3D Slicer for Food-3D Bioprinting, using DIY off-Shelf 3D printer. The Slicer made to be easy and G-Code free, directly using Arduino backend and Python with CV for masking and printi
+- [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - Python version of FullControl for toolpath design (and more) - the readme below is best source of information
+- [TC4451/Vision_Based_3D_Printing](https://github.com/TC4451/Vision_Based_3D_Printing) - 
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
 - [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -2017,7 +2033,7 @@
 - [treeform/shady](https://github.com/treeform/shady) - Nim to GPU shader language compiler and supporting utilities.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [marian42/mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes
-- [gdewael/h5torch](https://github.com/gdewael/h5torch) - HDF data utilities for PyTorch
+- [gdewael/h5torch](https://github.com/gdewael/h5torch) - HDF5 data utilities for PyTorch
 - [mvsjober/pytorch-hdf5](https://github.com/mvsjober/pytorch-hdf5) - 
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [r-selfhosted-wiki/wiki](https://github.com/r-selfhosted-wiki/wiki) - Full-wiki Backup and Source for the reddit.com/r/selfhosted official wiki.
@@ -2034,7 +2050,7 @@
 - [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [openMLA/photon-ultra-controller](https://github.com/openMLA/photon-ultra-controller) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
+- [openMLA/photon-ultra-controller-rp2040](https://github.com/openMLA/photon-ultra-controller-rp2040) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
 - [gkyle/xaar128](https://github.com/gkyle/xaar128) - 
 - [viesturz/tapchanger](https://github.com/viesturz/tapchanger) - Voron TapChanger
@@ -2116,7 +2132,6 @@
 - [stmcculloch/arc-overhang](https://github.com/stmcculloch/arc-overhang) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
 - [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [gmlewis/irmf](https://github.com/gmlewis/irmf) - Infinite Resolution Materials Format (IRMF) Shaders
 - [PrintersForAnts/Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) - A Modular Voron V0.1 Style Toolhead
 - [LingDong-/t43](https://github.com/LingDong-/t43) - A tiny 3D slicer written from scratch
@@ -2254,7 +2269,7 @@
 - [aloelabs/aloe-blend](https://github.com/aloelabs/aloe-blend) - Maximizing liquidity utilization while maintaining 50/50 inventory ratio
 - [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 - [marcelc63/popular-contract-templates](https://github.com/marcelc63/popular-contract-templates) - Templates for Popular Smart Contracts
-- [Derked/FantasyCampaign](https://github.com/Derked/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
+- [bnazek/FantasyCampaign](https://github.com/bnazek/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
 - [makrohn/Universal-LPC-spritesheet](https://github.com/makrohn/Universal-LPC-spritesheet) - An attempt to merge most character assets generated by the Liberated Pixel Cup into a single .xcf, where they can be mixed and matched.
@@ -3058,6 +3073,7 @@
 
 ## python 
 
+- [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm) - PySLM: A Python Library for 3D Printing and Additive Manufacturing
 - [jonwright/pyopengltk](https://github.com/jonwright/pyopengltk) - OpenGL frame for Python/Tkinter via ctypes and pyopengl
 - [cgohlke/tifffile](https://github.com/cgohlke/tifffile) - Read and write TIFF files
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -3390,6 +3406,10 @@
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 - [nim-lang/nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
+
+## stable-diffusion 
+
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 
 ## statistics 
 
