@@ -58,6 +58,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [emulator](#emulator)
 - [es6](#es6)
 - [ethereum](#ethereum)
@@ -805,6 +806,15 @@
 ## elixir 
 
 - [gaynetdinov/ex_money](https://github.com/gaynetdinov/ex_money) - An [abandoned] self-hosted personal finance app
+
+## embedded 
+
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
+- [100/Cranium](https://github.com/100/Cranium) - 🤖   A portable, header-only, artificial neural network library written in C99
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## emulator 
 
@@ -1945,7 +1955,11 @@
 
 ## others 
 
-- [dvlab-research/MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
+- [alexzhou907/PVD](https://github.com/alexzhou907/PVD) - 
+- [cwchenwang/awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) - A collection of papers on diffusion models for 3D generation.
+- [siyeopyoon/3D-Patch-Diffusion](https://github.com/siyeopyoon/3D-Patch-Diffusion) - 
+- [yu-takagi/StableDiffusionReconstruction](https://github.com/yu-takagi/StableDiffusionReconstruction) - Takagi and Nishimoto, CVPR 2023
+- [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [hpcraink/workshop-parallel-jupyter](https://github.com/hpcraink/workshop-parallel-jupyter) - 
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
@@ -3199,6 +3213,7 @@
 
 ## pytorch 
 
+- [ozanciga/diffusion-for-beginners](https://github.com/ozanciga/diffusion-for-beginners) - denoising diffusion models, as simple as possible
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
@@ -3418,6 +3433,7 @@
 
 ## stable-diffusion 
 
+- [ozanciga/diffusion-for-beginners](https://github.com/ozanciga/diffusion-for-beginners) - denoising diffusion models, as simple as possible
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 
 ## statistics 
