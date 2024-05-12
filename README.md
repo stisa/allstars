@@ -276,6 +276,7 @@
 
 ## C++ 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.
 - [amd/RyzenAI-SW](https://github.com/amd/RyzenAI-SW) - 
 - [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
@@ -1551,6 +1552,7 @@
 
 ## Python 
 
+- [ajhynes7/scikit-spatial](https://github.com/ajhynes7/scikit-spatial) - Spatial objects and computations based on NumPy arrays.
 - [ozanciga/diffusion-for-beginners](https://github.com/ozanciga/diffusion-for-beginners) - denoising diffusion models, as simple as possible
 - [alexzhou907/PVD](https://github.com/alexzhou907/PVD) - 
 - [siyeopyoon/3D-Patch-Diffusion](https://github.com/siyeopyoon/3D-Patch-Diffusion) - 
