@@ -82,7 +82,6 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
-- [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -128,6 +127,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [nestjs](#nestjs)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [nim](#nim)
 - [nlp](#nlp)
 - [node](#node)
@@ -1162,10 +1162,6 @@
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 
-## graphql 
-
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
-
 ## hacktoberfest 
 
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
@@ -1562,6 +1558,7 @@
 
 ## llm 
 
+- [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2 Modes in NumPy
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
@@ -1745,6 +1742,10 @@
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ https://ocaml.xyz
 - [100/Cranium](https://github.com/100/Cranium) - 🤖   A portable, header-only, artificial neural network library written in C99
 
+## nextjs 
+
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+
 ## nim 
 
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
@@ -1896,6 +1897,7 @@
 
 ## numpy 
 
+- [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2 Modes in NumPy
 - [ajhynes7/scikit-spatial](https://github.com/ajhynes7/scikit-spatial) - Spatial objects and computations based on NumPy arrays.
 - [cgohlke/tifffile](https://github.com/cgohlke/tifffile) - Read and write TIFF files
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
@@ -1967,6 +1969,11 @@
 
 ## others 
 
+- [makerbase-mks/MKS-TFT35-Firmware](https://github.com/makerbase-mks/MKS-TFT35-Firmware) - This MKS TFT35 firmware source code and build by IAR platform ...
+- [yuya-isaka/Nimcc](https://github.com/yuya-isaka/Nimcc) - Mini C compiler written in Nim
+- [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is pure NumPy implementation for Llama 3 model.
+- [MacCurdyLab/OpenVCAD-Public](https://github.com/MacCurdyLab/OpenVCAD-Public) - 
+- [effepivi/gvxr-CMPB](https://github.com/effepivi/gvxr-CMPB) - Simulation of X-ray projections on GPU: benchmarking gVirtualXray with clinically realistic phantoms
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [alexzhou907/PVD](https://github.com/alexzhou907/PVD) - 
 - [cwchenwang/awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) - A collection of papers on diffusion models for 3D generation.
@@ -3369,7 +3376,6 @@
 - [rustwasm/wee_alloc](https://github.com/rustwasm/wee_alloc) - The Wasm-Enabled, Elfin Allocator
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [serde-deprecated/syntex](https://github.com/serde-deprecated/syntex) - No longer maintained
