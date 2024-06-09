@@ -128,7 +128,6 @@
 - [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [EchoHeim/Allwinner-H616](https://github.com/EchoHeim/Allwinner-H616) - 🔥 Linux SDK for Allwinner H616, based on armbian-build
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
-- [Yardanico/mimalloc_nim](https://github.com/Yardanico/mimalloc_nim) - A drop-in solution to use mimalloc in Nim with ARC/ORC
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
 - [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
@@ -322,6 +321,7 @@
 - [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
+- [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [GoogleBot42/Tracer](https://github.com/GoogleBot42/Tracer) - A portable GPU/CPU Path Tracer library powered by SYCL. (OpenCL/CUDA/OpenMP)
 - [kulvait/KCT_cbct](https://github.com/kulvait/KCT_cbct) - Fast, accurate and reliable software for algebraic CT reconstruction
 - [JueHo/CT-Recon](https://github.com/JueHo/CT-Recon) - Tools for X-ray CT reconstruction
@@ -636,6 +636,7 @@
 
 ## Go 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1090,6 +1091,8 @@
 
 ## Kotlin 
 
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [status-im/keycard-connect](https://github.com/status-im/keycard-connect) - Keycard + WalletConnect
@@ -1406,7 +1409,6 @@
 - [fbeltrao-br/mksts35](https://github.com/fbeltrao-br/mksts35) - 
 - [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 - [Audiotronix/Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
-- [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [makerbase-mks/MKS-THR36-THR42-UTC](https://github.com/makerbase-mks/MKS-THR36-THR42-UTC) - 
 - [jackw01/smallXY](https://github.com/jackw01/smallXY) - Experimental CoreXY 3D printer
 - [gmlewis/irmf](https://github.com/gmlewis/irmf) - Infinite Resolution Materials Format (IRMF) Shaders
@@ -1562,6 +1564,11 @@
 
 ## Python 
 
+- [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
+- [jwc-rad/pix2pix3D-CT](https://github.com/jwc-rad/pix2pix3D-CT) - Keras implementation of modified pix2pix with 3D convolutions. Developed for CT data.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [idoh/mamba.np](https://github.com/idoh/mamba.np) - A pure NumPy implementation of Mamba.
+- [rabits/honor-tools](https://github.com/rabits/honor-tools) - Various honor phone tools to get necessary info or recent updates from update.hihonorcdn.com
 - [vganapati/CT_PVAE](https://github.com/vganapati/CT_PVAE) - Physics-informed variational autoencoder for computed tomography.
 - [guanhuaw/MIRTorch](https://github.com/guanhuaw/MIRTorch) - A PyTorch-powered differentiable image reconstruction/optimization toolbox
 - [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2 Modes in NumPy
@@ -1611,7 +1618,7 @@
 - [icon-lab/SynDiff](https://github.com/icon-lab/SynDiff) - Official PyTorch implementation of SynDiff described in the paper (https://arxiv.org/abs/2207.08208).
 - [bearing/dosenet](https://github.com/bearing/dosenet) - Code for the Berkeley RadWatch dosimeter network
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
-- [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [redotvideo/mamba-chat](https://github.com/redotvideo/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 - [chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2) - Single/multi view image(s) to voxel reconstruction using a recurrent neural network
 - [tomopy/tomopy](https://github.com/tomopy/tomopy) - Tomographic Reconstruction in Python
