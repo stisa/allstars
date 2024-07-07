@@ -504,7 +504,6 @@
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [floblik/YouScrobbler](https://github.com/floblik/YouScrobbler) - Scrobbling from YouTube to Last.FM - Userscript for Firefox and Chrome (DISCONTINUED)
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## chrome-extension 
 
@@ -913,7 +912,6 @@
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [floblik/YouScrobbler](https://github.com/floblik/YouScrobbler) - Scrobbling from YouTube to Last.FM - Userscript for Firefox and Chrome (DISCONTINUED)
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## flutter 
 
@@ -1316,6 +1314,7 @@
 - [algotom/algotom](https://github.com/algotom/algotom) - Data processing algorithms for tomography: https://algotom.readthedocs.io
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.
+- [kulvait/KCT_cbct](https://github.com/kulvait/KCT_cbct) - Fast, accurate and reliable software for algebraic CT reconstruction
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 
 ## ios 
@@ -2010,6 +2009,9 @@
 
 ## others 
 
+- [SlicerMorph/SlicerMorph](https://github.com/SlicerMorph/SlicerMorph) - Extension to import microCT data and conduct 3D morphometrics in Slicer
+- [Esoterical/voron_canbus](https://github.com/Esoterical/voron_canbus) - 
+- [Pole-Engineering/Crossant-235](https://github.com/Pole-Engineering/Crossant-235) - Affordable and mostly customizable Cross Gantry 3D printer
 - [codeplaysoftware/portBLAS](https://github.com/codeplaysoftware/portBLAS) - An implementation of BLAS using the SYCL open standard.
 - [Clon1998/mobileraker_companion](https://github.com/Clon1998/mobileraker_companion) - Companion for mobileraker, enabling push notification.
 - [zhangty019/S3_DeformFDM](https://github.com/zhangty019/S3_DeformFDM) - S^3-Slicer: A General Slicing Framework for Multi-Axis 3D Printing
@@ -2201,7 +2203,6 @@
 - [chbergmann/OpticsWorkbench](https://github.com/chbergmann/OpticsWorkbench) - 
 - [makerbase-mks/MKS-THR36-THR42-UTC](https://github.com/makerbase-mks/MKS-THR36-THR42-UTC) - 
 - [ma0ho/Deep-Learning-Cone-Beam-CT](https://github.com/ma0ho/Deep-Learning-Cone-Beam-CT) - 
-- [kulvait/KCT_cbct](https://github.com/kulvait/KCT_cbct) - Fast, accurate and reliable software for algebraic CT reconstruction
 - [skuep/V0-DBM](https://github.com/skuep/V0-DBM) - High-Resolution Differential Z-Belt Mod for V0 (with optional Kirigami support)
 - [CAP1Sup/Intellistep](https://github.com/CAP1Sup/Intellistep) - A rework of the terribly coded firmware from the BTT S42B v2 boards
 - [Heinz-Loepmeier/nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss) - 
@@ -2440,7 +2441,7 @@
 - [pixelpusher/liveprinter](https://github.com/pixelpusher/liveprinter) - Livecoding for 3D printers
 - [Microtome/microtome](https://github.com/Microtome/microtome) - A browser based GPU accelerated 3D model slicer
 - [AndyEveritt/ASMBL](https://github.com/AndyEveritt/ASMBL) - Additive & Subtractive Manufacturing By Layer for the E3D ToolChanging platform
-- [analysis230/analysis230.github.io](https://github.com/analysis230/analysis230.github.io) - 
+- [vipulrajan/analysis230.github.io](https://github.com/vipulrajan/analysis230.github.io) - 
 - [seemecnc/Orion_Delta](https://github.com/seemecnc/Orion_Delta) - SeeMeCNC Orion Delta 3D Printer
 - [Carbonoid/D1](https://github.com/Carbonoid/D1) - Repository for Carbonoid D1 Delta Printer
 - [Apsu/DiffBot](https://github.com/Apsu/DiffBot) - Differential screw-driven parallel gantry
