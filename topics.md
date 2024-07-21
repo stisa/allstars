@@ -209,6 +209,7 @@
 
 ## 3d 
 
+- [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
@@ -567,6 +568,7 @@
 
 ## computer-vision 
 
+- [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
 - [ErenBalatkan/DepthVisualizer](https://github.com/ErenBalatkan/DepthVisualizer) - OpenGL Based Python Library for 3D visualization of Point Clouds & Depth Maps
@@ -768,6 +770,7 @@
 
 ## deno 
 
+- [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 
 ## deployment 
@@ -795,6 +798,7 @@
 
 ## docker 
 
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
@@ -1205,6 +1209,7 @@
 
 ## hacktoberfest 
 
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
@@ -1315,6 +1320,7 @@
 
 ## image-processing 
 
+- [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
 - [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
 - [letmaik/rawpy](https://github.com/letmaik/rawpy) - 📷 RAW image processing for Python, a wrapper for libraw
 - [algotom/algotom](https://github.com/algotom/algotom) - Data processing algorithms for tomography: https://algotom.readthedocs.io
@@ -1630,6 +1636,7 @@
 
 ## machine-learning 
 
+- [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [LLNL/LEAP](https://github.com/LLNL/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python API and fully integrated with PyTorch
@@ -1687,6 +1694,7 @@
 
 ## markdown 
 
+- [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
@@ -1955,6 +1963,7 @@
 
 ## open-source 
 
+- [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
@@ -2015,6 +2024,7 @@
 
 ## others 
 
+- [Librum-Reader/Librum-Server](https://github.com/Librum-Reader/Librum-Server) - The Librum server
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 - [capocasa/cgui](https://github.com/capocasa/cgui) - An example setup to cross compile native GUI apps for Nim on Linux, for Linux, Windows and OSX
 - [SlicerMorph/SlicerMorph](https://github.com/SlicerMorph/SlicerMorph) - Extension to import microCT data and conduct 3D morphometrics in Slicer
@@ -3171,6 +3181,7 @@
 
 ## pwa 
 
+- [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -3178,6 +3189,7 @@
 
 ## python 
 
+- [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show pyvista 3D visualizations in streamlit
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
@@ -3587,6 +3599,7 @@
 
 ## typescript 
 
+- [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
