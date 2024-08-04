@@ -2026,6 +2026,8 @@
 
 ## others 
 
+- [greenonline/Kossel](https://github.com/greenonline/Kossel) - Files relating to the Kossel 3D Printer
+- [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
 - [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - 
 - [Librum-Reader/Librum-Server](https://github.com/Librum-Reader/Librum-Server) - The Librum server
@@ -2417,7 +2419,7 @@
 - [makoto/xdai-arb-graph](https://github.com/makoto/xdai-arb-graph) - Crosschain Arbitrage  opportunity graph
 - [0xsequence/demo-dapp](https://github.com/0xsequence/demo-dapp) - Demo Dapp using 0xsequence directly
 - [ansiwave/wavecore](https://github.com/ansiwave/wavecore) - ANSIWAVE BBS server
-- [WalletConnect/WalletConnectSharp](https://github.com/WalletConnect/WalletConnectSharp) - A C# implementation of the WalletConnect client
+- [WalletConnect/WalletConnectSharp](https://github.com/WalletConnect/WalletConnectSharp) - A C# implementation of the WalletConnect protocol
 - [gelatodigital/g-uni-v1-core](https://github.com/gelatodigital/g-uni-v1-core) - G-UNI Pools are managed ERC20 Wrappers around Uniswap V3 Liquidity Positions
 - [unicast-project/unicast](https://github.com/unicast-project/unicast) - UniCast brings machine learning (ML) forecasting and ML models to Uniswap v3 and the larger DeFi ecosystem. The project aims to contribute with the tools, building blocks and examples to create, train
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
@@ -3214,7 +3216,7 @@
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
-- [qurit/PyTomography](https://github.com/qurit/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
+- [PyTomography/PyTomography](https://github.com/PyTomography/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
 - [glotzerlab/fresnel](https://github.com/glotzerlab/fresnel) - Publication quality path tracing in real time.
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -3326,7 +3328,7 @@
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
-- [qurit/PyTomography](https://github.com/qurit/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
+- [PyTomography/PyTomography](https://github.com/PyTomography/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
 - [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim) - DLPrimitives/OpenCL out of tree backend for pytorch
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
