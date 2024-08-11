@@ -778,7 +778,7 @@
 
 ## JavaScript 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
@@ -829,7 +829,7 @@
 - [fireship-io/nft-art-generator](https://github.com/fireship-io/nft-art-generator) - A simple randomized NFT art generator
 - [gasolin/ethhole](https://github.com/gasolin/ethhole) - How the token flows
 - [lepunk/react-native-videos](https://github.com/lepunk/react-native-videos) - 
-- [Cloud9c/taro](https://github.com/Cloud9c/taro) - A lightweight 3D game engine for the web.
+- [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [omarsinan/FlappyBirdClone](https://github.com/omarsinan/FlappyBirdClone) - A Flappy Bird clone using p5.js and Matter.js
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
@@ -1047,7 +1047,6 @@
 - [hpcraink/workshop-parallel-jupyter](https://github.com/hpcraink/workshop-parallel-jupyter) - 
 - [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
 - [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
-- [Project-MONAI/model-zoo](https://github.com/Project-MONAI/model-zoo) - MONAI Model Zoo that hosts models in the MONAI Bundle format.
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
 - [abrilcf/mednerf](https://github.com/abrilcf/mednerf) - 
@@ -1521,7 +1520,7 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [mattdesl/graphics-resources](https://github.com/mattdesl/graphics-resources) - :memo: a list of graphic programming resources
 - [yglukhov/nimble-tag](https://github.com/yglukhov/nimble-tag) - 
-- [glotcode/glot](https://github.com/glotcode/glot) - Pastebin with runnable snippets and API
+- [glotcode/glot](https://github.com/glotcode/glot) - Code playground
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [zsaleeba/picoc](https://github.com/zsaleeba/picoc) - A very small C interpreter
@@ -1591,7 +1590,7 @@
 - [Clon1998/mobileraker_companion](https://github.com/Clon1998/mobileraker_companion) - Companion for mobileraker, enabling push notification.
 - [oneapi-src/engineering-design-optimization](https://github.com/oneapi-src/engineering-design-optimization) - AI Starter Kit for Engineering Design Optimization using Intel® Extension for Pytorch
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
-- [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
+- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [amine0110/vedo-tutorials](https://github.com/amine0110/vedo-tutorials) - 
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
@@ -1626,6 +1625,7 @@
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [LuciAkirami/liva](https://github.com/LuciAkirami/liva) - LIVA - Local Intelligent Voice Assistant
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
+- [Project-MONAI/model-zoo](https://github.com/Project-MONAI/model-zoo) - MONAI Model Zoo that hosts models in the MONAI Bundle format.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
@@ -1693,7 +1693,7 @@
 - [karlotness/adrt](https://github.com/karlotness/adrt) - Fast approximate discrete Radon transform for NumPy arrays
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [blake3dcake/openspectrym](https://github.com/blake3dcake/openspectrym) - add multicolor to a 3d printer by coating transparent filament with ink (using markers or pumps)
-- [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography
+- [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography - Acquisition - Raspberry Pi
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [Chr157i4n/TMC2209_Raspberry_Pi](https://github.com/Chr157i4n/TMC2209_Raspberry_Pi) - this is a Python library to drive a stepper motor with a Trinamic TMC2209 stepper driver and a Raspberry Pi
@@ -1934,7 +1934,7 @@
 ## Rust 
 
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [nviennot/stm32-gpio-monitor](https://github.com/nviennot/stm32-gpio-monitor) - Monitor the GPIO of a STM32 live
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [nviennot/turbo-resin](https://github.com/nviennot/turbo-resin) - Open-source firmware for resin printers
