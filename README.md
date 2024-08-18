@@ -1589,7 +1589,7 @@
 - [SlicerMorph/SlicerMorph](https://github.com/SlicerMorph/SlicerMorph) - Extension to import microCT data and conduct 3D morphometrics in Slicer
 - [Clon1998/mobileraker_companion](https://github.com/Clon1998/mobileraker_companion) - Companion for mobileraker, enabling push notification.
 - [oneapi-src/engineering-design-optimization](https://github.com/oneapi-src/engineering-design-optimization) - AI Starter Kit for Engineering Design Optimization using Intel® Extension for Pytorch
-- [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
+- [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [amine0110/vedo-tutorials](https://github.com/amine0110/vedo-tutorials) - 
@@ -2031,6 +2031,8 @@
 
 ## TypeScript 
 
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
+- [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
