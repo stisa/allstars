@@ -93,6 +93,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -132,6 +133,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [nestjs](#nestjs)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [nim](#nim)
 - [nlp](#nlp)
 - [node](#node)
@@ -1317,6 +1319,11 @@
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 
+## https 
+
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
+- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
+
 ## image-processing 
 
 - [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
@@ -1799,6 +1806,10 @@
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ https://ocaml.xyz
 - [100/Cranium](https://github.com/100/Cranium) - 🤖   A portable, header-only, artificial neural network library written in C99
 
+## nextjs 
+
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
+
 ## nim 
 
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
@@ -2024,6 +2035,7 @@
 
 ## others 
 
+- [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [greenonline/Kossel](https://github.com/greenonline/Kossel) - Files relating to the Kossel 3D Printer
 - [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -3060,7 +3072,6 @@
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [snowkit/tides](https://github.com/snowkit/tides) - Haxe tools for IDE support
 - [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
-- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [maierfelix/PokeMMO](https://github.com/maierfelix/PokeMMO) - :video_game: Pokemon MMO engine with realtime editor
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
@@ -3196,7 +3207,7 @@
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show pyvista 3D visualizations in streamlit
-- [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
+- [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [ajhynes7/scikit-spatial](https://github.com/ajhynes7/scikit-spatial) - Spatial objects and computations based on NumPy arrays.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
@@ -3374,6 +3385,7 @@
 
 ## react 
 
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
@@ -3411,7 +3423,7 @@
 
 ## robotics 
 
-- [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
+- [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
 - [compas-dev/compas_slicer](https://github.com/compas-dev/compas_slicer) - Slicing package for FDM 3D Printing with COMPAS.
 - [Scottapotamas/zaphod-bot](https://github.com/Scottapotamas/zaphod-bot) - A DIY high performance delta-bot for fun, and lightpainting...
