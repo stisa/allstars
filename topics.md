@@ -24,6 +24,7 @@
 - [blockchain](#blockchain)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -166,6 +167,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [reinforcement-learning](#reinforcement-learning)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
 - [ruby](#ruby)
@@ -177,6 +179,7 @@
 - [server](#server)
 - [shell](#shell)
 - [solidity](#solidity)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
@@ -184,6 +187,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -256,7 +260,7 @@
 
 ## ai 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
@@ -312,6 +316,7 @@
 
 ## api 
 
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -400,7 +405,7 @@
 
 ## azure 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
 
 ## backend 
 
@@ -498,9 +503,46 @@
 - [brendan-rius/jupyter-c-kernel](https://github.com/brendan-rius/jupyter-c-kernel) - Minimal Jupyter C kernel
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 
+## c-plus-plus 
+
+- [rodrigovimieiro/OpenCodes](https://github.com/rodrigovimieiro/OpenCodes) - Open source codes
+- [unclearness/vacancy](https://github.com/unclearness/vacancy) - Vacancy: A Voxel Carving implementation in C++
+- [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
+- [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
+- [Project-10/OpenRT](https://github.com/Project-10/OpenRT) - Open Source Ray Tracing Library
+- [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
+- [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
+- [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura.
+- [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
+- [roboticslibrary/rl](https://github.com/roboticslibrary/rl) - The Robotics Library (RL) is a self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control.
+- [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
+- [trase-cpp/trase](https://github.com/trase-cpp/trase) - 📊 A lightweight plotting library
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
+- [siemens/embb](https://github.com/siemens/embb) - Embedded Multicore Building Blocks (EMB²): Library for parallel programming of embedded systems. Star us on GitHub? +1
+- [SAFRAN-LAB/HODLR](https://github.com/SAFRAN-LAB/HODLR) - A fast, accurate direct solver and determinant computation for dense linear systems
+- [Leandros/WindowsHModular](https://github.com/Leandros/WindowsHModular) - A modular Windows.h Header. Licensed under Public Domain & MIT.
+- [razimantv/mazegenerator](https://github.com/razimantv/mazegenerator) - Generate mazes of different shapes and arbitrary sizes using graph theory
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
+- [arvidsson/Mix](https://github.com/arvidsson/Mix) - C++ minimal entity-component system single header library
+- [bl4ckb0ne/delaunay-triangulation](https://github.com/bl4ckb0ne/delaunay-triangulation) - C++ version the delaunay triangulation
+- [treefrogframework/cpi](https://github.com/treefrogframework/cpi) - Tiny c++ interpreter
+- [jamboree/co2](https://github.com/jamboree/co2) - A C++ await/yield emulation library for stackless coroutine
+- [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+- [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [mkeeter/antimony](https://github.com/mkeeter/antimony) - CAD from a parallel universe
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+
 ## chatgpt 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -598,6 +640,7 @@
 
 ## cpp 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -648,6 +691,7 @@
 
 ## csharp 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [rafaelvasco/nimrod-glfw](https://github.com/rafaelvasco/nimrod-glfw) - GLFW Bindings for the Nim Programming Language
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 
@@ -800,6 +844,7 @@
 
 ## docker 
 
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -1208,7 +1253,7 @@
 
 ## google 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
 
 ## hacktoberfest 
 
@@ -1402,7 +1447,7 @@
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
 - [rc-dukes/dash2](https://github.com/rc-dukes/dash2) - Real-time motion planner and autonomous vehicle simulator in the browser, built with WebGL and Three.js.
-- [nepeckman/jsExport.nim](https://github.com/nepeckman/jsExport.nim) - CommonJS exports for Nim
+- [vepeckman/jsExport.nim](https://github.com/vepeckman/jsExport.nim) - CommonJS exports for Nim
 - [jiro4989/setup-nim-action](https://github.com/jiro4989/setup-nim-action) - Set up your GitHub Actions workflow with a specific version of Nim
 - [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1481,6 +1526,8 @@
 
 ## julia 
 
+- [roflmaostc/RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) - A simple yet sufficiently fast (attenuated) Radon and backproject implementation using KernelAbstractions.jl. Runs on CPU, CUDA, ...
+- [EPFL-LAPD/SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) - Julia package for Light Based Tomographic Volumetric Additive Manufacturing.
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
 - [SciML/DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) - Data driven modeling and automated discovery of dynamical systems for the SciML Scientific Machine Learning organization
 - [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics and nonlinear timeseries analysis
@@ -1506,6 +1553,7 @@
 
 ## kotlin 
 
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -1580,6 +1628,8 @@
 
 ## linux 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1854,7 +1904,7 @@
 - [sinkingsugar/fragments](https://github.com/sinkingsugar/fragments) - Collection of pure Nim utilities
 - [icyphox/nicy](https://github.com/icyphox/nicy) - :snowflake: a nice and icy zsh and bash prompt in Nim
 - [oskca/webview](https://github.com/oskca/webview) - Nim bindings for https://github.com/zserge/webview
-- [nepeckman/jsExport.nim](https://github.com/nepeckman/jsExport.nim) - CommonJS exports for Nim
+- [vepeckman/jsExport.nim](https://github.com/vepeckman/jsExport.nim) - CommonJS exports for Nim
 - [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) - PyTorch - Python + Nim
 - [disruptek/frosty](https://github.com/disruptek/frosty) - serialize native Nim types to strings, streams, sockets, whatever ⛄
 - [nim-lang/nimsuggest](https://github.com/nim-lang/nimsuggest) - idetools for the nim language
@@ -2035,7 +2085,10 @@
 
 ## others 
 
-- [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [viesturz/klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger) - Toolcahnging extension for Klipper
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [greenonline/Kossel](https://github.com/greenonline/Kossel) - Files relating to the Kossel 3D Printer
 - [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -2210,7 +2263,7 @@
 - [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
 - [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [analogdevicesinc/TMC-API](https://github.com/analogdevicesinc/TMC-API) - TRINAMIC's IC API
 - [raspberrypi/pico-extras](https://github.com/raspberrypi/pico-extras) - 
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
@@ -2229,7 +2282,6 @@
 - [jrprice/Oclgrind](https://github.com/jrprice/Oclgrind) - An OpenCL device simulator and debugger
 - [maweigert/gputools](https://github.com/maweigert/gputools) - GPU accelerated image/volume processing in Python
 - [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
-- [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [GoogleBot42/Tracer](https://github.com/GoogleBot42/Tracer) - A portable GPU/CPU Path Tracer library powered by SYCL. (OpenCL/CUDA/OpenMP)
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
@@ -2357,7 +2409,6 @@
 - [tunabrain/tantalum](https://github.com/tunabrain/tantalum) - WebGL 2D Light Transport
 - [SCIInstitute/ShapeWorks](https://github.com/SCIInstitute/ShapeWorks) - ShapeWorks
 - [SCIInstitute/Seg3D](https://github.com/SCIInstitute/Seg3D) - Seg3D is a free volume segmentation and processing tool developed by the NIH Center for Integrative Biomedical Computing at the University of Utah Scientific Computing and Imaging (SCI) Institute.
-- [Project-10/OpenRT](https://github.com/Project-10/OpenRT) - Open Source Ray Tracing Library
 - [LuxCoreRender/LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [daeyun/mesh-to-depth](https://github.com/daeyun/mesh-to-depth) - Depth map generator for Python written in C++
@@ -2583,7 +2634,6 @@
 - [bdring/Grbl_Esp32](https://github.com/bdring/Grbl_Esp32) - A port of Grbl CNC Firmware for ESP32
 - [MarginallyClever/Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - CNC firmware for many different control boards and kinematic systems.  Originally the brain of the Makelangelo art robot.
 - [MatterHackers/MatterSlice](https://github.com/MatterHackers/MatterSlice) - MatterSlice is a C# console application that generates GCode (hardware control) for 3D printing. It was originally ported from CuraEngine (another great open source 3D printing engine). It is the prim
-- [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura.
 - [shapeforge/Chill](https://github.com/shapeforge/Chill) - Chill, node editor
 - [Yixin-Hu/TetWild](https://github.com/Yixin-Hu/TetWild) - Robust Tetrahedral Meshing in the Wild.
 - [mfx-inria/curvislicer](https://github.com/mfx-inria/curvislicer) - CurviSlicer: Slightly curved slicing for 3-axis printers
@@ -2663,7 +2713,6 @@
 - [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment
 - [FEniCS/ffcx](https://github.com/FEniCS/ffcx) - Next generation FEniCS Form Compiler for finite element forms
-- [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [zarr-developers/zarr-specs](https://github.com/zarr-developers/zarr-specs) - Zarr core protocol for storage and  retrieval of N-dimensional typed arrays
 - [jupytercon/jupytercon2020-website](https://github.com/jupytercon/jupytercon2020-website) - JupyterCon Website
 - [marcolussetti/simpleneuralnets](https://github.com/marcolussetti/simpleneuralnets) - Basic neural networks library in Nim. Mainly intended for demonstrative purposes.
@@ -2811,7 +2860,6 @@
 - [bitnenfer/tiny-canvas](https://github.com/bitnenfer/tiny-canvas) - Tiny-Canvas is a lightweight minimal implementation of a batched and stack matrix based canvas similar to HTML5 Canvas2D with WebGL backend.
 - [BasFaggingerAuer/tiny-game-engine](https://github.com/BasFaggingerAuer/tiny-game-engine) - A small OpenGL game engine.
 - [martincohen/Punity](https://github.com/martincohen/Punity) - A tiny game engine in C.
-- [SAFRAN-LAB/HODLR](https://github.com/SAFRAN-LAB/HODLR) - A fast, accurate direct solver and determinant computation for dense linear systems
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 - [thomaswilburn/arrest](https://github.com/thomaswilburn/arrest) - A reStructuredText parser for Node
 - [mil-tokyo/sukiyaki2](https://github.com/mil-tokyo/sukiyaki2) - Deep Learning Library for JavaScript
@@ -2853,7 +2901,6 @@
 - [McNopper/EGL](https://github.com/McNopper/EGL) - EGL 1.5 implementation for Windows and X11 supporting OpenGL.
 - [zacharycarter/nim-playground](https://github.com/zacharycarter/nim-playground) - An interactive playground for the Nim programming language
 - [cretz/asmble](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools
-- [razimantv/mazegenerator](https://github.com/razimantv/mazegenerator) - Generate mazes of different shapes and arbitrary sizes using graph theory
 - [codeandcats/fast-clone](https://github.com/codeandcats/fast-clone) - Extremely fast javascript deep cloning function
 - [jhoward/Python-Neural-Network](https://github.com/jhoward/Python-Neural-Network) - A pure python implementation of a neural network.
 - [dvolk/gnuplot.nim](https://github.com/dvolk/gnuplot.nim) - Nim interface to gnuplot
@@ -2926,7 +2973,6 @@
 - [Nycto/DelaunayNim](https://github.com/Nycto/DelaunayNim) - Delaunay Triangulations in Nim
 - [dadren/dadren](https://github.com/dadren/dadren) - A sprite-based data-driven game framework for Nim
 - [jeromeetienne/virtualjoystick.js](https://github.com/jeromeetienne/virtualjoystick.js) - a virtual joystick library to emulate a joystick on touch screen in javascript
-- [jamboree/co2](https://github.com/jamboree/co2) - A C++ await/yield emulation library for stackless coroutine
 - [enthus1ast/libch4t](https://github.com/enthus1ast/libch4t) - IRC server in nim
 - [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
@@ -2969,7 +3015,6 @@
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [niv/websocket.nim](https://github.com/niv/websocket.nim) - websockets for nim
-- [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 - [rui314/8cc](https://github.com/rui314/8cc) - A Small C Compiler
 - [horde3d/Horde3D](https://github.com/horde3d/Horde3D) - Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
 - [starwing/amoeba](https://github.com/starwing/amoeba) - a Cassowary constraint solving algorithm implements in pure C.
@@ -3099,7 +3144,6 @@
 - [Eoinocal/Halite](https://github.com/Eoinocal/Halite) - Halite (named after the mineral) is a C++ BitTorrent client based on the excellent libtorrent library developed by Arvid Norberg.
 - [suhteevah/mpvhq-win64](https://github.com/suhteevah/mpvhq-win64) - mpvhq built on arch for win64
 - [wishstudio/flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [bluelinelabs/LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Screaming fast JSON parsing and serialization library for Android.
 - [felixge/node-dirty](https://github.com/felixge/node-dirty) - A tiny & fast key value store with append-only disk log. Ideal for apps with &lt; 1 million records.
 - [isnowfy/simple](https://github.com/isnowfy/simple) - A static blog generator with a single static page
@@ -3329,6 +3373,7 @@
 
 ## pytorch 
 
+- [teboli/pytorch_rotation](https://github.com/teboli/pytorch_rotation) - High-quality image and volume rotation routine for Pytorch.
 - [oneapi-src/engineering-design-optimization](https://github.com/oneapi-src/engineering-design-optimization) - AI Starter Kit for Engineering Design Optimization using Intel® Extension for Pytorch
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [guanhuaw/MIRTorch](https://github.com/guanhuaw/MIRTorch) - A PyTorch-powered differentiable image reconstruction/optimization toolbox
@@ -3357,6 +3402,7 @@
 
 ## qt 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [cloose/CuteMarkEd](https://github.com/cloose/CuteMarkEd) - Qt Markdown Editor
 - [mkeeter/antimony](https://github.com/mkeeter/antimony) - CAD from a parallel universe
@@ -3416,6 +3462,13 @@
 
 - [Annihil/revolut-emergency](https://github.com/Annihil/revolut-emergency) - 👨‍🚀 Unofficial Revolut PC app – Freeze cards, list transactions, get notifications, contact support
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
+
+## reinforcement-learning 
+
+- [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+- [Amin-Tgz/awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - 👉 CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla
+- [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
 
 ## reverse-engineering 
 
@@ -3501,6 +3554,8 @@
 
 ## self-hosted 
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
@@ -3544,6 +3599,10 @@
 - [0xisk/awesome-solidity-gas-optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 
+## spring-boot 
+
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+
 ## sql 
 
 - [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
@@ -3581,6 +3640,11 @@
 ## symfony 
 
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
+
+## tailwindcss 
+
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
+- [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 
 ## telegram 
 
@@ -3735,6 +3799,7 @@
 
 ## windows 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
