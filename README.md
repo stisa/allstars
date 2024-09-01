@@ -36,6 +36,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [ImageJ Macro](#imagej-macro)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -283,6 +284,10 @@
 
 ## C++ 
 
+- [ORNLSlicer/Slicer-2](https://github.com/ORNLSlicer/Slicer-2) - 
+- [heterophyllus/Geopter](https://github.com/heterophyllus/Geopter) - Optical Design Software
+- [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
+- [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
 - [codeplaysoftware/portBLAS](https://github.com/codeplaysoftware/portBLAS) - An implementation of BLAS using the SYCL open standard.
@@ -532,7 +537,6 @@
 - [propjockey/css-media-vars](https://github.com/propjockey/css-media-vars) - A brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS.
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [zevv/nim-memory](https://github.com/zevv/nim-memory) - 
-- [littleweeb/Desktop](https://github.com/littleweeb/Desktop) - Codebase for all the desktop versions (mac, linux & windows).
 - [zacharycarter/nim-playground-frontend](https://github.com/zacharycarter/nim-playground-frontend) - Front end for nim-playground
 - [reworkcss/css](https://github.com/reworkcss/css) - CSS parser / stringifier for Node.js
 - [pbstark/Padova15](https://github.com/pbstark/Padova15) - Materials for a 30-hour course in Statistics for Engineers, given at University of Padova
@@ -753,6 +757,10 @@
 - [snowkit/snow](https://github.com/snowkit/snow) - A low level cross platform framework for Haxe. Mac, Windows, Linux, Android, iOS, WebGL.
 - [luxeengine/alpha](https://github.com/luxeengine/alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
+
+## ImageJ Macro 
+
+- [lukmuk/em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
 
 ## Java 
 
@@ -1052,6 +1060,8 @@
 
 ## Jupyter Notebook 
 
+- [achael/kgeo](https://github.com/achael/kgeo) - simple python analytic kerr raytracing
+- [aviadlevis/bhnerf](https://github.com/aviadlevis/bhnerf) - Emission tomography with gravitational lensing using Neural Radiance Fields (NeRF)
 - [effepivi/gvxr-CMPB](https://github.com/effepivi/gvxr-CMPB) - Simulation of X-ray projections on GPU: benchmarking gVirtualXray with clinically realistic phantoms
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [yu-takagi/StableDiffusionReconstruction](https://github.com/yu-takagi/StableDiffusionReconstruction) - Takagi and Nishimoto, CVPR 2023
@@ -1109,7 +1119,7 @@
 
 ## Kotlin 
 
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
@@ -1134,6 +1144,7 @@
 
 ## MATLAB 
 
+- [Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing](https://github.com/Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing) - This is a comprehensive MATLAB-based software platform developed for real-time measurement and feedback control of a custom mask-projection photopolymerization based additive manufacturing system (ref
 - [yankagan/VARD-for-CT](https://github.com/yankagan/VARD-for-CT) - Large-scale iterative image reconstruction for transmission tomography with automatic regularization
 - [villekf/OMEGA](https://github.com/villekf/OMEGA) - Open-source multi-dimensional tomographic reconstruction software (OMEGA)
 - [e0404/matRad](https://github.com/e0404/matRad) - An open source multi-modality radiation treatment planning sytem
@@ -1408,6 +1419,8 @@
 
 ## Others 
 
+- [solidtime-io/self-hosting-examples](https://github.com/solidtime-io/self-hosting-examples) - Example self-hosting setups for solidtime
+- [rogerlz/Doron-Velta](https://github.com/rogerlz/Doron-Velta) - 
 - [greenonline/Kossel](https://github.com/greenonline/Kossel) - Files relating to the Kossel 3D Printer
 - [Pole-Engineering/Crossant-235](https://github.com/Pole-Engineering/Crossant-235) - Affordable and mostly customizable Cross Gantry 3D printer
 - [MacCurdyLab/OpenVCAD-Public](https://github.com/MacCurdyLab/OpenVCAD-Public) - 
@@ -1517,7 +1530,7 @@
 - [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
 - [Mikescher/HPMOR-LyX](https://github.com/Mikescher/HPMOR-LyX) - Harry Potter and the Methods of Rationality LyX files
 - [nim-lang/needed-libraries](https://github.com/nim-lang/needed-libraries) - This repository contains a list a needed libraries.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [sunfishcode/wasm-reference-manual](https://github.com/sunfishcode/wasm-reference-manual) - WebAssembly Reference Manual
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
@@ -1540,7 +1553,7 @@
 - [prahladyeri/curated-lists](https://github.com/prahladyeri/curated-lists) - Curated Lists of various things
 - [m2n037/awesome-mecheng](https://github.com/m2n037/awesome-mecheng) - Awesome Mechanical Engineering Resources
 - [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [dear-github/dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 - [Calinou/godot-style-guide](https://github.com/Calinou/godot-style-guide) - Style guide for Godot projects
@@ -1552,6 +1565,7 @@
 
 ## PHP 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [meyerweb/px2svg](https://github.com/meyerweb/px2svg) - Converts raster images to SVG, using color-run optimization.
@@ -1594,6 +1608,9 @@
 
 ## Python 
 
+- [Garchupiter/Kraken-Optical-Simulator](https://github.com/Garchupiter/Kraken-Optical-Simulator) - Python - Exact ray tracing library
+- [IsaacGuan/3D-VAE](https://github.com/IsaacGuan/3D-VAE) - A variational autoencoder for volumetric shape generation
+- [maxorange/voxel-dcgan](https://github.com/maxorange/voxel-dcgan) - A deep generative model of 3D volumetric shapes
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [teboli/pytorch_rotation](https://github.com/teboli/pytorch_rotation) - High-quality image and volume rotation routine for Pytorch.
 - [viesturz/klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger) - Toolcahnging extension for Klipper
@@ -1831,6 +1848,7 @@
 - [JohanLink/Ball-Balancing-PID-System](https://github.com/JohanLink/Ball-Balancing-PID-System) - 
 - [brandonheller/delta_calibration](https://github.com/brandonheller/delta_calibration) - Scripts to better understand calibration error for auto-probed deltabot 3d printers like Johann's Kossel.
 - [dorna-robotics/dorna2-python](https://github.com/dorna-robotics/dorna2-python) - Python API for Dorna2 robot
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [Stephan3/dwc2-for-klipper-socket](https://github.com/Stephan3/dwc2-for-klipper-socket) - dwc2-for-klipper using klippers unixsocket
 - [kliment/Printrun](https://github.com/kliment/Printrun) - Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software
 - [Cheshireha/GCode_interpreter](https://github.com/Cheshireha/GCode_interpreter) - it is a interpreter of 3D printer
@@ -1996,7 +2014,6 @@
 - [stas2z/orangepi-build-cb1](https://github.com/stas2z/orangepi-build-cb1) - 
 - [ihrapsa/OctoWrt](https://github.com/ihrapsa/OctoWrt) - A guide to install Octoprint on the Creality WiFi Box or similar OpenWrt devices
 - [ihrapsa/KlipperWrt](https://github.com/ihrapsa/KlipperWrt) - A guide to install Klipper with fluidd, Mainsail or Duet-Web-Control and webcam stream in OpenWrt. Mainly created around the Creality Wi-Fi box but any OpenWrt running device with similar specs will w
-- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [jiro4989/setup-nim-action](https://github.com/jiro4989/setup-nim-action) - Set up your GitHub Actions workflow with a specific version of Nim
 - [reviewdog/action-nimlint](https://github.com/reviewdog/action-nimlint) - Run nim check with reviewdog
@@ -2046,16 +2063,17 @@
 
 ## TypeScript 
 
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker) - Trying to create a new obsidian plugin to enable user to create bi-directional links easily based on the content of their vault.
 - [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
