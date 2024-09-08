@@ -23,6 +23,7 @@
 - [Cython](#cython)
 - [D](#d)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -136,7 +137,7 @@
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
 - [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
-- [irishpatrick/pico-servo](https://github.com/irishpatrick/pico-servo) - A simple C library for controlling servos using a Raspberry Pi Pico
+- [irishpatrick/pico-servo](https://github.com/irishpatrick/pico-servo) - A simple Raspberry Pi Pico library for controlling servos
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [edubart/sokol_gp](https://github.com/edubart/sokol_gp) - Minimal modern efficient cross platform 2D graphics painter in C
@@ -284,6 +285,7 @@
 
 ## C++ 
 
+- [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [ORNLSlicer/Slicer-2](https://github.com/ORNLSlicer/Slicer-2) - 
 - [heterophyllus/Geopter](https://github.com/heterophyllus/Geopter) - Optical Design Software
 - [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
@@ -591,6 +593,11 @@
 - [livelivecoding/flutter-weather-app](https://github.com/livelivecoding/flutter-weather-app) - 
 - [threeDart/three.dart](https://github.com/threeDart/three.dart) - Dart port of three.js
 
+## Dockerfile 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+- [flor0/nextcloud-docker](https://github.com/flor0/nextcloud-docker) - Nextcloud but with docker
+
 ## Eagle 
 
 - [Pwdr/Pwdr-Model-0.1](https://github.com/Pwdr/Pwdr-Model-0.1) - A powder substrate rapid prototyping machine
@@ -708,6 +715,7 @@
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [makoto/xdai-arb-graph](https://github.com/makoto/xdai-arb-graph) - Crosschain Arbitrage  opportunity graph
 - [wilriker/microstep-calculator](https://github.com/wilriker/microstep-calculator) - Calculate optimal extruder microstepping values
+- [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [vyperfun/vyper.fun](https://github.com/vyperfun/vyper.fun) - Cryptozombies for Vyper: Learn Vyper by building games!
 - [MirageC79/HextrudORT](https://github.com/MirageC79/HextrudORT) - Light, small and efficient extruder based on the popular Bondtech BMG.
 - [ultimachine/Archim](https://github.com/ultimachine/Archim) - The 32-bit next generation of RAMBo
@@ -826,6 +834,7 @@
 - [bcnmy/mexa](https://github.com/bcnmy/mexa) - Repository contains smart contracts for biconomy's Mexa platform to implement meta transactions and allow dapp users to perform blockchain operations without holding any ether or other crypto currency
 - [opengsn/gsn-with-ethers](https://github.com/opengsn/gsn-with-ethers) - Minimal test to show how to use GSN with ethers
 - [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and graphics pipeline
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [OpenZeppelin/openzeppelin-labs](https://github.com/OpenZeppelin/openzeppelin-labs) - A space for the community to interact and exchange ideas on the OpenZeppelin platform. Do not use in production!
 - [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
@@ -1147,7 +1156,7 @@
 - [Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing](https://github.com/Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing) - This is a comprehensive MATLAB-based software platform developed for real-time measurement and feedback control of a custom mask-projection photopolymerization based additive manufacturing system (ref
 - [yankagan/VARD-for-CT](https://github.com/yankagan/VARD-for-CT) - Large-scale iterative image reconstruction for transmission tomography with automatic regularization
 - [villekf/OMEGA](https://github.com/villekf/OMEGA) - Open-source multi-dimensional tomographic reconstruction software (OMEGA)
-- [e0404/matRad](https://github.com/e0404/matRad) - An open source multi-modality radiation treatment planning sytem
+- [e0404/matRad](https://github.com/e0404/matRad) - An open source multi-modality radiation treatment planning sytem developed by e0404 @ DKFZ
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
 - [hengyongyu/OpenRecon](https://github.com/hengyongyu/OpenRecon) - This open-source software package is a response to the NIH/NIBIB Low-dose CT U01 community.  The purpose is to share a standardized platform equipped with key analytic reconstruction methods for helic
 - [hw73cn/cbct-calibration](https://github.com/hw73cn/cbct-calibration) - Accurate geometric calibration of cone-beam CT
@@ -1512,7 +1521,6 @@
 - [nim-lang/nimsuggest](https://github.com/nim-lang/nimsuggest) - idetools for the nim language
 - [Amin-Tgz/awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - 👉 CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla
 - [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car) - An awesome list of self-driving cars
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - :sunrise: A collection of awesome resources for building progressive web apps
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1614,7 +1622,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [teboli/pytorch_rotation](https://github.com/teboli/pytorch_rotation) - High-quality image and volume rotation routine for Pytorch.
 - [viesturz/klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger) - Toolcahnging extension for Klipper
-- [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - 
+- [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - Official implementation of the SIGGRAPH 2024 paper "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
 - [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
@@ -1720,7 +1728,7 @@
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
-- [MicroappleMA/path_tracing_obj](https://github.com/MicroappleMA/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
+- [Jiay1C/path_tracing_obj](https://github.com/Jiay1C/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
 - [karlotness/adrt](https://github.com/karlotness/adrt) - Fast approximate discrete Radon transform for NumPy arrays
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -1825,7 +1833,6 @@
 - [zruncho3d/f-zero](https://github.com/zruncho3d/f-zero) - F-Zero: by Zruncho - an evolved Voron Zero
 - [sjmuellerbt/CYprofiles](https://github.com/sjmuellerbt/CYprofiles) - A set of Python classes implementing an algorithm for the calculation of flow profiles (e.g. velocity, shear rate, shear stress, and viscosity) of a non-Newtonian Carreau-Yasuda fluid in a cylindrical
 - [computed-axial-lithography/OpenCAL](https://github.com/computed-axial-lithography/OpenCAL) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
-- [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [AndyEveritt/ASMBL](https://github.com/AndyEveritt/ASMBL) - Additive & Subtractive Manufacturing By Layer for the E3D ToolChanging platform
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
@@ -2028,7 +2035,6 @@
 - [flashbots/simple-blind-arbitrage](https://github.com/flashbots/simple-blind-arbitrage) - 
 - [zeriontech/defi-sdk](https://github.com/zeriontech/defi-sdk) - DeFi SDK Makes Money Lego Work
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
-- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [gnosis/1155-to-20](https://github.com/gnosis/1155-to-20) - ERC 1155 to ERC 20 converter
 - [frangio/cacheable-beacon-proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with the least possible gas overhead.
@@ -2175,6 +2181,7 @@
 
 ## Vue 
 
+- [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) - A delightful Firefly III companion web app for effortless transaction tracking
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [Duet3D/DSF-Plugins](https://github.com/Duet3D/DSF-Plugins) - Third-party plugins and demos for DSF and DWC
 - [Duet3D/DuetWebControl](https://github.com/Duet3D/DuetWebControl) - A completely new web interface for the Duet electronics
