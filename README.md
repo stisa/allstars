@@ -287,6 +287,7 @@
 
 ## C++ 
 
+- [lorensen/VTKExamples](https://github.com/lorensen/VTKExamples) - The VTK examples, formerly hosted on media wiki
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [ORNLSlicer/Slicer-2](https://github.com/ORNLSlicer/Slicer-2) - 
 - [heterophyllus/Geopter](https://github.com/heterophyllus/Geopter) - Optical Design Software
@@ -573,7 +574,7 @@
 ## Cuda 
 
 - [rehmanali1994/easy_computed_tomography.github.io](https://github.com/rehmanali1994/easy_computed_tomography.github.io) - Educational and easy-to-understand parallel-beam computed tomography simulator (implemented both in MATLAB and CUDA)
-- [LLNL/LEAP](https://github.com/LLNL/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python and C++ APIs and fully integrated with PyTorch
+- [LLNL/LEAP](https://github.com/LLNL/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python and C++ APIs, a PyQt GUI, and fully integrated with PyTorch
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [luyuechao/ConeBeamGpu](https://github.com/luyuechao/ConeBeamGpu) - 
 - [MSUNDGR1/CUDA-accelerated-Voxelization](https://github.com/MSUNDGR1/CUDA-accelerated-Voxelization) - Voxelization method that takes a triangle mesh (in this case from an stl file), and converts it into a 3d map of voxels.
@@ -1620,6 +1621,7 @@
 
 ## Python 
 
+- [3DCoded/DynamicMacros](https://github.com/3DCoded/DynamicMacros) - Never restart Klipper again for simple macros.
 - [egtwobits/mesh_mesh_align_plus](https://github.com/egtwobits/mesh_mesh_align_plus) - Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
 - [PyLops/pylops](https://github.com/PyLops/pylops) - PyLops – A Linear-Operator Library for Python
 - [Garchupiter/Kraken-Optical-Simulator](https://github.com/Garchupiter/Kraken-Optical-Simulator) - Python - Exact ray tracing library
@@ -2021,6 +2023,7 @@
 
 ## Shell 
 
+- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 - [Esoterical/voron_canbus](https://github.com/Esoterical/voron_canbus) - 
 - [reemo3dp/mellowfly-geminipi-armbian](https://github.com/reemo3dp/mellowfly-geminipi-armbian) - Patches enabling stock builds of armbian for Mellow Fly Gemini V3 / Pi
 - [johang/sd-card-images](https://github.com/johang/sd-card-images) - Scripts to build bootable SD card images with Debian for various single-board computers
@@ -2074,6 +2077,7 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
