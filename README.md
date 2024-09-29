@@ -287,6 +287,7 @@
 
 ## C++ 
 
+- [GuoxinFang/ReinforcedFDM](https://github.com/GuoxinFang/ReinforcedFDM) - Reinforced FDM (TOG / SIG Asia 2020)
 - [lorensen/VTKExamples](https://github.com/lorensen/VTKExamples) - The VTK examples, formerly hosted on media wiki
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [ORNLSlicer/Slicer-2](https://github.com/ORNLSlicer/Slicer-2) - 
@@ -631,6 +632,7 @@
 
 ## G-code 
 
+- [terekli/GCodeFlowMonitor](https://github.com/terekli/GCodeFlowMonitor) - Calculates and graphs the volumetric flow rate for each printing step of a GCode file
 - [zruncho3d/DuelingZero](https://github.com/zruncho3d/DuelingZero) - Dueling Zero - a Dual Gantry V0 mod.  Enable dual-color, dual-material, and even multi-part printing... with the same speed and quality as single-extruder printing.
 - [Kbreezy24/blackbox](https://github.com/Kbreezy24/blackbox) - Blackbox is a high end CoreXY Tool Changing 3D Printer. Aiming for reasonable build volume, fast print speeds and high resolution.
 - [Sindry-Manufacturing/rotoforge](https://github.com/Sindry-Manufacturing/rotoforge) - a repository for the rotoforge desktop, micro friction stir deposition based metal, plastic and ceramic 3D printer project
@@ -666,7 +668,7 @@
 ## Go 
 
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1056,6 +1058,7 @@
 
 ## Julia 
 
+- [roflmaostc/Talk_EOSAM_Naples_2024_SwissVAMyKnife.jl](https://github.com/roflmaostc/Talk_EOSAM_Naples_2024_SwissVAMyKnife.jl) - The 12th EOSAM is organized in Naples, Italy, 9-13 September 2024 - SwissVAMyKnife.jl: an open-source package for tomographic volumetric additive manufacturing
 - [roflmaostc/RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) - A simple yet sufficiently fast (attenuated) Radon and backproject implementation using KernelAbstractions.jl. Runs on CPU, CUDA, ...
 - [EPFL-LAPD/SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) - Julia package for Light Based Tomographic Volumetric Additive Manufacturing.
 - [JuliaImageRecon/Sinograms.jl](https://github.com/JuliaImageRecon/Sinograms.jl) - Julia library for working with sinograms / tomography / Radon transform
@@ -1444,7 +1447,7 @@
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
 - [tylerinpdx/Flsun-Q5-Delta-3D-model-](https://github.com/tylerinpdx/Flsun-Q5-Delta-3D-model-) - Flsun Q5 Delta CAD model
 - [python-openxml/python-opc](https://github.com/python-openxml/python-opc) - Python library for manipulating Open Packaging Convention (OPC) files like .docx, .pptx, and .xslx
-- [youngwanLEE/sdxl-koala](https://github.com/youngwanLEE/sdxl-koala) - Compressing SDXL via knowledge-distillation
+- [youngwanLEE/sdxl-koala](https://github.com/youngwanLEE/sdxl-koala) - [NeurIPS 2024] Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis
 - [DerFuchs/Armbian-with-Klipper-on-Fly-Gemini-3](https://github.com/DerFuchs/Armbian-with-Klipper-on-Fly-Gemini-3) - Yet another way to get mostly clean Klipper host system on a Gemini 3 / Fly Pi
 - [tetsu97/WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) - This is WristWatch, a standalone extruder designed by @bythorsthunder WWG2 is built as an alternative to WristWatch BMG etruder - but it uses Galileo 2 insides for pushing filament. Development starte
 - [tkuri/Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) - List of awesome papers on Intrinsic Decomposition & Inverse Rendering
@@ -1487,7 +1490,7 @@
 - [mudgen/diamond](https://github.com/mudgen/diamond) - Information about three diamond reference implementations.
 - [CryptoverseCC/cryptoauth.io](https://github.com/CryptoverseCC/cryptoauth.io) - Cryptoauth.io (a.k.a. Cryptoverse Login) website
 - [Quenta-3D/pulseless_peristaltic_colloid_extruder](https://github.com/Quenta-3D/pulseless_peristaltic_colloid_extruder) - pulseless peristaltic colloid extruder for 3D printer
-- [AxMod3DPrint/Drakon-Extruder](https://github.com/AxMod3DPrint/Drakon-Extruder) - 3D Printable 3:1 Geared Extruder
+- [ViperWorx/Drakon-Extruder](https://github.com/ViperWorx/Drakon-Extruder) - 3D Printable 3:1 Geared Extruder
 - [PrintersForAnts/Micron](https://github.com/PrintersForAnts/Micron) - 
 - [Annex-Engineering/Masherbrum-K1](https://github.com/Annex-Engineering/Masherbrum-K1) - Fully Enclosed, Medium Format, Moving Gantry, FDM 3D Printer with Direct Drive Extrusion System
 - [Annex-Engineering/Sherpa_Mini-Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - A smaller version of the sherpa extruder, direct and bowden supported
@@ -1621,6 +1624,9 @@
 
 ## Python 
 
+- [evo-biomech/scAnt](https://github.com/evo-biomech/scAnt) - open-source 3D scanning and processing pipeline
+- [terekli/BotSlice](https://github.com/terekli/BotSlice) - STL slicer optimized for Direct Ink Writing
+- [RyanTaoLiu/NeuralSlicer](https://github.com/RyanTaoLiu/NeuralSlicer) - NeuralSlicer
 - [3DCoded/DynamicMacros](https://github.com/3DCoded/DynamicMacros) - Never restart Klipper again for simple macros.
 - [egtwobits/mesh_mesh_align_plus](https://github.com/egtwobits/mesh_mesh_align_plus) - Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
 - [PyLops/pylops](https://github.com/PyLops/pylops) - PyLops – A Linear-Operator Library for Python
