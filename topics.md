@@ -561,7 +561,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 
 ## chrome 
@@ -578,7 +578,7 @@
 
 ## cli 
 
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
 
@@ -663,7 +663,7 @@
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
-- [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - lunasvg is a standalone SVG rendering library in C++
+- [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - SVG rendering and manipulation library in C++
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [sinkingsugar/fragments](https://github.com/sinkingsugar/fragments) - Collection of pure Nim utilities
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
@@ -716,7 +716,7 @@
 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - lunasvg is a standalone SVG rendering library in C++
+- [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - SVG rendering and manipulation library in C++
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
@@ -1283,10 +1283,12 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
@@ -1303,6 +1305,7 @@
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 - [vyperfun/vyper.fun](https://github.com/vyperfun/vyper.fun) - Cryptozombies for Vyper: Learn Vyper by building games!
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
+- [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [nim-lang/fusion](https://github.com/nim-lang/fusion) - Fusion is for now an idea about how to grow Nim's ecosystem without the pain points of more traditional approaches.
@@ -1657,6 +1660,7 @@
 
 ## linux 
 
+- [MatthiasWM/IotaSlicer](https://github.com/MatthiasWM/IotaSlicer) - A voxel based slicer for 3D printing on FDM/FFF, binder/powder, SLS printers and laser cutters.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
@@ -1890,6 +1894,7 @@
 
 ## nim 
 
+- [nim-lang/nif](https://github.com/nim-lang/nif) - NIF is a text based data format designed for compiler frontend/backend communication or communication between different programming languages.
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
 - [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
@@ -2072,11 +2077,12 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 
 ## opengl 
 
+- [MatthiasWM/IotaSlicer](https://github.com/MatthiasWM/IotaSlicer) - A voxel based slicer for 3D printing on FDM/FFF, binder/powder, SLS printers and laser cutters.
 - [jonwright/pyopengltk](https://github.com/jonwright/pyopengltk) - OpenGL frame for Python/Tkinter via ctypes and pyopengl
 - [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
 - [branc116/brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
@@ -2125,6 +2131,7 @@
 
 ## others 
 
+- [Navid360/CT-Scan-with-visible-light](https://github.com/Navid360/CT-Scan-with-visible-light) - I developed a shadow-based CT scan technique (using visible light instead of X-ray) to reconstruct 3D model of transparent objects.
 - [roflmaostc/Talk_EOSAM_Naples_2024_SwissVAMyKnife.jl](https://github.com/roflmaostc/Talk_EOSAM_Naples_2024_SwissVAMyKnife.jl) - The 12th EOSAM is organized in Naples, Italy, 9-13 September 2024 - SwissVAMyKnife.jl: an open-source package for tomographic volumetric additive manufacturing
 - [evo-biomech/scAnt](https://github.com/evo-biomech/scAnt) - open-source 3D scanning and processing pipeline
 - [terekli/GCodeFlowMonitor](https://github.com/terekli/GCodeFlowMonitor) - Calculates and graphs the volumetric flow rate for each printing step of a GCode file
@@ -3582,7 +3589,7 @@
 
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -3876,6 +3883,7 @@
 
 ## windows 
 
+- [MatthiasWM/IotaSlicer](https://github.com/MatthiasWM/IotaSlicer) - A voxel based slicer for 3D printing on FDM/FFF, binder/powder, SLS printers and laser cutters.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
