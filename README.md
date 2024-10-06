@@ -287,6 +287,7 @@
 
 ## C++ 
 
+- [MatthiasWM/IotaSlicer](https://github.com/MatthiasWM/IotaSlicer) - A voxel based slicer for 3D printing on FDM/FFF, binder/powder, SLS printers and laser cutters.
 - [GuoxinFang/ReinforcedFDM](https://github.com/GuoxinFang/ReinforcedFDM) - Reinforced FDM (TOG / SIG Asia 2020)
 - [lorensen/VTKExamples](https://github.com/lorensen/VTKExamples) - The VTK examples, formerly hosted on media wiki
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
@@ -390,7 +391,7 @@
 - [markniu/PandaPi](https://github.com/markniu/PandaPi) - 3d printer firmware run on raspberry pi directly
 - [madl3x/x-scara](https://github.com/madl3x/x-scara) - SCARA CNC and 3D printing machine
 - [zapta/legacy_stepper_motor_analyzer](https://github.com/zapta/legacy_stepper_motor_analyzer) - A DYI minimalist hardware stepper motor analyzer with graphical touch screen.
-- [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - lunasvg is a standalone SVG rendering library in C++
+- [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - SVG rendering and manipulation library in C++
 - [OfficeChromatography/Slurry-doser](https://github.com/OfficeChromatography/Slurry-doser) - Layer printing for planar chromatography
 - [FormerLurker/ArcWelderLib](https://github.com/FormerLurker/ArcWelderLib) - A collection of projects used to convert G0/G1 commands to G2/G3 commands.
 - [s0up/SmootherWare](https://github.com/s0up/SmootherWare) - Test code for pressure advance on SmoothieWare
@@ -1160,6 +1161,7 @@
 
 ## MATLAB 
 
+- [Navid360/CT-Scan-with-visible-light](https://github.com/Navid360/CT-Scan-with-visible-light) - I developed a shadow-based CT scan technique (using visible light instead of X-ray) to reconstruct 3D model of transparent objects.
 - [Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing](https://github.com/Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing) - This is a comprehensive MATLAB-based software platform developed for real-time measurement and feedback control of a custom mask-projection photopolymerization based additive manufacturing system (ref
 - [yankagan/VARD-for-CT](https://github.com/yankagan/VARD-for-CT) - Large-scale iterative image reconstruction for transmission tomography with automatic regularization
 - [villekf/OMEGA](https://github.com/villekf/OMEGA) - Open-source multi-dimensional tomographic reconstruction software (OMEGA)
@@ -1202,6 +1204,7 @@
 
 ## Nim 
 
+- [nim-lang/nif](https://github.com/nim-lang/nif) - NIF is a text based data format designed for compiler frontend/backend communication or communication between different programming languages.
 - [capocasa/cgui](https://github.com/capocasa/cgui) - An example setup to cross compile native GUI apps for Nim on Linux, for Linux, Windows and OSX
 - [yuya-isaka/Nimcc](https://github.com/yuya-isaka/Nimcc) - Mini C compiler written in Nim
 - [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
@@ -1687,7 +1690,7 @@
 - [algotom/discorpy](https://github.com/algotom/discorpy) - Camera calibration with sub-pixel accuracy: https://discorpy.readthedocs.io/
 - [algotom/algotom](https://github.com/algotom/algotom) - Data processing algorithms for tomography: https://algotom.readthedocs.io
 - [wutong16/Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [casimp/lightct](https://github.com/casimp/lightct) - Python package used for visual light computed tomography.
 - [gaocong13/Projective-Spatial-Transformers](https://github.com/gaocong13/Projective-Spatial-Transformers) - Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration
 - [ErenBalatkan/DepthVisualizer](https://github.com/ErenBalatkan/DepthVisualizer) - OpenGL Based Python Library for 3D visualization of Point Clouds & Depth Maps
@@ -1988,7 +1991,7 @@
 ## Rust 
 
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [nviennot/stm32-gpio-monitor](https://github.com/nviennot/stm32-gpio-monitor) - Monitor the GPIO of a STM32 live
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [nviennot/turbo-resin](https://github.com/nviennot/turbo-resin) - Open-source firmware for resin printers
