@@ -111,7 +111,9 @@
 
 ## C 
 
+- [3MFConsortium/lib3mf](https://github.com/3MFConsortium/lib3mf) - lib3mf is an implementation of the 3D Manufacturing Format file standard
 - [goran-mahovlic/reverse_mono_6ks](https://github.com/goran-mahovlic/reverse_mono_6ks) - 
+- [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [makerbase-mks/MKS-TFT35-Firmware](https://github.com/makerbase-mks/MKS-TFT35-Firmware) - This MKS TFT35 firmware source code and build by IAR platform ...
 - [branc116/brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
@@ -287,13 +289,14 @@
 
 ## C++ 
 
+- [cgyurgyik/fast-voxel-traversal-algorithm](https://github.com/cgyurgyik/fast-voxel-traversal-algorithm) - A C++ implementation of the fast voxel traversal algorithm.
+- [3MFConsortium/gladius](https://github.com/3MFConsortium/gladius) - Gladius is a viewer and editor for 3mf files using the volumetric extension.
 - [MatthiasWM/IotaSlicer](https://github.com/MatthiasWM/IotaSlicer) - A voxel based slicer for 3D printing on FDM/FFF, binder/powder, SLS printers and laser cutters.
 - [GuoxinFang/ReinforcedFDM](https://github.com/GuoxinFang/ReinforcedFDM) - Reinforced FDM (TOG / SIG Asia 2020)
 - [lorensen/VTKExamples](https://github.com/lorensen/VTKExamples) - The VTK examples, formerly hosted on media wiki
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [ORNLSlicer/Slicer-2](https://github.com/ORNLSlicer/Slicer-2) - 
 - [heterophyllus/Geopter](https://github.com/heterophyllus/Geopter) - Optical Design Software
-- [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -704,7 +707,7 @@
 
 ## HTML 
 
-- [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show pyvista 3D visualizations in streamlit
+- [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show 3D visualizations from PyVista in Streamlit
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
 - [danielkucera/creality-remote-control](https://github.com/danielkucera/creality-remote-control) - 
 - [r-selfhosted-wiki/wiki](https://github.com/r-selfhosted-wiki/wiki) - Full-wiki Backup and Source for the reddit.com/r/selfhosted official wiki.
@@ -1627,6 +1630,7 @@
 
 ## Python 
 
+- [3MFConsortium/spec_volumetric](https://github.com/3MFConsortium/spec_volumetric) - The 3MF volumetric extension specification
 - [evo-biomech/scAnt](https://github.com/evo-biomech/scAnt) - open-source 3D scanning and processing pipeline
 - [terekli/BotSlice](https://github.com/terekli/BotSlice) - STL slicer optimized for Direct Ink Writing
 - [RyanTaoLiu/NeuralSlicer](https://github.com/RyanTaoLiu/NeuralSlicer) - NeuralSlicer
@@ -2144,7 +2148,7 @@
 - [Microtome/microtome](https://github.com/Microtome/microtome) - A browser based GPU accelerated 3D model slicer
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [maticnetwork/matic.js](https://github.com/maticnetwork/matic.js) - Javascript developer library to interact with Matic Network
-- [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer with 3D printing in mind. Written in Typescript.
+- [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer lib with 3D printing in mind. Written in Typescript.
 - [ardov/zerro](https://github.com/ardov/zerro) - Неофициальный клиент для zenmoney.ru
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
