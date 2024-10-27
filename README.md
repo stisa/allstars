@@ -263,6 +263,7 @@
 
 ## C# # 
 
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [Librum-Reader/Librum-Server](https://github.com/Librum-Reader/Librum-Server) - The Librum server
@@ -289,6 +290,9 @@
 
 ## C++ 
 
+- [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+- [Ondsel-Development/FreeCAD](https://github.com/Ondsel-Development/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [ryanneph/Raytrace](https://github.com/ryanneph/Raytrace) - General purpose python ray tracing library implemented in on GPU in CUDA as a Cython extension
 - [cgyurgyik/fast-voxel-traversal-algorithm](https://github.com/cgyurgyik/fast-voxel-traversal-algorithm) - A C++ implementation of the fast voxel traversal algorithm.
 - [3MFConsortium/gladius](https://github.com/3MFConsortium/gladius) - Gladius is a viewer and editor for 3mf files using the volumetric extension.
@@ -595,6 +599,7 @@
 
 ## Dart 
 
+- [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
@@ -854,7 +859,7 @@
 - [zenzoa/tomographical](https://github.com/zenzoa/tomographical) - A little web-based nonogram puzzle.
 - [bcnmy/metatx-standard](https://github.com/bcnmy/metatx-standard) - Repository contains generalized meta transaction standard that can be added to any smart contract to allow Meta Transactions from any externally-owned (key-based) account.
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
@@ -1081,6 +1086,7 @@
 
 ## Jupyter Notebook 
 
+- [HYUNSEONG-KIM/UILC](https://github.com/HYUNSEONG-KIM/UILC) - This repostiory contains calculation code for building linear and rectangular LEDs array for uniform irradiation pattern for given area.
 - [achael/kgeo](https://github.com/achael/kgeo) - simple python analytic kerr raytracing
 - [aviadlevis/bhnerf](https://github.com/aviadlevis/bhnerf) - Emission tomography with gravitational lensing using Neural Radiance Fields (NeRF)
 - [effepivi/gvxr-CMPB](https://github.com/effepivi/gvxr-CMPB) - Simulation of X-ray projections on GPU: benchmarking gVirtualXray with clinically realistic phantoms
@@ -1502,6 +1508,7 @@
 - [Annex-Engineering/Masherbrum-K1](https://github.com/Annex-Engineering/Masherbrum-K1) - Fully Enclosed, Medium Format, Moving Gantry, FDM 3D Printer with Direct Drive Extrusion System
 - [Annex-Engineering/Sherpa_Mini-Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - A smaller version of the sherpa extruder, direct and bowden supported
 - [computed-axial-lithography/CAL-hardware](https://github.com/computed-axial-lithography/CAL-hardware) - Hardware designs for a simple computed axial lithography apparatus (education, research and not-for-profit use)
+- [computed-axial-lithography/OpenCAL](https://github.com/computed-axial-lithography/OpenCAL) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
 - [wesc23/CroXY](https://github.com/wesc23/CroXY) - 
 - [Apsu/DiffBot](https://github.com/Apsu/DiffBot) - Differential screw-driven parallel gantry
 - [opensourcemanufacturing/OpenMachines](https://github.com/opensourcemanufacturing/OpenMachines) - 
@@ -1631,6 +1638,8 @@
 
 ## Python 
 
+- [mareikethies/geometry_gradients_CT](https://github.com/mareikethies/geometry_gradients_CT) - 
+- [SyneRBI/PETRIC](https://github.com/SyneRBI/PETRIC) - PET Image Reconstruction Challenge 2024
 - [gschramm/parallelproj](https://github.com/gschramm/parallelproj) - code for parallel TOF and NONTOF projections
 - [esoubrie/siddon](https://github.com/esoubrie/siddon) - Siddon tomography algorithm
 - [3MFConsortium/spec_volumetric](https://github.com/3MFConsortium/spec_volumetric) - The 3MF volumetric extension specification
@@ -1750,7 +1759,7 @@
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [Jiay1C/path_tracing_obj](https://github.com/Jiay1C/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
@@ -1856,7 +1865,6 @@
 - [yunshengtian/AutoOED](https://github.com/yunshengtian/AutoOED) - AutoOED: Automated Optimal Experimental Design Platform
 - [zruncho3d/f-zero](https://github.com/zruncho3d/f-zero) - F-Zero: by Zruncho - an evolved Voron Zero
 - [sjmuellerbt/CYprofiles](https://github.com/sjmuellerbt/CYprofiles) - A set of Python classes implementing an algorithm for the calculation of flow profiles (e.g. velocity, shear rate, shear stress, and viscosity) of a non-Newtonian Carreau-Yasuda fluid in a cylindrical
-- [computed-axial-lithography/OpenCAL](https://github.com/computed-axial-lithography/OpenCAL) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
 - [AndyEveritt/ASMBL](https://github.com/AndyEveritt/ASMBL) - Additive & Subtractive Manufacturing By Layer for the E3D ToolChanging platform
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
@@ -1928,7 +1936,7 @@
 - [wkirgsn/deep-pmsm](https://github.com/wkirgsn/deep-pmsm) - Estimate intrinsic Permanent Magnet Synchronous Motor temperatures with deep recurrent and convolutional neural networks.
 - [magpylib/magpylib](https://github.com/magpylib/magpylib) - Python package for computation of magnetic fields of magnets, currents and moments.
 - [SHTOOLS/SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) - SHTOOLS - Spherical Harmonic Tools
-- [uvipen/Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch) - YOLO for object detection tasks
+- [vietnh1009/Yolo-v2-pytorch](https://github.com/vietnh1009/Yolo-v2-pytorch) - YOLO for object detection tasks
 - [adityadua24/robopy](https://github.com/adityadua24/robopy) - Robopy is a python port for Robotics Toolbox in Matlab created by Peter Corke
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD
 - [NxRLab/ModernRobotics](https://github.com/NxRLab/ModernRobotics) - Modern Robotics: Mechanics, Planning, and Control Code Library --- The primary purpose of the provided software is to be easy to read and educational, reinforcing the concepts in the book. The code is
