@@ -49,6 +49,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
+- [Mojo](#mojo)
 - [NASL](#nasl)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -290,6 +291,11 @@
 
 ## C++ 
 
+- [nikitinvv/expRadonUSFLT](https://github.com/nikitinvv/expRadonUSFLT) - Fast Exponential Radon transform in Matlab with multi-threaded MKL
+- [artyom-beilis/dlprimitives](https://github.com/artyom-beilis/dlprimitives) - Deep Learning Primitives and Mini-Framework for OpenCL
+- [jgbit/vuda](https://github.com/jgbit/vuda) - VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
+- [CHIP-SPV/chipStar](https://github.com/CHIP-SPV/chipStar) - chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs.
+- [RenderKit/embree](https://github.com/RenderKit/embree) - Embree ray tracing kernels repository.
 - [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [Ondsel-Development/FreeCAD](https://github.com/Ondsel-Development/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -377,7 +383,7 @@
 - [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python
 - [fonttools/pyclipper](https://github.com/fonttools/pyclipper) - Cython wrapper for the C++ translation of the Angus Johnson's Clipper library (ver. 6.4.2)
 - [NanoComp/meep](https://github.com/NanoComp/meep) - free finite-difference time-domain (FDTD) software for electromagnetic simulations
-- [SCIInstitute/ShapeWorks](https://github.com/SCIInstitute/ShapeWorks) - ShapeWorks
+- [MedVIC-Lab/ShapeWorks](https://github.com/MedVIC-Lab/ShapeWorks) - ShapeWorks
 - [SCIInstitute/Seg3D](https://github.com/SCIInstitute/Seg3D) - Seg3D is a free volume segmentation and processing tool developed by the NIH Center for Integrative Biomedical Computing at the University of Utah Scientific Computing and Imaging (SCI) Institute.
 - [Project-10/OpenRT](https://github.com/Project-10/OpenRT) - Open Source Ray Tracing Library
 - [LuxCoreRender/LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
@@ -849,7 +855,7 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [bcnmy/mexa](https://github.com/bcnmy/mexa) - Repository contains smart contracts for biconomy's Mexa platform to implement meta transactions and allow dapp users to perform blockchain operations without holding any ether or other crypto currency
 - [opengsn/gsn-with-ethers](https://github.com/opengsn/gsn-with-ethers) - Minimal test to show how to use GSN with ethers
-- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and graphics pipeline
+- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and render pipeline
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [cliffhall/Fismo](https://github.com/cliffhall/Fismo) - The Finite State Machine Protocol for EVM Blockchains
 - [OpenZeppelin/openzeppelin-labs](https://github.com/OpenZeppelin/openzeppelin-labs) - A space for the community to interact and exchange ideas on the OpenZeppelin platform. Do not use in production!
@@ -884,7 +890,7 @@
 - [torch2424/vaporBoy](https://github.com/torch2424/vaporBoy) - Gameboy / Gameboy Color Emulator PWA built with Preact. ⚛️ Powered by wasmBoy. 🎮Themed with VaporWave. 🌴🐬
 - [floating/frame](https://github.com/floating/frame) - System-wide Web3 for macOS, Windows and Linux
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
-- [romellogoodman/flow-field.js](https://github.com/romellogoodman/flow-field.js) - A library for generating flow fields.
+- [romellogoodman/flow-fields](https://github.com/romellogoodman/flow-fields) - A library for generating flow fields.
 - [gtjoseph/DueUI](https://github.com/gtjoseph/DueUI) - A Customizable User Interface for Duet Powered 3D Printers
 - [vipulrajan/analysis230.github.io](https://github.com/vipulrajan/analysis230.github.io) - 
 - [warashibe/hide](https://github.com/warashibe/hide) - HiÐΞ | Offline First Decentralized CMS
@@ -926,7 +932,7 @@
 - [jagracar/grafica.js](https://github.com/jagracar/grafica.js) - A simple and configurable plotting library for p5.js
 - [maxwellito/triangulart](https://github.com/maxwellito/triangulart) - Dummy graphic editor to make isometric illustrations
 - [floblik/YouScrobbler](https://github.com/floblik/YouScrobbler) - Scrobbling from YouTube to Last.FM - Userscript for Firefox and Chrome (DISCONTINUED)
-- [domenic/worm-scraper](https://github.com/domenic/worm-scraper) - Scrapes the web serial Worm and its sequel Ward into an eBook format
+- [domenic/worm-scraper](https://github.com/domenic/worm-scraper) - Scrapes the web serial Worm, its sequel Ward, and the bridge series Glow-worm into an ebook format
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [jagenjo/litescene.js](https://github.com/jagenjo/litescene.js) - A WebGL 3D Engine library with component-based node hierarchy. Used by WebGLStudio
 - [puemos/triangulation](https://github.com/puemos/triangulation) - Triangulation generator impl javascript
@@ -1110,6 +1116,7 @@
 - [ahendriksen/tomosipo](https://github.com/ahendriksen/tomosipo) - A library for painless 3D tomographic reconstruction
 - [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator) - Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 - [unicast-project/unicast](https://github.com/unicast-project/unicast) - UniCast brings machine learning (ML) forecasting and ML models to Uniswap v3 and the larger DeFi ecosystem. The project aims to contribute with the tools, building blocks and examples to create, train
+- [computed-axial-lithography/OpenCAL](https://github.com/computed-axial-lithography/OpenCAL) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
 - [pachterlab/poseidon](https://github.com/pachterlab/poseidon) - poseidon system - open source syringe pumps and microscope for laboratories
 - [ItsAwSM/Python-for-Data-Analytics](https://github.com/ItsAwSM/Python-for-Data-Analytics) - This course will teach you only the relevant topics in Python for starting your career in Data Analytics. There are also a bunch of tips and tricks throughout for resume writing, solving case studies,
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
@@ -1152,7 +1159,7 @@
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [status-im/keycard-connect](https://github.com/status-im/keycard-connect) - Keycard + WalletConnect
-- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 - [emansih/FireflyMobile](https://github.com/emansih/FireflyMobile) - Mobile Application for Firefly III written in Kotlin
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
@@ -1207,6 +1214,10 @@
 
 - [pierremtb/PINNs-TF2.0](https://github.com/pierremtb/PINNs-TF2.0) - TensorFlow 2.0 implementation of Maziar Raissi's Physics Informed Neural Networks (PINNs).
 - [AUMAG/magcode](https://github.com/AUMAG/magcode) - Models for calculating magnetic fields and interactions
+
+## Mojo 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 
 ## NASL 
 
@@ -1508,7 +1519,6 @@
 - [Annex-Engineering/Masherbrum-K1](https://github.com/Annex-Engineering/Masherbrum-K1) - Fully Enclosed, Medium Format, Moving Gantry, FDM 3D Printer with Direct Drive Extrusion System
 - [Annex-Engineering/Sherpa_Mini-Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - A smaller version of the sherpa extruder, direct and bowden supported
 - [computed-axial-lithography/CAL-hardware](https://github.com/computed-axial-lithography/CAL-hardware) - Hardware designs for a simple computed axial lithography apparatus (education, research and not-for-profit use)
-- [computed-axial-lithography/OpenCAL](https://github.com/computed-axial-lithography/OpenCAL) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
 - [wesc23/CroXY](https://github.com/wesc23/CroXY) - 
 - [Apsu/DiffBot](https://github.com/Apsu/DiffBot) - Differential screw-driven parallel gantry
 - [opensourcemanufacturing/OpenMachines](https://github.com/opensourcemanufacturing/OpenMachines) - 
@@ -1638,6 +1648,11 @@
 
 ## Python 
 
+- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - 
+- [pyxu-org/pyxu_xrt](https://github.com/pyxu-org/pyxu_xrt) - Pyxu X-Ray Transform Operators (2D & 3D)
+- [pyxu-org/pyxu](https://github.com/pyxu-org/pyxu) - Modular and scalable computational imaging in Python with GPU/out-of-core computing.
+- [KyleLuther/SerialTomo](https://github.com/KyleLuther/SerialTomo) - Jax tools for serial section tomography
+- [clemisch/jaxtomo](https://github.com/clemisch/jaxtomo) - Tomographic projector in JAX
 - [mareikethies/geometry_gradients_CT](https://github.com/mareikethies/geometry_gradients_CT) - 
 - [SyneRBI/PETRIC](https://github.com/SyneRBI/PETRIC) - PET Image Reconstruction Challenge 2024
 - [gschramm/parallelproj](https://github.com/gschramm/parallelproj) - code for parallel TOF and NONTOF projections
@@ -1788,7 +1803,7 @@
 - [PyAbel/PyAbel](https://github.com/PyAbel/PyAbel) - A python package for Abel and inverse Abel transforms
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [kbredies/gratopy](https://github.com/kbredies/gratopy) - Gratopy - Graz accelerated tomographic projections for Python
-- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [fidelcanor/OpticsNN](https://github.com/fidelcanor/OpticsNN) - Neural Networks for Optical Inverse Design
 - [chbergmann/OpticsWorkbench](https://github.com/chbergmann/OpticsWorkbench) - 
 - [ma0ho/Deep-Learning-Cone-Beam-CT](https://github.com/ma0ho/Deep-Learning-Cone-Beam-CT) - 
@@ -2005,6 +2020,7 @@
 
 ## Rust 
 
+- [GladiusSlicer/GladiusSlicer](https://github.com/GladiusSlicer/GladiusSlicer) - A Modern Adaptable 3D Printing Slicer
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [nviennot/stm32-gpio-monitor](https://github.com/nviennot/stm32-gpio-monitor) - Monitor the GPIO of a STM32 live
