@@ -57,6 +57,7 @@
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
+- [discord](#discord)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -217,6 +218,7 @@
 
 ## 3d 
 
+- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation
 - [egtwobits/mesh_mesh_align_plus](https://github.com/egtwobits/mesh_mesh_align_plus) - Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python
@@ -264,6 +266,7 @@
 
 ## ai 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -302,7 +305,7 @@
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 - [emansih/FireflyMobile](https://github.com/emansih/FireflyMobile) - Mobile Application for Firefly III written in Kotlin
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -342,7 +345,9 @@
 
 ## artificial-intelligence 
 
-- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [pyxu-org/pyxu](https://github.com/pyxu-org/pyxu) - Modular and scalable computational imaging in Python with GPU/out-of-core computing.
+- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource Python project for cancer radiation treatment planning [AAPM'23]
 - [LLNL/LEAP](https://github.com/LLNL/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python and C++ APIs, a PyQt GUI, and fully integrated with PyTorch
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
@@ -379,7 +384,7 @@
 - [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car) - An awesome list of self-driving cars
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
-- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
@@ -400,7 +405,7 @@
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [prahladyeri/curated-lists](https://github.com/prahladyeri/curated-lists) - Curated Lists of various things
 - [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
@@ -514,6 +519,7 @@
 
 ## c-plus-plus 
 
+- [NickKarpowicz/LightwaveExplorer](https://github.com/NickKarpowicz/LightwaveExplorer) - An efficient, user-friendly solver for nonlinear light-matter interaction
 - [rodrigovimieiro/OpenCodes](https://github.com/rodrigovimieiro/OpenCodes) - Open source codes
 - [unclearness/vacancy](https://github.com/unclearness/vacancy) - Vacancy: A Voxel Carving implementation in C++
 - [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
@@ -579,6 +585,7 @@
 
 ## cli 
 
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
@@ -628,6 +635,8 @@
 
 ## computer-vision 
 
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [pyxu-org/pyxu](https://github.com/pyxu-org/pyxu) - Modular and scalable computational imaging in Python with GPU/out-of-core computing.
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
@@ -657,6 +666,7 @@
 
 ## cpp 
 
+- [RuiFilipeCampos/MontyCarlo](https://github.com/RuiFilipeCampos/MontyCarlo) - The Django of particle simulators.
 - [cgyurgyik/fast-voxel-traversal-algorithm](https://github.com/cgyurgyik/fast-voxel-traversal-algorithm) - A C++ implementation of the fast voxel traversal algorithm.
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -796,19 +806,22 @@
 
 ## deep-learning 
 
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
+- [artyom-beilis/dlprimitives](https://github.com/artyom-beilis/dlprimitives) - Deep Learning Primitives and Mini-Framework for OpenCL
 - [IsaacGuan/3D-VAE](https://github.com/IsaacGuan/3D-VAE) - A variational autoencoder for volumetric shape generation
 - [oneapi-src/engineering-design-optimization](https://github.com/oneapi-src/engineering-design-optimization) - AI Starter Kit for Engineering Design Optimization using Intel® Extension for Pytorch
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ErenBalatkan/DepthVisualizer](https://github.com/ErenBalatkan/DepthVisualizer) - OpenGL Based Python Library for 3D visualization of Point Clouds & Depth Maps
 - [icon-lab/SynDiff](https://github.com/icon-lab/SynDiff) - Official PyTorch implementation of SynDiff described in the paper (https://arxiv.org/abs/2207.08208).
-- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
+- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource Python project for cancer radiation treatment planning [AAPM'23]
 - [nileshkulkarni/volumetricPrimitivesPytorch](https://github.com/nileshkulkarni/volumetricPrimitivesPytorch) - Pytorch Implementation of https://github.com/shubhtuls/volumetricPrimitives
 - [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
 - [lkhphuc/pytorch-3d-point-cloud-generation](https://github.com/lkhphuc/pytorch-3d-point-cloud-generation) - Pytorch code to construct a 3D point cloud model from single RGB image.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
-- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator) - Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
@@ -860,6 +873,10 @@
 ## devops 
 
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
+
+## discord 
+
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
 ## django 
 
@@ -989,6 +1006,7 @@
 
 ## firefox 
 
+- [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
@@ -1015,6 +1033,7 @@
 
 ## framework 
 
+- [RuiFilipeCampos/MontyCarlo](https://github.com/RuiFilipeCampos/MontyCarlo) - The Django of particle simulators.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -1084,7 +1103,7 @@
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [alto-io/game3.js](https://github.com/alto-io/game3.js) - The Web 3.0 Game Framework
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
@@ -1130,11 +1149,11 @@
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
-- [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
+- [ct-js/ct-js-old](https://github.com/ct-js/ct-js-old) - ⚠️ Old repository of ct.js app. New repository here: https://github.com/ct-js/ct-js
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - A game engine for physics-y sidescrolling 2D games (WIP)
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
@@ -1174,9 +1193,9 @@
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
-- [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
+- [ct-js/ct-js-old](https://github.com/ct-js/ct-js-old) - ⚠️ Old repository of ct.js app. New repository here: https://github.com/ct-js/ct-js
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [PixeyeHQ/pixecs](https://github.com/PixeyeHQ/pixecs) - A pragmatic entity-component-system module for my gamedev needs
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
@@ -1289,7 +1308,6 @@
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
-- [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
@@ -1337,6 +1355,7 @@
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
+- [microjs/microjs.com](https://github.com/microjs/microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 - [eXpl0it3r/SmallGameEngine](https://github.com/eXpl0it3r/SmallGameEngine) - A small game engine or better said a state machine.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
@@ -1407,6 +1426,8 @@
 
 ## image-processing 
 
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [pyxu-org/pyxu](https://github.com/pyxu-org/pyxu) - Modular and scalable computational imaging in Python with GPU/out-of-core computing.
 - [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
 - [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
 - [letmaik/rawpy](https://github.com/letmaik/rawpy) - 📷 RAW image processing for Python, a wrapper for libraw
@@ -1467,12 +1488,12 @@
 - [susam/invaders](https://github.com/susam/invaders) - A 1980s-arcade-style game written using HTML5, Canvas, and Web Audio
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
-- [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
+- [ct-js/ct-js-old](https://github.com/ct-js/ct-js-old) - ⚠️ Old repository of ct.js app. New repository here: https://github.com/ct-js/ct-js
 - [alto-io/game3.js](https://github.com/alto-io/game3.js) - The Web 3.0 Game Framework
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
@@ -1563,11 +1584,11 @@
 
 ## julia 
 
+- [eth-cscs/ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid
 - [roflmaostc/RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) - A simple yet sufficiently fast (attenuated) Radon and backproject implementation using KernelAbstractions.jl. Runs on CPU, CUDA, ...
 - [EPFL-LAPD/SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) - Julia package for Light Based Tomographic Volumetric Additive Manufacturing.
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software
 - [SciML/DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) - Data driven modeling and automated discovery of dynamical systems for the SciML Scientific Machine Learning organization
-- [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics and nonlinear timeseries analysis
 - [JuliaMPC/NLOptControl.jl](https://github.com/JuliaMPC/NLOptControl.jl) - nonlinear control optimization tool
 - [GiovineItalia/Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
@@ -1594,7 +1615,7 @@
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - [emansih/FireflyMobile](https://github.com/emansih/FireflyMobile) - Mobile Application for Firefly III written in Kotlin
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [zunjae/AnYme](https://github.com/zunjae/AnYme) - Unofficial Android Anime App for MyAnimeList
@@ -1605,6 +1626,7 @@
 
 ## language 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [DipanshKhandelwal/Learning-German](https://github.com/DipanshKhandelwal/Learning-German) - My journey to learn German
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -1629,6 +1651,7 @@
 
 ## latex 
 
+- [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [dante-ev/latex-action](https://github.com/dante-ev/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [jellespijker/pymech](https://github.com/jellespijker/pymech) - Continuation for this project is stopped. Focus is now on the MechEng modules ( https://github.com/mecheng )  A Python module for mechanical engineers. Project which is mostly based on the books of Ro
 - [Mandarancio/charter](https://github.com/Mandarancio/charter) - DSL and C Library to generate SVG Plot
@@ -1706,7 +1729,7 @@
 
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
-- [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2 Modes in NumPy
+- [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2/Llama3 Modes in NumPy
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -1732,13 +1755,16 @@
 
 ## machine-learning 
 
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [pyxu-org/pyxu](https://github.com/pyxu-org/pyxu) - Modular and scalable computational imaging in Python with GPU/out-of-core computing.
 - [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [LLNL/LEAP](https://github.com/LLNL/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python and C++ APIs, a PyQt GUI, and fully integrated with PyTorch
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
-- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [magis-slac/gradoptics](https://github.com/magis-slac/gradoptics) - 
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -1881,6 +1907,7 @@
 
 ## neural-network 
 
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 - [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
@@ -1901,6 +1928,7 @@
 
 ## nim 
 
+- [heysokam/ngpu](https://github.com/heysokam/ngpu) - n*gpu | Graphics Library for Nim
 - [nim-lang/nif](https://github.com/nim-lang/nif) - NIF is a text based data format designed for compiler frontend/backend communication or communication between different programming languages.
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - A simple and lightweight Linux® distribution based on musl libc and toybox
 - [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
@@ -2051,12 +2079,13 @@
 
 ## numpy 
 
+- [data-apis/array-api-compat](https://github.com/data-apis/array-api-compat) - Compatibility layer for common array libraries to support the Array API
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
-- [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2 Modes in NumPy
+- [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2/Llama3 Modes in NumPy
 - [ajhynes7/scikit-spatial](https://github.com/ajhynes7/scikit-spatial) - Spatial objects and computations based on NumPy arrays.
 - [cgohlke/tifffile](https://github.com/cgohlke/tifffile) - Read and write TIFF files
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
-- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
@@ -2138,6 +2167,30 @@
 
 ## others 
 
+- [ssteinberg/PLTFalcor](https://github.com/ssteinberg/PLTFalcor) - Real-time physical light transport (PLT) framework
+- [sn4k3/klipper-msla](https://github.com/sn4k3/klipper-msla) - Instructions to have Klipper running with mSLA printers
+- [chrdiller/mitsuba-visualize](https://github.com/chrdiller/mitsuba-visualize) - Visualizes meshes, pointclouds and video flythroughs in publication quality
+- [rgl-epfl/drtvam](https://github.com/rgl-epfl/drtvam) - An inverse rendering framework for tomographic volumetric additive manufacturing
+- [opulo-inc/paste-extruder](https://github.com/opulo-inc/paste-extruder) - Paste extruder head for the LumenPnP
+- [alanbork/kmsmodeline](https://github.com/alanbork/kmsmodeline) - stuff custom modeline into linux kms/drm driver to allow custom video modes
+- [godspeed1989/fbv](https://github.com/godspeed1989/fbv) - framebuffer image viewer
+- [fa1ke5/confu_vr](https://github.com/fa1ke5/confu_vr) - VR system based on Confu HDMI to MIPI board with two OLED displays
+- [elcritch/figuro](https://github.com/elcritch/figuro) - Experimental UI Library for Nim
+- [fasaxc/pico-bldc](https://github.com/fasaxc/pico-bldc) - RP2040-based BLDC motor controller
+- [tomasiser/pepr3d](https://github.com/tomasiser/pepr3d) - Pepr3D - Multi-material 3D painting editor
+- [computational-imaging/neural-holography](https://github.com/computational-imaging/neural-holography) - Code and data for Neural Holography
+- [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
+- [roche-emmanuel/nervland_adventures](https://github.com/roche-emmanuel/nervland_adventures) - Collection of small experiments and coding adventures with my NervLand engine providing some code snippets.
+- [SciML/DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl) - A library of data interpolation and smoothing functions
+- [rohdelab/radon-neural-network](https://github.com/rohdelab/radon-neural-network) - 
+- [tuxBurner/vortex-mixer](https://github.com/tuxBurner/vortex-mixer) - Vortex mixer for paints
+- [nikitinvv/expRadonUSFLT](https://github.com/nikitinvv/expRadonUSFLT) - Fast Exponential Radon transform in Matlab with multi-threaded MKL
+- [jgbit/vuda](https://github.com/jgbit/vuda) - VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
+- [CHIP-SPV/chipStar](https://github.com/CHIP-SPV/chipStar) - chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs.
+- [pyxu-org/pyxu_xrt](https://github.com/pyxu-org/pyxu_xrt) - Pyxu X-Ray Transform Operators (2D & 3D)
+- [KyleLuther/SerialTomo](https://github.com/KyleLuther/SerialTomo) - Jax tools for serial section tomography
+- [clemisch/jaxtomo](https://github.com/clemisch/jaxtomo) - Tomographic projector in JAX
+- [RenderKit/embree](https://github.com/RenderKit/embree) - Embree ray tracing kernels repository.
 - [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 - [mareikethies/geometry_gradients_CT](https://github.com/mareikethies/geometry_gradients_CT) - 
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
@@ -2214,7 +2267,7 @@
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [hpcraink/workshop-parallel-jupyter](https://github.com/hpcraink/workshop-parallel-jupyter) - 
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
-- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. Free for non-commercial use.
+- [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 - [deltaxrobot/Delta-X-3D-Printed-Parts](https://github.com/deltaxrobot/Delta-X-3D-Printed-Parts) - Delta X 3D Printing Parts will be open-source in March 2020
 - [Ahmed-EGomaa/MNN-Slicer](https://github.com/Ahmed-EGomaa/MNN-Slicer) - MNN SLicer, is a 3D Slicer for Food-3D Bioprinting, using DIY off-Shelf 3D printer. The Slicer made to be easy and G-Code free, directly using Arduino backend and Python with CV for masking and printi
 - [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - Python version of FullControl for toolpath design (and more) - the readme below is best source of information
@@ -2516,7 +2569,7 @@
 - [polywrap/wrap-cli](https://github.com/polywrap/wrap-cli) - Used to create, build, and integrate wraps.
 - [Duet3D/DuetSoftwareFramework](https://github.com/Duet3D/DuetSoftwareFramework) - Software framework for the next-generation Duet3D platform based on .NET
 - [fjij/ethonline-2021](https://github.com/fjij/ethonline-2021) - SUPER CARD GAME
-- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and graphics pipeline
+- [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and render pipeline
 - [status-im/nimplay](https://github.com/status-im/nimplay) - Nim Ethereum Contract DSL. Targeting eWASM.
 - [Udiknedormin/NimContracts](https://github.com/Udiknedormin/NimContracts) - Nim Language design by contract (DbC) library.
 - [status-im/nim-eth-contracts](https://github.com/status-im/nim-eth-contracts) - Ethereum smart contracts in Nim
@@ -2547,7 +2600,7 @@
 - [projectsophon/hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 - [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
 - [moonshotcollective/recruiter.party](https://github.com/moonshotcollective/recruiter.party) - 
-- [status-im/keycard-connect](https://github.com/status-im/keycard-connect) - Keycard + WalletConnect
+- [keycard-tech/keycard-connect](https://github.com/keycard-tech/keycard-connect) - Keycard + WalletConnect
 - [photonstorm/phaser-nano](https://github.com/photonstorm/phaser-nano) - Phaser Nano is a highly optimized game framework created for super low file size environments such as banner ads.
 - [Lakuna/ugl](https://github.com/Lakuna/ugl) - A lightweight WebGL2 library.
 - [fireship-io/nft-art-generator](https://github.com/fireship-io/nft-art-generator) - A simple randomized NFT art generator
@@ -2574,13 +2627,13 @@
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [CryptoverseCC/cryptoauth.io](https://github.com/CryptoverseCC/cryptoauth.io) - Cryptoauth.io (a.k.a. Cryptoverse Login) website
 - [Quenta-3D/pulseless_peristaltic_colloid_extruder](https://github.com/Quenta-3D/pulseless_peristaltic_colloid_extruder) - pulseless peristaltic colloid extruder for 3D printer
-- [MPMcIntyre/Roller-pump-model-and-simulation](https://github.com/MPMcIntyre/Roller-pump-model-and-simulation) - A project dedicated to modelling the pulsatile flow and simulating the pressure response of roller-type peristaltic pumps for various numbers of rollers.
+- [mpmcintyre/Roller-pump-model-and-simulation](https://github.com/mpmcintyre/Roller-pump-model-and-simulation) - A project dedicated to modelling the pulsatile flow and simulating the pressure response of roller-type peristaltic pumps for various numbers of rollers.
 - [EliKarasik/PrintingPartitioning](https://github.com/EliKarasik/PrintingPartitioning) - Source code for "Object Partitioning for Support-Free 3D-Printing"
 - [Panchamy/3D-Partitioning](https://github.com/Panchamy/3D-Partitioning) - This work is in collaboration with Univ. Lyon, IFSTTAR, ENTPE, France and Delft University of Technology, The Netherlands.  You can find the data in various format in this repository and (in future) s
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [geniekobayashi/paste_extruder](https://github.com/geniekobayashi/paste_extruder) - 5cc syringe holder equipped with a linear stepper
 - [doctek/Moineau-Paste-Extruder](https://github.com/doctek/Moineau-Paste-Extruder) - Extruder for 3D printing of paste materials using Moineau pump.
-- [romellogoodman/flow-field.js](https://github.com/romellogoodman/flow-field.js) - A library for generating flow fields.
+- [romellogoodman/flow-fields](https://github.com/romellogoodman/flow-fields) - A library for generating flow fields.
 - [mess42/pyrate](https://github.com/mess42/pyrate) - Optical raytracing based on Python
 - [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) - This repository has now moved to GitLab.com/openflexure/openflexure-microscope
 - [MatterHackers/MatterControl](https://github.com/MatterHackers/MatterControl) - 3D printing software for Windows, Mac and Linux
@@ -2674,7 +2727,7 @@
 - [skarab42/smoothie-commands](https://github.com/skarab42/smoothie-commands) - A Smoothie firmware (http|serial) commands API
 - [FormerLurker/ArcWelderLib](https://github.com/FormerLurker/ArcWelderLib) - A collection of projects used to convert G0/G1 commands to G2/G3 commands.
 - [rcarlyle/StepperSim](https://github.com/rcarlyle/StepperSim) - Simulates stepper motor driver systems
-- [remcoder/gcode-preview](https://github.com/remcoder/gcode-preview) - A simple GCode parser & previewer lib with 3D printing in mind. Written in Typescript.
+- [xyz-tools/gcode-preview](https://github.com/xyz-tools/gcode-preview) - A simple GCode parser & previewer lib with 3D printing in mind. Written in Typescript.
 - [fieldOfView/Cura-ArcWelderPlugin](https://github.com/fieldOfView/Cura-ArcWelderPlugin) - Cura plugin which wraps ArcWelderLib to convert multiple G0/G1 moves to G2/G3 arcs.
 - [s0up/SmootherWare](https://github.com/s0up/SmootherWare) - Test code for pressure advance on SmoothieWare
 - [Treysen-Zobell/pressure_advance_generator](https://github.com/Treysen-Zobell/pressure_advance_generator) - 
@@ -2911,7 +2964,7 @@
 - [h2o/picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
 - [randrew/layout](https://github.com/randrew/layout) - Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
 - [Arcus-3d/C1-Hardware](https://github.com/Arcus-3d/C1-Hardware) - Arcus-3D-C1 - Cable 3D printer
-- [domenic/worm-scraper](https://github.com/domenic/worm-scraper) - Scrapes the web serial Worm and its sequel Ward into an eBook format
+- [domenic/worm-scraper](https://github.com/domenic/worm-scraper) - Scrapes the web serial Worm, its sequel Ward, and the bridge series Glow-worm into an ebook format
 - [eloraiby/delaunay](https://github.com/eloraiby/delaunay) - Relatively Robust Divide and Conquer 2D Delaunay Construction Algorithm in $O(n \log n)$
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [h0lley/embeddedNimScript](https://github.com/h0lley/embeddedNimScript) - Using NimScript as embedded scripting language, enabling hot loading
@@ -3339,6 +3392,11 @@
 
 ## python 
 
+- [RuiFilipeCampos/MontyCarlo](https://github.com/RuiFilipeCampos/MontyCarlo) - The Django of particle simulators.
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
+- [pygfx/wgpu-py](https://github.com/pygfx/wgpu-py) - WebGPU for Python
 - [egtwobits/mesh_mesh_align_plus](https://github.com/egtwobits/mesh_mesh_align_plus) - Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
 - [PyLops/pylops](https://github.com/PyLops/pylops) - PyLops – A Linear-Operator Library for Python
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
@@ -3360,7 +3418,7 @@
 - [villekf/OMEGA](https://github.com/villekf/OMEGA) - Open-source multi-dimensional tomographic reconstruction software (OMEGA)
 - [tomopy/tomopy](https://github.com/tomopy/tomopy) - Tomographic Reconstruction in Python
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
-- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
+- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource Python project for cancer radiation treatment planning [AAPM'23]
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
 - [PyTomography/PyTomography](https://github.com/PyTomography/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
@@ -3378,7 +3436,7 @@
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [kbredies/gratopy](https://github.com/kbredies/gratopy) - Gratopy - Graz accelerated tomographic projections for Python
-- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [brandondube/prysm](https://github.com/brandondube/prysm) - physical optics: integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing...
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [fernandolucasaa/computerGeneratedHolography](https://github.com/fernandolucasaa/computerGeneratedHolography) - Computer-generated holography (CGH) is the method of digitally generating holographic interference patterns
@@ -3466,20 +3524,22 @@
 
 ## pytorch 
 
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [data-apis/array-api-compat](https://github.com/data-apis/array-api-compat) - Compatibility layer for common array libraries to support the Array API
 - [teboli/pytorch_rotation](https://github.com/teboli/pytorch_rotation) - High-quality image and volume rotation routine for Pytorch.
 - [oneapi-src/engineering-design-optimization](https://github.com/oneapi-src/engineering-design-optimization) - AI Starter Kit for Engineering Design Optimization using Intel® Extension for Pytorch
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [guanhuaw/MIRTorch](https://github.com/guanhuaw/MIRTorch) - A PyTorch-powered differentiable image reconstruction/optimization toolbox
 - [ozanciga/diffusion-for-beginners](https://github.com/ozanciga/diffusion-for-beginners) - denoising diffusion models, as simple as possible
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource radiation treatment planning system in Python [AAPM'23]
+- [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource Python project for cancer radiation treatment planning [AAPM'23]
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [PyTomography/PyTomography](https://github.com/PyTomography/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
 - [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim) - DLPrimitives/OpenCL out of tree backend for pytorch
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
-- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception
+- [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [magis-slac/gradoptics](https://github.com/magis-slac/gradoptics) - 
 - [matteo-ronchetti/torch-radon](https://github.com/matteo-ronchetti/torch-radon) - Computational Tomography in PyTorch
@@ -3574,6 +3634,7 @@
 
 ## robotics 
 
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 - [aaedmusa/Capstan-Drive](https://github.com/aaedmusa/Capstan-Drive) - Robotic actuator test stand utilizing a Capstan Drive reducer
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
 - [awesome-photogrammetry/awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - 😎 Awesome photogrammetry projects
@@ -3608,6 +3669,8 @@
 
 ## rust 
 
+- [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
+- [GladiusSlicer/GladiusSlicer](https://github.com/GladiusSlicer/GladiusSlicer) - A Modern Adaptable 3D Printing Slicer
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
@@ -3622,7 +3685,7 @@
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [rustwasm/wee_alloc](https://github.com/rustwasm/wee_alloc) - The Wasm-Enabled, Elfin Allocator
@@ -3751,6 +3814,7 @@
 
 ## telegram 
 
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 
 ## tensorflow 
@@ -3769,6 +3833,7 @@
 
 ## terminal 
 
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
@@ -3809,6 +3874,7 @@
 - [dcodeIO/webassembly](https://github.com/dcodeIO/webassembly) - A minimal toolkit and runtime to produce and run WebAssembly modules.
 - [MaxGraey/Assembleash](https://github.com/MaxGraey/Assembleash) - WebAssembly and Typescript-like languages playground
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [01alchemist/TurboScript](https://github.com/01alchemist/TurboScript) - Super charged typed JavaScript dialect for parallel programming which compiles to WebAssembly
 - [rsms/wasm-util](https://github.com/rsms/wasm-util) - WebAssembly utilities
 - [mt40/vscode-todo-parser](https://github.com/mt40/vscode-todo-parser) - TodoParser extension for vscode. Parse TODOs in your project.
@@ -3940,6 +4006,7 @@
 
 ## xml 
 
+- [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema) - XML Schema validator and data conversion library for Python
 - [substance/texture](https://github.com/substance/texture) - A visual editor for research.
 
 ## zig 
