@@ -76,6 +76,7 @@
 - [Solidity](#solidity)
 - [Standard ML](#standard-ml)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [VBA](#vba)
@@ -295,6 +296,7 @@
 
 ## C++ 
 
+- [NIRALUser/3DMetricTools](https://github.com/NIRALUser/3DMetricTools) - 3DMeshMetric is a visualization tool that computes and displays surface-to-surface distance between two triangle meshes using user-specified uniform sampling (based on the source code of MeshValmet: h
 - [ssteinberg/PLTFalcor](https://github.com/ssteinberg/PLTFalcor) - Real-time physical light transport (PLT) framework
 - [tomasiser/pepr3d](https://github.com/tomasiser/pepr3d) - Pepr3D - Multi-material 3D painting editor
 - [NickKarpowicz/LightwaveExplorer](https://github.com/NickKarpowicz/LightwaveExplorer) - An efficient, user-friendly solver for nonlinear light-matter interaction
@@ -1190,6 +1192,7 @@
 
 ## MATLAB 
 
+- [lpl-code/FastProjDefocusComp](https://github.com/lpl-code/FastProjDefocusComp) - Fast projection defocus correction for multiple projection surface types
 - [Navid360/CT-Scan-with-visible-light](https://github.com/Navid360/CT-Scan-with-visible-light) - I developed a shadow-based CT scan technique (using visible light instead of X-ray) to reconstruct 3D model of transparent objects.
 - [Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing](https://github.com/Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing) - This is a comprehensive MATLAB-based software platform developed for real-time measurement and feedback control of a custom mask-projection photopolymerization based additive manufacturing system (ref
 - [yankagan/VARD-for-CT](https://github.com/yankagan/VARD-for-CT) - Large-scale iterative image reconstruction for transmission tomography with automatic regularization
@@ -1663,6 +1666,8 @@
 
 ## Python 
 
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+- [LMSD-KULeuven/polyquad](https://github.com/LMSD-KULeuven/polyquad) - 
 - [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema) - XML Schema validator and data conversion library for Python
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [chrdiller/mitsuba-visualize](https://github.com/chrdiller/mitsuba-visualize) - Visualizes meshes, pointclouds and video flythroughs in publication quality
@@ -1795,7 +1800,7 @@
 - [vguzov/pytorch_pathtracer](https://github.com/vguzov/pytorch_pathtracer) - 3D polygon scene renderer based on path tracing method. Fully implemented on PyTorch
 - [viesturz/TapChanger-lite](https://github.com/viesturz/TapChanger-lite) - Lightweight toolchanger for Voron 2 with Tap like nozzle probe
 - [unjordy/klipper-repl](https://github.com/unjordy/klipper-repl) - The missing Klipper command line. A CLI G-Code REPL for 3D printers running on Klipper firmware.
-- [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 7.7 framework.
+- [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 8.1 framework.
 - [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
 - [rodrigovimieiro/OpenCodes](https://github.com/rodrigovimieiro/OpenCodes) - Open source codes
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
@@ -1820,7 +1825,7 @@
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -2133,6 +2138,10 @@
 - [toineheuvelmans/Metron](https://github.com/toineheuvelmans/Metron) - Geometry, simplified.
 - [saniul/Mendel](https://github.com/saniul/Mendel) - Mendel - Swift miliframework for implementing evolutionary/genetic algorithms
 
+## Tcl 
+
+- [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) - A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨
+
 ## TeX 
 
 - [akmaier/mt_lecture_slides](https://github.com/akmaier/mt_lecture_slides) - These are the lecture slides used at FAU Erlangen-Nuremberg, Germany for the lecture "Medical Engineering". This class gives a complete and comprehensive introduction to the fields of medical imaging 
@@ -2156,7 +2165,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
