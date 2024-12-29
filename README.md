@@ -48,6 +48,7 @@
 - [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Mojo](#mojo)
 - [NASL](#nasl)
@@ -113,6 +114,7 @@
 
 ## C 
 
+- [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [alanbork/kmsmodeline](https://github.com/alanbork/kmsmodeline) - stuff custom modeline into linux kms/drm driver to allow custom video modes
 - [godspeed1989/fbv](https://github.com/godspeed1989/fbv) - framebuffer image viewer
 - [fa1ke5/confu_vr](https://github.com/fa1ke5/confu_vr) - VR system based on Confu HDMI to MIPI board with two OLED displays
@@ -296,6 +298,7 @@
 
 ## C++ 
 
+- [SyneRBI/SIRF](https://github.com/SyneRBI/SIRF) - Main repository for the CCP SynerBI software
 - [NIRALUser/3DMetricTools](https://github.com/NIRALUser/3DMetricTools) - 3DMeshMetric is a visualization tool that computes and displays surface-to-surface distance between two triangle meshes using user-specified uniform sampling (based on the source code of MeshValmet: h
 - [ssteinberg/PLTFalcor](https://github.com/ssteinberg/PLTFalcor) - Real-time physical light transport (PLT) framework
 - [tomasiser/pepr3d](https://github.com/tomasiser/pepr3d) - Pepr3D - Multi-material 3D painting editor
@@ -516,7 +519,7 @@
 - [jamboree/co2](https://github.com/jamboree/co2) - A C++ await/yield emulation library for stackless coroutine
 - [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 - [mmp/pbrt-v3](https://github.com/mmp/pbrt-v3) - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
@@ -695,6 +698,7 @@
 
 ## Go 
 
+- [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
@@ -1225,6 +1229,10 @@
 
 - [intelligent-agent/Recore](https://github.com/intelligent-agent/Recore) - Repository for Recore single board 3D printer control card
 
+## Markdown 
+
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+
 ## Mathematica 
 
 - [pierremtb/PINNs-TF2.0](https://github.com/pierremtb/PINNs-TF2.0) - TensorFlow 2.0 implementation of Maziar Raissi's Physics Informed Neural Networks (PINNs).
@@ -1242,7 +1250,7 @@
 
 - [elcritch/figuro](https://github.com/elcritch/figuro) - Experimental UI Library for Nim
 - [heysokam/ngpu](https://github.com/heysokam/ngpu) - n*gpu | Graphics Library for Nim
-- [nim-lang/nif](https://github.com/nim-lang/nif) - NIF is a text based data format designed for compiler frontend/backend communication or communication between different programming languages.
+- [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
 - [capocasa/cgui](https://github.com/capocasa/cgui) - An example setup to cross compile native GUI apps for Nim on Linux, for Linux, Windows and OSX
 - [yuya-isaka/Nimcc](https://github.com/yuya-isaka/Nimcc) - Mini C compiler written in Nim
 - [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
@@ -1600,7 +1608,6 @@
 - [zbjornson/human-asmjs](https://github.com/zbjornson/human-asmjs) - Tips and tricks for writing asm.js as a human - Note: WebAssembly has replaced asm.js, so this is no longer maintained.
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [mattdesl/graphics-resources](https://github.com/mattdesl/graphics-resources) - :memo: a list of graphic programming resources
 - [yglukhov/nimble-tag](https://github.com/yglukhov/nimble-tag) - 
 - [glotcode/glot](https://github.com/glotcode/glot) - Code playground
@@ -1666,6 +1673,8 @@
 
 ## Python 
 
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [LMSD-KULeuven/polyquad](https://github.com/LMSD-KULeuven/polyquad) - 
 - [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema) - XML Schema validator and data conversion library for Python
