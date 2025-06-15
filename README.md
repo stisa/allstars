@@ -55,6 +55,7 @@
 - [Mojo](#mojo)
 - [NASL](#nasl)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -311,6 +312,8 @@
 
 ## C++ 
 
+- [kzampog/cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
+- [CloudCompare/CCCoreLib](https://github.com/CloudCompare/CCCoreLib) - C++ library which provides data structures & algorithms for working with 3D point cloud data
 - [csyben/PYRO-NN-Layers](https://github.com/csyben/PYRO-NN-Layers) - Implementation of reconstruction operators in CUDA for Tensorflow for the PYRO-NN Framework
 - [CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare main repository
 - [weiss-jonathan/Printess-Low-Cost-3D-Printer](https://github.com/weiss-jonathan/Printess-Low-Cost-3D-Printer) - Current Versions of hardware, software, firmware, and instructions for assembling and operating the Printess.
@@ -634,6 +637,7 @@
 
 ## Dart 
 
+- [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [danemadsen/maid](https://github.com/danemadsen/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
@@ -720,7 +724,7 @@
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -868,6 +872,7 @@
 
 ## JavaScript 
 
+- [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Open-Lab-Starter-Kit/OLSK-3D-Scanner](https://github.com/Open-Lab-Starter-Kit/OLSK-3D-Scanner) - Open Source 3D Scanner - Open Lab Starter Kit
 - [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) - A desktop application for Penpot, an open-source design tool.
@@ -889,7 +894,7 @@
 - [skarab42/SLAcer.js](https://github.com/skarab42/SLAcer.js) - SLA slicer in your browser.
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [tunabrain/tantalum](https://github.com/tunabrain/tantalum) - WebGL 2D Light Transport
 - [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
@@ -1507,6 +1512,10 @@
 - [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language
 - [andreaferretti/linear-algebra](https://github.com/andreaferretti/linear-algebra) - Linear algebra for Nim
 
+## Nix 
+
+- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
+
 ## OCaml 
 
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ https://ocaml.xyz
@@ -1572,7 +1581,6 @@
 - [matt77hias/smallpt](https://github.com/matt77hias/smallpt) - ☀️ The Rosetta smallpt (small path tracing) project
 - [Armchair-Heavy-Industries/P-REXZ](https://github.com/Armchair-Heavy-Industries/P-REXZ) - 
 - [CroXY3D/Sailfin-Extruder](https://github.com/CroXY3D/Sailfin-Extruder) - A lightweight compact extruder with 5:1 gearing using BMG dual drive
-- [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [fbeltrao-br/mksts35](https://github.com/fbeltrao-br/mksts35) - 
 - [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 - [Audiotronix/Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
@@ -1700,7 +1708,7 @@
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [xeoncross/forumfive](https://github.com/xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
@@ -1733,6 +1741,9 @@
 
 ## Python 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [siavashk/pycpd](https://github.com/siavashk/pycpd) - Pure Numpy Implementation of the Coherent Point Drift Algorithm
+- [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [gerlero/foamlib](https://github.com/gerlero/foamlib) - A modern Python package for interacting with OpenFOAM
 - [Ruyi-Zha/r2_gaussian](https://github.com/Ruyi-Zha/r2_gaussian) - "Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction" (NeurIPS 2024)
 - [caiyuanhao1998/SAX-NeRF](https://github.com/caiyuanhao1998/SAX-NeRF) - "Structure-Aware Sparse-View X-ray 3D Reconstruction" (CVPR 2024)  -  A Toolbox for CT reconstruction and X-ray Novel View Synthesis
@@ -1840,7 +1851,7 @@
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm) - PySLM: A Python Library for 3D Printing and Additive Manufacturing
-- [compas-dev/compas](https://github.com/compas-dev/compas) - Core packages of the COMPAS framework.
+- [compas-dev/compas](https://github.com/compas-dev/compas) - Main library of the COMPAS framework and CAD integrations for Rhino/GH and Blender.
 - [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - Python version of FullControl for toolpath design (and more) - the readme below is best source of information
 - [TC4451/Vision_Based_3D_Printing](https://github.com/TC4451/Vision_Based_3D_Printing) - 
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -1938,7 +1949,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -2382,7 +2393,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [GrimoireGL/GrimoireJS](https://github.com/GrimoireGL/GrimoireJS) - A WebGL framework for Web development.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [spiffcode/ghedit](https://github.com/spiffcode/ghedit) - A fast, powerful web-based code editor for GitHub repositories
