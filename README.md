@@ -374,7 +374,7 @@
 - [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
 - [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui) - Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL
 - [sxyu/sdf](https://github.com/sxyu/sdf) - Parallelized triangle mesh --&gt; continuous signed distance field on CPU
-- [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
+- [efornara/frt](https://github.com/efornara/frt) - A Godot 3 "platform" targeting single board computers.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
@@ -640,7 +640,7 @@
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [danemadsen/maid](https://github.com/danemadsen/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
-- [go-vikunja/app](https://github.com/go-vikunja/app) - 
+- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -765,7 +765,6 @@
 ## HTML 
 
 - [romerogroup/MechElastic](https://github.com/romerogroup/MechElastic) - A Python library to calculate elastic properties of materials.
-- [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
 - [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show 3D visualizations from PyVista in Streamlit
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
 - [danielkucera/creality-remote-control](https://github.com/danielkucera/creality-remote-control) - 
@@ -1127,6 +1126,7 @@
 
 ## Julia 
 
+- [JuliaAstro/Transits.jl](https://github.com/JuliaAstro/Transits.jl) - Flexible photometric transit curves with limb darkening
 - [SciML/DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl) - A library of data interpolation and smoothing functions
 - [eth-cscs/ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid
 - [roflmaostc/Talk_EOSAM_Naples_2024_SwissVAMyKnife.jl](https://github.com/roflmaostc/Talk_EOSAM_Naples_2024_SwissVAMyKnife.jl) - The 12th EOSAM is organized in Naples, Italy, 9-13 September 2024 - SwissVAMyKnife.jl: an open-source package for tomographic volumetric additive manufacturing
@@ -1306,7 +1306,6 @@
 - [transmutrix/nim-sdl3](https://github.com/transmutrix/nim-sdl3) - Nim wrapper for SDL3.x
 - [planetis-m/compute-sim](https://github.com/planetis-m/compute-sim) - Learn and understand compute shader operations and control flow.
 - [elcritch/figuro](https://github.com/elcritch/figuro) - Fast, reactive, compiled graphical user toolkit
-- [heysokam/ngpu](https://github.com/heysokam/ngpu) - n*gpu | Graphics Library for Nim
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
 - [capocasa/cgui](https://github.com/capocasa/cgui) - An example setup to cross compile native GUI apps for Nim on Linux, for Linux, Windows and OSX
 - [yuya-isaka/Nimcc](https://github.com/yuya-isaka/Nimcc) - Mini C compiler written in Nim
@@ -1355,7 +1354,7 @@
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [Niminem/Neel](https://github.com/Niminem/Neel) - A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.
 - [saem/vscode-nim](https://github.com/saem/vscode-nim) - 
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
+- [getenu/enu](https://github.com/getenu/enu) - A Logo-like 3D environment, implemented in Nim
 - [Vindaar/NeuralNetworkLiveDemo](https://github.com/Vindaar/NeuralNetworkLiveDemo) - Contains a simple live demo of MNIST training and classification using Nim + Arraymancer + Plotly
 - [saem/vscode-nim-fork](https://github.com/saem/vscode-nim-fork) - An extension for VS Code which provides support for the Nim language.
 - [nim-lang/nim-zmq](https://github.com/nim-lang/nim-zmq) - Nim ZMQ wrapper
@@ -1780,6 +1779,7 @@
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [masterFoad/NanoSage](https://github.com/masterFoad/NanoSage) - Local LLM Powered Recursive Search & Smart Knowledge Explorer
+- [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
 - [JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls](https://github.com/JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls) - Example code for "Time Code for Multifunctional 3D Printhead Controls"
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1787,7 +1787,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
 - [Aermoss/PySDL3](https://github.com/Aermoss/PySDL3) - A pure Python wrapper for SDL3.
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
 - [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and editing
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
 - [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
@@ -2177,6 +2177,7 @@
 
 ## Rust 
 
+- [SitanHuang/TaskCentral](https://github.com/SitanHuang/TaskCentral) - Opinionated online task management, time tracking, calendaring platform
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
