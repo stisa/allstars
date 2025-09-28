@@ -33,6 +33,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [compiler](#compiler)
@@ -152,6 +153,8 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian](#obsidian)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -171,6 +174,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -235,6 +239,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -299,7 +304,7 @@
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
@@ -331,6 +336,9 @@
 
 ## android 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
+- [danilkinkin/buckwheat](https://github.com/danilkinkin/buckwheat) - App that helps you spend money wisely for Android made with Jetpack Compose
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 - [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -375,7 +383,7 @@
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [metacraft-labs/languist](https://github.com/metacraft-labs/languist) - a framework for automated translation of high level langs
 
 ## arduino 
@@ -418,6 +426,7 @@
 
 ## awesome 
 
+- [gorootde/silverbullet-collection](https://github.com/gorootde/silverbullet-collection) - Collection of awesome silverbullet.md stuff
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) - A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨
@@ -470,11 +479,11 @@
 
 ## aws 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
 ## azure 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
 ## backend 
 
@@ -495,7 +504,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -518,7 +527,7 @@
 
 ## bot 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 
@@ -620,7 +629,7 @@
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -655,6 +664,14 @@
 - [tmcw/wah](https://github.com/tmcw/wah) - a slightly higher-level language superset of webassembly
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
+## cloud 
+
+- [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
+- [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+- [mjxu96/carlaviz](https://github.com/mjxu96/carlaviz) - Visualize carla in the web browser
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
+
 ## cms 
 
 - [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
@@ -664,6 +681,7 @@
 
 ## code 
 
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
 - [Amin-Tgz/awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - 👉 CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla
 
 ## compiler 
@@ -674,7 +692,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [cimplec/sim-c](https://github.com/cimplec/sim-c) - A dynamically typed high-level front end for C
 - [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
@@ -768,7 +786,7 @@
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
@@ -790,6 +808,7 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
+- [prahladyeri/curated-lists](https://github.com/prahladyeri/curated-lists) - Curated Lists of various things
 - [rafaelvasco/nimrod-glfw](https://github.com/rafaelvasco/nimrod-glfw) - GLFW Bindings for the Nim Programming Language
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 
@@ -813,6 +832,8 @@
 
 ## dart 
 
+- [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
+- [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
@@ -883,6 +904,8 @@
 
 ## deep-learning 
 
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
+- [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [MatthewFilipovich/torchoptics](https://github.com/MatthewFilipovich/torchoptics) - Differentiable wave optics simulation library built on PyTorch
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
@@ -984,12 +1007,14 @@
 
 ## docker 
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [George-Seven/Termux-Udocker](https://github.com/George-Seven/Termux-Udocker) - Run Docker images in Termux via Udocker. No root, no qemu-VM, much faster.
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1011,6 +1036,7 @@
 
 ## documentation 
 
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) - Repo for Immuni's documentation.
 - [nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs) - An easy and convenient package to create technical LaTeX documents.
@@ -1019,6 +1045,7 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
+- [prahladyeri/curated-lists](https://github.com/prahladyeri/curated-lists) - Curated Lists of various things
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 
 ## education 
@@ -1093,7 +1120,7 @@
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [floating/frame](https://github.com/floating/frame) - System-wide Web3 for macOS, Windows and Linux
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [Anish-Agnihotri/merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Frontend, contracts, and merkle tree generator for use in quickly scaffolding ERC20 token airdrops.
@@ -1111,6 +1138,8 @@
 
 ## finance 
 
+- [danilkinkin/buckwheat](https://github.com/danilkinkin/buckwheat) - App that helps you spend money wisely for Android made with Jetpack Compose
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [ardov/zerro](https://github.com/ardov/zerro) - Unofficial ZenMoney client with envelope budgeting superpowers
@@ -1133,6 +1162,10 @@
 
 ## flutter 
 
+- [ahmet-cetinkaya/whph](https://github.com/ahmet-cetinkaya/whph) - WHPH is a comprehensive productivity app designed to help you manage tasks, develop new habits, and optimize your time.
+- [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
+- [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
+- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -1179,7 +1212,7 @@
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [Areso/1255-burgomaster](https://github.com/Areso/1255-burgomaster) - :european_castle: Little town (travian) game w/ RPG mechanics. Playable. WIP
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [susam/invaders](https://github.com/susam/invaders) - A 1980s-arcade-style game written using HTML5, Canvas, and Web Audio
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
@@ -1217,18 +1250,17 @@
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
 - [bberak/react-native-game-engine-handbook](https://github.com/bberak/react-native-game-engine-handbook) - A React Native app showcasing some examples using react-native-game-engine 🐒✨
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [hmans/miniplex](https://github.com/hmans/miniplex) - A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [alto-io/game3.js](https://github.com/alto-io/game3.js) - The Web 3.0 Game Framework
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [gdquest-demos/godot-make-pro-2d-games](https://github.com/gdquest-demos/godot-make-pro-2d-games) - A-RPG demo made with Godot, MIT-licensed, from our Godot course
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
+- [getenu/enu](https://github.com/getenu/enu) - A Logo-like 3D environment, implemented in Nim
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -1264,7 +1296,7 @@
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
 - [bberak/react-native-game-engine-handbook](https://github.com/bberak/react-native-game-engine-handbook) - A React Native app showcasing some examples using react-native-game-engine 🐒✨
 - [fenomas/noa](https://github.com/fenomas/noa) - Experimental voxel game engine.
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
@@ -1273,7 +1305,7 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - My personal game engine, for 2D sidescrollers with physics
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
@@ -1309,13 +1341,12 @@
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
 - [Megabyteceer/thing-editor](https://github.com/Megabyteceer/thing-editor) - pixi.js based visual game editor
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [ct-js/ct-js-old](https://github.com/ct-js/ct-js-old) - ⚠️ Old repository of ct.js app. New repository here: https://github.com/ct-js/ct-js
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [PixeyeHQ/pixecs](https://github.com/PixeyeHQ/pixecs) - A pragmatic entity-component-system module for my gamedev needs
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
@@ -1346,7 +1377,7 @@
 
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [Megabyteceer/thing-editor](https://github.com/Megabyteceer/thing-editor) - pixi.js based visual game editor
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -1357,7 +1388,7 @@
 
 ## git 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [nim-works/gitnim](https://github.com/nim-works/gitnim) - choosenim for choosey nimions
 - [disruptek/bump](https://github.com/disruptek/bump) - a tiny tool to bump nimble versions 🍻
@@ -1373,13 +1404,16 @@
 
 ## go 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
@@ -1395,7 +1429,7 @@
 - [geegaz/Multiple-Windows-tutorial](https://github.com/geegaz/Multiple-Windows-tutorial) - Godot 4 tutorial for making a character that moves outside of the game window
 - [gdquest-demos/godot-make-pro-2d-games](https://github.com/gdquest-demos/godot-make-pro-2d-games) - A-RPG demo made with Godot, MIT-licensed, from our Godot course
 - [benc-uk/super-dungeon-delve](https://github.com/benc-uk/super-dungeon-delve) - 2D retro style dungeon game
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
+- [getenu/enu](https://github.com/getenu/enu) - A Logo-like 3D environment, implemented in Nim
 - [pragmagic/godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine
 - [Calinou/godot-style-guide](https://github.com/Calinou/godot-style-guide) - Style guide for Godot projects
 - [Kermer/Godot](https://github.com/Kermer/Godot) - Stuff to use with Godot Engine
@@ -1404,6 +1438,9 @@
 
 ## golang 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1412,7 +1449,7 @@
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -1423,15 +1460,15 @@
 
 ## google 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
 ## hacktoberfest 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
@@ -1495,6 +1532,7 @@
 
 ## haskell 
 
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
@@ -1506,6 +1544,7 @@
 
 ## html 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
@@ -1529,6 +1568,7 @@
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [juancarlospaco/webgui](https://github.com/juancarlospaco/webgui) - Web Technologies based Crossplatform GUI Framework with Dark theme
 - [Guevara-chan/Raylib-Forever](https://github.com/Guevara-chan/Raylib-Forever) - :.raylib headers for Nim anytime.:
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1552,6 +1592,7 @@
 
 ## image-processing 
 
+- [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [pyxu-org/pyxu](https://github.com/pyxu-org/pyxu) - Modular and scalable computational imaging in Python with GPU/out-of-core computing.
 - [genicam/harvesters](https://github.com/genicam/harvesters) - Image Acquisition Library for GenICam-based Machine Vision System
@@ -1569,6 +1610,7 @@
 
 ## ios 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
@@ -1627,7 +1669,7 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
@@ -1787,6 +1829,7 @@
 
 ## latex 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [dante-ev/latex-action](https://github.com/dante-ev/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [jellespijker/pymech](https://github.com/jellespijker/pymech) - Continuation for this project is stopped. Focus is now on the MechEng modules ( https://github.com/mecheng )  A Python module for mechanical engineers. Project which is mostly based on the books of Ro
@@ -1810,7 +1853,7 @@
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [Cultrarius/Swarmz](https://github.com/Cultrarius/Swarmz) - A free, header-only C++ swarming (flocking) library for real-time applications
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
@@ -1826,6 +1869,7 @@
 
 ## linux 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [MatthiasWM/IotaSlicer](https://github.com/MatthiasWM/IotaSlicer) - A voxel based slicer for 3D printing on FDM/FFF, binder/powder, SLS printers and laser cutters.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -1883,6 +1927,7 @@
 
 ## lua 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
 - [r-lyeh-archived/AVA](https://github.com/r-lyeh-archived/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
@@ -1897,6 +1942,7 @@
 
 ## machine-learning 
 
+- [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [MatthewFilipovich/torchoptics](https://github.com/MatthewFilipovich/torchoptics) - Differentiable wave optics simulation library built on PyTorch
@@ -1949,6 +1995,8 @@
 
 ## macos 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
+- [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -1966,7 +2014,13 @@
 
 ## markdown 
 
+- [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -2033,6 +2087,7 @@
 
 ## mobile 
 
+- [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 
@@ -2052,6 +2107,7 @@
 
 ## natural-language-processing 
 
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
@@ -2089,7 +2145,6 @@
 
 - [transmutrix/nim-sdl3](https://github.com/transmutrix/nim-sdl3) - Nim wrapper for SDL3.x
 - [planetis-m/compute-sim](https://github.com/planetis-m/compute-sim) - Learn and understand compute shader operations and control flow.
-- [heysokam/ngpu](https://github.com/heysokam/ngpu) - n*gpu | Graphics Library for Nim
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An opinionated Linux® distribution based on musl libc and toybox
 - [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
@@ -2118,7 +2173,7 @@
 - [micycle8778/host](https://github.com/micycle8778/host) - host is a simple, static, web server for easily hosting files over LAN. made with &lt;3 in nim.
 - [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [Niminem/Neel](https://github.com/Niminem/Neel) - A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.
-- [dsrw/enu](https://github.com/dsrw/enu) - A Logo-like 3D environment, implemented in Nim
+- [getenu/enu](https://github.com/getenu/enu) - A Logo-like 3D environment, implemented in Nim
 - [elcritch/nesper](https://github.com/elcritch/nesper) - Program the ESP32 with Nim! Wrappers around ESP-IDF API's.
 - [nim-lang/nim-zmq](https://github.com/nim-lang/nim-zmq) - Nim ZMQ wrapper
 - [kaushalmodi/nim_config](https://github.com/kaushalmodi/nim_config) - Global project-agnostic config.nims
@@ -2241,6 +2296,7 @@
 
 ## numpy 
 
+- [gerlero/foamlib](https://github.com/gerlero/foamlib) - ✨ A modern Python package for interacting with OpenFOAM
 - [Quantco/ndonnx](https://github.com/Quantco/ndonnx) - ONNX-backed array library that is compliant with the Array API standard.
 - [data-apis/array-api-compat](https://github.com/data-apis/array-api-compat) - Compatibility layer for common array libraries to support the Array API
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
@@ -2255,6 +2311,22 @@
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 
+## obsidian 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
+
+## obsidian-md 
+
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
+- [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
+- [CtrlAltFocus/obsidian-plugin-auto-tag](https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag) - Easily generate relevant tags for your Obsidian notes.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
+- [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
+
 ## obsidian-plugin 
 
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
@@ -2265,6 +2337,8 @@
 
 ## open-source 
 
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
 - [ebezzam/open-microscopy-ai-workshop](https://github.com/ebezzam/open-microscopy-ai-workshop) - Material for the Open Microscopy & AI Workshop at EPFL (March 14)
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2283,12 +2357,11 @@
 
 ## openai 
 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2348,6 +2421,22 @@
 
 ## others 
 
+- [seaqt/nim-seaqt](https://github.com/seaqt/nim-seaqt) - `Nim` bindings for `Qt`
+- [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
+- [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
+- [DesarrolloAntonio/Shiori-Android-Client](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Android app client for Shiori
+- [JuliaHealth/KomaMRI.jl](https://github.com/JuliaHealth/KomaMRI.jl) - Koma is a Pulseq-compatible framework to efficiently simulate Magnetic Resonance Imaging (MRI) acquisitions. The main focus of this package is to simulate general scenarios that could arise in pulse s
+- [ROCm/TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
+- [GaudiLabs/OpenDrop](https://github.com/GaudiLabs/OpenDrop) - Open Source Digital Microfluidics Bio Lab
+- [p0lloc/perfice](https://github.com/p0lloc/perfice) - Self-tracking app in Svelte 5
+- [silverbulletmd/silverbullet-libraries](https://github.com/silverbulletmd/silverbullet-libraries) - Awesome SilverBullet libraries
+- [mschmidtkorth/silverbullet-zen](https://github.com/mschmidtkorth/silverbullet-zen) - A theme for SilverBullet inspired by Zen browser. Design philosophy: Calm, reduced visual noise and consistency.
+- [MrMugame/silversearch](https://github.com/MrMugame/silversearch) - Powerful Full-Text Searchengine for Silverbullet
+- [joekrill/silverbullet-treeview](https://github.com/joekrill/silverbullet-treeview) - SilverBullet TreeView plug
+- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+- [meyayl/docker-languagetool](https://github.com/meyayl/docker-languagetool) - 
+- [SitanHuang/TaskCentral](https://github.com/SitanHuang/TaskCentral) - Opinionated online task management, time tracking, calendaring platform
+- [JuliaAstro/Transits.jl](https://github.com/JuliaAstro/Transits.jl) - Flexible photometric transit curves with limb darkening
 - [Tatze99/optikz](https://github.com/Tatze99/optikz) - Customizable optical components for drawing laser setups and optical systems using TikZ
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner
 - [fccview/rwMarkable](https://github.com/fccview/rwMarkable) - A simple, self-hosted app for your checklists and notes.
@@ -2396,7 +2485,7 @@
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [Open-Lab-Starter-Kit/OLSK-3D-Scanner](https://github.com/Open-Lab-Starter-Kit/OLSK-3D-Scanner) - Open Source 3D Scanner - Open Lab Starter Kit
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [OleksandrPanforov/saturn-klipper](https://github.com/OleksandrPanforov/saturn-klipper) - 
 - [microsoft/mattergen](https://github.com/microsoft/mattergen) - Official implementation of MatterGen -- a generative model for inorganic materials design across the periodic table that can be fine-tuned to steer the generation towards a wide range of property cons
 - [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android
@@ -2404,19 +2493,17 @@
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [ankenyr/jellyfin-youtube-metadata-plugin](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) - Youtube Metadata Plugin for Jellyfin
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [go-vikunja/app](https://github.com/go-vikunja/app) - 
 - [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls](https://github.com/JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls) - Example code for "Time Code for Multifunctional 3D Printhead Controls"
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [penguinite/onbox](https://github.com/penguinite/onbox) - A lightweight Social Media backend written in Nim
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
-- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) - A reading list for computational optics liteature presented on SIGGRAPH.
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
 - [weiss-jonathan/Printess-Low-Cost-3D-Printer](https://github.com/weiss-jonathan/Printess-Low-Cost-3D-Printer) - Current Versions of hardware, software, firmware, and instructions for assembling and operating the Printess.
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
 - [bnanes/svg-embed-and-crop](https://github.com/bnanes/svg-embed-and-crop) - Inkscape Extension: Embed and Crop Images
 - [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and editing
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
@@ -2490,7 +2577,7 @@
 - [rogerlz/Doron-Velta](https://github.com/rogerlz/Doron-Velta) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [viesturz/klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger) - Toolcahnging extension for Klipper
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
 - [greenonline/Kossel](https://github.com/greenonline/Kossel) - Files relating to the Kossel 3D Printer
 - [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -2533,7 +2620,7 @@
 - [TC4451/Vision_Based_3D_Printing](https://github.com/TC4451/Vision_Based_3D_Printing) - 
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
 - [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [AustinTapp/CM3dLDM](https://github.com/AustinTapp/CM3dLDM) - Implementation of MR to CT synthesis via 3D Latent Diffusion
 - [hyungjin-chung/DiffusionMBIR](https://github.com/hyungjin-chung/DiffusionMBIR) - Official PyTorch implementation of the CVPR 2023 paper "Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models (https://arxiv.org/abs/2211.10655)"
 - [marko-janic/Latent-Diffusion-Model](https://github.com/marko-janic/Latent-Diffusion-Model) - Diffusion model used for reconstructing CT-scan images, trained in a lower dimensional latent space using a pretrained autoencoder.
@@ -2560,7 +2647,7 @@
 - [adaerr/pendent-drop](https://github.com/adaerr/pendent-drop) - Liquid surface tension measurement through the pendent drop method: a plugin for ImageJ
 - [yankagan/VARD-for-CT](https://github.com/yankagan/VARD-for-CT) - Large-scale iterative image reconstruction for transmission tomography with automatic regularization
 - [Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker) - Trying to create a new obsidian plugin to enable user to create bi-directional links easily based on the content of their vault.
-- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
+- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [wutong16/Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
 - [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [casimp/lightct](https://github.com/casimp/lightct) - Python package used for visual light computed tomography.
@@ -2575,7 +2662,7 @@
 - [OpenOPC/OpenILT](https://github.com/OpenOPC/OpenILT) - An Open-source Platform for Inverse Lithography Technology Research
 - [Haian-Jin/TensoIR](https://github.com/Haian-Jin/TensoIR) - [CVPR 2023] TensoIR: Tensorial Inverse Rendering
 - [markomih/ResFields](https://github.com/markomih/ResFields) - [ICLR 2024 Spotlight ✨] ResFields: Residual Neural Fields for Spatiotemporal Signals
-- [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields, ICCV'23 (Oral, Best Paper Finalist)
+- [wbhu/Tri-MipRF](https://github.com/wbhu/Tri-MipRF) - [ICCV'23 Oral, Best Paper Finalist]Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields
 - [lab4d-org/lab4d](https://github.com/lab4d-org/lab4d) - A framework for 4D reconstruction from monocular videos.
 - [ballaswag/guppyscreen](https://github.com/ballaswag/guppyscreen) - A native Touch UI for 3D Printers running Klipper/Moonraker.
 - [e0404/matRad](https://github.com/e0404/matRad) - An open source multi-modality radiation treatment planning sytem developed by e0404 @ DKFZ
@@ -2661,14 +2748,14 @@
 - [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography - Acquisition - Raspberry Pi
 - [Annex-Engineering/Redoubt](https://github.com/Annex-Engineering/Redoubt) - Papejellys Pet Project - Moving Gantry - Fixed Bed - CoreXY
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
-- [efornara/frt](https://github.com/efornara/frt) - A Godot "platform" targeting single board computers.
+- [efornara/frt](https://github.com/efornara/frt) - A Godot 3 "platform" targeting single board computers.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [analogdevicesinc/TMC-API](https://github.com/analogdevicesinc/TMC-API) - TRINAMIC's IC API
 - [raspberrypi/pico-extras](https://github.com/raspberrypi/pico-extras) - 
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
@@ -3026,7 +3113,7 @@
 - [bdring/Grbl_Esp32](https://github.com/bdring/Grbl_Esp32) - A port of Grbl CNC Firmware for ESP32
 - [MarginallyClever/Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - CNC firmware for many different control boards and kinematic systems.  Originally the brain of the Makelangelo art robot.
 - [MatterHackers/MatterSlice](https://github.com/MatterHackers/MatterSlice) - MatterSlice is a C# console application that generates GCode (hardware control) for 3D printing. It was originally ported from CuraEngine (another great open source 3D printing engine). It is the prim
-- [shapeforge/Chill](https://github.com/shapeforge/Chill) - Chill, node editor
+- [icesl/Chill](https://github.com/icesl/Chill) - Chill, node editor
 - [Yixin-Hu/TetWild](https://github.com/Yixin-Hu/TetWild) - Robust Tetrahedral Meshing in the Wild.
 - [mfx-inria/curvislicer](https://github.com/mfx-inria/curvislicer) - CurviSlicer: Slightly curved slicing for 3-axis printers
 - [Aus3D/RUMBA32](https://github.com/Aus3D/RUMBA32) - A powerful 32-bit 3D printer control board.
@@ -3101,7 +3188,6 @@
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [status-im/nim-stew](https://github.com/status-im/nim-stew) - stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
-- [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment
 - [FEniCS/ffcx](https://github.com/FEniCS/ffcx) - Next generation FEniCS Form Compiler for finite element forms
 - [zarr-developers/zarr-specs](https://github.com/zarr-developers/zarr-specs) - Zarr core protocol for storage and  retrieval of N-dimensional typed arrays
@@ -3113,7 +3199,6 @@
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [microsoft/vscode-simple-jupyter-notebook](https://github.com/microsoft/vscode-simple-jupyter-notebook) - Simple jupyter notebook for exploration purposes
 - [jupyterlab/jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
-- [mjxu96/carlaviz](https://github.com/mjxu96/carlaviz) - Visualize carla in the web browser
 - [p-schulz/CarlaClientCpp](https://github.com/p-schulz/CarlaClientCpp) - C++ Client for Unreal Engine 4 running Carla
 - [zah/nim-hcr-astronauts](https://github.com/zah/nim-hcr-astronauts) - A simple Nim hot code reloading demo prepared by Viktor Kirilov for ACCU 2019
 - [Vindaar/brokenRepl](https://github.com/Vindaar/brokenRepl) - 
@@ -3569,7 +3654,7 @@
 
 ## parsing 
 
-- [gerlero/foamlib](https://github.com/gerlero/foamlib) - A modern Python package for interacting with OpenFOAM
+- [gerlero/foamlib](https://github.com/gerlero/foamlib) - ✨ A modern Python package for interacting with OpenFOAM
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 
 ## phaser 
@@ -3581,6 +3666,7 @@
 
 ## php 
 
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -3631,6 +3717,7 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -3643,6 +3730,7 @@
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -3652,6 +3740,18 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [prahladyeri/curated-lists](https://github.com/prahladyeri/curated-lists) - Curated Lists of various things
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
+## programming-language 
+
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
+- [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
+- [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+- [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 
 ## project-management 
 
@@ -3666,6 +3766,8 @@
 
 ## pwa 
 
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
@@ -3677,7 +3779,7 @@
 
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [siavashk/pycpd](https://github.com/siavashk/pycpd) - Pure Numpy Implementation of the Coherent Point Drift Algorithm
-- [gerlero/foamlib](https://github.com/gerlero/foamlib) - A modern Python package for interacting with OpenFOAM
+- [gerlero/foamlib](https://github.com/gerlero/foamlib) - ✨ A modern Python package for interacting with OpenFOAM
 - [LCAV/LenslessPiCam](https://github.com/LCAV/LenslessPiCam) - Lensless imaging toolkit. Complete tutorial: https://go.epfl.ch/lenslesspicam
 - [HarrisonKramer/optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
 - [Quantco/ndonnx](https://github.com/Quantco/ndonnx) - ONNX-backed array library that is compliant with the Array API standard.
@@ -3893,6 +3995,8 @@
 
 ## react 
 
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
@@ -4037,6 +4141,8 @@
 
 ## self-hosted 
 
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
+- [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -4047,6 +4153,7 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -4066,7 +4173,6 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [gaynetdinov/ex_money](https://github.com/gaynetdinov/ex_money) - An [abandoned] self-hosted personal finance app
-- [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 
@@ -4162,6 +4268,7 @@
 
 ## telegram-bot 
 
+- [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [R3D4NG3L/PersonalExpenseReport](https://github.com/R3D4NG3L/PersonalExpenseReport) - Personal Expense Report on Google Sheet with Telegram Bot integration
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [vjFaLk/firefly-bot](https://github.com/vjFaLk/firefly-bot) - Bot to quickly create transactions in Firefly III
@@ -4203,7 +4310,7 @@
 
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 
@@ -4213,6 +4320,7 @@
 
 ## typescript 
 
+- [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
@@ -4314,7 +4422,6 @@
 
 ## web 
 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
@@ -4361,6 +4468,7 @@
 
 ## windows 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
@@ -4377,7 +4485,7 @@
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
@@ -4407,6 +4515,11 @@
 ## zig 
 
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
+
+## zsh 
+
+- [icyphox/nicy](https://github.com/icyphox/nicy) - :snowflake: a nice and icy zsh and bash prompt in Nim
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 
 
 ## License
