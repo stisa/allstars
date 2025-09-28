@@ -116,6 +116,7 @@
 
 ## C 
 
+- [GaudiLabs/OpenDrop](https://github.com/GaudiLabs/OpenDrop) - Open Source Digital Microfluidics Bio Lab
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ExplorerLGD/klipper-for-inkjet-3d-printer](https://github.com/ExplorerLGD/klipper-for-inkjet-3d-printer) - 
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
@@ -300,7 +301,7 @@
 - [MatterHackers/MatterSlice](https://github.com/MatterHackers/MatterSlice) - MatterSlice is a C# console application that generates GCode (hardware control) for 3D printing. It was originally ported from CuraEngine (another great open source 3D printing engine). It is the prim
 - [Richard-CRT/3D-Print-Grid-Utility](https://github.com/Richard-CRT/3D-Print-Grid-Utility) - Utility to create/modify/render the .grid file(s) created by smoothieware firmware (mostly geared towards the Tevo Little Monster)
 - [MLJejuCamp2017/DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [starryangt/thoth-gui](https://github.com/starryangt/thoth-gui) - Experimental GUI front-end for Thoth with Eto.Forms
 - [BSalita/c-api-examples](https://github.com/BSalita/c-api-examples) - Visual Studio 2015 solution for building binaryen-c examples.
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
@@ -452,7 +453,7 @@
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [MarginallyClever/Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - CNC firmware for many different control boards and kinematic systems.  Originally the brain of the Makelangelo art robot.
 - [Ultimaker/CuraEngine](https://github.com/Ultimaker/CuraEngine) - Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura.
-- [shapeforge/Chill](https://github.com/shapeforge/Chill) - Chill, node editor
+- [icesl/Chill](https://github.com/icesl/Chill) - Chill, node editor
 - [Yixin-Hu/TetWild](https://github.com/Yixin-Hu/TetWild) - Robust Tetrahedral Meshing in the Wild.
 - [mfx-inria/curvislicer](https://github.com/mfx-inria/curvislicer) - CurviSlicer: Slightly curved slicing for 3-axis printers
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
@@ -636,6 +637,9 @@
 
 ## Dart 
 
+- [ahmet-cetinkaya/whph](https://github.com/ahmet-cetinkaya/whph) - WHPH is a comprehensive productivity app designed to help you manage tasks, develop new habits, and optimize your time.
+- [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
+- [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [danemadsen/maid](https://github.com/danemadsen/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
@@ -721,6 +725,8 @@
 
 ## Go 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
@@ -734,7 +740,7 @@
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) - Cross-Chain bridge based on Anyswap MPC network.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [replit/prybar](https://github.com/replit/prybar) - Pry open those interpreters.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
@@ -840,6 +846,7 @@
 
 ## Java 
 
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 - [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
@@ -933,7 +940,7 @@
 - [gasolin/ethhole](https://github.com/gasolin/ethhole) - How the token flows
 - [lepunk/react-native-videos](https://github.com/lepunk/react-native-videos) - 
 - [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [omarsinan/FlappyBirdClone](https://github.com/omarsinan/FlappyBirdClone) - A Flappy Bird clone using p5.js and Matter.js
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
@@ -1127,6 +1134,7 @@
 
 ## Julia 
 
+- [JuliaHealth/KomaMRI.jl](https://github.com/JuliaHealth/KomaMRI.jl) - Koma is a Pulseq-compatible framework to efficiently simulate Magnetic Resonance Imaging (MRI) acquisitions. The main focus of this package is to simulate general scenarios that could arise in pulse s
 - [JuliaAstro/Transits.jl](https://github.com/JuliaAstro/Transits.jl) - Flexible photometric transit curves with limb darkening
 - [SciML/DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl) - A library of data interpolation and smoothing functions
 - [eth-cscs/ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid
@@ -1147,6 +1155,7 @@
 
 ## Jupyter Notebook 
 
+- [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [NuriaRufo/DeepPETmodified](https://github.com/NuriaRufo/DeepPETmodified) - PET reconstruction with deep learning
 - [LCAV/LenslessPiCam](https://github.com/LCAV/LenslessPiCam) - Lensless imaging toolkit. Complete tutorial: https://go.epfl.ch/lenslesspicam
 - [optas/latent_3d_points](https://github.com/optas/latent_3d_points) - Auto-encoding & Generating 3D  Point-Clouds.
@@ -1212,6 +1221,10 @@
 
 ## Kotlin 
 
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
+- [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
+- [DesarrolloAntonio/Shiori-Android-Client](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Android app client for Shiori
+- [danilkinkin/buckwheat](https://github.com/danilkinkin/buckwheat) - App that helps you spend money wisely for Android made with Jetpack Compose
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -1543,6 +1556,7 @@
 
 ## Others 
 
+- [seaqt/nim-seaqt](https://github.com/seaqt/nim-seaqt) - `Nim` bindings for `Qt`
 - [gorootde/silverbullet-collection](https://github.com/gorootde/silverbullet-collection) - Collection of awesome silverbullet.md stuff
 - [silverbulletmd/silverbullet-libraries](https://github.com/silverbulletmd/silverbullet-libraries) - Awesome SilverBullet libraries
 - [mschmidtkorth/silverbullet-zen](https://github.com/mschmidtkorth/silverbullet-zen) - A theme for SilverBullet inspired by Zen browser. Design philosophy: Calm, reduced visual noise and consistency.
@@ -1601,7 +1615,7 @@
 - [Annex-Engineering/Folded_Ascender-Extruder](https://github.com/Annex-Engineering/Folded_Ascender-Extruder) - a small stepper powered, worm geared, direct drive extruder/toolhead system
 - [ghent360/KlipperToolboard](https://github.com/ghent360/KlipperToolboard) - A 3D printer tool head controller board
 - [zruncho3d/double-dragon](https://github.com/zruncho3d/double-dragon) - Double Dragon: world's smallest IDEX 3D printer.  Mod your Voron 0 or build one fresh!
-- [leereilly/games](https://github.com/leereilly/games) - A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [marcelc63/popular-contract-templates](https://github.com/marcelc63/popular-contract-templates) - Templates for Popular Smart Contracts
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - My personal game engine, for 2D sidescrollers with physics
@@ -1740,6 +1754,8 @@
 
 ## Python 
 
+- [ROCm/TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
 - [daubners/evoxels](https://github.com/daubners/evoxels) - Differentiable physics framework for voxel-based microstructure simulations
 - [vincent-grande/topf](https://github.com/vincent-grande/topf) - TOpological Point Features: Node-Level Topological Representation Learning on Point Clouds
 - [mitsuba-renderer/mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) - Mitsuba integration add-on for Blender
@@ -1858,7 +1874,7 @@
 - [compas-dev/compas](https://github.com/compas-dev/compas) - Main library of the COMPAS framework and CAD integrations for Rhino/GH and Blender.
 - [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - Python version of FullControl for toolpath design (and more) - the readme below is best source of information
 - [TC4451/Vision_Based_3D_Printing](https://github.com/TC4451/Vision_Based_3D_Printing) - 
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [AustinTapp/CM3dLDM](https://github.com/AustinTapp/CM3dLDM) - Implementation of MR to CT synthesis via 3D Latent Diffusion
 - [hyungjin-chung/DiffusionMBIR](https://github.com/hyungjin-chung/DiffusionMBIR) - Official PyTorch implementation of the CVPR 2023 paper "Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models (https://arxiv.org/abs/2211.10655)"
 - [marko-janic/Latent-Diffusion-Model](https://github.com/marko-janic/Latent-Diffusion-Model) - Diffusion model used for reconstructing CT-scan images, trained in a lower dimensional latent space using a pretrained autoencoder.
@@ -2226,6 +2242,7 @@
 
 ## Shell 
 
+- [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [meyayl/docker-languagetool](https://github.com/meyayl/docker-languagetool) - 
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
@@ -2295,6 +2312,9 @@
 
 ## TypeScript 
 
+- [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [p0lloc/perfice](https://github.com/p0lloc/perfice) - Self-tracking app in Svelte 5
 - [MrMugame/silversearch](https://github.com/MrMugame/silversearch) - Powerful Full-Text Searchengine for Silverbullet
 - [joekrill/silverbullet-treeview](https://github.com/joekrill/silverbullet-treeview) - SilverBullet TreeView plug
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
@@ -2332,7 +2352,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
@@ -2444,6 +2464,7 @@
 
 ## Vue 
 
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) - A delightful Firefly III companion web app for effortless transaction tracking
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
