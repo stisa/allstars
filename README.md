@@ -128,7 +128,6 @@
 - [fasaxc/pico-bldc](https://github.com/fasaxc/pico-bldc) - RP2040-based BLDC motor controller
 - [3MFConsortium/lib3mf](https://github.com/3MFConsortium/lib3mf) - lib3mf is an implementation of the 3D Manufacturing Format file standard
 - [goran-mahovlic/reverse_mono_6ks](https://github.com/goran-mahovlic/reverse_mono_6ks) - 
-- [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [makerbase-mks/MKS-TFT35-Firmware](https://github.com/makerbase-mks/MKS-TFT35-Firmware) - This MKS TFT35 firmware source code and build by IAR platform ...
 - [branc116/brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
@@ -183,6 +182,7 @@
 - [wangyi-fudan/wyhash](https://github.com/wangyi-fudan/wyhash) - The FASTEST QUALITY hash function, random number generators (PRNG) and hash map.
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [elcritch/esp32_nim_net_example](https://github.com/elcritch/esp32_nim_net_example) - esp32_nim_net_example
+- [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
 - [espressif/esp32-camera](https://github.com/espressif/esp32-camera) - 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
@@ -311,6 +311,7 @@
 
 ## C++ 
 
+- [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 - [tomohiron907/Strecs3D](https://github.com/tomohiron907/Strecs3D) - 
 - [dylanmsu/fast_caustic_design](https://github.com/dylanmsu/fast_caustic_design) - Code to quickly compute the shape of a transparent surface such that it casts an image if light passes through it.
 - [kzampog/cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
@@ -340,6 +341,7 @@
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [ORNLSlicer/Slicer-2](https://github.com/ORNLSlicer/Slicer-2) - 
 - [heterophyllus/Geopter](https://github.com/heterophyllus/Geopter) - Optical Design Software
+- [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -459,7 +461,6 @@
 - [Smoothieware/Smoothieware](https://github.com/Smoothieware/Smoothieware) - Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
 - [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX) - Neural Networks from Scratch in various programming languages
 - [probonopd/WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP8266 or ESP32 module
-- [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
 - [michaelkubina/SpotMicroESP32](https://github.com/michaelkubina/SpotMicroESP32) - My take on a SpotMicro with an optimized design for supportfree 3D-printing. It utilizes an ESP32-DevKitC for the low-level control of the electronics. The heavy computation will be made by external d
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [slic3r/Slic3r](https://github.com/slic3r/Slic3r) - Open Source toolpath generator for 3D printers
@@ -728,7 +729,6 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
@@ -738,6 +738,7 @@
 - [ezrec/uv3dp](https://github.com/ezrec/uv3dp) - Tools for UV Resin based 3D Printers (in Go)
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) - Cross-Chain bridge based on Anyswap MPC network.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -846,6 +847,8 @@
 
 ## Java 
 
+- [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Turn your favorite Youtube channels into to podcast in the easiest and elegant way.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
@@ -882,6 +885,7 @@
 
 ## JavaScript 
 
+- [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Open-Lab-Starter-Kit/OLSK-3D-Scanner](https://github.com/Open-Lab-Starter-Kit/OLSK-3D-Scanner) - Open Source 3D Scanner - Open Lab Starter Kit
@@ -1221,6 +1225,8 @@
 
 ## Kotlin 
 
+- [LSafer/edgeseek](https://github.com/LSafer/edgeseek) - The Source Code of Edge Seek
+- [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) - An Android Storage Access Framework document provider for rclone
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [DesarrolloAntonio/Shiori-Android-Client](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Android app client for Shiori
@@ -1556,6 +1562,7 @@
 
 ## Others 
 
+- [jonathanyeung/mark-sharp](https://github.com/jonathanyeung/mark-sharp) - Mark Sharp WYSIWYG Markdown Editor for VS Code
 - [seaqt/nim-seaqt](https://github.com/seaqt/nim-seaqt) - `Nim` bindings for `Qt`
 - [gorootde/silverbullet-collection](https://github.com/gorootde/silverbullet-collection) - Collection of awesome silverbullet.md stuff
 - [silverbulletmd/silverbullet-libraries](https://github.com/silverbulletmd/silverbullet-libraries) - Awesome SilverBullet libraries
@@ -1754,6 +1761,7 @@
 
 ## Python 
 
+- [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [ROCm/TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
 - [daubners/evoxels](https://github.com/daubners/evoxels) - Differentiable physics framework for voxel-based microstructure simulations
@@ -2041,10 +2049,8 @@
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
-- [lampshade9909/DiamondSetter](https://github.com/lampshade9909/DiamondSetter) - Ethereum smart contract manager for the Diamond Standard
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -2106,7 +2112,7 @@
 - [spcl/dace](https://github.com/spcl/dace) - DaCe - Data Centric Parallel Programming
 - [FEniCS/ffcx](https://github.com/FEniCS/ffcx) - Next generation FEniCS Form Compiler for finite element forms
 - [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) - An implementation of chunked, compressed, N-dimensional arrays for Python.
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://woven.toyota
+- [woven-by-toyota/l5kit](https://github.com/woven-by-toyota/l5kit) - L5Kit - https://woven.toyota
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [jellespijker/pymech](https://github.com/jellespijker/pymech) - Continuation for this project is stopped. Focus is now on the MechEng modules ( https://github.com/mecheng )  A Python module for mechanical engineers. Project which is mostly based on the books of Ro
 - [JorgeDeLosSantos/nusa](https://github.com/JorgeDeLosSantos/nusa) - A Python library for structural analysis using the finite element method
@@ -2312,6 +2318,7 @@
 
 ## TypeScript 
 
+- [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [p0lloc/perfice](https://github.com/p0lloc/perfice) - Self-tracking app in Svelte 5
