@@ -2036,7 +2036,7 @@
 - [DanalEstes/TAMV](https://github.com/DanalEstes/TAMV) - TAMV = Tool Align Machine Vision for Duet based tool changing 3D printers.
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [kevinczhou/optical-coherence-refraction-tomography](https://github.com/kevinczhou/optical-coherence-refraction-tomography) - Code for optical coherence refraction tomography (OCRT)
-- [odlgroup/odl](https://github.com/odlgroup/odl) - Operator Discretization Library  https://odlgroup.github.io/odl/
+- [odlgroup/odl](https://github.com/odlgroup/odl) - Operator Discretization Library  https://odl.readthedocs.io/
 - [alPreuhs/InteractiveConeBeamReconstruction](https://github.com/alPreuhs/InteractiveConeBeamReconstruction) - 
 - [julienr/meshcut](https://github.com/julienr/meshcut) - Python 3D mesh planar cross-section
 - [evanchodora/stl-slicer](https://github.com/evanchodora/stl-slicer) - Python STL Slicer
