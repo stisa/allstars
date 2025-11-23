@@ -738,7 +738,6 @@
 - [ezrec/uv3dp](https://github.com/ezrec/uv3dp) - Tools for UV Resin based 3D Printers (in Go)
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) - Cross-Chain bridge based on Anyswap MPC network.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -859,7 +858,6 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [adaerr/pendent-drop](https://github.com/adaerr/pendent-drop) - Liquid surface tension measurement through the pendent drop method: a plugin for ImageJ
-- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
 - [NicholasCLewis/InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
@@ -1245,6 +1243,7 @@
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
+- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [keycard-tech/keycard-connect](https://github.com/keycard-tech/keycard-connect) - Keycard + WalletConnect
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
@@ -1763,6 +1762,8 @@
 
 ## Python 
 
+- [PolymathicAI/walrus](https://github.com/PolymathicAI/walrus) - 
+- [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
 - [slmsuite/slmsuite](https://github.com/slmsuite/slmsuite) - Python package for high-performance spatial light modulator (SLM) control and holography. Supports features from aberration-corrected 3D point clouds to automated Fourier-domain calibrations.
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [ROCm/TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
@@ -2055,6 +2056,7 @@
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -2193,7 +2195,7 @@
 ## Ruby 
 
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [makrohn/Universal-LPC-spritesheet](https://github.com/makrohn/Universal-LPC-spritesheet) - An attempt to merge most character assets generated by the Liberated Pixel Cup into a single .xcf, where they can be mixed and matched.
 - [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
@@ -2321,6 +2323,7 @@
 
 ## TypeScript 
 
+- [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
