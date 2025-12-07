@@ -55,6 +55,7 @@
 - [Mojo](#mojo)
 - [NASL](#nasl)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -598,7 +599,7 @@
 ## Clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [jarcane/minicosm](https://github.com/jarcane/minicosm) - A FP-oriented game engine inspired by universe.rkt, written in Clojurescript
 - [tmcw/wah](https://github.com/tmcw/wah) - a slightly higher-level language superset of webassembly
 - [thi-ng/geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure/Clojurescript
@@ -643,11 +644,10 @@
 - [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
 - [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
-- [danemadsen/maid](https://github.com/danemadsen/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Blakexx/CryptoTracker](https://github.com/Blakexx/CryptoTracker) - An app made using the Flutter framework that allows users to track information for over 1500 cryptocurrencies
@@ -682,7 +682,6 @@
 ## Fortran 
 
 - [mccode-dev/McCode](https://github.com/mccode-dev/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
-- [DelNov/T-Flows](https://github.com/DelNov/T-Flows) - Program for Simulation of Turbulent Flows
 - [szaghi/OFF](https://github.com/szaghi/OFF) - OFF, Open source Finite volume Fluid dynamics code
 - [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) - Official git repository of Elmer FEM software
 - [nasa/NASTRAN-95](https://github.com/nasa/NASTRAN-95) - 
@@ -798,7 +797,6 @@
 - [Guevara-chan/Raylib-Forever](https://github.com/Guevara-chan/Raylib-Forever) - :.raylib headers for Nim anytime.:
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [Araq/fosdem2020](https://github.com/Araq/fosdem2020) - Slides and source code for my FOSDEM 2020 talk "Nim - Move semantics".
-- [jeffkreeftmeijer/enough.css](https://github.com/jeffkreeftmeijer/enough.css) - enough.css is a tiny CSS style sheet with most of the styling you'll need for that blog of yours.
 - [zevv/nimz3](https://github.com/zevv/nimz3) - Nim binding for the Z3 theorem prover
 - [skishore/inkstone](https://github.com/skishore/inkstone) - Learn Chinese on the go - no Internet connection required!
 - [wbolden/complex](https://github.com/wbolden/complex) - WebGL Complex Function Plotter, also includes support for dual and split-complex numbers
@@ -855,7 +853,6 @@
 - [bnanes/svg-embed-and-crop](https://github.com/bnanes/svg-embed-and-crop) - Inkscape Extension: Embed and Crop Images
 - [dozy-programmer/Dark-Note](https://github.com/dozy-programmer/Dark-Note) - Dark Note offers a wide range of features for taking notes, creating checklists, and keeping track of your budget.
 - [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [adaerr/pendent-drop](https://github.com/adaerr/pendent-drop) - Liquid surface tension measurement through the pendent drop method: a plugin for ImageJ
 - [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
@@ -943,7 +940,7 @@
 - [gasolin/ethhole](https://github.com/gasolin/ethhole) - How the token flows
 - [lepunk/react-native-videos](https://github.com/lepunk/react-native-videos) - 
 - [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [omarsinan/FlappyBirdClone](https://github.com/omarsinan/FlappyBirdClone) - A Flappy Bird clone using p5.js and Matter.js
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
@@ -1234,7 +1231,7 @@
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-- [PhilKes/NotallyX](https://github.com/PhilKes/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
+- [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
@@ -1529,6 +1526,10 @@
 - [nim-lang/ui](https://github.com/nim-lang/ui) - Beginnings of what might become Nim's official UI library.
 - [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language
 - [andreaferretti/linear-algebra](https://github.com/andreaferretti/linear-algebra) - Linear algebra for Nim
+
+## Nix 
+
+- [jeffkreeftmeijer/enough.css](https://github.com/jeffkreeftmeijer/enough.css) - enough.css is a tiny CSS style sheet with most of the styling you need for that blog of yours.
 
 ## OCaml 
 
@@ -2369,6 +2370,7 @@
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
@@ -2481,7 +2483,7 @@
 
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - A fast, open-source Markdown note-taking app for students and creators
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
-- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) - A delightful Firefly III companion web app for effortless transaction tracking
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
