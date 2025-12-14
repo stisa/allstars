@@ -644,6 +644,7 @@
 - [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
 - [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
+- [danemadsen/maid](https://github.com/danemadsen/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
@@ -730,7 +731,6 @@
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -774,6 +774,7 @@
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
 - [danielkucera/creality-remote-control](https://github.com/danielkucera/creality-remote-control) - 
 - [r-selfhosted-wiki/wiki](https://github.com/r-selfhosted-wiki/wiki) - Full-wiki Backup and Source for the reddit.com/r/selfhosted official wiki.
+- [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
 - [DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction](https://github.com/DavidADeVries/Gyrfalcon-CT-Simulation-And-Reconstruction) - Gyrfalcon is a stand-alone Matlab application that is capable of simulating a variety of CT scan types (pencil beam, fan beam, cone beam), importing raw scan data, and reconstructing the data produced
 - [ries-lab/LaserEngine](https://github.com/ries-lab/LaserEngine) - Blueprints for a low-cost laser combiner compatible with wide-field and localization microscopy.
 - [lukepolson/youtube_channel](https://github.com/lukepolson/youtube_channel) - Notebooks for the python tutorials of my youtube channel. See specific youtube video for link to specifc notebook.
@@ -1222,6 +1223,7 @@
 
 ## Kotlin 
 
+- [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [LSafer/edgeseek](https://github.com/LSafer/edgeseek) - The Source Code of Edge Seek
 - [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) - An Android Storage Access Framework document provider for rclone
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
@@ -1332,7 +1334,6 @@
 - [bitstormFA/ArrayFire-Nim](https://github.com/bitstormFA/ArrayFire-Nim) - A Nim Wrapper for ArrayFire
 - [treeform/shady](https://github.com/treeform/shady) - Nim to GPU shader language compiler and supporting utilities.
 - [Angluca/tigr-nim](https://github.com/Angluca/tigr-nim) - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
-- [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
 - [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [SciNim/xrayAttenuation](https://github.com/SciNim/xrayAttenuation) - A library to compute transmission / absorption of X-rays through matter
 - [guzba/mummy](https://github.com/guzba/mummy) - An HTTP and WebSocket server for Nim that returns to the ancient ways of threads.
@@ -2182,7 +2183,7 @@
 ## QML 
 
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
-- [status-im/status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
+- [status-im/status-app](https://github.com/status-im/status-app) - Status App client made in Nim & QML
 - [liri-project/liri-browser](https://github.com/liri-project/liri-browser) - 📕 Archive - Development has moved to https://github.com/lirios/browser.
 
 ## Reason 
@@ -2369,6 +2370,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
