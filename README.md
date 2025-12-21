@@ -430,7 +430,7 @@
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
 - [EliKarasik/PrintingPartitioning](https://github.com/EliKarasik/PrintingPartitioning) - Source code for "Object Partitioning for Support-Free 3D-Printing"
 - [jkugalde/3DP-peristaltic-pump-stepper](https://github.com/jkugalde/3DP-peristaltic-pump-stepper) - A simple peristaltic pump, with bearings and 3d printed parts for a NEMA17
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [Lite3DP/Lite3DP-S1](https://github.com/Lite3DP/Lite3DP-S1) - Lite3DP S1
 - [mlivesu/slice2mesh](https://github.com/mlivesu/slice2mesh) - From sliced data to volumetric meshes for the simulation of AM processes
 - [bdring/FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware
@@ -624,7 +624,7 @@
 ## Cuda 
 
 - [rehmanali1994/easy_computed_tomography.github.io](https://github.com/rehmanali1994/easy_computed_tomography.github.io) - Educational and easy-to-understand parallel-beam computed tomography simulator (implemented both in MATLAB and CUDA)
-- [LLNL/LEAP](https://github.com/LLNL/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python and C++ APIs, a PyQt GUI, and fully integrated with PyTorch
+- [llnl/LEAP](https://github.com/llnl/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python and C++ APIs, a PyQt GUI, and fully integrated with PyTorch
 - [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [luyuechao/ConeBeamGpu](https://github.com/luyuechao/ConeBeamGpu) - 
 
@@ -881,15 +881,15 @@
 
 ## JavaScript 
 
+- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [flusterIO/fluster](https://github.com/flusterIO/fluster) - Your brain's presentation layer.
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Open-Lab-Starter-Kit/OLSK-3D-Scanner](https://github.com/Open-Lab-Starter-Kit/OLSK-3D-Scanner) - Open Source 3D Scanner - Open Lab Starter Kit
 - [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) - A desktop application for Penpot, an open-source design tool.
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
@@ -1570,7 +1570,6 @@
 - [gorootde/silverbullet-collection](https://github.com/gorootde/silverbullet-collection) - Collection of awesome silverbullet.md stuff
 - [silverbulletmd/silverbullet-libraries](https://github.com/silverbulletmd/silverbullet-libraries) - Awesome SilverBullet libraries
 - [mschmidtkorth/silverbullet-zen](https://github.com/mschmidtkorth/silverbullet-zen) - A theme for SilverBullet inspired by Zen browser. Design philosophy: Calm, reduced visual noise and consistency.
-- [Brack-Wang/X-Field](https://github.com/Brack-Wang/X-Field) - Official Implementation of X-Filed. Code coming soon.
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [grelf-net/forest](https://github.com/grelf-net/forest) - Java demonstration of the Relf Terrain Generator, in the form of a partial conversion of The Forest from Javascript
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -1775,7 +1774,7 @@
 - [mitsuba-renderer/mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) - Mitsuba integration add-on for Blender
 - [petr-prikryl/OPDS-ABS](https://github.com/petr-prikryl/OPDS-ABS) - 
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
-- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [siavashk/pycpd](https://github.com/siavashk/pycpd) - Pure Numpy Implementation of the Coherent Point Drift Algorithm
 - [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [gerlero/foamlib](https://github.com/gerlero/foamlib) - ✨ A modern Python package for interacting with OpenFOAM
@@ -2336,7 +2335,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
-- [fccview/jotty](https://github.com/fccview/jotty) - A simple, self-hosted app for your checklists and notes.
+- [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
@@ -2487,6 +2486,7 @@
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) - A delightful Firefly III companion web app for effortless transaction tracking
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [Duet3D/DSF-Plugins](https://github.com/Duet3D/DSF-Plugins) - Third-party plugins and demos for DSF and DWC
