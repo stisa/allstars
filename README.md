@@ -172,7 +172,7 @@
 - [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - SVG rendering and manipulation library in C++
 - [PymZoR/S-curve-Planner](https://github.com/PymZoR/S-curve-Planner) - C Library for planning n-th order S-curve motion profiles
 - [bdring/6-Pack_CNC_Controller](https://github.com/bdring/6-Pack_CNC_Controller) - 
-- [koppi/rm501](https://github.com/koppi/rm501) - Mitsubishi RM-501 Movemaster II Robot Simulator.
+- [koppi/rm501](https://github.com/koppi/rm501) - 🤖 Mitsubishi RM-501 Movemaster II Robot Simulator.
 - [HaddingtonDynamics/Dexter](https://github.com/HaddingtonDynamics/Dexter) - 
 - [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
 - [gloomyandy/RepRapFirmware](https://github.com/gloomyandy/RepRapFirmware) - OO C++ RepRap Firmware
@@ -567,7 +567,7 @@
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [ddiakopoulos/tinyply](https://github.com/ddiakopoulos/tinyply) - :earth_africa: C++11 ply 3d mesh format importer & exporter
+- [ddiakopoulos/tinyply](https://github.com/ddiakopoulos/tinyply) - :earth_africa: lightweight C++17 ply 3d mesh format importer & exporter
 - [wjakob/nanogui](https://github.com/wjakob/nanogui) - Minimalistic GUI library for OpenGL
 - [mkeeter/antimony](https://github.com/mkeeter/antimony) - CAD from a parallel universe
 - [ChilliWorks/ChilliSource](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
@@ -896,7 +896,7 @@
 - [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) - A desktop application for Penpot, an open-source design tool.
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
@@ -1788,7 +1788,6 @@
 - [mitsuba-renderer/mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) - Mitsuba integration add-on for Blender
 - [petr-prikryl/OPDS-ABS](https://github.com/petr-prikryl/OPDS-ABS) - 
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
-- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [siavashk/pycpd](https://github.com/siavashk/pycpd) - Pure Numpy Implementation of the Coherent Point Drift Algorithm
 - [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [gerlero/foamlib](https://github.com/gerlero/foamlib) - ✨ A modern Python package for interacting with OpenFOAM
@@ -1894,7 +1893,7 @@
 - [ajhynes7/scikit-spatial](https://github.com/ajhynes7/scikit-spatial) - Spatial objects and computations based on NumPy arrays.
 - [ozanciga/diffusion-for-beginners](https://github.com/ozanciga/diffusion-for-beginners) - denoising diffusion models, as simple as possible
 - [alexzhou907/PVD](https://github.com/alexzhou907/PVD) - 
-- [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
+- [JIA-Lab-research/MGM](https://github.com/JIA-Lab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm) - PySLM: A Python Library for 3D Printing and Additive Manufacturing
@@ -2064,6 +2063,7 @@
 - [matteo-ronchetti/torch-radon](https://github.com/matteo-ronchetti/torch-radon) - Computational Tomography in PyTorch
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [OxHainan/cloak-compiler](https://github.com/OxHainan/cloak-compiler) - cloak-compiler is an implementation of Cloak Language.
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
@@ -2221,6 +2221,7 @@
 
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [SitanHuang/TaskCentral](https://github.com/SitanHuang/TaskCentral) - Opinionated online task management, time tracking, calendaring platform
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
@@ -2253,7 +2254,7 @@
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [serde-deprecated/syntex](https://github.com/serde-deprecated/syntex) - No longer maintained
 - [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
-- [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
 - [raphlinus/font-rs](https://github.com/raphlinus/font-rs) - 
@@ -2413,7 +2414,7 @@
 - [opengsn/gsn](https://github.com/opengsn/gsn) - GSN v3.0.0-beta.10 - Ethereum Gas Station Network
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [0xconstant/FantasyCampaign](https://github.com/0xconstant/FantasyCampaign) - Turn based fantasy campaign game for chainlink hackathon
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS) - Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
@@ -2447,7 +2448,7 @@
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [marktext/muya](https://github.com/marktext/muya) - 📄 Future markdown editor for web browser applications development
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
