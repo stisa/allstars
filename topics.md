@@ -794,7 +794,7 @@
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [LingDong-/skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images
 - [vietnh1009/Yolo-v2-pytorch](https://github.com/vietnh1009/Yolo-v2-pytorch) - YOLO for object detection tasks
-- [ddiakopoulos/tinyply](https://github.com/ddiakopoulos/tinyply) - :earth_africa: C++11 ply 3d mesh format importer & exporter
+- [ddiakopoulos/tinyply](https://github.com/ddiakopoulos/tinyply) - :earth_africa: lightweight C++17 ply 3d mesh format importer & exporter
 
 ## config 
 
@@ -1227,6 +1227,7 @@
 - [ahmet-cetinkaya/whph](https://github.com/ahmet-cetinkaya/whph) - WHPH is a comprehensive productivity app designed to help you manage tasks, develop new habits, and optimize your time.
 - [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
 - [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
+- [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -1456,7 +1457,7 @@
 
 ## git 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [nim-works/gitnim](https://github.com/nim-works/gitnim) - choosenim for choosey nimions
 - [disruptek/bump](https://github.com/disruptek/bump) - a tiny tool to bump nimble versions 🍻
@@ -1585,10 +1586,11 @@
 - [adafruit/Adafruit_Blinka](https://github.com/adafruit/Adafruit_Blinka) - Add CircuitPython hardware API and libraries to MicroPython & CPython devices
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [matteo-ronchetti/torch-radon](https://github.com/matteo-ronchetti/torch-radon) - Computational Tomography in PyTorch
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [eyeln/website](https://github.com/eyeln/website) - 
 - [PMunch/ratel](https://github.com/PMunch/ratel) - 
 - [SciNim/Unchained](https://github.com/SciNim/Unchained) - A fully type safe, compile time only units library.
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
@@ -1602,7 +1604,7 @@
 - [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [Vindaar/ggplotnim](https://github.com/Vindaar/ggplotnim) - A port of ggplot2 for Nim
@@ -1769,7 +1771,7 @@
 - [polygonjs/polygonjs](https://github.com/polygonjs/polygonjs) - node-based WebGL design tool
 - [two-ticks/p5.teach.js](https://github.com/two-ticks/p5.teach.js) - A beginner friendly math animation library for p5.js
 - [susam/invaders](https://github.com/susam/invaders) - A 1980s-arcade-style game written using HTML5, Canvas, and Web Audio
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [ct-js/ct-js-old](https://github.com/ct-js/ct-js-old) - ⚠️ Old repository of ct.js app. New repository here: https://github.com/ct-js/ct-js
 - [alto-io/game3.js](https://github.com/alto-io/game3.js) - The Web 3.0 Game Framework
@@ -2002,7 +2004,7 @@
 - [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
 - [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
@@ -2113,7 +2115,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
@@ -2194,7 +2196,7 @@
 
 - [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 
 ## microsoft 
 
@@ -2748,7 +2750,7 @@
 - [alexzhou907/PVD](https://github.com/alexzhou907/PVD) - 
 - [cwchenwang/awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) - A collection of papers on diffusion models for 3D generation.
 - [yu-takagi/StableDiffusionReconstruction](https://github.com/yu-takagi/StableDiffusionReconstruction) - Takagi and Nishimoto, CVPR 2023
-- [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
+- [JIA-Lab-research/MGM](https://github.com/JIA-Lab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [hpcraink/workshop-parallel-jupyter](https://github.com/hpcraink/workshop-parallel-jupyter) - 
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 - [deltaxrobot/Delta-X-3D-Printed-Parts](https://github.com/deltaxrobot/Delta-X-3D-Printed-Parts) - Delta X 3D Printing Parts will be open-source in March 2020
@@ -3206,7 +3208,7 @@
 - [knutwurst/Marlin-2-0-x-Anycubic-Kossel-Linear-Plus](https://github.com/knutwurst/Marlin-2-0-x-Anycubic-Kossel-Linear-Plus) - Marlin 2.0.5.3 Version for Anycubic Kossel Linear Plus with LCD 12864 RepRap Full Graphic Smart Controller
 - [bdring/6-Pack_CNC_Controller](https://github.com/bdring/6-Pack_CNC_Controller) - 
 - [teemuatlut/TMCStepper](https://github.com/teemuatlut/TMCStepper) - 
-- [koppi/rm501](https://github.com/koppi/rm501) - Mitsubishi RM-501 Movemaster II Robot Simulator.
+- [koppi/rm501](https://github.com/koppi/rm501) - 🤖 Mitsubishi RM-501 Movemaster II Robot Simulator.
 - [JohanLink/Ball-Balancing-PID-System](https://github.com/JohanLink/Ball-Balancing-PID-System) - 
 - [brandonheller/delta_calibration](https://github.com/brandonheller/delta_calibration) - Scripts to better understand calibration error for auto-probed deltabot 3d printers like Johann's Kossel.
 - [ultimachine/Archim](https://github.com/ultimachine/Archim) - The 32-bit next generation of RAMBo
@@ -3576,7 +3578,7 @@
 - [dadren/dadren](https://github.com/dadren/dadren) - A sprite-based data-driven game framework for Nim
 - [jeromeetienne/virtualjoystick.js](https://github.com/jeromeetienne/virtualjoystick.js) - a virtual joystick library to emulate a joystick on touch screen in javascript
 - [enthus1ast/libch4t](https://github.com/enthus1ast/libch4t) - IRC server in nim
-- [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [Ciechan/Drawing-Bezier-Curves-GL](https://github.com/Ciechan/Drawing-Bezier-Curves-GL) - 
 - [photopea/Typr.js](https://github.com/photopea/Typr.js) - Typr.js - process fonts in Javascript
@@ -3865,7 +3867,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 
 ## programming 
@@ -3982,6 +3984,7 @@
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -4671,6 +4674,7 @@
 
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
+- [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
