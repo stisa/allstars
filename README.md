@@ -365,7 +365,7 @@
 - [moonglow/FlashForge_Marlin](https://github.com/moonglow/FlashForge_Marlin) - :shark: Marlin firmware for FlashForge Dreamer/Dreamer NX/Inventor, Bosch Dremel 3D20 3D, PowerSpec Ultra 3D and Monoprice Inventor 1
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
+- [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [open-vv/vv](https://github.com/open-vv/vv) - A Fast And Simple 4D Image Viewer
 - [wang-ps/mesh2sdf](https://github.com/wang-ps/mesh2sdf) - Converts an input mesh to a signed distance field (SDF)
@@ -761,7 +761,7 @@
 - [goxjs/glfw](https://github.com/goxjs/glfw) - Go cross-platform glfw library for creating an OpenGL context and receiving events.
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [shibukawa/gui4go](https://github.com/shibukawa/gui4go) - GUI framework on OpenGL/WebGL for golang
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [armhold/polygen](https://github.com/armhold/polygen) - genetic algorithm for approximating an image with polygons (Golang)
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -852,6 +852,7 @@
 
 ## Java 
 
+- [Automattic/simplenote-android](https://github.com/Automattic/simplenote-android) - Simplenote for Android
 - [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube. Anywhere.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
@@ -897,7 +898,7 @@
 - [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) - A desktop application for Penpot, an open-source design tool.
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
@@ -1987,7 +1988,7 @@
 - [mrbreaker86/KBLT](https://github.com/mrbreaker86/KBLT) - Kitchen-based light tomography - Acquisition - Raspberry Pi
 - [alchemyEngine/MoonrakerPy](https://github.com/alchemyEngine/MoonrakerPy) - A Python package for interface with the Moonraker API.
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
-- [Chr157i4n/PyTmcStepper](https://github.com/Chr157i4n/PyTmcStepper) - This is a Python libary to drive a stepper motor with a Trinamic stepper driver and a single board computer like a Raspberry Pi
+- [Chr157i4n/PyTmcStepper](https://github.com/Chr157i4n/PyTmcStepper) - PyTmcStepper is a pure Python library for controlling Trinamic stepper drivers via UART or SPI on platforms like Raspberry Pi and MicroPython devices.
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
@@ -2176,7 +2177,7 @@
 - [ufosc/pylay](https://github.com/ufosc/pylay) - A small IRC server written in Python 3.
 - [NicholasSeward/ConceptFORGE](https://github.com/NicholasSeward/ConceptFORGE) - 
 - [fogleman/Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired program using Python and Pyglet
-- [ritchie46/anaStruct](https://github.com/ritchie46/anaStruct) - 2D structural analysis in Python
+- [anastruct/anaStruct](https://github.com/anastruct/anaStruct) - 2D structural analysis in Python
 - [Calysto/metakernel](https://github.com/Calysto/metakernel) - Jupyter/IPython Kernel Tools
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [hplgit/pysketcher](https://github.com/hplgit/pysketcher) - Python-based drawing tool for making sketches of mechanics problems.
@@ -2340,6 +2341,7 @@
 
 ## TypeScript 
 
+- [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
@@ -2459,7 +2461,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [GrimoireGL/GrimoireJS](https://github.com/GrimoireGL/GrimoireJS) - A WebGL framework for Web development.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [spiffcode/ghedit](https://github.com/spiffcode/ghedit) - A fast, powerful web-based code editor for GitHub repositories
