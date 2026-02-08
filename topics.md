@@ -317,6 +317,7 @@
 
 ## ai 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -496,6 +497,7 @@
 - [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car) - An awesome list of self-driving cars
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
+- [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [vpashkov/awesome-nim](https://github.com/vpashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
@@ -918,6 +920,7 @@
 
 ## data-science 
 
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
@@ -1247,6 +1250,7 @@
 
 ## font 
 
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
@@ -2559,6 +2563,7 @@
 
 ## others 
 
+- [x-464/StartMenuToPTRun](https://github.com/x-464/StartMenuToPTRun) - Changes the windows key from activating the start menu, to instead activating powertoys run
 - [Automattic/simplenote-android](https://github.com/Automattic/simplenote-android) - Simplenote for Android
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
@@ -2574,7 +2579,6 @@
 - [lamarios/SpendSpentSpent](https://github.com/lamarios/SpendSpentSpent) - An expense  tracking web application designed to be easy to use
 - [JuliaGeometry/Raycore.jl](https://github.com/JuliaGeometry/Raycore.jl) - Performant ray tracing on CPU and GPU
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
-- [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) - An Android Storage Access Framework document provider for rclone
 - [jonathanyeung/mark-sharp](https://github.com/jonathanyeung/mark-sharp) - Mark Sharp WYSIWYG Markdown Editor for VS Code
 - [seaqt/nim-seaqt](https://github.com/seaqt/nim-seaqt) - `Nim` bindings for `Qt`
@@ -2653,7 +2657,7 @@
 - [zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) - A reading list for computational optics liteature presented on SIGGRAPH.
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
 - [weiss-jonathan/Printess-Low-Cost-3D-Printer](https://github.com/weiss-jonathan/Printess-Low-Cost-3D-Printer) - Current Versions of hardware, software, firmware, and instructions for assembling and operating the Printess.
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
 - [bnanes/svg-embed-and-crop](https://github.com/bnanes/svg-embed-and-crop) - Inkscape Extension: Embed and Crop Images
 - [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and editing
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
@@ -3923,7 +3927,9 @@
 
 ## python 
 
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [daggbt/optyx](https://github.com/daggbt/optyx) - Intuitive symbolic interface for constrained optimization problems. Write natural Python, get automatic gradients and solvers.
+- [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [siavashk/pycpd](https://github.com/siavashk/pycpd) - Pure Numpy Implementation of the Coherent Point Drift Algorithm
 - [gerlero/foamlib](https://github.com/gerlero/foamlib) - ✨ A modern Python package for interacting with OpenFOAM
@@ -4714,7 +4720,7 @@
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [cntools/rawdraw](https://github.com/cntools/rawdraw) - Primitive Platform Agnostic Windowing+Input Header-Only Library
