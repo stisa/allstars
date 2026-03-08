@@ -148,6 +148,7 @@
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
+- [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
@@ -488,7 +489,7 @@
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [0xisk/awesome-solidity-gas-optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
@@ -512,7 +513,7 @@
 - [tkuri/Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) - List of awesome papers on Intrinsic Decomposition & Inverse Rendering
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [0xisk/awesome-solidity-gas-optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations ⛽
@@ -917,7 +918,7 @@
 ## data-engineering 
 
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 
 ## data-science 
 
@@ -933,7 +934,7 @@
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [ebran/grim](https://github.com/ebran/grim) - grim brings property graphs to the Nim language. Look around you: everything is a graph!
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 
@@ -1012,7 +1013,7 @@
 - [wkirgsn/deep-pmsm](https://github.com/wkirgsn/deep-pmsm) - Estimate intrinsic Permanent Magnet Synchronous Motor temperatures with deep recurrent and convolutional neural networks.
 - [vietnh1009/Yolo-v2-pytorch](https://github.com/vietnh1009/Yolo-v2-pytorch) - YOLO for object detection tasks
 - [mratsim/laser](https://github.com/mratsim/laser) - The HPC toolbox: fused matrix multiplication, convolution, data-parallel strided tensor primitives, OpenMP facilities, SIMD, JIT Assembler, CPU detection, state-of-the-art vectorized BLAS for floats a
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
@@ -1073,6 +1074,7 @@
 
 ## docker 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
@@ -1088,7 +1090,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
@@ -1483,12 +1485,11 @@
 
 ## go 
 
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
@@ -1519,7 +1520,6 @@
 ## golang 
 
 - [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -2107,7 +2107,7 @@
 - [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
 - [Institute-of-Coding-Northumbria/machine-learning-for-beginners](https://github.com/Institute-of-Coding-Northumbria/machine-learning-for-beginners) - 🤖Notebooks of machine learning for beginners developed by the Institute of Coding - Northumbria University
 - [wkirgsn/deep-pmsm](https://github.com/wkirgsn/deep-pmsm) - Estimate intrinsic Permanent Magnet Synchronous Motor temperatures with deep recurrent and convolutional neural networks.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
@@ -2143,7 +2143,7 @@
 - [adeeteya/FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
 - [flusterIO/fluster](https://github.com/flusterIO/fluster) - Your brain's presentation layer.
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
@@ -2157,7 +2157,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [pietroppeter/nimib](https://github.com/pietroppeter/nimib) - nimib 🐳 - nim 👑 driven ⛵ publishing ✍
@@ -2228,6 +2228,10 @@
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1) - Nimbus: an Ethereum Execution Client for Resource-Restricted Devices
 
+## monitoring 
+
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+
 ## music 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -2247,7 +2251,7 @@
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 
 ## nestjs 
 
@@ -2566,6 +2570,10 @@
 
 ## others 
 
+- [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
+- [vilemduha/blendercam](https://github.com/vilemduha/blendercam) - Automatically exported from code.google.com/p/blendercam
+- [fractalrobotics/Fractal-Cortex](https://github.com/fractalrobotics/Fractal-Cortex) - A Multidirectional 5-Axis FDM Slicer
+- [FreddieHong19/Open5x](https://github.com/FreddieHong19/Open5x) - This is a Github repository for 5-axis 3D printing
 - [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug) - Tool to generate swiss e-steuerauszug from banking exports
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [sugar10w/DISH](https://github.com/sugar10w/DISH) - 
@@ -2577,7 +2585,6 @@
 - [rishikanthc/zendown](https://github.com/rishikanthc/zendown) - Self-Hostable Markdown Notes App
 - [mmakaay/esphome-xiaomi_bslamp2](https://github.com/mmakaay/esphome-xiaomi_bslamp2) - ESPHome integration for the Xiaomi Mijia Bedside Lamp v2.
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 - [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
 - [ZornsLemma/my-price-log](https://github.com/ZornsLemma/my-price-log) - Android app to track and compare prices offline
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -2914,7 +2921,7 @@
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
@@ -3884,7 +3891,6 @@
 
 ## productivity 
 
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured 
 - [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -3926,6 +3932,7 @@
 
 ## pwa 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
@@ -4052,7 +4059,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [SHTOOLS/SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) - SHTOOLS - Spherical Harmonic Tools
 - [adityadua24/robopy](https://github.com/adityadua24/robopy) - Robopy is a python port for Robotics Toolbox in Matlab created by Peter Corke
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
@@ -4122,7 +4129,7 @@
 - [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) - PyTorch - Python + Nim
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [vietnh1009/Yolo-v2-pytorch](https://github.com/vietnh1009/Yolo-v2-pytorch) - YOLO for object detection tasks
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 
 ## qt 
@@ -4178,7 +4185,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
@@ -4320,7 +4327,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured 
 - [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
@@ -4346,7 +4352,7 @@
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
@@ -4402,7 +4408,7 @@
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 - [nim-lang/nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
@@ -4634,7 +4640,6 @@
 
 ## vue 
 
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured 
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
