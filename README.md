@@ -276,6 +276,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [cmusphinx/sphinxbase](https://github.com/cmusphinx/sphinxbase) - 
 - [pragha-music-player/pragha](https://github.com/pragha-music-player/pragha) - Pragha is a Lightweight Music Player for GNU/Linux.
+- [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 
 ## C# # 
 
@@ -313,6 +314,7 @@
 
 ## C++ 
 
+- [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [x-464/StartMenuToPTRun](https://github.com/x-464/StartMenuToPTRun) - Changes the windows key from activating the start menu, to instead activating powertoys run
 - [mmakaay/esphome-xiaomi_bslamp2](https://github.com/mmakaay/esphome-xiaomi_bslamp2) - ESPHome integration for the Xiaomi Mijia Bedside Lamp v2.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -693,6 +695,7 @@
 
 ## G-code 
 
+- [vilemduha/blendercam](https://github.com/vilemduha/blendercam) - Automatically exported from code.google.com/p/blendercam
 - [jyjblrd/Core-R-Theta-4-Axis-Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer) - 4 Axis 3D Printer
 - [jyjblrd/S4_Slicer](https://github.com/jyjblrd/S4_Slicer) - Generic Non-Planar Slicer
 - [terekli/GCodeFlowMonitor](https://github.com/terekli/GCodeFlowMonitor) - Calculates and graphs the volumetric flow rate for each printing step of a GCode file
@@ -711,6 +714,7 @@
 
 ## GAP 
 
+- [FreddieHong19/Open5x](https://github.com/FreddieHong19/Open5x) - This is a Github repository for 5-axis 3D printing
 - [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see:
 - [emaker/Fisher](https://github.com/emaker/Fisher) - RepRap Fisher 3D printer design files
 
@@ -734,9 +738,10 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1101,7 +1106,6 @@
 - [aishikaty/tiny-mustache](https://github.com/aishikaty/tiny-mustache) - :speak_no_evil: The smallest implementation of Mustache template engine. (0.4 KB)
 - [kaansoral/adventureland](https://github.com/kaansoral/adventureland) - Adventure Land The Open Source CODE MMORPG
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [subprotocol/genetic-js](https://github.com/subprotocol/genetic-js) - Advanced genetic and evolutionary algorithm library written in Javascript
 - [Canop/hu.js](https://github.com/Canop/hu.js) - A very light JavaScript library for SVG
 - [strathausen/savage](https://github.com/strathausen/savage) - tiny svg library - NOT abandoned nor outdated :-)
@@ -1223,7 +1227,7 @@
 - [maykulkarni/Machine-Learning-Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks) - Machine Learning notebooks for refreshing concepts.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [Institute-of-Coding-Northumbria/machine-learning-for-beginners](https://github.com/Institute-of-Coding-Northumbria/machine-learning-for-beginners) - 🤖Notebooks of machine learning for beginners developed by the Institute of Coding - Northumbria University
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [sgugger/Deep-Learning](https://github.com/sgugger/Deep-Learning) - A few notebooks about deep learning in pytorch
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
@@ -1318,7 +1322,6 @@
 ## Makefile 
 
 - [intelligent-agent/Recore](https://github.com/intelligent-agent/Recore) - Repository for Recore single board 3D printer control card
-- [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 
 ## Markdown 
 
@@ -1780,6 +1783,7 @@
 
 ## Python 
 
+- [fractalrobotics/Fractal-Cortex](https://github.com/fractalrobotics/Fractal-Cortex) - A Multidirectional 5-Axis FDM Slicer
 - [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug) - Tool to generate swiss e-steuerauszug from banking exports
 - [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
@@ -2005,7 +2009,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -2031,7 +2035,7 @@
 - [xiaobo2014/taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - 
 - [yslib/Cameray](https://github.com/yslib/Cameray) - A lens editor and simulator for fun.
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [epit3d/spycer](https://github.com/epit3d/spycer) - Gcode viewer for slicer for 5 axes 3d printer
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
@@ -2230,7 +2234,7 @@
 ## Rust 
 
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [SitanHuang/TaskCentral](https://github.com/SitanHuang/TaskCentral) - Opinionated online task management, time tracking, calendaring platform
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -2238,6 +2242,7 @@
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
 - [GladiusSlicer/GladiusSlicer](https://github.com/GladiusSlicer/GladiusSlicer) - A Modern Adaptable 3D Printing Slicer
+- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
@@ -2324,7 +2329,6 @@
 
 - [rishikanthc/zendown](https://github.com/rishikanthc/zendown) - Self-Hostable Markdown Notes App
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 
 ## Swift 
 
@@ -2391,7 +2395,6 @@
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [hudy9x/kompad](https://github.com/hudy9x/kompad) - Open source note-taking app for geeks that supports desktop, web, mobile web versions
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
@@ -2487,6 +2490,7 @@
 - [floooh/altai](https://github.com/floooh/altai) - Modern WebGL wrapper in TypeScript
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [oderwat/vscode-indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [prestonph/vscode-todo-parser](https://github.com/prestonph/vscode-todo-parser) - TodoParser extension for vscode. Parse TODOs in your project.
 - [pragmagic/vscode-nim](https://github.com/pragmagic/vscode-nim) - An extension for VS Code which provides support for the Nim language.
@@ -2511,7 +2515,7 @@
 
 ## Vue 
 
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
