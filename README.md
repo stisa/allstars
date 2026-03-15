@@ -117,6 +117,7 @@
 
 ## C 
 
+- [Unlayered3D/RepRapFirmware](https://github.com/Unlayered3D/RepRapFirmware) - OO C++ RepRap Firmware
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [GaudiLabs/OpenDrop](https://github.com/GaudiLabs/OpenDrop) - Open Source Digital Microfluidics Bio Lab
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -314,6 +315,7 @@
 
 ## C++ 
 
+- [JoergS5/RepRapFirmware_robot](https://github.com/JoergS5/RepRapFirmware_robot) - only cpp, h and binaries
 - [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [x-464/StartMenuToPTRun](https://github.com/x-464/StartMenuToPTRun) - Changes the windows key from activating the start menu, to instead activating powertoys run
 - [mmakaay/esphome-xiaomi_bslamp2](https://github.com/mmakaay/esphome-xiaomi_bslamp2) - ESPHome integration for the Xiaomi Mijia Bedside Lamp v2.
@@ -695,6 +697,7 @@
 
 ## G-code 
 
+- [BrendonBuilds/mod0](https://github.com/BrendonBuilds/mod0) - An undefined, modular machine platform
 - [vilemduha/blendercam](https://github.com/vilemduha/blendercam) - Automatically exported from code.google.com/p/blendercam
 - [jyjblrd/Core-R-Theta-4-Axis-Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer) - 4 Axis 3D Printer
 - [jyjblrd/S4_Slicer](https://github.com/jyjblrd/S4_Slicer) - Generic Non-Planar Slicer
@@ -741,7 +744,8 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -859,7 +863,6 @@
 
 - [Automattic/simplenote-android](https://github.com/Automattic/simplenote-android) - Simplenote for Android
 - [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
@@ -904,7 +907,6 @@
 - [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) - A desktop application for Penpot, an open-source design tool.
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [zepp-health/zml](https://github.com/zepp-health/zml) - https://zepp-health.github.io/zml/
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [terier/vpt](https://github.com/terier/vpt) - VPT: The Volumetric Path Tracing Framework
@@ -1586,6 +1588,7 @@
 
 ## Others 
 
+- [Braden5790/ZeroG_Mercury_One.1_Hydra](https://github.com/Braden5790/ZeroG_Mercury_One.1_Hydra) - Configuration files, macros, and 3D models for my custom ZeroG Mercury One.1 Hydra 3D printer setup, powered by Klipper firmware. Optimized for high-speed, precise printing with custom features and en
 - [jonathanyeung/mark-sharp](https://github.com/jonathanyeung/mark-sharp) - Mark Sharp WYSIWYG Markdown Editor for VS Code
 - [seaqt/nim-seaqt](https://github.com/seaqt/nim-seaqt) - `Nim` bindings for `Qt`
 - [gorootde/silverbullet-collection](https://github.com/gorootde/silverbullet-collection) - Collection of awesome silverbullet.md stuff
