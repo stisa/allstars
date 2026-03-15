@@ -14,8 +14,6 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
-- [angular](#angular)
-- [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
@@ -325,7 +323,6 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [ebezzam/open-microscopy-ai-workshop](https://github.com/ebezzam/open-microscopy-ai-workshop) - Material for the Open Microscopy & AI Workshop at EPFL (March 14)
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -423,14 +420,6 @@
 - [prahladyeri/curated-lists](https://github.com/prahladyeri/curated-lists) - Curated Lists of various things
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ChilliWorks/ChilliSource](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
-
-## angular 
-
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
-
-## ansible 
-
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 
 ## api 
 
@@ -1077,7 +1066,6 @@
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -1090,7 +1078,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
@@ -1489,7 +1477,7 @@
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
@@ -1758,7 +1746,6 @@
 
 ## java 
 
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
@@ -2124,7 +2111,6 @@
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -2157,7 +2143,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [pietroppeter/nimib](https://github.com/pietroppeter/nimib) - nimib 🐳 - nim 👑 driven ⛵ publishing ✍
@@ -2510,7 +2496,6 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2570,6 +2555,10 @@
 
 ## others 
 
+- [BrendonBuilds/mod0](https://github.com/BrendonBuilds/mod0) - An undefined, modular machine platform
+- [Braden5790/ZeroG_Mercury_One.1_Hydra](https://github.com/Braden5790/ZeroG_Mercury_One.1_Hydra) - Configuration files, macros, and 3D models for my custom ZeroG Mercury One.1 Hydra 3D printer setup, powered by Klipper firmware. Optimized for high-speed, precise printing with custom features and en
+- [Unlayered3D/RepRapFirmware](https://github.com/Unlayered3D/RepRapFirmware) - OO C++ RepRap Firmware
+- [JoergS5/RepRapFirmware_robot](https://github.com/JoergS5/RepRapFirmware_robot) - only cpp, h and binaries
 - [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 - [vilemduha/blendercam](https://github.com/vilemduha/blendercam) - Automatically exported from code.google.com/p/blendercam
 - [fractalrobotics/Fractal-Cortex](https://github.com/fractalrobotics/Fractal-Cortex) - A Multidirectional 5-Axis FDM Slicer
@@ -2658,6 +2647,7 @@
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [Open-Lab-Starter-Kit/OLSK-3D-Scanner](https://github.com/Open-Lab-Starter-Kit/OLSK-3D-Scanner) - Open Source 3D Scanner - Open Lab Starter Kit
+- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [OleksandrPanforov/saturn-klipper](https://github.com/OleksandrPanforov/saturn-klipper) - 
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [ankenyr/jellyfin-youtube-metadata-plugin](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) - Youtube Metadata Plugin for Jellyfin
@@ -4185,7 +4175,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
@@ -4328,7 +4318,6 @@
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
@@ -4352,7 +4341,7 @@
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
@@ -4395,7 +4384,6 @@
 
 ## spring-boot 
 
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 
 ## sql 
@@ -4408,7 +4396,7 @@
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 - [nim-lang/nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
@@ -4506,7 +4494,6 @@
 
 ## tui 
 
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [fox0430/moe](https://github.com/fox0430/moe) - A command line based editor inspired by Vim. Written in Nim.
 
 ## twitter 
@@ -4725,7 +4712,6 @@
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [MatthiasWM/IotaSlicer](https://github.com/MatthiasWM/IotaSlicer) - A voxel based slicer for 3D printing on FDM/FFF, binder/powder, SLS printers and laser cutters.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
