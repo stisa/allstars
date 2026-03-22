@@ -257,7 +257,7 @@
 
 ## 3d 
 
-- [slmsuite/slmsuite](https://github.com/slmsuite/slmsuite) - Python package for high-performance spatial light modulator (SLM) control and holography. Supports features from aberration-corrected 3D point clouds to automated Fourier-domain calibrations.
+- [holodyne/slmsuite](https://github.com/holodyne/slmsuite) - Python package for high-performance spatial light modulator (SLM) control and holography. Supports features from aberration-corrected 3D point clouds to automated Fourier-domain calibrations.
 - [kzampog/cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
 - [caiyuanhao1998/X-Gaussian](https://github.com/caiyuanhao1998/X-Gaussian) - "Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis" (ECCV 2024)
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
@@ -853,7 +853,7 @@
 
 ## crystal 
 
-- [toddsundsted/ktistec](https://github.com/toddsundsted/ktistec) - Single user ActivityPub (https://www.w3.org/TR/activitypub/) server.
+- [toddsundsted/ktistec](https://github.com/toddsundsted/ktistec) - ActivityPub (https://www.w3.org/TR/activitypub/) server for individual users and small groups.
 - [tffdev/Leafgem](https://github.com/tffdev/Leafgem) - 🌿💎 The humble beginnings of a 2D game engine in Crystal! [in-progress]
 - [oprypin/critter](https://github.com/oprypin/critter) - Chat bot relaying messages between IRC and Gitter
 
@@ -2482,6 +2482,7 @@
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
 - [ViperWorx/Drakon-Extruder](https://github.com/ViperWorx/Drakon-Extruder) - 3D Printable 3:1 Geared Extruder
+- [oss-fund/directory](https://github.com/oss-fund/directory) - Crowdsourced directory of funding, revenue, and project resources for open source maintainers and contributors
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [ufosc/pylay](https://github.com/ufosc/pylay) - A small IRC server written in Python 3.
@@ -2555,6 +2556,9 @@
 
 ## others 
 
+- [HaythamB/TAMV](https://github.com/HaythamB/TAMV) - TAMV = Tool Align Machine Vision for Duet based tool changing 3D printers.
+- [DualSPHysics/DualSPHysics](https://github.com/DualSPHysics/DualSPHysics) - C++/CUDA/OpenMP based Smoothed Particle Hydrodynamics (SPH) Solver
+- [gvitucci/VialTwin](https://github.com/gvitucci/VialTwin) - Physics-based digital twin workflow for vial simulation, rendering, and particle trajectory visualization.
 - [BrendonBuilds/mod0](https://github.com/BrendonBuilds/mod0) - An undefined, modular machine platform
 - [Braden5790/ZeroG_Mercury_One.1_Hydra](https://github.com/Braden5790/ZeroG_Mercury_One.1_Hydra) - Configuration files, macros, and 3D models for my custom ZeroG Mercury One.1 Hydra 3D printer setup, powered by Klipper firmware. Optimized for high-speed, precise printing with custom features and en
 - [Unlayered3D/RepRapFirmware](https://github.com/Unlayered3D/RepRapFirmware) - OO C++ RepRap Firmware
@@ -2844,7 +2848,7 @@
 - [toastpp/toastpp](https://github.com/toastpp/toastpp) - Toast++: Forward and inverse modelling in optical tomography
 - [viesturz/NozzleAlign](https://github.com/viesturz/NozzleAlign) - Toolhead Nozzle alignment probe
 - [3DO-EU/nozzle-camera](https://github.com/3DO-EU/nozzle-camera) - 
-- [akmaier/mt_lecture_slides](https://github.com/akmaier/mt_lecture_slides) - These are the lecture slides used at FAU Erlangen-Nuremberg, Germany for the lecture "Medical Engineering". This class gives a complete and comprehensive introduction to the fields of medical imaging 
+- [PRLab-FAU/mt_lecture_slides](https://github.com/PRLab-FAU/mt_lecture_slides) - These are the lecture slides used at FAU Erlangen-Nuremberg, Germany for the lecture "Medical Engineering". This class gives a complete and comprehensive introduction to the fields of medical imaging 
 - [effepivi/gvxr-tutorials](https://github.com/effepivi/gvxr-tutorials) - Series of tutorials to show how to use gVXR
 - [effepivi/gvxr-demos](https://github.com/effepivi/gvxr-demos) - This repository includes some of the free examples/demos I made using my gVirtualXRay library.
 - [medicalphysics/OpenDXMCunmaintained-Python-](https://github.com/medicalphysics/OpenDXMCunmaintained-Python-) - Monte Carlo dose simulator for diagnostic x-ray (ALPHA)
@@ -2911,7 +2915,7 @@
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
@@ -3170,7 +3174,6 @@
 - [markniu/PandaPi](https://github.com/markniu/PandaPi) - 3d printer firmware run on raspberry pi directly
 - [usnistgov/openfoamEmbedded3DP](https://github.com/usnistgov/openfoamEmbedded3DP) - Python tools for OpenFOAM simulations of filament shapes in embedded 3D printing
 - [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
-- [oss-fund/monetization-platforms](https://github.com/oss-fund/monetization-platforms) - Crowdsourced list of monetization platforms for creators
 - [warashibe/hide](https://github.com/warashibe/hide) - HiÐΞ | Offline First Decentralized CMS
 - [goeland86/MonsterKossel](https://github.com/goeland86/MonsterKossel) - Designs for a large delta printer
 - [treeform/pixie](https://github.com/treeform/pixie) - Full-featured 2d graphics library for Nim.
@@ -3644,7 +3647,7 @@
 - [starwing/amoeba](https://github.com/starwing/amoeba) - a Cassowary constraint solving algorithm implements in pure C.
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [eclsnowman/HercuLien](https://github.com/eclsnowman/HercuLien) - HercuLien - Large Format, Dual Extrusion, Bowden/Direct Drive Modular, 3D Printer. Inspired by many... Created by me.
-- [behdad/glyphy](https://github.com/behdad/glyphy) - GLyphy is a signed-distance-field (SDF) text renderer using OpenGL ES2 shading language.
+- [behdad/glyphy](https://github.com/behdad/glyphy) - GLyphy is an implementation of the Slug algorithm for GPU text rasterization
 - [danielpovlsen/android-native-gles](https://github.com/danielpovlsen/android-native-gles) - Android OpenGL ES 2.0 rendering sans Java
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
