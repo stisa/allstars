@@ -117,6 +117,7 @@
 
 ## C 
 
+- [calculix/CalculiX-Windows](https://github.com/calculix/CalculiX-Windows) - CalculiX is an OSS package designed to solve field problems. The method used is the finite element method. This package is a native Microsoft Windows 64-bit build of CalculiX.
 - [Unlayered3D/RepRapFirmware](https://github.com/Unlayered3D/RepRapFirmware) - OO C++ RepRap Firmware
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [GaudiLabs/OpenDrop](https://github.com/GaudiLabs/OpenDrop) - Open Source Digital Microfluidics Bio Lab
@@ -281,6 +282,7 @@
 
 ## C# # 
 
+- [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking
 - [teelur/budget-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
@@ -714,6 +716,7 @@
 - [shodushi/gcode2png](https://github.com/shodushi/gcode2png) - generate 3d rendering from gcode files
 - [Ultimaker/GHermeneus](https://github.com/Ultimaker/GHermeneus) - Fast g-code parser
 - [synthetos/TinyG](https://github.com/synthetos/TinyG) - Affordable Industrial Grade Motion Control
+- [kliment/Printrun](https://github.com/kliment/Printrun) - Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software
 - [MKFirmware/MK4duo](https://github.com/MKFirmware/MK4duo) - MK4duo Firmware Printers 3D for Arduino and Arduino due
 
 ## GAP 
@@ -738,6 +741,7 @@
 
 ## Go 
 
+- [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
@@ -788,6 +792,7 @@
 
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [romerogroup/MechElastic](https://github.com/romerogroup/MechElastic) - A Python library to calculate elastic properties of materials.
+- [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
 - [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show 3D visualizations from PyVista in Streamlit
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
 - [danielkucera/creality-remote-control](https://github.com/danielkucera/creality-remote-control) - 
@@ -1129,7 +1134,7 @@
 - [HookyQR/VSCodeMinify](https://github.com/HookyQR/VSCodeMinify) - Add minify function to VSCode 0.10+
 - [mdn/webgl-examples](https://github.com/mdn/webgl-examples) - Code examples that accompany the MDN WebGL documentation
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [cjgammon/Oxygen](https://github.com/cjgammon/Oxygen) - SUPER Lightweight 2D WebGL Display List
 - [pixelpicosean/lesser-panda](https://github.com/pixelpicosean/lesser-panda) - [Deprecated] Module based HTML5 game engine
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
@@ -1175,6 +1180,7 @@
 
 ## Jupyter Notebook 
 
+- [ronenroi/LearnedCloudCT](https://github.com/ronenroi/LearnedCloudCT) - 
 - [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [NuriaRufo/DeepPETmodified](https://github.com/NuriaRufo/DeepPETmodified) - PET reconstruction with deep learning
 - [LCAV/LenslessPiCam](https://github.com/LCAV/LenslessPiCam) - Lensless imaging toolkit. Complete tutorial: https://go.epfl.ch/lenslesspicam
@@ -1245,7 +1251,7 @@
 - [Ethran/notable](https://github.com/Ethran/notable) - An alternative note-taking app designed specifically for BOOX e-ink devices
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
 - [jensomato/ReadeckApp](https://github.com/jensomato/ReadeckApp) - Readeck App is an Android client for the Readeck self-hosted read-it-later service
-- [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
+- [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app. One timeline, all your accounts, cross-post everywhere.
 - [ZornsLemma/my-price-log](https://github.com/ZornsLemma/my-price-log) - Android app to track and compare prices offline
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [LSafer/edgeseek](https://github.com/LSafer/edgeseek) - The Source Code of Edge Seek
@@ -1590,6 +1596,7 @@
 
 ## Others 
 
+- [HohlbeinLab/OpenMicroscopy](https://github.com/HohlbeinLab/OpenMicroscopy) - Non-comprehensive list of projects and resources related to open microscopy.
 - [Braden5790/ZeroG_Mercury_One.1_Hydra](https://github.com/Braden5790/ZeroG_Mercury_One.1_Hydra) - Configuration files, macros, and 3D models for my custom ZeroG Mercury One.1 Hydra 3D printer setup, powered by Klipper firmware. Optimized for high-speed, precise printing with custom features and en
 - [jonathanyeung/mark-sharp](https://github.com/jonathanyeung/mark-sharp) - Mark Sharp WYSIWYG Markdown Editor for VS Code
 - [seaqt/nim-seaqt](https://github.com/seaqt/nim-seaqt) - `Nim` bindings for `Qt`
@@ -1788,6 +1795,12 @@
 
 ## Python 
 
+- [senthurayyappan/anton](https://github.com/senthurayyappan/anton) - anton is an open-source generative design framework built with Blender and Python
+- [calculix/pygccx](https://github.com/calculix/pygccx) - A python framework to build, solve and postprocess finite element models made out of 3D solid elements using Gmsh and CalculiX.
+- [calculix/beso](https://github.com/calculix/beso) - Python code for topology optimization using CalculiX FEM solver.
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [HaythamB/TAMV](https://github.com/HaythamB/TAMV) - TAMV = Tool Align Machine Vision for Duet based tool changing 3D printers.
 - [gvitucci/VialTwin](https://github.com/gvitucci/VialTwin) - Physics-based digital twin workflow for vial simulation, rendering, and particle trajectory visualization.
 - [fractalrobotics/Fractal-Cortex](https://github.com/fractalrobotics/Fractal-Cortex) - A Multidirectional 5-Axis FDM Slicer
@@ -1842,7 +1855,6 @@
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [masterFoad/NanoSage](https://github.com/masterFoad/NanoSage) - Local LLM Powered Recursive Search & Smart Knowledge Explorer
-- [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
 - [JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls](https://github.com/JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls) - Example code for "Time Code for Multifunctional 3D Printhead Controls"
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -2069,6 +2081,7 @@
 - [computed-axial-lithography/VAMToolbox](https://github.com/computed-axial-lithography/VAMToolbox) - 
 - [DCC-Lab/RayTracing](https://github.com/DCC-Lab/RayTracing) - Simple ray tracing library in Python for optical design that considers simple optical elements (with ABCD ray matrices) but also finite diameters of elements to calculate aperture and field stops, fie
 - [laserpilot/Survey_of_Alternative_Displays](https://github.com/laserpilot/Survey_of_Alternative_Displays) - Alternative Display writeup repo
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [KlipperScreen/KlipperScreen](https://github.com/KlipperScreen/KlipperScreen) - GUI for Klipper
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
 - [DanalEstes/TAMV](https://github.com/DanalEstes/TAMV) - TAMV = Tool Align Machine Vision for Duet based tool changing 3D printers.
@@ -2124,7 +2137,6 @@
 - [dorna-robotics/dorna2-python](https://github.com/dorna-robotics/dorna2-python) - Python API for Dorna2 robot
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [Stephan3/dwc2-for-klipper-socket](https://github.com/Stephan3/dwc2-for-klipper-socket) - dwc2-for-klipper using klippers unixsocket
-- [kliment/Printrun](https://github.com/kliment/Printrun) - Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software
 - [Cheshireha/GCode_interpreter](https://github.com/Cheshireha/GCode_interpreter) - it is a interpreter of 3D printer
 - [XDGFX/gcode-cmm](https://github.com/XDGFX/gcode-cmm) - Adapt a USB-controllable 3D printer into a CMM machine
 - [vjFaLk/firefly-bot](https://github.com/vjFaLk/firefly-bot) - Bot to quickly create transactions in Firefly III
@@ -2291,6 +2303,7 @@
 
 ## Shell 
 
+- [mainsail-crew/virtual-klipper-printer](https://github.com/mainsail-crew/virtual-klipper-printer) - Run a simulated Klipper 3D-Printer in a Docker container
 - [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [meyayl/docker-languagetool](https://github.com/meyayl/docker-languagetool) - 
@@ -2360,6 +2373,8 @@
 
 ## TypeScript 
 
+- [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
