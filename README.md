@@ -351,7 +351,7 @@
 - [GuoxinFang/ReinforcedFDM](https://github.com/GuoxinFang/ReinforcedFDM) - Reinforced FDM (TOG / SIG Asia 2020)
 - [lorensen/VTKExamples](https://github.com/lorensen/VTKExamples) - The VTK examples, formerly hosted on media wiki
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
-- [ORNLSlicer/Slicer-2](https://github.com/ORNLSlicer/Slicer-2) - 
+- [ORNLSlicer/ORNLSlicer](https://github.com/ORNLSlicer/ORNLSlicer) - 
 - [heterophyllus/Geopter](https://github.com/heterophyllus/Geopter) - Optical Design Software
 - [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
@@ -701,6 +701,7 @@
 
 ## G-code 
 
+- [txf0101/5AxisSlicer](https://github.com/txf0101/5AxisSlicer) - 5AxisSlicer is a Python slicing application for research on five-axis rotary-bed 3D printing.
 - [BrendonBuilds/mod0](https://github.com/BrendonBuilds/mod0) - An undefined, modular machine platform
 - [vilemduha/blendercam](https://github.com/vilemduha/blendercam) - Automatically exported from code.google.com/p/blendercam
 - [jyjblrd/Core-R-Theta-4-Axis-Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer) - 4 Axis 3D Printer
@@ -907,6 +908,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [ether-strannik/zeppos-tasks-nc-api4](https://github.com/ether-strannik/zeppos-tasks-nc-api4) - ZeppOS API 3.0 test project with MessageBuilder - foundation for Tasks app migration
 - [melianmiko/ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) - Task list for ZeppOS. In sync with Google Tasks
 - [dennisklappe/Rep5x](https://github.com/dennisklappe/Rep5x) - Open-source 5-axis 3D printer retrofit system for consumer desktop printers. Improves printing of complex geometries by adding yaw and tilt rotational axes to standard XYZ printers.
@@ -1183,6 +1185,8 @@
 
 ## Jupyter Notebook 
 
+- [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
+- [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) - Material for a Jupyter-based Python tutorial, with Introductory, Advanced, Libraries modules
 - [ronenroi/LearnedCloudCT](https://github.com/ronenroi/LearnedCloudCT) - 
 - [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [NuriaRufo/DeepPETmodified](https://github.com/NuriaRufo/DeepPETmodified) - PET reconstruction with deep learning
@@ -1604,6 +1608,8 @@
 
 ## Others 
 
+- [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
+- [fractalrobotics/Fractal-5-Pro](https://github.com/fractalrobotics/Fractal-5-Pro) - A Multidirectional 5-Axis 3D Printer
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [EPFL-LAPD/A-unified-multiscale-3D-printer-combining-single-photon-TVAM-and-Two-Photon-Polymerization](https://github.com/EPFL-LAPD/A-unified-multiscale-3D-printer-combining-single-photon-TVAM-and-Two-Photon-Polymerization) - 
 - [HohlbeinLab/OpenMicroscopy](https://github.com/HohlbeinLab/OpenMicroscopy) - Non-comprehensive list of projects and resources related to open microscopy.
@@ -1803,6 +1809,8 @@
 
 ## Python 
 
+- [bbo-git/5AxisSlicerBlenderAddon](https://github.com/bbo-git/5AxisSlicerBlenderAddon) - Blender addon for 5 axis 3d printers
+- [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) - The official API server for Exllama. OAI compatible, lightweight, and fast.
 - [leochlon/mezzanine](https://github.com/leochlon/mezzanine) - 
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [thanosgoulas/3D-Printing-Formulator](https://github.com/thanosgoulas/3D-Printing-Formulator) - A standalone desktop application for the design and optimisation of ceramic resin and paste formulations for 3D printing. Developed independently by Dr Thanos Goulas.
@@ -1819,7 +1827,7 @@
 - [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [daggbt/optyx](https://github.com/daggbt/optyx) - Intuitive symbolic interface for constrained optimization problems. Write natural Python, get automatic gradients and solvers.
+- [optyx-dev/optyx](https://github.com/optyx-dev/optyx) - Intuitive symbolic interface for constrained optimization problems. Write natural Python, get automatic gradients and solvers.
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [PolymathicAI/walrus](https://github.com/PolymathicAI/walrus) - 
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
@@ -2040,7 +2048,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material.
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
@@ -2210,7 +2218,7 @@
 - [jhoward/Python-Neural-Network](https://github.com/jhoward/Python-Neural-Network) - A pure python implementation of a neural network.
 - [zerothi/fdict](https://github.com/zerothi/fdict) - Fortran type-free variable and type-free dictionary
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
-- [tisimst/pyswarm](https://github.com/tisimst/pyswarm) - Particle swarm optimization (PSO) that supports constraints
+- [eggzec/pyswarm](https://github.com/eggzec/pyswarm) - Particle Swarm Optimization (PSO) for Python
 - [jmespadero/pyDelaunay2D](https://github.com/jmespadero/pyDelaunay2D) - A simple Delaunay 2D triangulation in python (with numpy)
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [mikepound/mazesolving](https://github.com/mikepound/mazesolving) - A variety of algorithms to solve mazes from an input image
@@ -2389,7 +2397,7 @@
 
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
