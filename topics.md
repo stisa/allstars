@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -320,6 +321,10 @@
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
+## agents 
+
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+
 ## ai 
 
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
@@ -454,7 +459,7 @@
 - [MarginallyClever/Makelangelo-software](https://github.com/MarginallyClever/Makelangelo-software) - Software for plotters - especially the wall-hanging polargraph also called Makelangelo.
 - [probonopd/WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP8266 or ESP32 module
 - [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 family of SoCs
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 
@@ -1196,14 +1201,14 @@
 
 ## esp32 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [byDagor/Janus-Controller](https://github.com/byDagor/Janus-Controller) - The Janus Controller is a Brushless motor driver with an on-board magnetic encoder, a three-phase MOSFET driver, three MOSFET half-bridges, a temperature sensor and current sensing resistors.
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [bdring/Grbl_Esp32](https://github.com/bdring/Grbl_Esp32) - A port of Grbl CNC Firmware for ESP32
 - [elcritch/nesper](https://github.com/elcritch/nesper) - Program the ESP32 with Nim! Wrappers around ESP-IDF API's.
 - [luc-github/ESP3D](https://github.com/luc-github/ESP3D) - FW for ESP8266/ESP8285/ESP32 used with 3D printer
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 family of SoCs
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 
 ## ethereum 
@@ -1246,7 +1251,7 @@
 ## finance 
 
 - [danilkinkin/buckwheat](https://github.com/danilkinkin/buckwheat) - App that helps you spend money wisely for Android made with Jetpack Compose
-- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up. Zero AI.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [ardov/zerro](https://github.com/ardov/zerro) - Unofficial ZenMoney client with envelope budgeting superpowers
@@ -2300,7 +2305,7 @@
 
 ## monitoring 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 ## music 
 
@@ -2367,6 +2372,7 @@
 - [ringabout/neon](https://github.com/ringabout/neon) - A working-in-porgress compiler guide for the Nim language.
 - [pietroppeter/nimib](https://github.com/pietroppeter/nimib) - nimib 🐳 - nim 👑 driven ⛵ publishing ✍
 - [mashingan/excelin](https://github.com/mashingan/excelin) - Create and read Excel file purely in Nim
+- [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 - [exelotl/natu](https://github.com/exelotl/natu) - Toolkit for writing Game Boy Advance games in Nim
 - [PMunch/ratel](https://github.com/PMunch/ratel) - 
@@ -2652,6 +2658,9 @@
 
 ## others 
 
+- [voneiden/ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) - CAM for CadQuery and Build123d by leveraging FreeCAD
+- [PozzettiAndrea/occt-rt-python](https://github.com/PozzettiAndrea/occt-rt-python) - Python bindings for OCCT-RT raytracer. NumPy integration, pythonocc compatible, batch raycasting with OpenMP.
+- [AutodeskAILab/occwl](https://github.com/AutodeskAILab/occwl) - Lightweight Pythonic wrapper around pythonocc
 - [BioinsideLab/PyVoroGen---Voronoi-Path-Generator](https://github.com/BioinsideLab/PyVoroGen---Voronoi-Path-Generator) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
@@ -2691,7 +2700,7 @@
 - [fractalrobotics/Fractal-Cortex](https://github.com/fractalrobotics/Fractal-Cortex) - A Multidirectional 5-Axis FDM Slicer
 - [FreddieHong19/Open5x](https://github.com/FreddieHong19/Open5x) - This is a Github repository for 5-axis 3D printing
 - [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug) - Tool to generate swiss e-steuerauszug from banking exports
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [sugar10w/DISH](https://github.com/sugar10w/DISH) - 
 - [Ethran/notable](https://github.com/Ethran/notable) - An alternative note-taking app designed specifically for BOOX e-ink devices
 - [x-464/StartMenuToPTRun](https://github.com/x-464/StartMenuToPTRun) - Changes the windows key from activating the start menu, to instead activating powertoys run
@@ -2798,7 +2807,7 @@
 - [liamartinez/AppropriatingNewTechnologies](https://github.com/liamartinez/AppropriatingNewTechnologies) - A half-semester class at ITP.
 - [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
-- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - A generative world for general-purpose robotics & embodied AI learning.
 - [SyneRBI/SIRF](https://github.com/SyneRBI/SIRF) - Main repository for the CCP SynerBI software
 - [lpl-code/FastProjDefocusComp](https://github.com/lpl-code/FastProjDefocusComp) - Fast projection defocus correction for multiple projection surface types
 - [LMSD-KULeuven/polyquad](https://github.com/LMSD-KULeuven/polyquad) - 
@@ -2848,7 +2857,6 @@
 - [lorensen/VTKExamples](https://github.com/lorensen/VTKExamples) - The VTK examples, formerly hosted on media wiki
 - [goran-mahovlic/FPGA-LCD-Driver](https://github.com/goran-mahovlic/FPGA-LCD-Driver) - FPGA LVDS LCD driver
 - [goran-mahovlic/reverse_mono_6ks](https://github.com/goran-mahovlic/reverse_mono_6ks) - 
-- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [flor0/nextcloud-docker](https://github.com/flor0/nextcloud-docker) - Nextcloud but with docker
 - [lukmuk/em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
 - [ORNLSlicer/ORNLSlicer](https://github.com/ORNLSlicer/ORNLSlicer) - ORNLSlicer is an open-source slicing and toolpath planning framework developed at Oak Ridge National Laboratory (ORNL) for additive manufacturing processes.
@@ -2862,7 +2870,7 @@
 - [rogerlz/Doron-Velta](https://github.com/rogerlz/Doron-Velta) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [viesturz/klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger) - Toolcahnging extension for Klipper
-- [seerge/g-helper](https://github.com/seerge/g-helper) - G-Helper is a fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
 - [greenonline/Kossel](https://github.com/greenonline/Kossel) - Files relating to the Kossel 3D Printer
 - [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -3175,7 +3183,6 @@
 - [ricktu288/ray-optics](https://github.com/ricktu288/ray-optics) - A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.
 - [SCIInstitute/ShapeWorks](https://github.com/SCIInstitute/ShapeWorks) - ShapeWorks
 - [SCIInstitute/Seg3D](https://github.com/SCIInstitute/Seg3D) - Seg3D is a free volume segmentation and processing tool developed by the NIH Center for Integrative Biomedical Computing at the University of Utah Scientific Computing and Imaging (SCI) Institute.
-- [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [daeyun/mesh-to-depth](https://github.com/daeyun/mesh-to-depth) - Depth map generator for Python written in C++
 - [Wicklets/wick-editor](https://github.com/Wicklets/wick-editor) - A free and open-source tool for creating games, animations and everything in-between!
 - [DefiLlama/defillama-app](https://github.com/DefiLlama/defillama-app) - 
@@ -3252,7 +3259,7 @@
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [geniekobayashi/paste_extruder](https://github.com/geniekobayashi/paste_extruder) - 5cc syringe holder equipped with a linear stepper
 - [doctek/Moineau-Paste-Extruder](https://github.com/doctek/Moineau-Paste-Extruder) - Extruder for 3D printing of paste materials using Moineau pump.
-- [romellogoodman/flow-fields](https://github.com/romellogoodman/flow-fields) - A javascript library for generating flow fields.
+- [romellogoodman/flow-fields](https://github.com/romellogoodman/flow-fields) - A javascript library for creating flow fields
 - [mess42/pyrate](https://github.com/mess42/pyrate) - Optical raytracing based on Python
 - [rwb27/openflexure_microscope](https://github.com/rwb27/openflexure_microscope) - This repository has now moved to GitLab.com/openflexure/openflexure-microscope
 - [MatterHackers/MatterControl](https://github.com/MatterHackers/MatterControl) - 3D printing software for Windows, Mac and Linux
@@ -4453,7 +4460,7 @@
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
-- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up. Zero AI.
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
@@ -4469,6 +4476,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
