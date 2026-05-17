@@ -1251,7 +1251,7 @@
 ## finance 
 
 - [danilkinkin/buckwheat](https://github.com/danilkinkin/buckwheat) - App that helps you spend money wisely for Android made with Jetpack Compose
-- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up. Zero AI.
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
 - [ardov/zerro](https://github.com/ardov/zerro) - Unofficial ZenMoney client with envelope budgeting superpowers
@@ -2658,6 +2658,12 @@
 
 ## others 
 
+- [oozebot/preFlight](https://github.com/oozebot/preFlight) - preFlight slicer - no ordinary fork
+- [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+- [dennisklappe/OrcaSlicer-WaveOverhangs](https://github.com/dennisklappe/OrcaSlicer-WaveOverhangs) - OrcaSlicer fork adding wave-overhang printing, port of stmcculloch/PrusaSlicer-WaveOverhangs with pluggable algorithms (Andersons + Kaiser LaSO)
+- [BobTheBlockchainBuilder/PRNTR](https://github.com/BobTheBlockchainBuilder/PRNTR) - This is a program which is supposed to perform real time error detection & monitoring of 3D prints in a hybrid manufacturing system (additive and subtractive), using optical monitoring from a camera i
+- [timschmidt/ironpath](https://github.com/timschmidt/ironpath) - An additive and subtractive manufacturing toolpath generator with advanced geometry functions
+- [LaboratoireMecaniqueLille/ASAHM](https://github.com/LaboratoireMecaniqueLille/ASAHM) - Automated Subtractive Additive Hybrid Manufacturing : Hybrid FFF / CNC Python module
 - [voneiden/ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) - CAM for CadQuery and Build123d by leveraging FreeCAD
 - [PozzettiAndrea/occt-rt-python](https://github.com/PozzettiAndrea/occt-rt-python) - Python bindings for OCCT-RT raytracer. NumPy integration, pythonocc compatible, batch raycasting with OpenMP.
 - [AutodeskAILab/occwl](https://github.com/AutodeskAILab/occwl) - Lightweight Pythonic wrapper around pythonocc
@@ -2798,7 +2804,7 @@
 - [zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) - A reading list for computational optics liteature presented on SIGGRAPH.
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
 - [weiss-jonathan/Printess-Low-Cost-3D-Printer](https://github.com/weiss-jonathan/Printess-Low-Cost-3D-Printer) - Current Versions of hardware, software, firmware, and instructions for assembling and operating the Printess.
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - [bnanes/svg-embed-and-crop](https://github.com/bnanes/svg-embed-and-crop) - Inkscape Extension: Embed and Crop Images
 - [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and editing
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
@@ -2963,7 +2969,7 @@
 - [bearing/dosenet](https://github.com/bearing/dosenet) - Code for the Berkeley RadWatch dosimeter network
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
-- [redotvideo/mamba-chat](https://github.com/redotvideo/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
+- [midrender/mamba-chat](https://github.com/midrender/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 - [chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2) - Single/multi view image(s) to voxel reconstruction using a recurrent neural network
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [kevinakasam/Papilio-Belt-Extruder](https://github.com/kevinakasam/Papilio-Belt-Extruder) - The Papilio is an extruder that uses GT2 Timing Belts instead of metal gears to push the filament.
@@ -3047,7 +3053,7 @@
 - [fxcoudert/PapersBot](https://github.com/fxcoudert/PapersBot) - Read journal RSS feeds and tweet selected entries
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [astuder/MSP430-sharp-LS013B4DN02-memory-display](https://github.com/astuder/MSP430-sharp-LS013B4DN02-memory-display) - SHARP Memory LCD example for MSP430 LaunchPad
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [bryancole/raypier_optics](https://github.com/bryancole/raypier_optics) - A raytracing toolkit for optical design
 - [yumcyaWiz/Photorealism2](https://github.com/yumcyaWiz/Photorealism2) - Physically Based Full Spectral Renderer
 - [KKeishiro/Shape-from-Silhouettes](https://github.com/KKeishiro/Shape-from-Silhouettes) - 3D reconstruction with shape of silhouettes
@@ -3513,7 +3519,7 @@
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [ryanGT/youtube_code_share](https://github.com/ryanGT/youtube_code_share) - 
 - [sfepy/sfepy](https://github.com/sfepy/sfepy) - Main SfePy repository
-- [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
+- [gdquest-demos/godot-4-procedural-generation](https://github.com/gdquest-demos/godot-4-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [python-control/python-control](https://github.com/python-control/python-control) - The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems.
 - [anopara/genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
 - [nim-lang/compilerdev](https://github.com/nim-lang/compilerdev) - This repository contains a collection of documents about how to change/refactor the Nim compiler in order to make it faster, easier to maintain and have fewer bugs by a superior architecture and desig
@@ -4216,7 +4222,7 @@
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [epit3d/spycer](https://github.com/epit3d/spycer) - Gcode viewer for slicer for 5 axes 3d printer
 - [JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram) - 🎞数字全息术与计算机生成全息的计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a comput
-- [ahendriksen/tomosipo](https://github.com/ahendriksen/tomosipo) - A library for painless 3D tomographic reconstruction
+- [cicwi/tomosipo](https://github.com/cicwi/tomosipo) - A library for painless 3D tomographic reconstruction
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
@@ -4460,7 +4466,7 @@
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
-- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up. Zero AI.
+- [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
