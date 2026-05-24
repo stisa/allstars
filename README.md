@@ -116,6 +116,8 @@
 
 ## C 
 
+- [fadedfan/Penta-axis-printer](https://github.com/fadedfan/Penta-axis-printer) - Firmware and software that supports 5-axis 3d printing
+- [AveryNNN/5-axis-printing](https://github.com/AveryNNN/5-axis-printing) - 基于grbl和marlin改的，用于五轴喷印设备
 - [calculix/CalculiX-Windows](https://github.com/calculix/CalculiX-Windows) - CalculiX is an OSS package designed to solve field problems. The method used is the finite element method. This package is a native Microsoft Windows 64-bit build of CalculiX.
 - [Unlayered3D/RepRapFirmware](https://github.com/Unlayered3D/RepRapFirmware) - OO C++ RepRap Firmware
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
@@ -281,6 +283,7 @@
 
 ## C# # 
 
+- [gear2nd-droid/MageSlicer](https://github.com/gear2nd-droid/MageSlicer) - MAGE Slicer is a slicer for non-planar printing such as multi-axis 3D printers.
 - [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking
 - [teelur/budget-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
@@ -316,6 +319,10 @@
 
 ## C++ 
 
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [Liech/Farfalle](https://github.com/Liech/Farfalle) - Experimental 3d Printing Slicer
+- [Qiang-Zou/TPMS2STEP](https://github.com/Qiang-Zou/TPMS2STEP) - A lightweight tool for converting TPMS models to STEP files to be used in conventional CAD/CAM/CAE pipeline
+- [nodtem66/Scaffolder](https://github.com/nodtem66/Scaffolder) - Generate scaffold from STL file with implicit function (such as TPMS, Schwarz P/ Gyroid).
 - [oozebot/preFlight](https://github.com/oozebot/preFlight) - preFlight slicer - no ordinary fork
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [dennisklappe/OrcaSlicer-WaveOverhangs](https://github.com/dennisklappe/OrcaSlicer-WaveOverhangs) - OrcaSlicer fork adding wave-overhang printing, port of stmcculloch/PrusaSlicer-WaveOverhangs with pluggable algorithms (Andersons + Kaiser LaSO)
@@ -705,6 +712,9 @@
 
 ## G-code 
 
+- [Buzzloopster/Voron-Trident-5-axis](https://github.com/Buzzloopster/Voron-Trident-5-axis) - This is an 5 axis modification of Voron Trident 250mm
+- [iostwestcoast/Gh-Slicer](https://github.com/iostwestcoast/Gh-Slicer) - Modelling of the milling process and creation of a slicer for non-planar surfaces with subsequent milling and porcelain printing
+- [seeul8er/Real3DFFF](https://github.com/seeul8er/Real3DFFF) - Curved Layer Fused Filament Fabrication (CLFFF) Algorithm that produces G-Code with normal vectors for 5 axis 3d printing. Uses variable layer height.
 - [BobTheBlockchainBuilder/PRNTR](https://github.com/BobTheBlockchainBuilder/PRNTR) - This is a program which is supposed to perform real time error detection & monitoring of 3D prints in a hybrid manufacturing system (additive and subtractive), using optical monitoring from a camera i
 - [LaboratoireMecaniqueLille/ASAHM](https://github.com/LaboratoireMecaniqueLille/ASAHM) - Automated Subtractive Additive Hybrid Manufacturing : Hybrid FFF / CNC Python module
 - [txf0101/5AxisSlicer](https://github.com/txf0101/5AxisSlicer) - 5AxisSlicer is a Python slicing application for research on five-axis rotary-bed 3D printing.
@@ -801,6 +811,7 @@
 
 ## HTML 
 
+- [DavidSeyserGit/Slicer6D](https://github.com/DavidSeyserGit/Slicer6D) - Slicer6D is a Non-Planar Slicer design for Robot Based Printing
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [romerogroup/MechElastic](https://github.com/romerogroup/MechElastic) - A Python library to calculate elastic properties of materials.
 - [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
@@ -923,6 +934,7 @@
 - [flusterIO/fluster](https://github.com/flusterIO/fluster) - Your brain's presentation layer.
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
+- [grelf-net/forest](https://github.com/grelf-net/forest) - Java demonstration of the Relf Terrain Generator, in the form of a partial conversion of The Forest from Javascript
 - [Open-Lab-Starter-Kit/OLSK-3D-Scanner](https://github.com/Open-Lab-Starter-Kit/OLSK-3D-Scanner) - Open Source 3D Scanner - Open Lab Starter Kit
 - [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) - A desktop application for Penpot, an open-source design tool.
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
@@ -1132,7 +1144,6 @@
 - [strathausen/savage](https://github.com/strathausen/savage) - tiny svg library - NOT abandoned nor outdated :-)
 - [ZIJ/svg-path](https://github.com/ZIJ/svg-path) - Chainable SVG path string generator with some sugar added
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
-- [steelbreeze/state.js](https://github.com/steelbreeze/state.js) - DEPRECATED, please see @steelbreeze/state
 - [mourner/simplify-js](https://github.com/mourner/simplify-js) - High-performance JavaScript polyline simplification library
 - [mikolalysenko/gl-render-text](https://github.com/mikolalysenko/gl-render-text) - Renders text to a WebGL texture
 - [evanw/csg.js](https://github.com/evanw/csg.js) - Constructive solid geometry on meshes using BSP trees in JavaScript
@@ -1192,6 +1203,7 @@
 
 ## Jupyter Notebook 
 
+- [Prasadampajalapu/Indian_Startups_1](https://github.com/Prasadampajalapu/Indian_Startups_1) - This dataset has funding information of the Indian startups from January 2015 to August 2017. Feature Details : SNo - Serial number. Date - Date of funding in format DD/MM/YYYY. StartupName - Name of 
 - [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
 - [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) - Material for a Jupyter-based Python tutorial, with Introductory, Advanced, Libraries modules
 - [ronenroi/LearnedCloudCT](https://github.com/ronenroi/LearnedCloudCT) - 
@@ -1314,6 +1326,7 @@
 
 ## MATLAB 
 
+- [hiilda/TPMS-Lattice-Generator-LattGen-](https://github.com/hiilda/TPMS-Lattice-Generator-LattGen-) - 
 - [sugar10w/DISH](https://github.com/sugar10w/DISH) - 
 - [lpl-code/FastProjDefocusComp](https://github.com/lpl-code/FastProjDefocusComp) - Fast projection defocus correction for multiple projection surface types
 - [Navid360/CT-Scan-with-visible-light](https://github.com/Navid360/CT-Scan-with-visible-light) - I developed a shadow-based CT scan technique (using visible light instead of X-ray) to reconstruct 3D model of transparent objects.
@@ -1616,7 +1629,6 @@
 
 ## Others 
 
-- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
 - [fractalrobotics/Fractal-5-Pro](https://github.com/fractalrobotics/Fractal-5-Pro) - A Multidirectional 5-Axis 3D Printer
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -1630,7 +1642,6 @@
 - [silverbulletmd/silverbullet-libraries](https://github.com/silverbulletmd/silverbullet-libraries) - Awesome SilverBullet libraries
 - [mschmidtkorth/silverbullet-zen](https://github.com/mschmidtkorth/silverbullet-zen) - A theme for SilverBullet inspired by Zen browser. Design philosophy: Calm, reduced visual noise and consistency.
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
-- [grelf-net/forest](https://github.com/grelf-net/forest) - Java demonstration of the Relf Terrain Generator, in the form of a partial conversion of The Forest from Javascript
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [OleksandrPanforov/saturn-klipper](https://github.com/OleksandrPanforov/saturn-klipper) - 
 - [zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) - A reading list for computational optics liteature presented on SIGGRAPH.
@@ -1819,10 +1830,18 @@
 
 ## Python 
 
+- [LuisVinTM/ASAHM-a-comprehensive-technological-solution-for-automated-additive-subtractive-hybrid-manufacturing](https://github.com/LuisVinTM/ASAHM-a-comprehensive-technological-solution-for-automated-additive-subtractive-hybrid-manufacturing) - Source codes for a native hybrid addditive subtractive technology
+- [DigitalGrin/EasyConical](https://github.com/DigitalGrin/EasyConical) - A program dedicated to making conical slicing, a type of non-planar 3D printing, easy to use and accessible to everybody.
+- [pingpong2000/whiplash](https://github.com/pingpong2000/whiplash) - whiplash-ghostrider 5 Axis 3D printing Toolhead
+- [pyvista/pyvista-cad](https://github.com/pyvista/pyvista-cad) - The canonical CAD interop and plotting layer for PyVista
+- [IkonOne/tpmsModeller](https://github.com/IkonOne/tpmsModeller) - Generate non-manifold meshes for the triply periodic minimal surfaces Gyroid and Fisher-Koch S.
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [kutaydemir07/PyLCSS](https://github.com/kutaydemir07/PyLCSS) - Python Low-Code System Solutions
 - [voneiden/ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) - CAM for CadQuery and Build123d by leveraging FreeCAD
 - [PozzettiAndrea/occt-rt-python](https://github.com/PozzettiAndrea/occt-rt-python) - Python bindings for OCCT-RT raytracer. NumPy integration, pythonocc compatible, batch raycasting with OpenMP.
 - [AutodeskAILab/occwl](https://github.com/AutodeskAILab/occwl) - Lightweight Pythonic wrapper around pythonocc
 - [BioinsideLab/PyVoroGen---Voronoi-Path-Generator](https://github.com/BioinsideLab/PyVoroGen---Voronoi-Path-Generator) - 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [raw-labs/mxcp](https://github.com/raw-labs/mxcp) - Model eXecution + Context Protocol: Enterprise-Grade Data-to-AI Infrastructure
 - [BAMresearch/chatBIS](https://github.com/BAMresearch/chatBIS) - A conversational AI assistant for the openBIS research data management system. Uses RAG with Ollama to provide natural, accurate responses to queries about openBIS. Scrapes documentation, processes it
 - [bbo-git/5AxisSlicerBlenderAddon](https://github.com/bbo-git/5AxisSlicerBlenderAddon) - Blender addon for 5 axis 3d printers
@@ -1922,7 +1941,7 @@
 - [clemisch/jaxtomo](https://github.com/clemisch/jaxtomo) - Tomographic projector in JAX
 - [mareikethies/geometry_gradients_CT](https://github.com/mareikethies/geometry_gradients_CT) - 
 - [SyneRBI/PETRIC](https://github.com/SyneRBI/PETRIC) - PET Image Reconstruction Challenge 2024
-- [gschramm/parallelproj](https://github.com/gschramm/parallelproj) - code for parallel TOF and NONTOF projections
+- [KUL-recon-lab/parallelproj](https://github.com/KUL-recon-lab/parallelproj) - code for parallel TOF and NONTOF projections
 - [esoubrie/siddon](https://github.com/esoubrie/siddon) - Siddon tomography algorithm
 - [3MFConsortium/spec_volumetric](https://github.com/3MFConsortium/spec_volumetric) - The 3MF volumetric extension specification
 - [evo-biomech/scAnt](https://github.com/evo-biomech/scAnt) - open-source 3D scanning and processing pipeline
@@ -2015,6 +2034,7 @@
 - [krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch) - A PyTorch re-implementation of Neural Radiance Fields
 - [sunset1995/DirectVoxGO](https://github.com/sunset1995/DirectVoxGO) - Direct voxel grid optimization for fast radiance field reconstruction.
 - [kevinczhou/mesoscopic-photogrammetry](https://github.com/kevinczhou/mesoscopic-photogrammetry) - 3D reconstructions of mm-scale objects from sequences of phone camera images
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [Caoang327/HexPlane](https://github.com/Caoang327/HexPlane) - Official code for CVPR 2023 Paper, HexPlane: A Fast Representation for Dynamic Scenes
 - [rafidrm/gancer](https://github.com/rafidrm/gancer) - Generative Adversarial Networks for Computationally Efficient Radiotherapy
 - [PortPy-Project/PortPy](https://github.com/PortPy-Project/PortPy) - Opensource Python project for cancer radiation treatment planning [AAPM'23]
@@ -2260,7 +2280,6 @@
 
 ## QML 
 
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [status-im/status-app](https://github.com/status-im/status-app) - Status App client made in Nim & QML
 - [liri-project/liri-browser](https://github.com/liri-project/liri-browser) - 📕 Archive - Development has moved to https://github.com/lirios/browser.
 
@@ -2287,6 +2306,7 @@
 
 ## Rust 
 
+- [sdfgeoff/shockwave-slicer](https://github.com/sdfgeoff/shockwave-slicer) - A 3d printing slicer that uses field propagation to generate non-planar layers to reduce supports required for overhangs.
 - [timschmidt/ironpath](https://github.com/timschmidt/ironpath) - An additive and subtractive manufacturing toolpath generator with advanced geometry functions
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -2412,6 +2432,7 @@
 
 ## TypeScript 
 
+- [AFKFelix/orca-slicer-api](https://github.com/AFKFelix/orca-slicer-api) - A simple REST API for slicing models using OrcaSlicer
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
