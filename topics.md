@@ -35,6 +35,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -190,6 +191,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -731,6 +733,10 @@
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [fiatjaf/module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub
+
+## claude-code 
+
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 ## cli 
 
@@ -1699,6 +1705,7 @@
 ## home-assistant 
 
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [George-Seven/Termux-Udocker](https://github.com/George-Seven/Termux-Udocker) - Run Docker images in Termux via Udocker. No root, no qemu-VM, much faster.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [ThomasTJdev/nim_homeassistant](https://github.com/ThomasTJdev/nim_homeassistant) - Nim Home Assistant (NimHA) is a hub for combining multiple home automation devices and automating jobs.
@@ -1789,6 +1796,7 @@
 ## iot 
 
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
@@ -2658,6 +2666,25 @@
 
 ## others 
 
+- [AFKFelix/orca-slicer-api](https://github.com/AFKFelix/orca-slicer-api) - A simple REST API for slicing models using OrcaSlicer
+- [Buzzloopster/Voron-Trident-5-axis](https://github.com/Buzzloopster/Voron-Trident-5-axis) - This is an 5 axis modification of Voron Trident 250mm
+- [LuisVinTM/ASAHM-a-comprehensive-technological-solution-for-automated-additive-subtractive-hybrid-manufacturing](https://github.com/LuisVinTM/ASAHM-a-comprehensive-technological-solution-for-automated-additive-subtractive-hybrid-manufacturing) - Source codes for a native hybrid addditive subtractive technology
+- [Liech/Farfalle](https://github.com/Liech/Farfalle) - Experimental 3d Printing Slicer
+- [iostwestcoast/Gh-Slicer](https://github.com/iostwestcoast/Gh-Slicer) - Modelling of the milling process and creation of a slicer for non-planar surfaces with subsequent milling and porcelain printing
+- [sdfgeoff/shockwave-slicer](https://github.com/sdfgeoff/shockwave-slicer) - A 3d printing slicer that uses field propagation to generate non-planar layers to reduce supports required for overhangs.
+- [DigitalGrin/EasyConical](https://github.com/DigitalGrin/EasyConical) - A program dedicated to making conical slicing, a type of non-planar 3D printing, easy to use and accessible to everybody.
+- [gear2nd-droid/MageSlicer](https://github.com/gear2nd-droid/MageSlicer) - MAGE Slicer is a slicer for non-planar printing such as multi-axis 3D printers.
+- [Prasadampajalapu/Indian_Startups_1](https://github.com/Prasadampajalapu/Indian_Startups_1) - This dataset has funding information of the Indian startups from January 2015 to August 2017. Feature Details : SNo - Serial number. Date - Date of funding in format DD/MM/YYYY. StartupName - Name of 
+- [fadedfan/Penta-axis-printer](https://github.com/fadedfan/Penta-axis-printer) - Firmware and software that supports 5-axis 3d printing
+- [pingpong2000/whiplash](https://github.com/pingpong2000/whiplash) - whiplash-ghostrider 5 Axis 3D printing Toolhead
+- [AveryNNN/5-axis-printing](https://github.com/AveryNNN/5-axis-printing) - 基于grbl和marlin改的，用于五轴喷印设备
+- [seeul8er/Real3DFFF](https://github.com/seeul8er/Real3DFFF) - Curved Layer Fused Filament Fabrication (CLFFF) Algorithm that produces G-Code with normal vectors for 5 axis 3d printing. Uses variable layer height.
+- [Qiang-Zou/TPMS2STEP](https://github.com/Qiang-Zou/TPMS2STEP) - A lightweight tool for converting TPMS models to STEP files to be used in conventional CAD/CAM/CAE pipeline
+- [pyvista/pyvista-cad](https://github.com/pyvista/pyvista-cad) - The canonical CAD interop and plotting layer for PyVista
+- [IkonOne/tpmsModeller](https://github.com/IkonOne/tpmsModeller) - Generate non-manifold meshes for the triply periodic minimal surfaces Gyroid and Fisher-Koch S.
+- [hiilda/TPMS-Lattice-Generator-LattGen-](https://github.com/hiilda/TPMS-Lattice-Generator-LattGen-) - 
+- [nodtem66/Scaffolder](https://github.com/nodtem66/Scaffolder) - Generate scaffold from STL file with implicit function (such as TPMS, Schwarz P/ Gyroid).
+- [kutaydemir07/PyLCSS](https://github.com/kutaydemir07/PyLCSS) - Python Low-Code System Solutions
 - [oozebot/preFlight](https://github.com/oozebot/preFlight) - preFlight slicer - no ordinary fork
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [dennisklappe/OrcaSlicer-WaveOverhangs](https://github.com/dennisklappe/OrcaSlicer-WaveOverhangs) - OrcaSlicer fork adding wave-overhang printing, port of stmcculloch/PrusaSlicer-WaveOverhangs with pluggable algorithms (Andersons + Kaiser LaSO)
@@ -2846,7 +2873,7 @@
 - [Ondsel-Development/FreeCAD](https://github.com/Ondsel-Development/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [HYUNSEONG-KIM/UILC](https://github.com/HYUNSEONG-KIM/UILC) - This repostiory contains calculation code for building linear and rectangular LEDs array for uniform irradiation pattern for given area.
 - [SyneRBI/PETRIC](https://github.com/SyneRBI/PETRIC) - PET Image Reconstruction Challenge 2024
-- [gschramm/parallelproj](https://github.com/gschramm/parallelproj) - code for parallel TOF and NONTOF projections
+- [KUL-recon-lab/parallelproj](https://github.com/KUL-recon-lab/parallelproj) - code for parallel TOF and NONTOF projections
 - [esoubrie/siddon](https://github.com/esoubrie/siddon) - Siddon tomography algorithm
 - [ryanneph/Raytrace](https://github.com/ryanneph/Raytrace) - General purpose python ray tracing library implemented in on GPU in CUDA as a Cython extension
 - [3MFConsortium/lib3mf](https://github.com/3MFConsortium/lib3mf) - lib3mf is an implementation of the 3D Manufacturing Format file standard
@@ -3814,7 +3841,6 @@
 - [subprotocol/genetic-js](https://github.com/subprotocol/genetic-js) - Advanced genetic and evolutionary algorithm library written in Javascript
 - [ZIJ/svg-path](https://github.com/ZIJ/svg-path) - Chainable SVG path string generator with some sugar added
 - [diagrams/SVGFonts](https://github.com/diagrams/SVGFonts) - Fonts from the SVG-Font format
-- [steelbreeze/state.js](https://github.com/steelbreeze/state.js) - DEPRECATED, please see @steelbreeze/state
 - [mourner/simplify-js](https://github.com/mourner/simplify-js) - High-performance JavaScript polyline simplification library
 - [memononen/nanosvg](https://github.com/memononen/nanosvg) - Simple stupid SVG parser
 - [micklat/NimBorg](https://github.com/micklat/NimBorg) - To assimilate foreign languages into nimrod's ecosystem
@@ -3971,6 +3997,7 @@
 
 ## physics 
 
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [optiland/optiland](https://github.com/optiland/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
 - [MatthewFilipovich/torchoptics](https://github.com/MatthewFilipovich/torchoptics) - Differentiable wave optics simulation library built on PyTorch
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
@@ -4053,6 +4080,10 @@
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
+
+## prompt-engineering 
+
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 ## publishing 
 
@@ -4373,6 +4404,8 @@
 
 ## robotics 
 
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [DavidSeyserGit/Slicer6D](https://github.com/DavidSeyserGit/Slicer6D) - Slicer6D is a Non-Planar Slicer design for Robot Based Printing
 - [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [aaedmusa/Capstan-Drive](https://github.com/aaedmusa/Capstan-Drive) - Robotic actuator test stand utilizing a Capstan Drive reducer
