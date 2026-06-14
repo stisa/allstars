@@ -116,6 +116,7 @@
 
 ## C 
 
+- [zapta/simple_stepper_motor_analyzer](https://github.com/zapta/simple_stepper_motor_analyzer) - A DYI stepper motor analyzer. This is a new design that is based on Raspberry Pi Pico and users a compact single PCB design.  NOTE: The legacy STM32 based stepper analyzer was moved to this repository
 - [fadedfan/Penta-axis-printer](https://github.com/fadedfan/Penta-axis-printer) - Firmware and software that supports 5-axis 3d printing
 - [AveryNNN/5-axis-printing](https://github.com/AveryNNN/5-axis-printing) - 基于grbl和marlin改的，用于五轴喷印设备
 - [calculix/CalculiX-Windows](https://github.com/calculix/CalculiX-Windows) - CalculiX is an OSS package designed to solve field problems. The method used is the finite element method. This package is a native Microsoft Windows 64-bit build of CalculiX.
@@ -197,6 +198,7 @@
 - [oskca/webview](https://github.com/oskca/webview) - Nim bindings for https://github.com/zserge/webview
 - [Mandarancio/charter](https://github.com/Mandarancio/charter) - DSL and C Library to generate SVG Plot
 - [kosua20/sr_graph](https://github.com/kosua20/sr_graph) - A simple, one-file, header-only, C++ utility for graphs, curves and histograms.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [michaelrsweet/mmd](https://github.com/michaelrsweet/mmd) - Miniature markdown library
 - [Orc/discount](https://github.com/Orc/discount) - My C implementation of John Gruber's Markdown markup language
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
@@ -309,7 +311,6 @@
 - [MatterHackers/MatterSlice](https://github.com/MatterHackers/MatterSlice) - MatterSlice is a C# console application that generates GCode (hardware control) for 3D printing. It was originally ported from CuraEngine (another great open source 3D printing engine). It is the prim
 - [Richard-CRT/3D-Print-Grid-Utility](https://github.com/Richard-CRT/3D-Print-Grid-Utility) - Utility to create/modify/render the .grid file(s) created by smoothieware firmware (mostly geared towards the Tevo Little Monster)
 - [MLJejuCamp2017/DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [starryangt/thoth-gui](https://github.com/starryangt/thoth-gui) - Experimental GUI front-end for Thoth with Eto.Forms
 - [BSalita/c-api-examples](https://github.com/BSalita/c-api-examples) - Visual Studio 2015 solution for building binaryen-c examples.
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
@@ -319,6 +320,7 @@
 
 ## C++ 
 
+- [CauldronDevelopmentLLC/CAMotics](https://github.com/CauldronDevelopmentLLC/CAMotics) - Open-Source Simulation & Computer Aided Machining - A 3-axis CNC GCode simulator
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [Liech/Farfalle](https://github.com/Liech/Farfalle) - Experimental 3d Printing Slicer
 - [Qiang-Zou/TPMS2STEP](https://github.com/Qiang-Zou/TPMS2STEP) - A lightweight tool for converting TPMS models to STEP files to be used in conventional CAD/CAM/CAE pipeline
@@ -472,7 +474,7 @@
 - [firepick1/FireStep](https://github.com/firepick1/FireStep) - 
 - [BCN3D/BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 - [SkyentificGit/SmallRobotArm](https://github.com/SkyentificGit/SmallRobotArm) - This is the open source project of the 6DoF robot arm based on stepper motors
-- [PCrnjak/Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm) - All files  for 6 axis robot arm with cycloidal gearboxes .
+- [Source-Robotics/Faze4-Robotic-arm](https://github.com/Source-Robotics/Faze4-Robotic-arm) - All files  for 6 axis robot arm with cycloidal gearboxes .
 - [FYSETC/FYSETC-E4](https://github.com/FYSETC/FYSETC-E4) - FYSETC Board - The E4 board is a minimal 3D printer control board based on the ESP32 microcontroller from ESPRESSIF, with built-in Wi-Fi and Bluetooth.
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [MarginallyClever/Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - CNC firmware for many different control boards and kinematic systems.  Originally the brain of the Makelangelo art robot.
@@ -811,6 +813,7 @@
 
 ## HTML 
 
+- [zapta/ble_stepper_motor_analyzer](https://github.com/zapta/ble_stepper_motor_analyzer) - A low cost stepper motor analyzer that uses wireless BLE link to display the data in real time on a Windows/Mac/Linux PC.
 - [DavidSeyserGit/Slicer6D](https://github.com/DavidSeyserGit/Slicer6D) - Slicer6D is a Non-Planar Slicer design for Robot Based Printing
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [romerogroup/MechElastic](https://github.com/romerogroup/MechElastic) - A Python library to calculate elastic properties of materials.
@@ -1216,7 +1219,6 @@
 - [ebezzam/open-microscopy-ai-workshop](https://github.com/ebezzam/open-microscopy-ai-workshop) - Material for the Open Microscopy & AI Workshop at EPFL (March 14)
 - [rohdelab/radon-neural-network](https://github.com/rohdelab/radon-neural-network) - 
 - [HYUNSEONG-KIM/UILC](https://github.com/HYUNSEONG-KIM/UILC) - This repostiory contains calculation code for building linear and rectangular LEDs array for uniform irradiation pattern for given area.
-- [achael/kgeo](https://github.com/achael/kgeo) - simple python analytic kerr raytracing
 - [aviadlevis/bhnerf](https://github.com/aviadlevis/bhnerf) - Emission tomography with gravitational lensing using Neural Radiance Fields (NeRF)
 - [effepivi/gvxr-CMPB](https://github.com/effepivi/gvxr-CMPB) - Simulation of X-ray projections on GPU: benchmarking gVirtualXray with clinically realistic phantoms
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
@@ -1275,7 +1277,7 @@
 
 ## Kotlin 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
 - [mrYouki/YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop) - YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
@@ -1475,7 +1477,7 @@
 - [decanus/minima](https://github.com/decanus/minima) - MinimaDB: A persistent & embeddable KV store written in Nim.
 - [treeform/ws](https://github.com/treeform/ws) - Simple WebSocket library for Nim.
 - [enthus1ast/flatdb](https://github.com/enthus1ast/flatdb) - small/tiny, flatfile, jsonl based, inprogress database for nim
-- [itsumura-h/nim-basolato](https://github.com/itsumura-h/nim-basolato) - An asynchronous fullstack web framework for Nim.
+- [dumblepy/nim-basolato](https://github.com/dumblepy/nim-basolato) - An asynchronous fullstack web framework for Nim.
 - [OpenSystemsLab/otp.nim](https://github.com/OpenSystemsLab/otp.nim) - One Time Passwords in Nim
 - [treeform/nimtemplate](https://github.com/treeform/nimtemplate) - You can use this Nim template to jump start your Nim library or project.
 - [ThomasTJdev/nimtomd](https://github.com/ThomasTJdev/nimtomd) - Convert a Nim file to Markdown
@@ -1832,6 +1834,8 @@
 
 ## Python 
 
+- [balazs-peter-attila/GATE_fan_beam_simulation](https://github.com/balazs-peter-attila/GATE_fan_beam_simulation) - Codes used in the paper "Simulating Equidistant Fan-Beam Binary Tomography for 2D Voxel Slices Using GATE 9.x" by Péter Balázs, Tibor Novák, Károly Osvay
+- [TypQxQ/TAMV-webcam](https://github.com/TypQxQ/TAMV-webcam) - TAMV = Tool Align Machine Vision for Duet and Klipper based tool changing 3D printers using remote webcam.
 - [Matszwe02/GcodeTools](https://github.com/Matszwe02/GcodeTools) - Python G-Code Tools library with complete G-Code Reader and Writer
 - [eblanshey/HistoryWorkbench](https://github.com/eblanshey/HistoryWorkbench) - A FreeCAD workbench to track CAD model history and review changes using 3D and tree comparisons.
 - [2cv001/3D_printer_3mf_workflow](https://github.com/2cv001/3D_printer_3mf_workflow) - FreeCAD macro exporting smooth 3MF files and preserving all slicer print settings, with automatic workflow to your preferred slicer.
@@ -1963,6 +1967,7 @@
 - [Garchupiter/Kraken-Optical-Simulator](https://github.com/Garchupiter/Kraken-Optical-Simulator) - Python - Exact ray tracing library
 - [IsaacGuan/3D-VAE](https://github.com/IsaacGuan/3D-VAE) - A variational autoencoder for volumetric shape generation
 - [maxorange/voxel-dcgan](https://github.com/maxorange/voxel-dcgan) - A deep generative model of 3D volumetric shapes
+- [achael/kgeo](https://github.com/achael/kgeo) - simple python analytic kerr raytracing
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [teboli/pytorch_rotation](https://github.com/teboli/pytorch_rotation) - High-quality image and volume rotation routine for Pytorch.
 - [viesturz/klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger) - Toolcahnging extension for Klipper
@@ -2315,6 +2320,7 @@
 
 ## Rust 
 
+- [YATSKOVSKYI/cadcore](https://github.com/YATSKOVSKYI/cadcore) - Pure-Rust CAD geometry kernel — B-Rep topology, analytic surfaces, O(N) filament sweep, STEP AP203 export. No OCCT, no C++.
 - [sdfgeoff/shockwave-slicer](https://github.com/sdfgeoff/shockwave-slicer) - A 3d printing slicer that uses field propagation to generate non-planar layers to reduce supports required for overhangs.
 - [timschmidt/ironpath](https://github.com/timschmidt/ironpath) - An additive and subtractive manufacturing toolpath generator with advanced geometry functions
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
@@ -2447,7 +2453,7 @@
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
