@@ -322,7 +322,6 @@
 
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## agents 
 
@@ -393,11 +392,11 @@
 
 ## android 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [jensomato/ReadeckApp](https://github.com/jensomato/ReadeckApp) - Readeck App is an Android client for the Readeck self-hosted read-it-later service
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
@@ -554,7 +553,7 @@
 
 ## aws 
 
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 
 ## azure 
@@ -1012,6 +1011,7 @@
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
 - [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
+- [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [MatthewFilipovich/torchoptics](https://github.com/MatthewFilipovich/torchoptics) - Differentiable wave optics simulation library built on PyTorch
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
@@ -1781,7 +1781,7 @@
 ## ios 
 
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
@@ -1980,7 +1980,7 @@
 
 ## kotlin 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
 - [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -2067,7 +2067,7 @@
 ## linux 
 
 - [polyfem/polyfem](https://github.com/polyfem/polyfem) - A polyvalent C++ FEM library
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
@@ -2097,6 +2097,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
 - [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
+- [McNopper/EGL](https://github.com/McNopper/EGL) - EGL 1.5 supporting OpenGL and HDR
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
@@ -2141,7 +2142,7 @@
 
 ## mac 
 
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 
 ## machine-learning 
@@ -2150,6 +2151,7 @@
 - [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+- [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [MatthewFilipovich/torchoptics](https://github.com/MatthewFilipovich/torchoptics) - Differentiable wave optics simulation library built on PyTorch
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -2201,7 +2203,7 @@
 ## macos 
 
 - [polyfem/polyfem](https://github.com/polyfem/polyfem) - A polyvalent C++ FEM library
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
@@ -2426,7 +2428,7 @@
 - [jiro4989/setup-nim-action](https://github.com/jiro4989/setup-nim-action) - Set up your GitHub Actions workflow with a specific version of Nim
 - [reviewdog/action-nimlint](https://github.com/reviewdog/action-nimlint) - Run nim check with reviewdog
 - [enthus1ast/flatdb](https://github.com/enthus1ast/flatdb) - small/tiny, flatfile, jsonl based, inprogress database for nim
-- [itsumura-h/nim-basolato](https://github.com/itsumura-h/nim-basolato) - An asynchronous fullstack web framework for Nim.
+- [dumblepy/nim-basolato](https://github.com/dumblepy/nim-basolato) - An asynchronous fullstack web framework for Nim.
 - [ThomasTJdev/nimtomd](https://github.com/ThomasTJdev/nimtomd) - Convert a Nim file to Markdown
 - [soasme/nim-markdown](https://github.com/soasme/nim-markdown) - A Beautiful Markdown Parser in the Nim World.
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
@@ -2576,7 +2578,7 @@
 
 ## open-source 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [dennisklappe/Rep5x](https://github.com/dennisklappe/Rep5x) - Open-source 5-axis 3D printer retrofit system for consumer desktop printers. Improves printing of complex geometries by adding yaw and tilt rotational axes to standard XYZ printers.
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
@@ -2668,6 +2670,11 @@
 
 ## others 
 
+- [balazs-peter-attila/GATE_fan_beam_simulation](https://github.com/balazs-peter-attila/GATE_fan_beam_simulation) - Codes used in the paper "Simulating Equidistant Fan-Beam Binary Tomography for 2D Voxel Slices Using GATE 9.x" by Péter Balázs, Tibor Novák, Károly Osvay
+- [CauldronDevelopmentLLC/CAMotics](https://github.com/CauldronDevelopmentLLC/CAMotics) - Open-Source Simulation & Computer Aided Machining - A 3-axis CNC GCode simulator
+- [TypQxQ/TAMV-webcam](https://github.com/TypQxQ/TAMV-webcam) - TAMV = Tool Align Machine Vision for Duet and Klipper based tool changing 3D printers using remote webcam.
+- [zapta/ble_stepper_motor_analyzer](https://github.com/zapta/ble_stepper_motor_analyzer) - A low cost stepper motor analyzer that uses wireless BLE link to display the data in real time on a Windows/Mac/Linux PC.
+- [zapta/simple_stepper_motor_analyzer](https://github.com/zapta/simple_stepper_motor_analyzer) - A DYI stepper motor analyzer. This is a new design that is based on Raspberry Pi Pico and users a compact single PCB design.  NOTE: The legacy STM32 based stepper analyzer was moved to this repository
 - [Matszwe02/GcodeTools](https://github.com/Matszwe02/GcodeTools) - Python G-Code Tools library with complete G-Code Reader and Writer
 - [2cv001/3D_printer_3mf_workflow](https://github.com/2cv001/3D_printer_3mf_workflow) - FreeCAD macro exporting smooth 3MF files and preserving all slicer print settings, with automatic workflow to your preferred slicer.
 - [jaheyns/CfdOF](https://github.com/jaheyns/CfdOF) - Computational Fluid Dynamics (CFD) for FreeCAD based on OpenFOAM solver
@@ -2790,7 +2797,6 @@
 - [petr-prikryl/OPDS-ABS](https://github.com/petr-prikryl/OPDS-ABS) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
-- [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [CloudCompare/CCCoreLib](https://github.com/CloudCompare/CCCoreLib) - C++ library which provides data structures & algorithms for working with 3D point cloud data
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [NuriaRufo/DeepPETmodified](https://github.com/NuriaRufo/DeepPETmodified) - PET reconstruction with deep learning
@@ -3697,7 +3703,6 @@
 - [astiopin/webgl_fonts](https://github.com/astiopin/webgl_fonts) - WebGL font rendering
 - [WAVM/WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine
 - [karaxnim/karax](https://github.com/karaxnim/karax) - Karax. Single page applications for Nim.
-- [McNopper/EGL](https://github.com/McNopper/EGL) - EGL 1.5 supporting OpenGL and HDR
 - [zacharycarter/nim-playground](https://github.com/zacharycarter/nim-playground) - An interactive playground for the Nim programming language
 - [cretz/asmble](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools
 - [codeandcats/fast-clone](https://github.com/codeandcats/fast-clone) - Extremely fast javascript deep cloning function
@@ -4273,6 +4278,7 @@
 - [camlab-ethz/TensorMesh](https://github.com/camlab-ethz/TensorMesh) - A fast, differentiable, JIT-free, debugging-friendly finite element library for PyTorch.
 - [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
+- [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [optiland/optiland](https://github.com/optiland/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
 - [bot66/MNISTDiffusion](https://github.com/bot66/MNISTDiffusion) - Implement a MNIST(also minimal) version of denoising diffusion probabilistic model from scratch.The model only has 4.55MB.
 - [MatthewFilipovich/diffractive-optical-neural-networks-with-coherence](https://github.com/MatthewFilipovich/diffractive-optical-neural-networks-with-coherence) - Diffractive optical neural network training with arbitrary spatial coherence.
@@ -4381,7 +4387,7 @@
 
 ## react-native 
 
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
@@ -4428,7 +4434,7 @@
 - [UnexpectedLobster/S-curve-Planner](https://github.com/UnexpectedLobster/S-curve-Planner) - C Library for planning n-th order S-curve motion profiles
 - [dorna-robotics/dorna2-python](https://github.com/dorna-robotics/dorna2-python) - Python API for Dorna2 robot
 - [AngelLM/Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
-- [PCrnjak/Faze4-Robotic-arm](https://github.com/PCrnjak/Faze4-Robotic-arm) - All files  for 6 axis robot arm with cycloidal gearboxes .
+- [Source-Robotics/Faze4-Robotic-arm](https://github.com/Source-Robotics/Faze4-Robotic-arm) - All files  for 6 axis robot arm with cycloidal gearboxes .
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
 - [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) - MATLAB sample codes for mobile robot navigation
@@ -4454,6 +4460,7 @@
 
 ## rust 
 
+- [YATSKOVSKYI/cadcore](https://github.com/YATSKOVSKYI/cadcore) - Pure-Rust CAD geometry kernel — B-Rep topology, analytic surfaces, O(N) filament sweep, STEP AP203 export. No OCCT, no C++.
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
@@ -4802,6 +4809,7 @@
 ## visualization 
 
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
+- [sachinhosmani/torchvista](https://github.com/sachinhosmani/torchvista) - Interactive Pytorch forward pass visualization in notebooks
 - [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show 3D visualizations from PyVista in Streamlit
 - [ajhynes7/scikit-spatial](https://github.com/ajhynes7/scikit-spatial) - Spatial objects and computations based on NumPy arrays.
 - [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
@@ -4904,7 +4912,7 @@
 ## windows 
 
 - [polyfem/polyfem](https://github.com/polyfem/polyfem) - A polyvalent C++ FEM library
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
@@ -4930,6 +4938,7 @@
 - [cntools/rawdraw](https://github.com/cntools/rawdraw) - Primitive Platform Agnostic Windowing+Input Header-Only Library
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 - [Leandros/WindowsHModular](https://github.com/Leandros/WindowsHModular) - A modular Windows.h Header. Licensed under Public Domain & MIT.
+- [McNopper/EGL](https://github.com/McNopper/EGL) - EGL 1.5 supporting OpenGL and HDR
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
