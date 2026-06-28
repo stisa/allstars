@@ -813,6 +813,7 @@
 
 ## HTML 
 
+- [zruncho3d/madmax](https://github.com/zruncho3d/madmax) - MadMax - the crazy-simple toolchanger conversion for your CoreXY printer
 - [zapta/ble_stepper_motor_analyzer](https://github.com/zapta/ble_stepper_motor_analyzer) - A low cost stepper motor analyzer that uses wireless BLE link to display the data in real time on a Windows/Mac/Linux PC.
 - [DavidSeyserGit/Slicer6D](https://github.com/DavidSeyserGit/Slicer6D) - Slicer6D is a Non-Planar Slicer design for Robot Based Printing
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
@@ -930,6 +931,7 @@
 
 ## JavaScript 
 
+- [xpix/XATC](https://github.com/xpix/XATC) - DIY CNC Automatic Toolchanger
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [ether-strannik/zeppos-tasks-nc-api4](https://github.com/ether-strannik/zeppos-tasks-nc-api4) - ZeppOS API 3.0 test project with MessageBuilder - foundation for Tasks app migration
 - [melianmiko/ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) - Task list for ZeppOS. In sync with Google Tasks
@@ -1287,7 +1289,7 @@
 - [Ethran/notable](https://github.com/Ethran/notable) - An alternative note-taking app designed specifically for BOOX e-ink devices
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
 - [jensomato/ReadeckApp](https://github.com/jensomato/ReadeckApp) - Readeck App is an Android client for the Readeck self-hosted read-it-later service
-- [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - Browse Mastodon, Bluesky, X, Misskey, Nostr, Pixiv and RSS all in one app. One timeline, all your accounts, cross-post everywhere.
+- [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - Browse Mastodon, Bluesky, X, Misskey, Nostr, Pixiv, Fanbox and RSS all in one app. One timeline, all your accounts, cross-post everywhere.
 - [ZornsLemma/my-price-log](https://github.com/ZornsLemma/my-price-log) - Android app to track and compare prices offline
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [LSafer/edgeseek](https://github.com/LSafer/edgeseek) - The Source Code of Edge Seek
@@ -1634,6 +1636,7 @@
 
 ## Others 
 
+- [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
 - [zruncho3d/nudge](https://github.com/zruncho3d/nudge) - automatic nozzle alignment, made easy
 - [zhou-wb/HoloPathTracer](https://github.com/zhou-wb/HoloPathTracer) - An open-source library for computer-generated holography based on wave path tracing
 - [sn3ro/OpenATC](https://github.com/sn3ro/OpenATC) - Open-source modular automatic tool changer (ATC) for hobby CNC routers, using spindle inertia for reliable tool tightening.
@@ -2185,7 +2188,7 @@
 - [yunshengtian/AutoOED](https://github.com/yunshengtian/AutoOED) - AutoOED: Automated Optimal Experimental Design Platform
 - [zruncho3d/f-zero](https://github.com/zruncho3d/f-zero) - F-Zero: by Zruncho - an evolved Voron Zero
 - [sjmuellerbt/CYprofiles](https://github.com/sjmuellerbt/CYprofiles) - A set of Python classes implementing an algorithm for the calculation of flow profiles (e.g. velocity, shear rate, shear stress, and viscosity) of a non-Newtonian Carreau-Yasuda fluid in a cylindrical
-- [computed-axial-lithography/OpenCAL](https://github.com/computed-axial-lithography/OpenCAL) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
+- [computed-axial-lithography/OpenCAL-Firmware](https://github.com/computed-axial-lithography/OpenCAL-Firmware) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
 - [AndyEveritt/ASMBL](https://github.com/AndyEveritt/ASMBL) - Additive & Subtractive Manufacturing By Layer for the E3D ToolChanging platform
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
@@ -2457,10 +2460,10 @@
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [aws-samples/sample-vif-chat-app](https://github.com/aws-samples/sample-vif-chat-app) - A lightning-fast, cross-platform AI Assistant App built with React Native.
+- [aws-samples/sample-mobile-ai-assistant](https://github.com/aws-samples/sample-mobile-ai-assistant) - A lightning-fast, cross-platform mobile AI Assistant App built with React Native.
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
+- [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for js runtimes and the Browser
 - [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
