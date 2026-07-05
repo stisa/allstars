@@ -293,7 +293,7 @@
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [ankenyr/jellyfin-youtube-metadata-plugin](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) - Youtube Metadata Plugin for Jellyfin
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-- [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
+- [jellyfin-archive/jellyfin-plugin-bookshelf](https://github.com/jellyfin-archive/jellyfin-plugin-bookshelf) - 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
@@ -620,7 +620,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [jarcane/minicosm](https://github.com/jarcane/minicosm) - A FP-oriented game engine inspired by universe.rkt, written in Clojurescript
 - [tmcw/wah](https://github.com/tmcw/wah) - a slightly higher-level language superset of webassembly
@@ -761,6 +761,7 @@
 
 ## Go 
 
+- [Oblikovati/Oblikovati](https://github.com/Oblikovati/Oblikovati) - Oblikovati is a parametric, feature-based, history-driven mechanical-CAD (MCAD) application
 - [relvacode/caddy-oidc](https://github.com/relvacode/caddy-oidc) - OIDC authentication and authorization termination for Caddy
 - [sonroyaalmerol/docker-sogo](https://github.com/sonroyaalmerol/docker-sogo) - A modern Docker container implementation of Alinto/SOGo. https://hub.docker.com/r/sonroyaalmerol/docker-sogo
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
@@ -1399,7 +1400,7 @@
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
 - [capocasa/cgui](https://github.com/capocasa/cgui) - An example setup to cross compile native GUI apps for Nim on Linux, for Linux, Windows and OSX
 - [yuya-isaka/Nimcc](https://github.com/yuya-isaka/Nimcc) - Mini C compiler written in Nim
-- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
+- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [bitstormFA/ArrayFire-Nim](https://github.com/bitstormFA/ArrayFire-Nim) - A Nim Wrapper for ArrayFire
 - [treeform/shady](https://github.com/treeform/shady) - Nim to GPU shader language compiler and supporting utilities.
@@ -2525,7 +2526,6 @@
 - [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 - [polygonjs/polygonjs](https://github.com/polygonjs/polygonjs) - node-based WebGL design tool
 - [viaprotocol/web3-wallets](https://github.com/viaprotocol/web3-wallets) - Connect multiple web3 wallets to your dapp easily
-- [DefiLlama/defillama-app](https://github.com/DefiLlama/defillama-app) - 
 - [two-ticks/p5.teach.js](https://github.com/two-ticks/p5.teach.js) - A beginner friendly math animation library for p5.js
 - [polywrap/wrap-cli](https://github.com/polywrap/wrap-cli) - Used to create, build, and integrate wraps.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
