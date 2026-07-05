@@ -35,6 +35,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -135,6 +136,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -734,6 +736,14 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [fiatjaf/module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub
 
+## claude 
+
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [raw-labs/mxcp](https://github.com/raw-labs/mxcp) - Model eXecution + Context Protocol: Enterprise-Grade Data-to-AI Infrastructure
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [voideditor/void](https://github.com/voideditor/void) - 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+
 ## claude-code 
 
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
@@ -749,7 +759,7 @@
 
 ## clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [tmcw/wah](https://github.com/tmcw/wah) - a slightly higher-level language superset of webassembly
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -1073,7 +1083,7 @@
 
 - [dylanmsu/fast_caustic_design](https://github.com/dylanmsu/fast_caustic_design) - Code to quickly compute the shape of a transparent surface such that it casts an image if light passes through it.
 - [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) - A desktop application for Penpot, an open-source design tool.
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [laserpilot/Survey_of_Alternative_Displays](https://github.com/laserpilot/Survey_of_Alternative_Displays) - Alternative Display writeup repo
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
@@ -1718,7 +1728,7 @@
 ## html 
 
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
-- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
+- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
@@ -2036,6 +2046,10 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs) - An easy and convenient package to create technical LaTeX documents.
 
+## learn-to-code 
+
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
+
 ## learning 
 
 - [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
@@ -2107,7 +2121,6 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
 ## llm 
 
@@ -2222,7 +2235,6 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
 ## markdown 
 
@@ -2279,6 +2291,7 @@
 ## material-design 
 
 - [dominikmuellr/trudido](https://github.com/dominikmuellr/trudido) - Simple tasks. Secure notes. Made in Europe.
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
 
 ## matlab 
@@ -2378,7 +2391,7 @@
 - [planetis-m/compute-sim](https://github.com/planetis-m/compute-sim) - Learn and understand compute shader operations and control flow.
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An opinionated Linux® distribution based on musl libc and toybox
-- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance template engine & markup language written in Nim
+- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [Angluca/tigr-nim](https://github.com/Angluca/tigr-nim) - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
@@ -2674,6 +2687,7 @@
 
 ## others 
 
+- [Oblikovati/Oblikovati](https://github.com/Oblikovati/Oblikovati) - Oblikovati is a parametric, feature-based, history-driven mechanical-CAD (MCAD) application
 - [xpix/XATC](https://github.com/xpix/XATC) - DIY CNC Automatic Toolchanger
 - [zruncho3d/madmax](https://github.com/zruncho3d/madmax) - MadMax - the crazy-simple toolchanger conversion for your CoreXY printer
 - [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
@@ -2847,7 +2861,7 @@
 - [OleksandrPanforov/saturn-klipper](https://github.com/OleksandrPanforov/saturn-klipper) - 
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [ankenyr/jellyfin-youtube-metadata-plugin](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) - Youtube Metadata Plugin for Jellyfin
-- [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
+- [jellyfin-archive/jellyfin-plugin-bookshelf](https://github.com/jellyfin-archive/jellyfin-plugin-bookshelf) - 
 - [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
 - [JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls](https://github.com/JHU-Mueller-Lab/Time-Code-for-Multifunctional-3D-Printhead-Controls) - Example code for "Time Code for Multifunctional 3D Printhead Controls"
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
@@ -3243,7 +3257,6 @@
 - [SCIInstitute/Seg3D](https://github.com/SCIInstitute/Seg3D) - Seg3D is a free volume segmentation and processing tool developed by the NIH Center for Integrative Biomedical Computing at the University of Utah Scientific Computing and Imaging (SCI) Institute.
 - [daeyun/mesh-to-depth](https://github.com/daeyun/mesh-to-depth) - Depth map generator for Python written in C++
 - [Wicklets/wick-editor](https://github.com/Wicklets/wick-editor) - A free and open-source tool for creating games, animations and everything in-between!
-- [DefiLlama/defillama-app](https://github.com/DefiLlama/defillama-app) - 
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see:
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
@@ -4079,6 +4092,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
 ## programming 
 
@@ -4757,7 +4771,7 @@
 ## ui 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) - A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨
@@ -4955,7 +4969,6 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
 ## wordpress 
 
