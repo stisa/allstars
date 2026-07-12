@@ -312,7 +312,7 @@
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [tsherif/picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [Circular-Studios/Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
@@ -561,7 +561,7 @@
 ## azure 
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 
 ## backend 
 
@@ -1125,7 +1125,7 @@
 
 - [mkuf/prind](https://github.com/mkuf/prind) - print in docker - Deploy a containerized Klipper Stack for your 3D Printer
 - [mainsail-crew/virtual-klipper-printer](https://github.com/mainsail-crew/virtual-klipper-printer) - Run a simulated Klipper 3D-Printer in a Docker container
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -1412,7 +1412,7 @@
 - [adngdb/entity-system-js](https://github.com/adngdb/entity-system-js) - ensy - A very simple Entity System for JavaScript
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [pragmagic/nimue4](https://github.com/pragmagic/nimue4) - Nim language integration for Unreal Engine 4
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
 - [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
@@ -1460,7 +1460,7 @@
 - [fragworks/frag](https://github.com/fragworks/frag) - A cross-platform 2D|3D game framework for the Nim programming language
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [Vladar4/nimgame2](https://github.com/Vladar4/nimgame2) - A simple 2D game engine for Nim language.
 - [elnormous/ouzel](https://github.com/elnormous/ouzel) - C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers
@@ -1502,7 +1502,7 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [adngdb/entity-system-js](https://github.com/adngdb/entity-system-js) - ensy - A very simple Entity System for JavaScript
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev) - :video_game: A list of Game Development resources to make magic happen.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -1533,7 +1533,7 @@
 ## git 
 
 - [eblanshey/HistoryWorkbench](https://github.com/eblanshey/HistoryWorkbench) - A FreeCAD workbench to track CAD model history and review changes using 3D and tree comparisons.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [nim-works/gitnim](https://github.com/nim-works/gitnim) - choosenim for choosey nimions
 - [disruptek/bump](https://github.com/disruptek/bump) - a tiny tool to bump nimble versions 🍻
@@ -1583,6 +1583,7 @@
 
 ## golang 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -1728,7 +1729,7 @@
 ## html 
 
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
-- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
+- [tim-engine/tim](https://github.com/tim-engine/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
@@ -1819,7 +1820,7 @@
 ## ipfs 
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) - Build and Deploy for Eternity. Jolly Roger is a production-ready template for decentralised applications.
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
 - [alto-io/game3.js](https://github.com/alto-io/game3.js) - The Web 3.0 Game Framework
@@ -2153,7 +2154,7 @@
 - [hellerve/e](https://github.com/hellerve/e) - A dead simple editor
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [bakpakin/tiny-ecs](https://github.com/bakpakin/tiny-ecs) - ECS for Lua
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 
 ## mac 
 
@@ -2242,7 +2243,7 @@
 - [adeeteya/FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [flusterIO/fluster](https://github.com/flusterIO/fluster) - Your brain's presentation layer.
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
@@ -2391,7 +2392,7 @@
 - [planetis-m/compute-sim](https://github.com/planetis-m/compute-sim) - Learn and understand compute shader operations and control flow.
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An opinionated Linux® distribution based on musl libc and toybox
-- [openpeeps/tim](https://github.com/openpeeps/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
+- [tim-engine/tim](https://github.com/tim-engine/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [Angluca/tigr-nim](https://github.com/Angluca/tigr-nim) - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
@@ -2687,6 +2688,12 @@
 
 ## others 
 
+- [matthuszagh/pyems](https://github.com/matthuszagh/pyems) - High-level python interface to OpenEMS with automatic mesh generation
+- [SamJager/Reinforced-Slicer](https://github.com/SamJager/Reinforced-Slicer) - A slicer built from the ground up to tackle 5 axis reinforced fiber printing
+- [daichengkai/VoxelMultiAxisAM](https://github.com/daichengkai/VoxelMultiAxisAM) - VoxelMultiAxisAM
+- [XUPENGDA-HKUST/SyNSlicerEngine-A-5-Axis-3D-Printing-Slicer](https://github.com/XUPENGDA-HKUST/SyNSlicerEngine-A-5-Axis-3D-Printing-Slicer) - 
+- [Ber-Sento/5axis-slicer](https://github.com/Ber-Sento/5axis-slicer) - Software framework for 5-axis 3D printing, including slicing, toolpath generation, and machine-specific G-code conversion.
+- [EPFL-LAPD/SHVAM](https://github.com/EPFL-LAPD/SHVAM) - Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization
 - [Oblikovati/Oblikovati](https://github.com/Oblikovati/Oblikovati) - Oblikovati is a parametric, feature-based, history-driven mechanical-CAD (MCAD) application
 - [xpix/XATC](https://github.com/xpix/XATC) - DIY CNC Automatic Toolchanger
 - [zruncho3d/madmax](https://github.com/zruncho3d/madmax) - MadMax - the crazy-simple toolchanger conversion for your CoreXY printer
@@ -4130,7 +4137,7 @@
 
 ## pwa 
 
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
@@ -4855,6 +4862,7 @@
 
 ## vue 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
