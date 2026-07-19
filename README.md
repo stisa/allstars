@@ -159,6 +159,7 @@
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
+- [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [irishpatrick/pico-servo](https://github.com/irishpatrick/pico-servo) - A simple Raspberry Pi Pico library for controlling servos
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -446,7 +447,6 @@
 - [LuxCoreRender/LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [daeyun/mesh-to-depth](https://github.com/daeyun/mesh-to-depth) - Depth map generator for Python written in C++
-- [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [ttddee/Cascade](https://github.com/ttddee/Cascade) - Node-based image editor with GPU-acceleration.
 - [neuebot/FIBR3DEmul](https://github.com/neuebot/FIBR3DEmul) - Custom 3 and 5 axis FDM process simulator.
@@ -502,7 +502,7 @@
 - [chrberger/libcluon](https://github.com/chrberger/libcluon) - libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
 - [roboticslibrary/rl](https://github.com/roboticslibrary/rl) - The Robotics Library (RL) is a self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control.
 - [gcapu/miniFEM](https://github.com/gcapu/miniFEM) - A minimalist FEM program in C++ (single header)
-- [FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment
+- [FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment for solving finite element problems
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [michael-lehn/FLENS](https://github.com/michael-lehn/FLENS) - Flexible Library for Efficient Numerical Solutions
 - [mjxu96/carlaviz](https://github.com/mjxu96/carlaviz) - Visualize carla in the web browser
@@ -695,7 +695,7 @@
 ## Elixir 
 
 - [OndraFTW/seagull](https://github.com/OndraFTW/seagull) - Simple GUI library for Elixir language based on wxErlang
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 
 ## Elm 
 
@@ -775,6 +775,7 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
@@ -783,7 +784,6 @@
 - [ezrec/uv3dp](https://github.com/ezrec/uv3dp) - Tools for UV Resin based 3D Printers (in Go)
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
 - [anyswap/CrossChain-Bridge](https://github.com/anyswap/CrossChain-Bridge) - Cross-Chain bridge based on Anyswap MPC network.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -934,6 +934,7 @@
 
 ## JavaScript 
 
+- [computed-axial-lithography/tomo](https://github.com/computed-axial-lithography/tomo) - VAMToolboxes GUI
 - [xpix/XATC](https://github.com/xpix/XATC) - DIY CNC Automatic Toolchanger
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [ether-strannik/zeppos-tasks-nc-api4](https://github.com/ether-strannik/zeppos-tasks-nc-api4) - ZeppOS API 3.0 test project with MessageBuilder - foundation for Tasks app migration
@@ -1216,7 +1217,6 @@
 - [EPFL-LAPD/SHVAM](https://github.com/EPFL-LAPD/SHVAM) - Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization
 - [CIDeR-ML/LUCiD](https://github.com/CIDeR-ML/LUCiD) - 
 - [Prasadampajalapu/Indian_Startups_1](https://github.com/Prasadampajalapu/Indian_Startups_1) - This dataset has funding information of the Indian startups from January 2015 to August 2017. Feature Details : SNo - Serial number. Date - Date of funding in format DD/MM/YYYY. StartupName - Name of 
-- [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
 - [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) - Material for a Jupyter-based Python tutorial, with Introductory, Advanced, Libraries modules
 - [ronenroi/LearnedCloudCT](https://github.com/ronenroi/LearnedCloudCT) - 
 - [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
@@ -1657,7 +1657,6 @@
 - [silverbulletmd/silverbullet-libraries](https://github.com/silverbulletmd/silverbullet-libraries) - Awesome SilverBullet libraries
 - [mschmidtkorth/silverbullet-zen](https://github.com/mschmidtkorth/silverbullet-zen) - A theme for SilverBullet inspired by Zen browser. Design philosophy: Calm, reduced visual noise and consistency.
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [OleksandrPanforov/saturn-klipper](https://github.com/OleksandrPanforov/saturn-klipper) - 
 - [zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) - A reading list for computational optics liteature presented on SIGGRAPH.
 - [liamartinez/AppropriatingNewTechnologies](https://github.com/liamartinez/AppropriatingNewTechnologies) - A half-semester class at ITP.
@@ -1871,6 +1870,7 @@
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [raw-labs/mxcp](https://github.com/raw-labs/mxcp) - Model eXecution + Context Protocol: Enterprise-Grade Data-to-AI Infrastructure
 - [BAMresearch/chatBIS](https://github.com/BAMresearch/chatBIS) - A conversational AI assistant for the openBIS research data management system. Uses RAG with Ollama to provide natural, accurate responses to queries about openBIS. Scrapes documentation, processes it
+- [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
 - [bbo-git/5AxisSlicerBlenderAddon](https://github.com/bbo-git/5AxisSlicerBlenderAddon) - Blender addon for 5 axis 3d printers
 - [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) - The official API server for Exllama. OAI compatible, lightweight, and fast.
 - [leochlon/mezzanine](https://github.com/leochlon/mezzanine) - 
@@ -1929,6 +1929,7 @@
 - [shwbaek/pado](https://github.com/shwbaek/pado) - Pado: Pytorch Automatic Differentiable Optics
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
 - [bedbad/justpyplot](https://github.com/bedbad/justpyplot) - Plot in NumPy arrays directly, overlay NumPy plots straight over video real-time, plot in Jupyter without a single loop
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [JoTec2002/InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie) - A simple little converter, that imports an instagram URL into mealie
 - [microsoft/mattergen](https://github.com/microsoft/mattergen) - Official implementation of MatterGen -- a generative model for inorganic materials design across the periodic table that can be fine-tuned to steer the generation towards a wide range of property cons
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
@@ -2183,8 +2184,9 @@
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [CNCKitchen/GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -2377,7 +2379,7 @@
 - [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
 - [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
-- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
+- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platform window and framebuffer crate for Rust
 - [raphlinus/font-rs](https://github.com/raphlinus/font-rs) - 
 - [brson/miri](https://github.com/brson/miri) - An experimental compiler from Rust to WebAssembly (inactive - do not use)
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -2389,7 +2391,7 @@
 
 ## Shell 
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [bitfireAT/webdav-push](https://github.com/bitfireAT/webdav-push) - WebDAV Push: Draft
 - [zepp-health/awesome-zeppos](https://github.com/zepp-health/awesome-zeppos) - ⭐ Useful resources for the Zepp OS
 - [mainsail-crew/virtual-klipper-printer](https://github.com/mainsail-crew/virtual-klipper-printer) - Run a simulated Klipper 3D-Printer in a Docker container
@@ -2461,6 +2463,8 @@
 
 ## TypeScript 
 
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
+- [Formsmith746/SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D) - A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.
 - [AFKFelix/orca-slicer-api](https://github.com/AFKFelix/orca-slicer-api) - A simple REST API for slicing models using OrcaSlicer
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
@@ -2510,7 +2514,6 @@
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
