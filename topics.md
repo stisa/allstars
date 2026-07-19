@@ -322,6 +322,7 @@
 
 ## agent 
 
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
@@ -451,7 +452,7 @@
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [metacraft-labs/languist](https://github.com/metacraft-labs/languist) - a framework for automated translation of high level langs
 
 ## arduino 
@@ -582,7 +583,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -605,7 +606,7 @@
 
 ## bot 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 
@@ -894,7 +895,7 @@
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
@@ -1252,7 +1253,7 @@
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [floating/frame](https://github.com/floating/frame) - System-wide Web3 for macOS, Windows and Linux
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [Anish-Agnihotri/merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Frontend, contracts, and merkle tree generator for use in quickly scaffolding ERC20 token airdrops.
@@ -2067,7 +2068,7 @@
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [Cultrarius/Swarmz](https://github.com/Cultrarius/Swarmz) - A free, header-only C++ swarming (flocking) library for real-time applications
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
@@ -2239,6 +2240,7 @@
 
 ## markdown 
 
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [dominikmuellr/trudido](https://github.com/dominikmuellr/trudido) - Simple tasks. Secure notes. Made in Europe.
 - [adeeteya/FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
@@ -2688,6 +2690,8 @@
 
 ## others 
 
+- [Formsmith746/SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D) - A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.
+- [computed-axial-lithography/tomo](https://github.com/computed-axial-lithography/tomo) - VAMToolboxes GUI
 - [matthuszagh/pyems](https://github.com/matthuszagh/pyems) - High-level python interface to OpenEMS with automatic mesh generation
 - [SamJager/Reinforced-Slicer](https://github.com/SamJager/Reinforced-Slicer) - A slicer built from the ground up to tackle 5 axis reinforced fiber printing
 - [daichengkai/VoxelMultiAxisAM](https://github.com/daichengkai/VoxelMultiAxisAM) - VoxelMultiAxisAM
@@ -2743,7 +2747,7 @@
 - [PozzettiAndrea/occt-rt-python](https://github.com/PozzettiAndrea/occt-rt-python) - Python bindings for OCCT-RT raytracer. NumPy integration, pythonocc compatible, batch raycasting with OpenMP.
 - [AutodeskAILab/occwl](https://github.com/AutodeskAILab/occwl) - Lightweight Pythonic wrapper around pythonocc
 - [BioinsideLab/PyVoroGen---Voronoi-Path-Generator](https://github.com/BioinsideLab/PyVoroGen---Voronoi-Path-Generator) - 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
 - [fractalrobotics/Fractal-5-Pro](https://github.com/fractalrobotics/Fractal-5-Pro) - A Multidirectional 5-Axis 3D Printer
 - [txf0101/5AxisSlicer](https://github.com/txf0101/5AxisSlicer) - 5AxisSlicer is a Python slicing application for research on five-axis rotary-bed 3D printing.
@@ -3551,7 +3555,7 @@
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [status-im/nim-stew](https://github.com/status-im/nim-stew) - stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
-- [FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment
+- [FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) - Next generation FEniCS problem solving environment for solving finite element problems
 - [FEniCS/ffcx](https://github.com/FEniCS/ffcx) - Next generation FEniCS Form Compiler for finite element forms
 - [zarr-developers/zarr-specs](https://github.com/zarr-developers/zarr-specs) - Zarr core protocol for storage and  retrieval of N-dimensional typed arrays
 - [jupytercon/jupytercon2020-website](https://github.com/jupytercon/jupytercon2020-website) - JupyterCon Website
@@ -3983,7 +3987,7 @@
 - [jcoglan/berliner](https://github.com/jcoglan/berliner) - Sinatra refactored, only eight lines now. More popular than a pair of socks.
 - [xeoncross/forumfive](https://github.com/xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
 - [OndraFTW/seagull](https://github.com/OndraFTW/seagull) - Simple GUI library for Elixir language based on wxErlang
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [cmusphinx/sphinxbase](https://github.com/cmusphinx/sphinxbase) - 
 - [fbrinker/android-flatUiColors](https://github.com/fbrinker/android-flatUiColors) - Android Colors for Flat UI Design
 - [VikParuchuri/scribe](https://github.com/VikParuchuri/scribe) - Simple speech recognition using your microphone.
@@ -4520,7 +4524,7 @@
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [serde-deprecated/syntex](https://github.com/serde-deprecated/syntex) - No longer maintained
 - [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
-- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
+- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platform window and framebuffer crate for Rust
 - [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 
 ## scala 
@@ -4720,7 +4724,7 @@
 
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 
@@ -4871,6 +4875,7 @@
 
 ## vuejs 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
