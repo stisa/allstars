@@ -157,7 +157,7 @@
 - [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [EchoHeim/Allwinner-H616](https://github.com/EchoHeim/Allwinner-H616) - 🔥 Linux SDK for Allwinner H616, based on armbian-build
 - [DeutscheKI/tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
 - [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -209,6 +209,7 @@
 - [LingDong-/skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images
 - [espressif/esp-who](https://github.com/espressif/esp-who) - Face detection and recognition framework
 - [xhs/librtcdc](https://github.com/xhs/librtcdc) - Tiny portable WebRTC Data Channel in C.
+- [JCash/voronoi](https://github.com/JCash/voronoi) - A C implementation for creating 2D Voronoi/Delauney diagrams
 - [solenum/exengine](https://github.com/solenum/exengine) - A C99 3D game engine
 - [shift-dynamics/ksl](https://github.com/shift-dynamics/ksl) - Kinematics Subroutine Library
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
@@ -512,7 +513,6 @@
 - [MacroUniverse/MatPlot](https://github.com/MacroUniverse/MatPlot) - a Matlab-like plot library for Visual C++ in Windows
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [neonious/lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
-- [JCash/voronoi](https://github.com/JCash/voronoi) - A C implementation for creating 2D voronoi diagrams
 - [msokalski/delabella](https://github.com/msokalski/delabella) - 2D Delaunay triangulation (dela) - super stable (bella!)
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
@@ -716,6 +716,7 @@
 
 ## G-code 
 
+- [Caryhao/5Axis-Gcode-Generator](https://github.com/Caryhao/5Axis-Gcode-Generator) - This generator creates G-Code for an in-house-built 5-axis Ender Neo, optimized for FANUC format. It enables precise slicing and multi-axis toolpaths for specific shapes and angles (not continuous con
 - [Buzzloopster/Voron-Trident-5-axis](https://github.com/Buzzloopster/Voron-Trident-5-axis) - This is an 5 axis modification of Voron Trident 250mm
 - [iostwestcoast/Gh-Slicer](https://github.com/iostwestcoast/Gh-Slicer) - Modelling of the milling process and creation of a slicer for non-planar surfaces with subsequent milling and porcelain printing
 - [seeul8er/Real3DFFF](https://github.com/seeul8er/Real3DFFF) - Curved Layer Fused Filament Fabrication (CLFFF) Algorithm that produces G-Code with normal vectors for 5 axis 3d printing. Uses variable layer height.
@@ -819,7 +820,6 @@
 - [zruncho3d/madmax](https://github.com/zruncho3d/madmax) - MadMax - the crazy-simple toolchanger conversion for your CoreXY printer
 - [zapta/ble_stepper_motor_analyzer](https://github.com/zapta/ble_stepper_motor_analyzer) - A low cost stepper motor analyzer that uses wireless BLE link to display the data in real time on a Windows/Mac/Linux PC.
 - [DavidSeyserGit/Slicer6D](https://github.com/DavidSeyserGit/Slicer6D) - Slicer6D is a Non-Planar Slicer design for Robot Based Printing
-- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [romerogroup/MechElastic](https://github.com/romerogroup/MechElastic) - A Python library to calculate elastic properties of materials.
 - [thekampany/tripproject](https://github.com/thekampany/tripproject) - Trippanion is a Trip Planning Companion application for family and friends
 - [edsaac/stpyvista](https://github.com/edsaac/stpyvista) - 🧊 Show 3D visualizations from PyVista in Streamlit
@@ -1113,7 +1113,6 @@
 - [mozilla/source-map](https://github.com/mozilla/source-map) - Consume and generate source maps.
 - [fiatjaf/module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
-- [jagenjo/litegl.js](https://github.com/jagenjo/litegl.js) - Lightweight Javascript WebGL library for handling Context, Meshes, Textures and Shaders. Relies on glMatrix 2.0, very easy to use.
 - [greggman/twgl.js](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library
 - [j2kun/bezier-picasso](https://github.com/j2kun/bezier-picasso) - Python and Javascript code used in the post "Bezier Curves and Picasso"
 - [adngdb/entity-system-js](https://github.com/adngdb/entity-system-js) - ensy - A very simple Entity System for JavaScript
@@ -1843,6 +1842,8 @@
 
 ## Python 
 
+- [smartin015/5axis_cad](https://github.com/smartin015/5axis_cad) - CADQuery based operations for turning operations on the PocketNC 5-axis CNC machine
+- [FreeCAD/Addon-Template](https://github.com/FreeCAD/Addon-Template) - Minimal FreeCAD Addon Template
 - [matthuszagh/pyems](https://github.com/matthuszagh/pyems) - High-level python interface to OpenEMS with automatic mesh generation
 - [SamJager/Reinforced-Slicer](https://github.com/SamJager/Reinforced-Slicer) - A slicer built from the ground up to tackle 5 axis reinforced fiber printing
 - [Ber-Sento/5axis-slicer](https://github.com/Ber-Sento/5axis-slicer) - Software framework for 5-axis 3D printing, including slicing, toolpath generation, and machine-specific G-code conversion.
@@ -2186,7 +2187,7 @@
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -2483,6 +2484,7 @@
 - [joekrill/silverbullet-treeview](https://github.com/joekrill/silverbullet-treeview) - SilverBullet TreeView plug
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
+- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2600,6 +2602,7 @@
 - [rsms/wasm-util](https://github.com/rsms/wasm-util) - WebAssembly utilities
 - [sasaplus1/deepcopy.js](https://github.com/sasaplus1/deepcopy.js) - deep copy data
 - [floooh/altai](https://github.com/floooh/altai) - Modern WebGL wrapper in TypeScript
+- [jagenjo/litegl.js](https://github.com/jagenjo/litegl.js) - Lightweight Javascript WebGL library for handling Context, Meshes, Textures and Shaders. Relies on glMatrix 2.0, very easy to use.
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [oderwat/vscode-indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
