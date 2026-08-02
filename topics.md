@@ -1204,7 +1204,7 @@
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [100/Cranium](https://github.com/100/Cranium) - 🤖   A portable, header-only, artificial neural network library written in C99
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -1814,7 +1814,7 @@
 
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -2553,6 +2553,7 @@
 
 ## numpy 
 
+- [PPeitsch/pkynetics](https://github.com/PPeitsch/pkynetics) - A Python library for thermal analysis and reaction kinetics. Supports DSC, TGA, and dilatometry with tools for model-fitting (JMAK, Kissinger), model-free (Friedman, KAS, OFW) analysis, data processin
 - [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) - Material for a Jupyter-based Python tutorial, with Introductory, Advanced, Libraries modules
 - [gerlero/foamlib](https://github.com/gerlero/foamlib) - ✨ A modern Python package for interacting with OpenFOAM
 - [Quantco/ndonnx](https://github.com/Quantco/ndonnx) - ONNX-backed array library that is compliant with the Array API standard.
@@ -2692,6 +2693,13 @@
 
 ## others 
 
+- [EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing) - Antagonistic dual-wavelength TVAM reconstruction with examples and proof-of-principle simulations.
+- [EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing) - 
+- [duducosmos/defisheye](https://github.com/duducosmos/defisheye) - Fast Corrects for fisheye distortion in an image.
+- [RotBotSlicer/TopographyAutomationHeightMapDriven](https://github.com/RotBotSlicer/TopographyAutomationHeightMapDriven) - 
+- [ErickErock/pICNIK](https://github.com/ErickErock/pICNIK) - 
+- [jes/meshmill](https://github.com/jes/meshmill) - The world's greatest open source 3D CAM software. (Maybe one day.)
+- [joseph-greiner/klipper_tc_automatic_offset_calibration](https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration) - Automatic offset calibration for Klipper tool changers
 - [Caryhao/5Axis-Gcode-Generator](https://github.com/Caryhao/5Axis-Gcode-Generator) - This generator creates G-Code for an in-house-built 5-axis Ender Neo, optimized for FANUC format. It enables precise slicing and multi-axis toolpaths for specific shapes and angles (not continuous con
 - [smartin015/5axis_cad](https://github.com/smartin015/5axis_cad) - CADQuery based operations for turning operations on the PocketNC 5-axis CNC machine
 - [Formsmith746/SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D) - A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.
@@ -2823,7 +2831,7 @@
 - [MrMugame/silversearch](https://github.com/MrMugame/silversearch) - Powerful full-text search engine for Silverbullet
 - [joekrill/silverbullet-treeview](https://github.com/joekrill/silverbullet-treeview) - SilverBullet TreeView plug
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-- [meyayl/docker-languagetool](https://github.com/meyayl/docker-languagetool) - 
+- [meyayl/docker-languagetool](https://github.com/meyayl/docker-languagetool) - Minimal Image for LanguageTool with fasttext support and automatic ngrams download.
 - [SitanHuang/TaskCentral](https://github.com/SitanHuang/TaskCentral) - Opinionated online task management, time tracking, calendaring platform
 - [JuliaAstro/Transits.jl](https://github.com/JuliaAstro/Transits.jl) - Flexible photometric transit curves with limb darkening
 - [Tatze99/optikz](https://github.com/Tatze99/optikz) - Customizable optical components for drawing laser setups and optical systems using TikZ
@@ -4157,6 +4165,8 @@
 
 ## python 
 
+- [PPeitsch/pkynetics](https://github.com/PPeitsch/pkynetics) - A Python library for thermal analysis and reaction kinetics. Supports DSC, TGA, and dilatometry with tools for model-fitting (JMAK, Kissinger), model-free (Friedman, KAS, OFW) analysis, data processin
+- [joansalasoler/gscrib](https://github.com/joansalasoler/gscrib) - Supercharge G-code with Python. Gscrib helps CNC and 3D printing enthusiasts automate workflows. Spend less time on repetitive tasks and more time creating cool stuff.
 - [FreeCAD/Addon-Template](https://github.com/FreeCAD/Addon-Template) - Minimal FreeCAD Addon Template
 - [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) - Material for a Jupyter-based Python tutorial, with Introductory, Advanced, Libraries modules
 - [senthurayyappan/anton](https://github.com/senthurayyappan/anton) - anton is an open-source generative design framework built with Blender and Python
@@ -4461,6 +4471,7 @@
 
 ## robotics 
 
+- [joansalasoler/gscrib](https://github.com/joansalasoler/gscrib) - Supercharge G-code with Python. Gscrib helps CNC and 3D printing enthusiasts automate workflows. Spend less time on repetitive tasks and more time creating cool stuff.
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [DavidSeyserGit/Slicer6D](https://github.com/DavidSeyserGit/Slicer6D) - Slicer6D is a Non-Planar Slicer design for Robot Based Printing
 - [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
@@ -4825,7 +4836,7 @@
 ## video 
 
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
