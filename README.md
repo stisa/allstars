@@ -160,7 +160,7 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
 - [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [irishpatrick/pico-servo](https://github.com/irishpatrick/pico-servo) - A simple Raspberry Pi Pico library for controlling servos
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
@@ -207,7 +207,6 @@
 - [cntools/rawdraw](https://github.com/cntools/rawdraw) - Primitive Platform Agnostic Windowing+Input Header-Only Library
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [LingDong-/skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images
-- [espressif/esp-who](https://github.com/espressif/esp-who) - Face detection and recognition framework
 - [xhs/librtcdc](https://github.com/xhs/librtcdc) - Tiny portable WebRTC Data Channel in C.
 - [JCash/voronoi](https://github.com/JCash/voronoi) - A C implementation for creating 2D Voronoi/Delauney diagrams
 - [solenum/exengine](https://github.com/solenum/exengine) - A C99 3D game engine
@@ -512,6 +511,7 @@
 - [trase-cpp/trase](https://github.com/trase-cpp/trase) - 📊 A lightweight plotting library
 - [MacroUniverse/MatPlot](https://github.com/MacroUniverse/MatPlot) - a Matlab-like plot library for Visual C++ in Windows
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
+- [espressif/esp-who](https://github.com/espressif/esp-who) - Face detection and recognition framework
 - [neonious/lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [msokalski/delabella](https://github.com/msokalski/delabella) - 2D Delaunay triangulation (dela) - super stable (bella!)
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
@@ -716,6 +716,7 @@
 
 ## G-code 
 
+- [RotBotSlicer/TopographyAutomationHeightMapDriven](https://github.com/RotBotSlicer/TopographyAutomationHeightMapDriven) - 
 - [Caryhao/5Axis-Gcode-Generator](https://github.com/Caryhao/5Axis-Gcode-Generator) - This generator creates G-Code for an in-house-built 5-axis Ender Neo, optimized for FANUC format. It enables precise slicing and multi-axis toolpaths for specific shapes and angles (not continuous con
 - [Buzzloopster/Voron-Trident-5-axis](https://github.com/Buzzloopster/Voron-Trident-5-axis) - This is an 5 axis modification of Voron Trident 250mm
 - [iostwestcoast/Gh-Slicer](https://github.com/iostwestcoast/Gh-Slicer) - Modelling of the milling process and creation of a slicer for non-planar surfaces with subsequent milling and porcelain printing
@@ -772,7 +773,7 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
-- [meyayl/docker-languagetool](https://github.com/meyayl/docker-languagetool) - 
+- [meyayl/docker-languagetool](https://github.com/meyayl/docker-languagetool) - Minimal Image for LanguageTool with fasttext support and automatic ngrams download.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -899,7 +900,6 @@
 
 - [Automattic/simplenote-android](https://github.com/Automattic/simplenote-android) - Simplenote for Android
 - [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
-- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 - [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
@@ -934,6 +934,7 @@
 
 ## JavaScript 
 
+- [jes/meshmill](https://github.com/jes/meshmill) - The world's greatest open source 3D CAM software. (Maybe one day.)
 - [computed-axial-lithography/tomo](https://github.com/computed-axial-lithography/tomo) - VAMToolboxes GUI
 - [xpix/XATC](https://github.com/xpix/XATC) - DIY CNC Automatic Toolchanger
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
@@ -1213,6 +1214,7 @@
 
 ## Jupyter Notebook 
 
+- [ErickErock/pICNIK](https://github.com/ErickErock/pICNIK) - 
 - [EPFL-LAPD/SHVAM](https://github.com/EPFL-LAPD/SHVAM) - Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization
 - [CIDeR-ML/LUCiD](https://github.com/CIDeR-ML/LUCiD) - 
 - [Prasadampajalapu/Indian_Startups_1](https://github.com/Prasadampajalapu/Indian_Startups_1) - This dataset has funding information of the Indian startups from January 2015 to August 2017. Feature Details : SNo - Serial number. Date - Date of funding in format DD/MM/YYYY. StartupName - Name of 
@@ -1246,7 +1248,6 @@
 - [nikitinvv/lprec](https://github.com/nikitinvv/lprec) - Log-polar based method for tomography reconstruciton
 - [fernandolucasaa/computerGeneratedHolography](https://github.com/fernandolucasaa/computerGeneratedHolography) - Computer-generated holography (CGH) is the method of digitally generating holographic interference patterns
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [cicwi/tomosipo](https://github.com/cicwi/tomosipo) - A library for painless 3D tomographic reconstruction
 - [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator) - Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 - [pachterlab/poseidon](https://github.com/pachterlab/poseidon) - poseidon system - open source syringe pumps and microscope for laboratories
 - [ItsAwSM/Python-for-Data-Analytics](https://github.com/ItsAwSM/Python-for-Data-Analytics) - This course will teach you only the relevant topics in Python for starting your career in Data Analytics. There are also a bunch of tips and tricks throughout for resume writing, solving case studies,
@@ -1300,6 +1301,7 @@
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [DesarrolloAntonio/Shiori-Android-Client](https://github.com/DesarrolloAntonio/Shiori-Android-Client) - Android app client for Shiori
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [danilkinkin/buckwheat](https://github.com/danilkinkin/buckwheat) - App that helps you spend money wisely for Android made with Jetpack Compose
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
@@ -1307,7 +1309,7 @@
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
-- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
@@ -1639,6 +1641,7 @@
 
 ## Others 
 
+- [joseph-greiner/klipper_tc_automatic_offset_calibration](https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration) - Automatic offset calibration for Klipper tool changers
 - [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
 - [zruncho3d/nudge](https://github.com/zruncho3d/nudge) - automatic nozzle alignment, made easy
 - [zhou-wb/HoloPathTracer](https://github.com/zhou-wb/HoloPathTracer) - An open-source library for computer-generated holography based on wave path tracing
@@ -1842,6 +1845,11 @@
 
 ## Python 
 
+- [EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing) - Antagonistic dual-wavelength TVAM reconstruction with examples and proof-of-principle simulations.
+- [EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing) - 
+- [duducosmos/defisheye](https://github.com/duducosmos/defisheye) - Fast Corrects for fisheye distortion in an image.
+- [PPeitsch/pkynetics](https://github.com/PPeitsch/pkynetics) - A Python library for thermal analysis and reaction kinetics. Supports DSC, TGA, and dilatometry with tools for model-fitting (JMAK, Kissinger), model-free (Friedman, KAS, OFW) analysis, data processin
+- [joansalasoler/gscrib](https://github.com/joansalasoler/gscrib) - Supercharge G-code with Python. Gscrib helps CNC and 3D printing enthusiasts automate workflows. Spend less time on repetitive tasks and more time creating cool stuff.
 - [smartin015/5axis_cad](https://github.com/smartin015/5axis_cad) - CADQuery based operations for turning operations on the PocketNC 5-axis CNC machine
 - [FreeCAD/Addon-Template](https://github.com/FreeCAD/Addon-Template) - Minimal FreeCAD Addon Template
 - [matthuszagh/pyems](https://github.com/matthuszagh/pyems) - High-level python interface to OpenEMS with automatic mesh generation
@@ -2173,6 +2181,7 @@
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [kevinczhou/optical-coherence-refraction-tomography](https://github.com/kevinczhou/optical-coherence-refraction-tomography) - Code for optical coherence refraction tomography (OCRT)
 - [odlgroup/odl](https://github.com/odlgroup/odl) - Operator Discretization Library  https://odl.readthedocs.io/
+- [cicwi/tomosipo](https://github.com/cicwi/tomosipo) - A library for painless 3D tomographic reconstruction
 - [alPreuhs/InteractiveConeBeamReconstruction](https://github.com/alPreuhs/InteractiveConeBeamReconstruction) - 
 - [julienr/meshcut](https://github.com/julienr/meshcut) - Python 3D mesh planar cross-section
 - [evanchodora/stl-slicer](https://github.com/evanchodora/stl-slicer) - Python STL Slicer
