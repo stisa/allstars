@@ -74,6 +74,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SWIG](#swig)
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Standard ML](#standard-ml)
@@ -220,7 +221,7 @@
 - [nyorain/rvg](https://github.com/nyorain/rvg) - High level vulkan 2D vector-like graphics api (C++)
 - [zpl-c/librg](https://github.com/zpl-c/librg) - 🚀  Making multi-player gamedev simpler since 2017
 - [rlk/obj](https://github.com/rlk/obj) - Wavefront OBJ library in C with an OpenGL Core Profile renderer
-- [codeplea/genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
+- [codeplea/genann](https://github.com/codeplea/genann) - simple neural network library in C99
 - [emekoi/cactus](https://github.com/emekoi/cactus) - a wren game engine
 - [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [genotrance/nimgen](https://github.com/genotrance/nimgen) - Nimgen is a helper for c2nim to simplify and automate the wrapping of C libraries
@@ -622,6 +623,7 @@
 
 ## Clojure 
 
+- [logseq/og](https://github.com/logseq/og) - Logseq og (file version)
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [jarcane/minicosm](https://github.com/jarcane/minicosm) - A FP-oriented game engine inspired by universe.rkt, written in Clojurescript
@@ -649,7 +651,6 @@
 
 - [rehmanali1994/easy_computed_tomography.github.io](https://github.com/rehmanali1994/easy_computed_tomography.github.io) - Educational and easy-to-understand parallel-beam computed tomography simulator (implemented both in MATLAB and CUDA)
 - [llnl/LEAP](https://github.com/llnl/LEAP) - comprehensive library of 3D transmission Computed Tomography (CT) algorithms with Python and C++ APIs, a PyQt GUI, and fully integrated with PyTorch
-- [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [luyuechao/ConeBeamGpu](https://github.com/luyuechao/ConeBeamGpu) - 
 
 ## Cython 
@@ -1641,6 +1642,7 @@
 
 ## Others 
 
+- [revjmoney/RotatoCAM](https://github.com/revjmoney/RotatoCAM) - Free 4-axis rotary CAM / G-code generator for DIY CNC (grblHAL · GRBL · LinuxCNC) — STL to simultaneous 4-axis rotary toolpaths, plus wrapped & flat engraving.
 - [joseph-greiner/klipper_tc_automatic_offset_calibration](https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration) - Automatic offset calibration for Klipper tool changers
 - [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
 - [zruncho3d/nudge](https://github.com/zruncho3d/nudge) - automatic nozzle alignment, made easy
@@ -1845,6 +1847,9 @@
 
 ## Python 
 
+- [SlicerFab/SlicerFab](https://github.com/SlicerFab/SlicerFab) - A 3D Slicer Extension for fabrication of physical objects
+- [li-yunwen/FiveAxisSimCore](https://github.com/li-yunwen/FiveAxisSimCore) - 5-axis CAM simulation engine using voxelization and signed distance fields (SDF).
+- [kaa-serpent/3dCamSlicer](https://github.com/kaa-serpent/3dCamSlicer) - 4-axis CNC/CAM engine and PySide6 desktop app for Makera Z1: STL/OBJ to simulated, safety-validated X/Z/A rotary toolpaths and reviewed G-code.
 - [EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing) - Antagonistic dual-wavelength TVAM reconstruction with examples and proof-of-principle simulations.
 - [EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing) - 
 - [duducosmos/defisheye](https://github.com/duducosmos/defisheye) - Fast Corrects for fisheye distortion in an image.
@@ -2092,6 +2097,7 @@
 - [h5py/h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
 - [daavoo/pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
 - [lkhphuc/pytorch-3d-point-cloud-generation](https://github.com/lkhphuc/pytorch-3d-point-cloud-generation) - Pytorch code to construct a 3D point cloud model from single RGB image.
+- [carterbox/torch-radon](https://github.com/carterbox/torch-radon) - Tomography operators for Pytorch
 - [PyTomography/PyTomography](https://github.com/PyTomography/PyTomography) - This repository enables easy and fast medical image reconstruction in Python.
 - [mmirman/MentisOculi](https://github.com/mmirman/MentisOculi) - A raytracer written in PyTorch (raynet?)
 - [vguzov/pytorch_pathtracer](https://github.com/vguzov/pytorch_pathtracer) - 3D polygon scene renderer based on path tracing method. Fully implemented on PyTorch
@@ -2399,6 +2405,10 @@
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 
+## SWIG 
+
+- [tpaviot/pythonocc-core](https://github.com/tpaviot/pythonocc-core) - Python package for 3D geometry CAD/BIM/CAM
+
 ## Shell 
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -2527,7 +2537,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
