@@ -322,6 +322,7 @@
 
 ## C++ 
 
+- [iota97/AtomSlicer](https://github.com/iota97/AtomSlicer) - Reference implementation of AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF.
 - [daichengkai/VoxelMultiAxisAM](https://github.com/daichengkai/VoxelMultiAxisAM) - VoxelMultiAxisAM
 - [XUPENGDA-HKUST/SyNSlicerEngine-A-5-Axis-3D-Printing-Slicer](https://github.com/XUPENGDA-HKUST/SyNSlicerEngine-A-5-Axis-3D-Printing-Slicer) - 
 - [CauldronDevelopmentLLC/CAMotics](https://github.com/CauldronDevelopmentLLC/CAMotics) - Open-Source Simulation & Computer Aided Machining - A 3-axis CNC GCode simulator
@@ -1215,6 +1216,7 @@
 
 ## Jupyter Notebook 
 
+- [chuntian236/holography-optimization](https://github.com/chuntian236/holography-optimization) - 
 - [ErickErock/pICNIK](https://github.com/ErickErock/pICNIK) - 
 - [EPFL-LAPD/SHVAM](https://github.com/EPFL-LAPD/SHVAM) - Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization
 - [CIDeR-ML/LUCiD](https://github.com/CIDeR-ML/LUCiD) - 
@@ -1646,7 +1648,7 @@
 - [joseph-greiner/klipper_tc_automatic_offset_calibration](https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration) - Automatic offset calibration for Klipper tool changers
 - [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
 - [zruncho3d/nudge](https://github.com/zruncho3d/nudge) - automatic nozzle alignment, made easy
-- [zhou-wb/HoloPathTracer](https://github.com/zhou-wb/HoloPathTracer) - An open-source library for computer-generated holography based on wave path tracing
+- [zhou-wb/holopathtracer](https://github.com/zhou-wb/holopathtracer) - An open-source library for computer-generated holography based on wave path tracing
 - [sn3ro/OpenATC](https://github.com/sn3ro/OpenATC) - Open-source modular automatic tool changer (ATC) for hobby CNC routers, using spindle inertia for reliable tool tightening.
 - [FreeCAD/Machines](https://github.com/FreeCAD/Machines) - Collection of CAM machines.
 - [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
@@ -2483,6 +2485,7 @@
 
 ## TypeScript 
 
+- [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - Create 2D and 3D designs with AI
 - [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [Formsmith746/SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D) - A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.
 - [AFKFelix/orca-slicer-api](https://github.com/AFKFelix/orca-slicer-api) - A simple REST API for slicing models using OrcaSlicer
