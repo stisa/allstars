@@ -268,6 +268,7 @@
 
 ## 3d 
 
+- [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - Create 2D and 3D designs with AI
 - [tpaviot/pythonocc-core](https://github.com/tpaviot/pythonocc-core) - Python package for 3D geometry CAD/BIM/CAM
 - [holodyne/slmsuite](https://github.com/holodyne/slmsuite) - Python package for high-performance spatial light modulator (SLM) control and holography. Supports features from aberration-corrected 3D point clouds to automated Fourier-domain calibrations.
 - [kzampog/cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
@@ -333,6 +334,7 @@
 
 ## ai 
 
+- [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - Create 2D and 3D designs with AI
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -2696,6 +2698,8 @@
 
 ## others 
 
+- [iota97/AtomSlicer](https://github.com/iota97/AtomSlicer) - Reference implementation of AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF.
+- [chuntian236/holography-optimization](https://github.com/chuntian236/holography-optimization) - 
 - [SlicerFab/SlicerFab](https://github.com/SlicerFab/SlicerFab) - A 3D Slicer Extension for fabrication of physical objects
 - [logseq/og](https://github.com/logseq/og) - Logseq og (file version)
 - [li-yunwen/FiveAxisSimCore](https://github.com/li-yunwen/FiveAxisSimCore) - 5-axis CAM simulation engine using voxelization and signed distance fields (SDF).
@@ -2722,7 +2726,7 @@
 - [zruncho3d/madmax](https://github.com/zruncho3d/madmax) - MadMax - the crazy-simple toolchanger conversion for your CoreXY printer
 - [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
 - [zruncho3d/nudge](https://github.com/zruncho3d/nudge) - automatic nozzle alignment, made easy
-- [zhou-wb/HoloPathTracer](https://github.com/zhou-wb/HoloPathTracer) - An open-source library for computer-generated holography based on wave path tracing
+- [zhou-wb/holopathtracer](https://github.com/zhou-wb/holopathtracer) - An open-source library for computer-generated holography based on wave path tracing
 - [sn3ro/OpenATC](https://github.com/sn3ro/OpenATC) - Open-source modular automatic tool changer (ATC) for hobby CNC routers, using spindle inertia for reliable tool tightening.
 - [CIDeR-ML/LUCiD](https://github.com/CIDeR-ML/LUCiD) - 
 - [balazs-peter-attila/GATE_fan_beam_simulation](https://github.com/balazs-peter-attila/GATE_fan_beam_simulation) - Codes used in the paper "Simulating Equidistant Fan-Beam Binary Tomography for 2D Voxel Slices Using GATE 9.x" by Péter Balázs, Tibor Novák, Károly Osvay
