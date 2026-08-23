@@ -1618,7 +1618,7 @@
 
 ## gui 
 
-- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [silx-kit/silx](https://github.com/silx-kit/silx) - silx toolkit
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -2609,7 +2609,7 @@
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [dennisklappe/Rep5x](https://github.com/dennisklappe/Rep5x) - Open-source 5-axis 3D printer retrofit system for consumer desktop printers. Improves printing of complex geometries by adding yaw and tilt rotational axes to standard XYZ printers.
-- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [tmaegel/ntodotxt](https://github.com/tmaegel/ntodotxt) - Flutter app for managing your todos within a todo.txt file locally or via webdav (e.g. Nextcloud)
 - [ebezzam/open-microscopy-ai-workshop](https://github.com/ebezzam/open-microscopy-ai-workshop) - Material for the Open Microscopy & AI Workshop at EPFL (March 14)
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
@@ -2698,6 +2698,7 @@
 
 ## others 
 
+- [futo-org/futo-notes](https://github.com/futo-org/futo-notes) - Notes app
 - [iota97/AtomSlicer](https://github.com/iota97/AtomSlicer) - Reference implementation of AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF.
 - [chuntian236/holography-optimization](https://github.com/chuntian236/holography-optimization) - 
 - [SlicerFab/SlicerFab](https://github.com/SlicerFab/SlicerFab) - A 3D Slicer Extension for fabrication of physical objects
