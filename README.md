@@ -322,6 +322,7 @@
 
 ## C++ 
 
+- [Yongxue-Chen/hybManuAccEro](https://github.com/Yongxue-Chen/hybManuAccEro) - Inverse operation based planning for hybrid additive–subtractive manufacturing (SIGGRAPH Asia 2025 / ACM TOG)
 - [iota97/AtomSlicer](https://github.com/iota97/AtomSlicer) - Reference implementation of AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF.
 - [daichengkai/VoxelMultiAxisAM](https://github.com/daichengkai/VoxelMultiAxisAM) - VoxelMultiAxisAM
 - [XUPENGDA-HKUST/SyNSlicerEngine-A-5-Axis-3D-Printing-Slicer](https://github.com/XUPENGDA-HKUST/SyNSlicerEngine-A-5-Axis-3D-Printing-Slicer) - 
@@ -379,7 +380,7 @@
 - [zhangty019/S3_DeformFDM](https://github.com/zhangty019/S3_DeformFDM) - S^3-Slicer: A General Slicing Framework for Multi-Axis 3D Printing
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [20sffactory/community_robot_arm](https://github.com/20sffactory/community_robot_arm) - Repository of Community Robot Arm Documents
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
 - [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
 - [Geode-solutions/OpenGeode](https://github.com/Geode-solutions/OpenGeode) - Open source framework for representing and manipulating geometric models
@@ -1644,6 +1645,8 @@
 
 ## Others 
 
+- [tararajoshua/ADDSUBXY](https://github.com/tararajoshua/ADDSUBXY) - Additive/Subtractive Manufacturing Core-XY System
+- [EPFL-LAPD/Tomographic-Printing-in-a-Chip-A-Versatile-Platform-for-Biomimetic-3D-Organ-on-Chip](https://github.com/EPFL-LAPD/Tomographic-Printing-in-a-Chip-A-Versatile-Platform-for-Biomimetic-3D-Organ-on-Chip) - This is the supplementary code and configuration files for the paper published in Advanced Healthcare Materials
 - [revjmoney/RotatoCAM](https://github.com/revjmoney/RotatoCAM) - Free 4-axis rotary CAM / G-code generator for DIY CNC (grblHAL · GRBL · LinuxCNC) — STL to simultaneous 4-axis rotary toolpaths, plus wrapped & flat engraving.
 - [joseph-greiner/klipper_tc_automatic_offset_calibration](https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration) - Automatic offset calibration for Klipper tool changers
 - [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
@@ -1849,6 +1852,7 @@
 
 ## Python 
 
+- [AthinaNike/LatticeFree](https://github.com/AthinaNike/LatticeFree) - LatticeFree is a FreeCAD workbench to create TPMS infill
 - [SlicerFab/SlicerFab](https://github.com/SlicerFab/SlicerFab) - A 3D Slicer Extension for fabrication of physical objects
 - [li-yunwen/FiveAxisSimCore](https://github.com/li-yunwen/FiveAxisSimCore) - 5-axis CAM simulation engine using voxelization and signed distance fields (SDF).
 - [kaa-serpent/3dCamSlicer](https://github.com/kaa-serpent/3dCamSlicer) - 4-axis CNC/CAM engine and PySide6 desktop app for Makera Z1: STL/OBJ to simulated, safety-validated X/Z/A rotary toolpaths and reviewed G-code.
@@ -2485,6 +2489,7 @@
 
 ## TypeScript 
 
+- [mubes/gdecode](https://github.com/mubes/gdecode) - Additive/Subtractive GCODE path visualisation
 - [futo-org/futo-notes](https://github.com/futo-org/futo-notes) - Notes app
 - [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - Create 2D and 3D designs with AI
 - [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
