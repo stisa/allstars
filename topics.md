@@ -268,6 +268,7 @@
 
 ## 3d 
 
+- [AthinaNike/LatticeFree](https://github.com/AthinaNike/LatticeFree) - LatticeFree is a FreeCAD workbench to create TPMS infill
 - [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - Create 2D and 3D designs with AI
 - [tpaviot/pythonocc-core](https://github.com/tpaviot/pythonocc-core) - Python package for 3D geometry CAD/BIM/CAM
 - [holodyne/slmsuite](https://github.com/holodyne/slmsuite) - Python package for high-performance spatial light modulator (SLM) control and holography. Supports features from aberration-corrected 3D point clouds to automated Fourier-domain calibrations.
@@ -279,7 +280,7 @@
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
 - [branc116/brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 - [iamyoukou/sdf3d](https://github.com/iamyoukou/sdf3d) - 3D Signed Distance Field
@@ -869,7 +870,7 @@
 - [cgyurgyik/fast-voxel-traversal-algorithm](https://github.com/cgyurgyik/fast-voxel-traversal-algorithm) - A C++ implementation of the fast voxel traversal algorithm.
 - [seung-lab/dijkstra3d](https://github.com/seung-lab/dijkstra3d) - Dijkstra's Shortest Path for 6, 18, and 26-Connected 3D (Volumetric) Image Volumes
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
@@ -924,6 +925,7 @@
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [prahladyeri/curated-lists](https://github.com/prahladyeri/curated-lists) - Curated Lists of various things
 - [rafaelvasco/nimrod-glfw](https://github.com/rafaelvasco/nimrod-glfw) - GLFW Bindings for the Nim Programming Language
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
@@ -1683,7 +1685,6 @@
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 - [vyperfun/vyper.fun](https://github.com/vyperfun/vyper.fun) - Cryptozombies for Vyper: Learn Vyper by building games!
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
-- [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2) - Nim implementation of the Ethereum Beacon Chain
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [nim-lang/nim-zmq](https://github.com/nim-lang/nim-zmq) - Nim ZMQ wrapper
 - [nim-lang/fusion](https://github.com/nim-lang/fusion) - Fusion is for now an idea about how to grow Nim's ecosystem without the pain points of more traditional approaches.
@@ -2066,7 +2067,7 @@
 
 ## library 
 
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [mashingan/excelin](https://github.com/mashingan/excelin) - Create and read Excel file purely in Nim
@@ -2698,6 +2699,10 @@
 
 ## others 
 
+- [mubes/gdecode](https://github.com/mubes/gdecode) - Additive/Subtractive GCODE path visualisation
+- [tararajoshua/ADDSUBXY](https://github.com/tararajoshua/ADDSUBXY) - Additive/Subtractive Manufacturing Core-XY System
+- [Yongxue-Chen/hybManuAccEro](https://github.com/Yongxue-Chen/hybManuAccEro) - Inverse operation based planning for hybrid additive–subtractive manufacturing (SIGGRAPH Asia 2025 / ACM TOG)
+- [EPFL-LAPD/Tomographic-Printing-in-a-Chip-A-Versatile-Platform-for-Biomimetic-3D-Organ-on-Chip](https://github.com/EPFL-LAPD/Tomographic-Printing-in-a-Chip-A-Versatile-Platform-for-Biomimetic-3D-Organ-on-Chip) - This is the supplementary code and configuration files for the paper published in Advanced Healthcare Materials
 - [futo-org/futo-notes](https://github.com/futo-org/futo-notes) - Notes app
 - [iota97/AtomSlicer](https://github.com/iota97/AtomSlicer) - Reference implementation of AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF.
 - [chuntian236/holography-optimization](https://github.com/chuntian236/holography-optimization) - 
@@ -4106,6 +4111,7 @@
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -4214,7 +4220,7 @@
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [ajhynes7/scikit-spatial](https://github.com/ajhynes7/scikit-spatial) - Spatial objects and computations based on NumPy arrays.
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm) - PySLM: A Python Library for 3D Printing and Additive Manufacturing
 - [jonwright/pyopengltk](https://github.com/jonwright/pyopengltk) - OpenGL frame for Python/Tkinter via ctypes and pyopengl
 - [cgohlke/tifffile](https://github.com/cgohlke/tifffile) - Read and write TIFF files.
@@ -4679,7 +4685,6 @@
 ## svelte 
 
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
@@ -4698,7 +4703,6 @@
 
 ## tailwindcss 
 
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
