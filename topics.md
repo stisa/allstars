@@ -291,7 +291,7 @@
 - [google-research/visu3d](https://github.com/google-research/visu3d) - 3d without friction (Torch, TF, Jax, Numpy)
 - [eisenwave/obj2voxel](https://github.com/eisenwave/obj2voxel) - Convert OBJ and STL files to voxels, with support for textures. Written in pure C++17 with CMake. No raytracing or slicing or OpenGL shenanigans. Fast and robust using just 3D intersections. Simple as
 - [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
-- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
+- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting for Jupyter: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays, with a path-traced cinematic renderer.
 - [DCC-Lab/PyTissueOptics](https://github.com/DCC-Lab/PyTissueOptics) - Monte Carlo simulations of light transport in complex 3D media.
 - [PanagiotisMenounos/3DHex](https://github.com/PanagiotisMenounos/3DHex) - 3DHex is a windows host controller 3D printer firmware
 - [3DCP-TUe/SaladSlicer](https://github.com/3DCP-TUe/SaladSlicer) - An open-source slicer toolkit for 3D concrete printing
@@ -338,7 +338,7 @@
 - [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio) - Create 2D and 3D designs with AI
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -351,7 +351,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
@@ -399,7 +399,7 @@
 
 ## android 
 
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
@@ -454,9 +454,9 @@
 
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [metacraft-labs/languist](https://github.com/metacraft-labs/languist) - a framework for automated translation of high level langs
 
 ## arduino 
@@ -529,7 +529,7 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [vpashkov/awesome-nim](https://github.com/vpashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## awesome-list 
 
@@ -556,7 +556,7 @@
 - [vpashkov/awesome-nim](https://github.com/vpashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 
 ## aws 
@@ -585,10 +585,10 @@
 
 ## bitcoin 
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -611,7 +611,7 @@
 
 ## bot 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 
@@ -714,7 +714,7 @@
 
 - [BAMresearch/chatBIS](https://github.com/BAMresearch/chatBIS) - A conversational AI assistant for the openBIS research data management system. Uses RAG with Ollama to provide natural, accurate responses to queries about openBIS. Scrapes documentation, processes it
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [oprypin/critter](https://github.com/oprypin/critter) - Chat bot relaying messages between IRC and Gitter
 
@@ -728,7 +728,7 @@
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## chrome 
 
@@ -902,7 +902,7 @@
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [ChainSafe/web3.unity](https://github.com/ChainSafe/web3.unity) - 🕹  Unity SDK for building games that interact with blockchains.
 - [provinzio/CoinTaxman](https://github.com/provinzio/CoinTaxman) - Calculate your taxes from cryptocurrency gains
@@ -1014,7 +1014,7 @@
 
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [decanus/minima](https://github.com/decanus/minima) - MinimaDB: A persistent & embeddable KV store written in Nim.
@@ -1152,8 +1152,8 @@
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [vjFaLk/firefly-bot](https://github.com/vjFaLk/firefly-bot) - Bot to quickly create transactions in Firefly III
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -1261,7 +1261,7 @@
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [JumpCrypto/crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list) - 
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [floating/frame](https://github.com/floating/frame) - System-wide Web3 for macOS, Windows and Linux
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [Anish-Agnihotri/merkle-airdrop-starter](https://github.com/Anish-Agnihotri/merkle-airdrop-starter) - Frontend, contracts, and merkle tree generator for use in quickly scaffolding ERC20 token airdrops.
@@ -1332,7 +1332,7 @@
 
 ## framework 
 
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [raysect/source](https://github.com/raysect/source) - The main source repository for the Raysect project.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
@@ -1347,7 +1347,7 @@
 ## frontend 
 
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## game 
@@ -1432,7 +1432,7 @@
 - [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 - [snowkit/old-haxe-alpha](https://github.com/snowkit/old-haxe-alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
 - [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## game-engine 
@@ -1587,7 +1587,7 @@
 - [pragmagic/godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine
 - [Calinou/godot-style-guide](https://github.com/Calinou/godot-style-guide) - Style guide for Godot projects
 - [Kermer/Godot](https://github.com/Kermer/Godot) - Stuff to use with Godot Engine
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
@@ -1737,7 +1737,7 @@
 
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [tim-engine/tim](https://github.com/tim-engine/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [area515/Photonic3D](https://github.com/area515/Photonic3D) - Control software for resin 3D printers
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -1851,7 +1851,7 @@
 - [zepp-health/awesome-zeppos](https://github.com/zepp-health/awesome-zeppos) - ⭐ Useful resources for the Zepp OS
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
@@ -1902,6 +1902,7 @@
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
+- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [Hanks10100/wasm-examples](https://github.com/Hanks10100/wasm-examples) - WebAssembly Examples
 - [kanaka/wac](https://github.com/kanaka/wac) - WebAssembly interpreter in C
 - [01alchemist/TurboScript](https://github.com/01alchemist/TurboScript) - Super charged typed JavaScript dialect for parallel programming which compiles to WebAssembly
@@ -2000,7 +2001,7 @@
 
 ## kotlin 
 
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
 - [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -2074,7 +2075,7 @@
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 💠 Upgradeable-first Solidity smart contract development library 💠
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [luc-github/ESP3DLib](https://github.com/luc-github/ESP3DLib) - ESP3D library for Marlin and ESP32 boards
 - [Cultrarius/Swarmz](https://github.com/Cultrarius/Swarmz) - A free, header-only C++ swarming (flocking) library for real-time applications
 - [jiro4989/nimjson](https://github.com/jiro4989/nimjson) - nimjson generates nim object definitions from json documents.
@@ -2091,7 +2092,7 @@
 ## linux 
 
 - [polyfem/polyfem](https://github.com/polyfem/polyfem) - A polyvalent C++ FEM library
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [CarbonKivy/CarbonKivy](https://github.com/CarbonKivy/CarbonKivy) - A library providing IBM's Carbon Design Components for Kivy. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consis
@@ -2146,7 +2147,7 @@
 - [hscspring/llama.np](https://github.com/hscspring/llama.np) - Inference Llama/Llama2/Llama3 Modes in NumPy
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 
 ## localization 
@@ -2228,7 +2229,7 @@
 ## macos 
 
 - [polyfem/polyfem](https://github.com/polyfem/polyfem) - A polyvalent C++ FEM library
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
@@ -2572,6 +2573,7 @@
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [kaanaksit/odak](https://github.com/kaanaksit/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
+- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting for Jupyter: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays, with a path-traced cinematic renderer.
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
@@ -2607,7 +2609,7 @@
 
 ## open-source 
 
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [dennisklappe/Rep5x](https://github.com/dennisklappe/Rep5x) - Open-source 5-axis 3D printer retrofit system for consumer desktop printers. Improves printing of complex geometries by adding yaw and tilt rotational axes to standard XYZ printers.
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
@@ -2642,7 +2644,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## opencv 
 
@@ -2699,6 +2701,7 @@
 
 ## others 
 
+- [sebhaan/DoEgen](https://github.com/sebhaan/DoEgen) - DoEgen: A Python Library for Optimised Design of Experiment Generation and Evaluation
 - [mubes/gdecode](https://github.com/mubes/gdecode) - Additive/Subtractive GCODE path visualisation
 - [tararajoshua/ADDSUBXY](https://github.com/tararajoshua/ADDSUBXY) - Additive/Subtractive Manufacturing Core-XY System
 - [Yongxue-Chen/hybManuAccEro](https://github.com/Yongxue-Chen/hybManuAccEro) - Inverse operation based planning for hybrid additive–subtractive manufacturing (SIGGRAPH Asia 2025 / ACM TOG)
@@ -3729,7 +3732,7 @@
 - [martincohen/Punity](https://github.com/martincohen/Punity) - A tiny game engine in C.
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 - [thomaswilburn/arrest](https://github.com/thomaswilburn/arrest) - A reStructuredText parser for Node
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [mil-tokyo/sukiyaki2](https://github.com/mil-tokyo/sukiyaki2) - Deep Learning Library for JavaScript
 - [xomachine/NESM](https://github.com/xomachine/NESM) - NESM stands for Nim's Easy Serialization Macro. The macro that allowing generation of serialization functions by one line of code! (It is a mirror of https://gitlab.com/xomachine/NESM)
 - [GrimoireGL/GrimoireJS](https://github.com/GrimoireGL/GrimoireJS) - A WebGL framework for Web development.
@@ -3747,7 +3750,6 @@
 - [spiffcode/ghedit](https://github.com/spiffcode/ghedit) - A fast, powerful web-based code editor for GitHub repositories
 - [graphics32/graphics32](https://github.com/graphics32/graphics32) - Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outpe
 - [gfwilliams/tiny-js](https://github.com/gfwilliams/tiny-js) - Automatically exported from code.google.com/p/tiny-js
-- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [slate/slate](https://github.com/slate/slate) - Slate IRC client
 - [waylonflinn/weblas](https://github.com/waylonflinn/weblas) - GPU Powered BLAS for Browsers :gem:
 - [battila7/nim-realworld-example-app](https://github.com/battila7/nim-realworld-example-app) - Nim implementation of the RealWorld example app
@@ -4101,7 +4103,7 @@
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 
 ## privacy 
@@ -4116,7 +4118,7 @@
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [status-im/status-app](https://github.com/status-im/status-app) - Status App client made in Nim & QML
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -4402,7 +4404,7 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [masterFoad/NanoSage](https://github.com/masterFoad/NanoSage) - Local LLM Powered Recursive Search & Smart Knowledge Explorer
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## raspberry-pi 
 
@@ -4410,7 +4412,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [merijndewit/Filameter](https://github.com/merijndewit/Filameter) - A cool (and pretty accurate) way of measuring filament with a camera!
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [Chr157i4n/PyTmcStepper](https://github.com/Chr157i4n/PyTmcStepper) - PyTmcStepper is a pure Python library for controlling Trinamic stepper drivers via UART or SPI on platforms like Raspberry Pi and MicroPython devices.
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
@@ -4437,7 +4439,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
 - [bberak/react-native-game-engine-handbook](https://github.com/bberak/react-native-game-engine-handbook) - A React Native app showcasing some examples using react-native-game-engine 🐒✨
@@ -4575,7 +4577,7 @@
 ## security 
 
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 
@@ -4615,7 +4617,7 @@
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -4736,6 +4738,7 @@
 
 ## terminal 
 
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
@@ -4757,7 +4760,7 @@
 
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 
@@ -4782,7 +4785,7 @@
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [Megabyteceer/thing-editor](https://github.com/Megabyteceer/thing-editor) - pixi.js based visual game editor
@@ -4886,7 +4889,7 @@
 - [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 9.1 framework.
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [napari/napari](https://github.com/napari/napari) - napari: a fast, interactive, multi-dimensional image viewer for python
-- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
+- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting for Jupyter: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays, with a path-traced cinematic renderer.
 - [DCC-Lab/PyTissueOptics](https://github.com/DCC-Lab/PyTissueOptics) - Monte Carlo simulations of light transport in complex 3D media.
 - [LuxCoreRender/LuxCore](https://github.com/LuxCoreRender/LuxCore) - LuxCore source repository
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -4983,7 +4986,7 @@
 ## windows 
 
 - [polyfem/polyfem](https://github.com/polyfem/polyfem) - A polyvalent C++ FEM library
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
