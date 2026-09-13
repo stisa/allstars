@@ -1187,7 +1187,6 @@
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [juancarlospaco/webgui](https://github.com/juancarlospaco/webgui) - Web Technologies based Crossplatform GUI Framework with Dark theme
 - [Niminem/Neel](https://github.com/Niminem/Neel) - A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.
@@ -1660,7 +1659,6 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
-- [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
@@ -2402,7 +2400,6 @@
 - [transmutrix/nim-sdl3](https://github.com/transmutrix/nim-sdl3) - Nim wrapper for SDL3.x
 - [planetis-m/compute-sim](https://github.com/planetis-m/compute-sim) - Learn and understand compute shader operations and control flow.
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) - Nimony is a new Nim implementation that is in heavy development.
-- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An opinionated Linux® distribution based on musl libc and toybox
 - [tim-engine/tim](https://github.com/tim-engine/tim) - This is Tim ⚡️ A high-performance front-end engine for cool kids!
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [Angluca/tigr-nim](https://github.com/Angluca/tigr-nim) - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
@@ -2712,7 +2709,7 @@
 - [SlicerFab/SlicerFab](https://github.com/SlicerFab/SlicerFab) - A 3D Slicer Extension for fabrication of physical objects
 - [logseq/og](https://github.com/logseq/og) - Logseq og (file version)
 - [li-yunwen/FiveAxisSimCore](https://github.com/li-yunwen/FiveAxisSimCore) - 5-axis CAM simulation engine using voxelization and signed distance fields (SDF).
-- [revjmoney/RotatoCAM](https://github.com/revjmoney/RotatoCAM) - Free 4-axis rotary CAM / G-code generator for DIY CNC (grblHAL · GRBL · LinuxCNC) — STL to simultaneous 4-axis rotary toolpaths, plus wrapped & flat engraving.
+- [revjmoney/RotatoCAM](https://github.com/revjmoney/RotatoCAM) - Free (and Pro version) 4-axis rotary CAM / G-code generator for DIY CNC (grblHAL · GRBL · LinuxCNC) — STL to simultaneous 4-axis rotary toolpaths, plus wrapped & flat engraving.
 - [EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/Antagonistic-Dual-Wavelength-Tomographic-Volumetric-Additive-Manufacturing) - Antagonistic dual-wavelength TVAM reconstruction with examples and proof-of-principle simulations.
 - [EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing](https://github.com/EPFL-LAPD/The-Pandoro-Effect-in-Tomographic-Volumetric-Additive-Manufacturing) - 
 - [duducosmos/defisheye](https://github.com/duducosmos/defisheye) - Fast Corrects for fisheye distortion in an image.
@@ -2986,7 +2983,7 @@
 - [rogerlz/Doron-Velta](https://github.com/rogerlz/Doron-Velta) - 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [viesturz/klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger) - Toolcahnging extension for Klipper
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 - [greenonline/Kossel](https://github.com/greenonline/Kossel) - Files relating to the Kossel 3D Printer
 - [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -3027,6 +3024,7 @@
 - [Ahmed-EGomaa/MNN-Slicer](https://github.com/Ahmed-EGomaa/MNN-Slicer) - MNN SLicer, is a 3D Slicer for Food-3D Bioprinting, using DIY off-Shelf 3D printer. The Slicer made to be easy and G-Code free, directly using Arduino backend and Python with CV for masking and printi
 - [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - Python version of FullControl for toolpath design (and more) - the readme below is best source of information
 - [TC4451/Vision_Based_3D_Printing](https://github.com/TC4451/Vision_Based_3D_Printing) - 
+- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) - An opinionated Linux® distribution based on musl libc and toybox
 - [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) - 
 - [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
