@@ -299,7 +299,7 @@
 - [jellyfin-archive/jellyfin-plugin-bookshelf](https://github.com/jellyfin-archive/jellyfin-plugin-bookshelf) - 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 - [Librum-Reader/Librum-Server](https://github.com/Librum-Reader/Librum-Server) - The Librum server
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [EmmetOT/IsoMesh](https://github.com/EmmetOT/IsoMesh) - IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via su
@@ -993,6 +993,7 @@
 - [bcnmy/metatx-standard](https://github.com/bcnmy/metatx-standard) - Repository contains generalized meta transaction standard that can be added to any smart contract to allow Meta Transactions from any externally-owned (key-based) account.
 - [Dodging-Turtis/Dodging-Turtis](https://github.com/Dodging-Turtis/Dodging-Turtis) - Turtle-themed NFT game and marketplace promoting Indian art.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [nalinbhardwaj/wordlines](https://github.com/nalinbhardwaj/wordlines) - Mobile ZK Puzzle Game with NFT rewards
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [threepwave/cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - 9000 generative on-chain dungeons in the Lootverse. Can be used by designers and developers for text-based, 2D, and 3D games.
@@ -1648,7 +1649,7 @@
 
 - [tararajoshua/ADDSUBXY](https://github.com/tararajoshua/ADDSUBXY) - Additive/Subtractive Manufacturing Core-XY System
 - [EPFL-LAPD/Tomographic-Printing-in-a-Chip-A-Versatile-Platform-for-Biomimetic-3D-Organ-on-Chip](https://github.com/EPFL-LAPD/Tomographic-Printing-in-a-Chip-A-Versatile-Platform-for-Biomimetic-3D-Organ-on-Chip) - This is the supplementary code and configuration files for the paper published in Advanced Healthcare Materials
-- [revjmoney/RotatoCAM](https://github.com/revjmoney/RotatoCAM) - Free 4-axis rotary CAM / G-code generator for DIY CNC (grblHAL · GRBL · LinuxCNC) — STL to simultaneous 4-axis rotary toolpaths, plus wrapped & flat engraving.
+- [revjmoney/RotatoCAM](https://github.com/revjmoney/RotatoCAM) - Free (and Pro version) 4-axis rotary CAM / G-code generator for DIY CNC (grblHAL · GRBL · LinuxCNC) — STL to simultaneous 4-axis rotary toolpaths, plus wrapped & flat engraving.
 - [joseph-greiner/klipper_tc_automatic_offset_calibration](https://github.com/joseph-greiner/klipper_tc_automatic_offset_calibration) - Automatic offset calibration for Klipper tool changers
 - [AZ3Dp/Plastic-Pellet-Extruder](https://github.com/AZ3Dp/Plastic-Pellet-Extruder) - A plastic pellet extruder that can be both used on 3D printers and Injection molders (modular)
 - [zruncho3d/nudge](https://github.com/zruncho3d/nudge) - automatic nozzle alignment, made easy
@@ -2209,7 +2210,6 @@
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -2384,7 +2384,7 @@
 - [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language. No longer in development.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
-- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [Microtome/microtome](https://github.com/Microtome/microtome) - A browser based GPU accelerated 3D model slicer
 - [hannobraun/stepper](https://github.com/hannobraun/stepper) - Universal Stepper Motor Interface
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
