@@ -323,6 +323,10 @@
 
 ## C++ 
 
+- [fab-machines/MidFDM](https://github.com/fab-machines/MidFDM) - Medium Size Open Source 3D Printer
+- [DESIGN4ADDITIVE/GPUCADforAM](https://github.com/DESIGN4ADDITIVE/GPUCADforAM) - Design Software for Additive Manufacturing
+- [WangY18/NEPath](https://github.com/WangY18/NEPath) - toolpath planning for additive manufacturing and CNC milling
+- [ORNL/AdditiveFOAM](https://github.com/ORNL/AdditiveFOAM) - A continuum physics code for additive manufacturing built on OpenFOAM
 - [Yongxue-Chen/hybManuAccEro](https://github.com/Yongxue-Chen/hybManuAccEro) - Inverse operation based planning for hybrid additive–subtractive manufacturing (SIGGRAPH Asia 2025 / ACM TOG)
 - [iota97/AtomSlicer](https://github.com/iota97/AtomSlicer) - Reference implementation of AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF.
 - [daichengkai/VoxelMultiAxisAM](https://github.com/daichengkai/VoxelMultiAxisAM) - VoxelMultiAxisAM
@@ -850,7 +854,7 @@
 - [MirageC79/HextrudORT](https://github.com/MirageC79/HextrudORT) - Light, small and efficient extruder based on the popular Bondtech BMG.
 - [ultimachine/Archim](https://github.com/ultimachine/Archim) - The 32-bit next generation of RAMBo
 - [pixel3design-hub/MKS-SBASE-FULL-DOCUMENTED](https://github.com/pixel3design-hub/MKS-SBASE-FULL-DOCUMENTED) - 
-- [repetier/Repetier-Firmware](https://github.com/repetier/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer.
+- [darko371/Repetier-Firmware](https://github.com/darko371/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer.
 - [DipanshKhandelwal/Learning-German](https://github.com/DipanshKhandelwal/Learning-German) - My journey to learn German
 - [Guevara-chan/Raylib-Forever](https://github.com/Guevara-chan/Raylib-Forever) - :.raylib headers for Nim anytime.:
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -1219,6 +1223,8 @@
 
 ## Jupyter Notebook 
 
+- [mojtabamozaffar/toolpath-design-rl](https://github.com/mojtabamozaffar/toolpath-design-rl) - Design toolpath for additive manufacturing using reinforcement learning
+- [CMSL-HKUST/jax-am](https://github.com/CMSL-HKUST/jax-am) - Additive manufacturing simulation with JAX.
 - [chuntian236/holography-optimization](https://github.com/chuntian236/holography-optimization) - 
 - [ErickErock/pICNIK](https://github.com/ErickErock/pICNIK) - 
 - [EPFL-LAPD/SHVAM](https://github.com/EPFL-LAPD/SHVAM) - Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization
@@ -1854,6 +1860,10 @@
 
 ## Python 
 
+- [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
+- [ORNL-MDF/Raptor](https://github.com/ORNL-MDF/Raptor) - A Python-based simulation tool for rapid estimation of stochastic porosity-related defects in additive manufacturing
+- [FullControlXYZ/volco](https://github.com/FullControlXYZ/volco) - VOLCO additive manufacturing simulation
+- [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem) - Differentiable Finite Element Method with JAX
 - [sebhaan/DoEgen](https://github.com/sebhaan/DoEgen) - DoEgen: A Python Library for Optimised Design of Experiment Generation and Evaluation
 - [AthinaNike/LatticeFree](https://github.com/AthinaNike/LatticeFree) - LatticeFree is a FreeCAD workbench to create TPMS infill
 - [SlicerFab/SlicerFab](https://github.com/SlicerFab/SlicerFab) - A 3D Slicer Extension for fabrication of physical objects
@@ -1893,7 +1903,7 @@
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [raw-labs/mxcp](https://github.com/raw-labs/mxcp) - Model eXecution + Context Protocol: Enterprise-Grade Data-to-AI Infrastructure
 - [BAMresearch/chatBIS](https://github.com/BAMresearch/chatBIS) - A conversational AI assistant for the openBIS research data management system. Uses RAG with Ollama to provide natural, accurate responses to queries about openBIS. Scrapes documentation, processes it
-- [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
+- [co-foucher/triply](https://github.com/co-foucher/triply) - small library to support development of gyroid based structures
 - [bbo-git/5AxisSlicerBlenderAddon](https://github.com/bbo-git/5AxisSlicerBlenderAddon) - Blender addon for 5 axis 3d printers
 - [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) - The official API server for Exllama. OAI compatible, lightweight, and fast.
 - [leochlon/mezzanine](https://github.com/leochlon/mezzanine) - 
@@ -2113,7 +2123,7 @@
 - [viesturz/TapChanger-lite](https://github.com/viesturz/TapChanger-lite) - Lightweight toolchanger for Voron 2 with Tap like nozzle probe
 - [unjordy/klipper-repl](https://github.com/unjordy/klipper-repl) - The missing Klipper command line. A CLI G-Code REPL for 3D printers running on Klipper firmware.
 - [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 9.1 framework.
-- [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
+- [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - [MICCAI CLIP 2022] Differentiable digitally reconstructed radiographs in PyTorch
 - [rodrigovimieiro/OpenCodes](https://github.com/rodrigovimieiro/OpenCodes) - Open source codes
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
@@ -2210,6 +2220,7 @@
 - [sambarnes/fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [uniswap-python/uniswap-python](https://github.com/uniswap-python/uniswap-python) - 🦄 The unofficial Python client for the Uniswap exchange.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [VladKochetov007/quick_trade](https://github.com/VladKochetov007/quick_trade) - convenient library for trading with python.
 - [dex-guru/dg-sdk-python](https://github.com/dex-guru/dg-sdk-python) - dex.guru python sdk
 - [gregstarr/pychop3d](https://github.com/gregstarr/pychop3d) - Python implementation of "Chopper: Partitioning Models into 3D-Printable Parts"
@@ -2384,7 +2395,6 @@
 - [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language. No longer in development.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [gregyjames/ZenithTA](https://github.com/gregyjames/ZenithTA) - A high performance python technical analysis library written in Rust and the Numpy C API.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [Microtome/microtome](https://github.com/Microtome/microtome) - A browser based GPU accelerated 3D model slicer
 - [hannobraun/stepper](https://github.com/hannobraun/stepper) - Universal Stepper Motor Interface
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
@@ -2550,7 +2560,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker) - Trying to create a new obsidian plugin to enable user to create bi-directional links easily based on the content of their vault.
 - [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
