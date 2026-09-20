@@ -163,7 +163,6 @@
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [nlp](#nlp)
-- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -349,7 +348,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
@@ -725,7 +724,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -1025,6 +1024,7 @@
 
 ## deep-learning 
 
+- [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [camlab-ethz/TensorMesh](https://github.com/camlab-ethz/TensorMesh) - A fast, differentiable, JIT-free, debugging-friendly finite element library for PyTorch.
 - [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
@@ -2170,6 +2170,7 @@
 
 ## machine-learning 
 
+- [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [DeepTrackAI/DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2) - DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine learning and experimental imaging.
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
@@ -2373,6 +2374,7 @@
 
 ## neural-network 
 
+- [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
@@ -2515,10 +2517,6 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 
-## no-code 
-
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-
 ## node 
 
 - [ButlerLogic/action-autotag](https://github.com/ButlerLogic/action-autotag) - Automatically generate a new tag when the manifest file (package.json, Dockerfile, custom file, etc) version changes.
@@ -2601,11 +2599,12 @@
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [CtrlAltFocus/obsidian-plugin-auto-tag](https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag) - Easily generate relevant tags for your Obsidian notes.
 - [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Flexible, context-aware toolbars for your notes in Obsidian.
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote) - An Obsidian plugin that ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
 
 ## open-source 
 
+- [DESIGN4ADDITIVE/GPUCADforAM](https://github.com/DESIGN4ADDITIVE/GPUCADforAM) - Design Software for Additive Manufacturing
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [dennisklappe/Rep5x](https://github.com/dennisklappe/Rep5x) - Open-source 5-axis 3D printer retrofit system for consumer desktop printers. Improves printing of complex geometries by adding yaw and tilt rotational axes to standard XYZ printers.
@@ -2698,6 +2697,14 @@
 
 ## others 
 
+- [fab-machines/MidFDM](https://github.com/fab-machines/MidFDM) - Medium Size Open Source 3D Printer
+- [ORNL-MDF/Raptor](https://github.com/ORNL-MDF/Raptor) - A Python-based simulation tool for rapid estimation of stochastic porosity-related defects in additive manufacturing
+- [mojtabamozaffar/toolpath-design-rl](https://github.com/mojtabamozaffar/toolpath-design-rl) - Design toolpath for additive manufacturing using reinforcement learning
+- [FullControlXYZ/volco](https://github.com/FullControlXYZ/volco) - VOLCO additive manufacturing simulation
+- [WangY18/NEPath](https://github.com/WangY18/NEPath) - toolpath planning for additive manufacturing and CNC milling
+- [ORNL/AdditiveFOAM](https://github.com/ORNL/AdditiveFOAM) - A continuum physics code for additive manufacturing built on OpenFOAM
+- [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem) - Differentiable Finite Element Method with JAX
+- [CMSL-HKUST/jax-am](https://github.com/CMSL-HKUST/jax-am) - Additive manufacturing simulation with JAX.
 - [sebhaan/DoEgen](https://github.com/sebhaan/DoEgen) - DoEgen: A Python Library for Optimised Design of Experiment Generation and Evaluation
 - [mubes/gdecode](https://github.com/mubes/gdecode) - Additive/Subtractive GCODE path visualisation
 - [tararajoshua/ADDSUBXY](https://github.com/tararajoshua/ADDSUBXY) - Additive/Subtractive Manufacturing Core-XY System
@@ -2777,7 +2784,7 @@
 - [AutodeskAILab/occwl](https://github.com/AutodeskAILab/occwl) - Lightweight Pythonic wrapper around pythonocc
 - [BioinsideLab/PyVoroGen---Voronoi-Path-Generator](https://github.com/BioinsideLab/PyVoroGen---Voronoi-Path-Generator) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [co-foucher/GYROIDS](https://github.com/co-foucher/GYROIDS) - small library to support development of gyroid based structures
+- [co-foucher/triply](https://github.com/co-foucher/triply) - small library to support development of gyroid based structures
 - [fractalrobotics/Fractal-5-Pro](https://github.com/fractalrobotics/Fractal-5-Pro) - A Multidirectional 5-Axis 3D Printer
 - [txf0101/5AxisSlicer](https://github.com/txf0101/5AxisSlicer) - 5AxisSlicer is a Python slicing application for research on five-axis rotary-bed 3D printing.
 - [bbo-git/5AxisSlicerBlenderAddon](https://github.com/bbo-git/5AxisSlicerBlenderAddon) - Blender addon for 5 axis 3d printers
@@ -3124,7 +3131,7 @@
 - [AnderBiguri/PhDThesis](https://github.com/AnderBiguri/PhDThesis) - A.Biguri PhD thesis: Iterative Reconstruction and Motion compensation in Computed Tomography on GPUs
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
-- [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - Auto-differentiable digitally reconstructed radiographs in PyTorch
+- [eigenvivek/DiffDRR](https://github.com/eigenvivek/DiffDRR) - [MICCAI CLIP 2022] Differentiable digitally reconstructed radiographs in PyTorch
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [openMLA/photon-ultra-controller-rp2040](https://github.com/openMLA/photon-ultra-controller-rp2040) - Basic PCB and software to control the Anycubic Photon Ultra's DLP controller board and the DMD itself. Based on RPI Pico board.
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
@@ -3523,7 +3530,7 @@
 - [XDGFX/gcode-cmm](https://github.com/XDGFX/gcode-cmm) - Adapt a USB-controllable 3D printer into a CMM machine
 - [joewalnes/gcode-viewer](https://github.com/joewalnes/gcode-viewer) - A web-based 3D GCode viewer to help understand 3D printer models.
 - [dietzm/GCodeInfo](https://github.com/dietzm/GCodeInfo) - This is a small command line tool to analyse gcodes (control codes for 3D printers, CNC,...). It calculates various print details like -print time -used filament -yx move distance -print object dimens
-- [repetier/Repetier-Firmware](https://github.com/repetier/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer.
+- [darko371/Repetier-Firmware](https://github.com/darko371/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer.
 - [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX) - Neural Networks from Scratch in various programming languages
 - [Adamantcheese/Kuroba](https://github.com/Adamantcheese/Kuroba) - Kuroba - imageboard browser for Android
 - [melling/LanguageLearning](https://github.com/melling/LanguageLearning) - Resources to learn a new language: French, German, Italian, Mandarin, Russian, Spanish, etc
@@ -4328,6 +4335,7 @@
 
 ## python3 
 
+- [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [silx-kit/silx](https://github.com/silx-kit/silx) - silx toolkit
 - [masterFoad/NanoSage](https://github.com/masterFoad/NanoSage) - Local LLM Powered Recursive Search & Smart Knowledge Explorer
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -4344,6 +4352,7 @@
 
 ## pytorch 
 
+- [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [camlab-ethz/TensorMesh](https://github.com/camlab-ethz/TensorMesh) - A fast, differentiable, JIT-free, debugging-friendly finite element library for PyTorch.
 - [deepinv/deepinv](https://github.com/deepinv/deepinv) - DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
@@ -4475,6 +4484,7 @@
 
 ## reinforcement-learning 
 
+- [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [Amin-Tgz/awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - 👉 CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla
