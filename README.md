@@ -682,7 +682,7 @@
 - [Scriptbash/Wispar](https://github.com/Scriptbash/Wispar) - Stay up-to-date with academic journals and the latest research articles!
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Blakexx/CryptoTracker](https://github.com/Blakexx/CryptoTracker) - An app made using the Flutter framework that allows users to track information for over 1500 cryptocurrencies
@@ -948,6 +948,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [ether-strannik/zeppos-tasks-nc-api4](https://github.com/ether-strannik/zeppos-tasks-nc-api4) - ZeppOS API 3.0 test project with MessageBuilder - foundation for Tasks app migration
 - [melianmiko/ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) - Task list for ZeppOS. In sync with Google Tasks
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [dennisklappe/Rep5x](https://github.com/dennisklappe/Rep5x) - Open-source 5-axis 3D printer retrofit system for consumer desktop printers. Improves printing of complex geometries by adding yaw and tilt rotational axes to standard XYZ printers.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [flusterIO/fluster](https://github.com/flusterIO/fluster) - Your brain's presentation layer.
@@ -1032,7 +1033,6 @@
 - [vfat-io/vfat-tools](https://github.com/vfat-io/vfat-tools) - 
 - [makoto/off-l1](https://github.com/makoto/off-l1) - 
 - [watterott/SilentStepStick](https://github.com/watterott/SilentStepStick) - Stepper Motor Driver based on a Trinamic TMC2100 / TMC2130 / TMC2208 / TMC2209 / TMC5160.
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [skarab42/smoothie-commands](https://github.com/skarab42/smoothie-commands) - A Smoothie firmware (http|serial) commands API
 - [nraynaud/webgcode](https://github.com/nraynaud/webgcode) - Online G-Code simulator, controller code for STM32F4-Discovery and google chrome extension to send the code to it.
 - [joewalnes/gcode-viewer](https://github.com/joewalnes/gcode-viewer) - A web-based 3D GCode viewer to help understand 3D printer models.
@@ -1860,6 +1860,8 @@
 
 ## Python 
 
+- [AnjaliSandip/ElmerFEM-Dakota](https://github.com/AnjaliSandip/ElmerFEM-Dakota) - Open-source, Finite element method, Electromagnetics, Multi-physics modeling, Multi-phase modeling, Uncertainty quantification (UQ), Optimization,  Surrogate modeling, Parallel computing, Parameter st
+- [markrussinovich/refchecker](https://github.com/markrussinovich/refchecker) - A tool that validates academic paper references
 - [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [ORNL-MDF/Raptor](https://github.com/ORNL-MDF/Raptor) - A Python-based simulation tool for rapid estimation of stochastic porosity-related defects in additive manufacturing
 - [FullControlXYZ/volco](https://github.com/FullControlXYZ/volco) - VOLCO additive manufacturing simulation
@@ -2373,6 +2375,7 @@
 - [YATSKOVSKYI/cadcore](https://github.com/YATSKOVSKYI/cadcore) - Pure-Rust CAD geometry kernel — B-Rep topology, analytic surfaces, O(N) filament sweep, STEP AP203 export. No OCCT, no C++.
 - [sdfgeoff/shockwave-slicer](https://github.com/sdfgeoff/shockwave-slicer) - A 3d printing slicer that uses field propagation to generate non-planar layers to reduce supports required for overhangs.
 - [timschmidt/ironpath](https://github.com/timschmidt/ironpath) - An additive and subtractive manufacturing toolpath generator with advanced geometry functions
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [SitanHuang/TaskCentral](https://github.com/SitanHuang/TaskCentral) - Opinionated online task management, time tracking, calendaring platform
@@ -2506,10 +2509,8 @@
 - [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [Formsmith746/SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D) - A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.
 - [AFKFelix/orca-slicer-api](https://github.com/AFKFelix/orca-slicer-api) - A simple REST API for slicing models using OrcaSlicer
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [aws-samples/sample-mobile-ai-assistant](https://github.com/aws-samples/sample-mobile-ai-assistant) - A lightning-fast, cross-platform mobile AI Assistant App built with React Native.
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
@@ -2521,7 +2522,7 @@
 - [p0lloc/perfice](https://github.com/p0lloc/perfice) - Self-tracking app in Svelte 5
 - [MrMugame/silversearch](https://github.com/MrMugame/silversearch) - Powerful full-text search engine for Silverbullet
 - [joekrill/silverbullet-treeview](https://github.com/joekrill/silverbullet-treeview) - SilverBullet TreeView plug
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
@@ -2556,7 +2557,7 @@
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
@@ -2606,6 +2607,7 @@
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [0xPolygon/matic.js](https://github.com/0xPolygon/matic.js) - Javascript developer library to interact with Matic Network
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [xyz-tools/gcode-preview](https://github.com/xyz-tools/gcode-preview) - A simple GCode parser & previewer lib with 3D printing in mind. Written in Typescript.
 - [ardov/zerro](https://github.com/ardov/zerro) - Unofficial ZenMoney client with envelope budgeting superpowers
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
@@ -2669,6 +2671,7 @@
 
 ## Vue 
 
+- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [simonwep/ocular](https://github.com/simonwep/ocular) - 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
