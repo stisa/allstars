@@ -323,6 +323,8 @@
 
 ## C++ 
 
+- [NGSolve/ngsolve](https://github.com/NGSolve/ngsolve) - Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python int
+- [awslabs/palace](https://github.com/awslabs/palace) - 3D finite element solver for computational electromagnetics
 - [fab-machines/MidFDM](https://github.com/fab-machines/MidFDM) - Medium Size Open Source 3D Printer
 - [DESIGN4ADDITIVE/GPUCADforAM](https://github.com/DESIGN4ADDITIVE/GPUCADforAM) - Design Software for Additive Manufacturing
 - [WangY18/NEPath](https://github.com/WangY18/NEPath) - toolpath planning for additive manufacturing and CNC milling
@@ -786,7 +788,7 @@
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
@@ -826,6 +828,7 @@
 
 ## HTML 
 
+- [CICHR/Laserca-OrcaSlicer_Plugin](https://github.com/CICHR/Laserca-OrcaSlicer_Plugin) - Open-source OrcaSlicer plugin enabling direct laser module control, G-code management, and real-time monitoring.
 - [zruncho3d/madmax](https://github.com/zruncho3d/madmax) - MadMax - the crazy-simple toolchanger conversion for your CoreXY printer
 - [zapta/ble_stepper_motor_analyzer](https://github.com/zapta/ble_stepper_motor_analyzer) - A low cost stepper motor analyzer that uses wireless BLE link to display the data in real time on a Windows/Mac/Linux PC.
 - [DavidSeyserGit/Slicer6D](https://github.com/DavidSeyserGit/Slicer6D) - Slicer6D is a Non-Planar Slicer design for Robot Based Printing
@@ -1011,7 +1014,7 @@
 - [gasolin/ethhole](https://github.com/gasolin/ethhole) - How the token flows
 - [lepunk/react-native-videos](https://github.com/lepunk/react-native-videos) - 
 - [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.
 - [omarsinan/FlappyBirdClone](https://github.com/omarsinan/FlappyBirdClone) - A Flappy Bird clone using p5.js and Matter.js
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
@@ -1828,7 +1831,6 @@
 - [multiOTP/multiotp](https://github.com/multiOTP/multiotp) - multiOTP open source strong two factor authentication PHP library, OATH certified, with TOTP, HOTP, Mobile-OTP, YubiKey, SMS, QRcode provisioning, etc.
 - [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
-- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
@@ -1860,6 +1862,9 @@
 
 ## Python 
 
+- [3MAH/microgen](https://github.com/3MAH/microgen) - Microstructure generation
+- [Vinc0110/Helmi_FEM](https://github.com/Vinc0110/Helmi_FEM) - Finite element method for solving the electromagnetic Helmholtz equation. Based on scikit-fem and scipy.
+- [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) - An electromagnetic field computation program
 - [AnjaliSandip/ElmerFEM-Dakota](https://github.com/AnjaliSandip/ElmerFEM-Dakota) - Open-source, Finite element method, Electromagnetics, Multi-physics modeling, Multi-phase modeling, Uncertainty quantification (UQ), Optimization,  Surrogate modeling, Parallel computing, Parameter st
 - [markrussinovich/refchecker](https://github.com/markrussinovich/refchecker) - A tool that validates academic paper references
 - [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
@@ -1981,7 +1986,7 @@
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
 - [Aermoss/PySDL3](https://github.com/Aermoss/PySDL3) - A pure Python wrapper for SDL3.
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
-- [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and editing
+- [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and exporting
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
 - [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
 - [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - Simulation platform for general-purpose robotics & embodied AI learning.
