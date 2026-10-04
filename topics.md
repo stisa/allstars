@@ -148,7 +148,6 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
-- [mastodon](#mastodon)
 - [material-design](#material-design)
 - [matlab](#matlab)
 - [mcp](#mcp)
@@ -259,6 +258,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -1154,7 +1154,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) - Photogrammetry for everyone!
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
@@ -1407,7 +1407,7 @@
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [alto-io/game3.js](https://github.com/alto-io/game3.js) - The Web 3.0 Game Framework
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
@@ -1457,7 +1457,7 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [m0lentum/starframe](https://github.com/m0lentum/starframe) - My personal game engine, for 2D sidescrollers with physics
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.
 - [liquidev/rapid](https://github.com/liquidev/rapid) - A game engine optimized for making cool games fast.
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [Ethosa/nodesnim](https://github.com/Ethosa/nodesnim) - The Nim GUI/2D framework, based on OpenGL and SDL2.
@@ -1499,7 +1499,7 @@
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [ct-js/ct-js-old](https://github.com/ct-js/ct-js-old) - ⚠️ Old repository of ct.js app. New repository here: https://github.com/ct-js/ct-js
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [PixeyeHQ/pixecs](https://github.com/PixeyeHQ/pixecs) - A pragmatic entity-component-system module for my gamedev needs
 - [fungos/cr](https://github.com/fungos/cr) - cr.h: A Simple C Hot Reload Header-only Library
@@ -1566,7 +1566,7 @@
 - [LucaBernstein/beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg) - This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
@@ -1695,7 +1695,6 @@
 - [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics and nonlinear timeseries analysis
 - [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
-- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [Vindaar/ggplotnim](https://github.com/Vindaar/ggplotnim) - A port of ggplot2 for Nim
 - [PMunch/nim-playground](https://github.com/PMunch/nim-playground) - An interactive playground for the Nim programming language
@@ -1873,7 +1872,7 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.
 - [imskr/Flappy-Bird-AI](https://github.com/imskr/Flappy-Bird-AI) - Artificial Intelligence based Flappy Bird Game
 - [IgorRozani/flappy-bird](https://github.com/IgorRozani/flappy-bird) - A Flappy Bird game in Phaser 3
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
@@ -2273,7 +2272,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [pietroppeter/nimib](https://github.com/pietroppeter/nimib) - nimib 🐳 - nim 👑 driven ⛵ publishing ✍
@@ -2300,10 +2299,6 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [SimonWaldherr/micromarkdown.js](https://github.com/SimonWaldherr/micromarkdown.js) - convert markdown to html in under 5kb
 - [johnroper100/dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog - A minimalist markdown blogging platform.
-
-## mastodon 
-
-- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 
 ## material-design 
 
@@ -2622,15 +2617,15 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [OpenChemistry/tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [Kaetram/Kaetram-Open](https://github.com/Kaetram/Kaetram-Open) - Kaetram is an open-source 2D HTML5 MMORPG. It is an extended version of BrowserQuest (BQ).
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.
 - [guillaume-haerinck/cube-beast-editor](https://github.com/guillaume-haerinck/cube-beast-editor) - 🏕️ Voxel map editor with web-assembly build support
 - [ViperWorx/Drakon-Extruder](https://github.com/ViperWorx/Drakon-Extruder) - 3D Printable 3:1 Geared Extruder
 - [oss-fund/directory](https://github.com/oss-fund/directory) - Crowdsourced directory of funding, revenue, and project resources for open source maintainers and contributors
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [ufosc/pylay](https://github.com/ufosc/pylay) - A small IRC server written in Python 3.
 - [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -2703,6 +2698,12 @@
 
 ## others 
 
+- [CICHR/Laserca-OrcaSlicer_Plugin](https://github.com/CICHR/Laserca-OrcaSlicer_Plugin) - Open-source OrcaSlicer plugin enabling direct laser module control, G-code management, and real-time monitoring.
+- [3MAH/microgen](https://github.com/3MAH/microgen) - Microstructure generation
+- [Vinc0110/Helmi_FEM](https://github.com/Vinc0110/Helmi_FEM) - Finite element method for solving the electromagnetic Helmholtz equation. Based on scikit-fem and scipy.
+- [NGSolve/ngsolve](https://github.com/NGSolve/ngsolve) - Netgen/NGSolve is a high performance multiphysics finite element software. It is widely used to analyze models from solid mechanics, fluid dynamics and electromagnetics. Due to its flexible Python int
+- [awslabs/palace](https://github.com/awslabs/palace) - 3D finite element solver for computational electromagnetics
+- [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) - An electromagnetic field computation program
 - [AnjaliSandip/ElmerFEM-Dakota](https://github.com/AnjaliSandip/ElmerFEM-Dakota) - Open-source, Finite element method, Electromagnetics, Multi-physics modeling, Multi-phase modeling, Uncertainty quantification (UQ), Optimization,  Surrogate modeling, Parallel computing, Parameter st
 - [markrussinovich/refchecker](https://github.com/markrussinovich/refchecker) - A tool that validates academic paper references
 - [fab-machines/MidFDM](https://github.com/fab-machines/MidFDM) - Medium Size Open Source 3D Printer
@@ -2928,7 +2929,7 @@
 - [weiss-jonathan/Printess-Low-Cost-3D-Printer](https://github.com/weiss-jonathan/Printess-Low-Cost-3D-Printer) - Current Versions of hardware, software, firmware, and instructions for assembling and operating the Printess.
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - [bnanes/svg-embed-and-crop](https://github.com/bnanes/svg-embed-and-crop) - Inkscape Extension: Embed and Crop Images
-- [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and editing
+- [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and exporting
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
 - [rohitkumbhar/surmai](https://github.com/rohitkumbhar/surmai) - Surmai is a personal/family travel organizer
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
@@ -4453,7 +4454,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [jeremyckahn/farmhand](https://github.com/jeremyckahn/farmhand) - A resource management game that puts a farm in your hand
 - [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
@@ -4629,7 +4630,7 @@
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -4685,7 +4686,7 @@
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [juancarlospaco/nim-gatabase](https://github.com/juancarlospaco/nim-gatabase) - Connection-Pooling Compile-Time ORM for Nim
 - [nim-lang/nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
@@ -4813,7 +4814,7 @@
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [suchipi/hex-engine](https://github.com/suchipi/hex-engine) - A modern 2D game engine for the browser.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
@@ -5035,6 +5036,13 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+## windows-11 
+
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+- [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) - A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 
 ## wordpress 
 
