@@ -205,7 +205,7 @@
 - [michaelrsweet/mmd](https://github.com/michaelrsweet/mmd) - Miniature markdown library
 - [Orc/discount](https://github.com/Orc/discount) - My C implementation of John Gruber's Markdown markup language
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
-- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [mity/md4c](https://github.com/mity/md4c) - Fast, compact, dependency-free Markdown parser for C.
 - [cntools/rawdraw](https://github.com/cntools/rawdraw) - Primitive Platform Agnostic Windowing+Input Header-Only Library
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [LingDong-/skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images
@@ -775,7 +775,6 @@
 
 ## Go 
 
-- [Oblikovati/Oblikovati](https://github.com/Oblikovati/Oblikovati) - Oblikovati is a parametric, feature-based, history-driven mechanical-CAD (MCAD) application
 - [relvacode/caddy-oidc](https://github.com/relvacode/caddy-oidc) - OIDC authentication and authorization termination for Caddy
 - [sonroyaalmerol/docker-sogo](https://github.com/sonroyaalmerol/docker-sogo) - A modern Docker container implementation of Alinto/SOGo. https://hub.docker.com/r/sonroyaalmerol/docker-sogo
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
@@ -790,6 +789,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -857,7 +857,7 @@
 - [MirageC79/HextrudORT](https://github.com/MirageC79/HextrudORT) - Light, small and efficient extruder based on the popular Bondtech BMG.
 - [ultimachine/Archim](https://github.com/ultimachine/Archim) - The 32-bit next generation of RAMBo
 - [pixel3design-hub/MKS-SBASE-FULL-DOCUMENTED](https://github.com/pixel3design-hub/MKS-SBASE-FULL-DOCUMENTED) - 
-- [darko371/Repetier-Firmware](https://github.com/darko371/Repetier-Firmware) - Firmware for Arduino based RepRap 3D printer.
+- [repetier/RepetierFirmware](https://github.com/repetier/RepetierFirmware) - Firmware for Arduino based RepRap 3D printer.
 - [DipanshKhandelwal/Learning-German](https://github.com/DipanshKhandelwal/Learning-German) - My journey to learn German
 - [Guevara-chan/Raylib-Forever](https://github.com/Guevara-chan/Raylib-Forever) - :.raylib headers for Nim anytime.:
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -917,7 +917,6 @@
 - [bnanes/svg-embed-and-crop](https://github.com/bnanes/svg-embed-and-crop) - Inkscape Extension: Embed and Crop Images
 - [dozy-programmer/Dark-Note](https://github.com/dozy-programmer/Dark-Note) - Dark Note offers a wide range of features for taking notes, creating checklists, and keeping track of your budget.
 - [langmo/youscope](https://github.com/langmo/youscope) - YouScope Microscope Control Software
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [adaerr/pendent-drop](https://github.com/adaerr/pendent-drop) - Liquid surface tension measurement through the pendent drop method: a plugin for ImageJ
 - [madaeon01/LumiBee_beta](https://github.com/madaeon01/LumiBee_beta) - 
@@ -1775,7 +1774,6 @@
 - [nim-lang/nimsuggest](https://github.com/nim-lang/nimsuggest) - idetools for the nim language
 - [Amin-Tgz/awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - 👉 CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla
 - [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car) - An awesome list of self-driving cars
-- [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - :sunrise: A collection of awesome resources for building progressive web apps
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2135,7 +2133,6 @@
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [LijunRio/Xrays_CT](https://github.com/LijunRio/Xrays_CT) - 3D Reconstruction from of 2D X-rays
 - [marmakoide/inside-3d-mesh](https://github.com/marmakoide/inside-3d-mesh) - A short, reasonnably simple, fast, and robust function to determine if a set of points are inside a 3d mesh
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [Jiay1C/path_tracing_obj](https://github.com/Jiay1C/path_tracing_obj) - (taichi_course_final_project) a path tracing renderer that can import and render obj files
 - [inducer/arraycontext](https://github.com/inducer/arraycontext) - Choose your favorite numpy-workalike!
@@ -2293,6 +2290,7 @@
 - [jellespijker/pymech](https://github.com/jellespijker/pymech) - Continuation for this project is stopped. Focus is now on the MechEng modules ( https://github.com/mecheng )  A Python module for mechanical engineers. Project which is mostly based on the books of Ro
 - [JorgeDeLosSantos/nusa](https://github.com/JorgeDeLosSantos/nusa) - A Python library for structural analysis using the finite element method
 - [alteryx/compose](https://github.com/alteryx/compose) - A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.
+- [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [enginBozkurt/SelfDrivingCarsControlDesign](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign) - Self Driving Cars Longitudinal and Lateral Control Design
 - [MaterialsDiscovery/PyChemia](https://github.com/MaterialsDiscovery/PyChemia) - Python Materials Discovery Framework
 - [spectralDNS/shenfun](https://github.com/spectralDNS/shenfun) - High performance computational platform in Python for the spectral Galerkin method
@@ -2377,6 +2375,7 @@
 
 ## Rust 
 
+- [Oblikovati/Oblikovati](https://github.com/Oblikovati/Oblikovati) - Oblikovati is a parametric, feature-based, history-driven mechanical-CAD (MCAD) application
 - [YATSKOVSKYI/cadcore](https://github.com/YATSKOVSKYI/cadcore) - Pure-Rust CAD geometry kernel — B-Rep topology, analytic surfaces, O(N) filament sweep, STEP AP203 export. No OCCT, no C++.
 - [sdfgeoff/shockwave-slicer](https://github.com/sdfgeoff/shockwave-slicer) - A 3d printing slicer that uses field propagation to generate non-planar layers to reduce supports required for overhangs.
 - [timschmidt/ironpath](https://github.com/timschmidt/ironpath) - An additive and subtractive manufacturing toolpath generator with advanced geometry functions
@@ -2409,7 +2408,6 @@
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [witheve/eve-native](https://github.com/witheve/eve-native) - 
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [rustwasm/wee_alloc](https://github.com/rustwasm/wee_alloc) - The Wasm-Enabled, Elfin Allocator
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
@@ -2564,6 +2562,7 @@
 - [BrunoBernardino/budgetzen-web](https://github.com/BrunoBernardino/budgetzen-web) - Simple, Encrypted Budgets & Expenses. 💵
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
