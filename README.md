@@ -128,6 +128,7 @@
 - [ExplorerLGD/klipper-for-inkjet-3d-printer](https://github.com/ExplorerLGD/klipper-for-inkjet-3d-printer) - 
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [Matthias-Wandel/caliper-interface](https://github.com/Matthias-Wandel/caliper-interface) - Connecting cheap digital calipers to Raspberry Pi and decode readings
+- [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [alanbork/kmsmodeline](https://github.com/alanbork/kmsmodeline) - stuff custom modeline into linux kms/drm driver to allow custom video modes
 - [godspeed1989/fbv](https://github.com/godspeed1989/fbv) - framebuffer image viewer
@@ -161,6 +162,7 @@
 - [markniu/Bed_Distance_sensor](https://github.com/markniu/Bed_Distance_sensor) - Auto bed level with High resolution distance sensor
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [robrohan/wefx](https://github.com/robrohan/wefx) - Basic WASM graphics package to draw to an HTML Canvas using C. In the style of the gfx library
+- [mccode-dev/McCode](https://github.com/mccode-dev/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
 - [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [irishpatrick/pico-servo](https://github.com/irishpatrick/pico-servo) - A simple Raspberry Pi Pico library for controlling servos
@@ -719,7 +721,6 @@
 
 ## Fortran 
 
-- [mccode-dev/McCode](https://github.com/mccode-dev/McCode) - The home of the McStas (neutrons) and McXtrace (x-rays) Monte-Carlo ray-tracing instrument simulation codes.
 - [szaghi/OFF](https://github.com/szaghi/OFF) - OFF, Open source Finite volume Fluid dynamics code
 - [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) - Official git repository of Elmer FEM software
 - [nasa/NASTRAN-95](https://github.com/nasa/NASTRAN-95) - 
@@ -787,8 +788,8 @@
 - [ahobsonsayers/abs-tract](https://github.com/ahobsonsayers/abs-tract) - An AudiobookShelf Custom Metadata Provider that pulls metadata from Goodreads and Kindle.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [epit3d/goosli](https://github.com/epit3d/goosli) - Package for fast prototyping slicing algorithms, for example - for 5axes 3d printer
@@ -1179,7 +1180,7 @@
 - [HookyQR/VSCodeMinify](https://github.com/HookyQR/VSCodeMinify) - Add minify function to VSCode 0.10+
 - [mdn/webgl-examples](https://github.com/mdn/webgl-examples) - Code examples that accompany the MDN WebGL documentation
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio.
 - [cjgammon/Oxygen](https://github.com/cjgammon/Oxygen) - SUPER Lightweight 2D WebGL Display List
 - [pixelpicosean/lesser-panda](https://github.com/pixelpicosean/lesser-panda) - [Deprecated] Module based HTML5 game engine
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
@@ -1230,7 +1231,6 @@
 - [chuntian236/holography-optimization](https://github.com/chuntian236/holography-optimization) - 
 - [ErickErock/pICNIK](https://github.com/ErickErock/pICNIK) - 
 - [EPFL-LAPD/SHVAM](https://github.com/EPFL-LAPD/SHVAM) - Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization
-- [CIDeR-ML/LUCiD](https://github.com/CIDeR-ML/LUCiD) - 
 - [Prasadampajalapu/Indian_Startups_1](https://github.com/Prasadampajalapu/Indian_Startups_1) - This dataset has funding information of the Indian startups from January 2015 to August 2017. Feature Details : SNo - Serial number. Date - Date of funding in format DD/MM/YYYY. StartupName - Name of 
 - [empa-scientific-it/python-tutorial](https://github.com/empa-scientific-it/python-tutorial) - Material for a Jupyter-based Python tutorial, with Introductory, Advanced, Libraries modules
 - [ronenroi/LearnedCloudCT](https://github.com/ronenroi/LearnedCloudCT) - 
@@ -1248,7 +1248,7 @@
 - [yu-takagi/StableDiffusionReconstruction](https://github.com/yu-takagi/StableDiffusionReconstruction) - Takagi and Nishimoto, CVPR 2023
 - [hpcraink/workshop-parallel-jupyter](https://github.com/hpcraink/workshop-parallel-jupyter) - 
 - [indrasen1/tomo3D_repo](https://github.com/indrasen1/tomo3D_repo) - This python implementation provides the optimization and projection generation framework used for volumetric additive manufacturing using tomographic reconstruction.
-- [rapidsai/cucim](https://github.com/rapidsai/cucim) - cuCIM - RAPIDS GPU-accelerated image processing library
+- [rapidsai/cucim](https://github.com/rapidsai/cucim) - NVIDIA cuCIM - GPU-accelerated image processing library
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [zaccharieramzi/fastmri-reproducible-benchmark](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) - Try several methods for MRI reconstruction on the fastmri dataset. Home to the XPDNet, runner-up of the 2020 fastMRI challenge.
 - [abrilcf/mednerf](https://github.com/abrilcf/mednerf) - 
@@ -1884,6 +1884,7 @@
 - [matthuszagh/pyems](https://github.com/matthuszagh/pyems) - High-level python interface to OpenEMS with automatic mesh generation
 - [SamJager/Reinforced-Slicer](https://github.com/SamJager/Reinforced-Slicer) - A slicer built from the ground up to tackle 5 axis reinforced fiber printing
 - [Ber-Sento/5axis-slicer](https://github.com/Ber-Sento/5axis-slicer) - Software framework for 5-axis 3D printing, including slicing, toolpath generation, and machine-specific G-code conversion.
+- [CIDeR-ML/LUCiD](https://github.com/CIDeR-ML/LUCiD) - 
 - [balazs-peter-attila/GATE_fan_beam_simulation](https://github.com/balazs-peter-attila/GATE_fan_beam_simulation) - Codes used in the paper "Simulating Equidistant Fan-Beam Binary Tomography for 2D Voxel Slices Using GATE 9.x" by Péter Balázs, Tibor Novák, Károly Osvay
 - [TypQxQ/TAMV-webcam](https://github.com/TypQxQ/TAMV-webcam) - TAMV = Tool Align Machine Vision for Duet and Klipper based tool changing 3D printers using remote webcam.
 - [Matszwe02/GcodeTools](https://github.com/Matszwe02/GcodeTools) - Python G-Code Tools library with complete G-Code Reader and Writer
@@ -1986,7 +1987,6 @@
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - See, hear, and interact on your local devices.
 - [burghoff/Scientific-Inkscape](https://github.com/burghoff/Scientific-Inkscape) - Scientific Inkscape: Inkscape extensions for figure resizing and exporting
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
-- [cooljjj33/PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
 - [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - Simulation platform for general-purpose robotics & embodied AI learning.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -2409,6 +2409,7 @@
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [witheve/eve-native](https://github.com/witheve/eve-native) - 
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [rustwasm/wee_alloc](https://github.com/rustwasm/wee_alloc) - The Wasm-Enabled, Elfin Allocator
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
